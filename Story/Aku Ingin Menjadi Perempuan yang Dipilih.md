@@ -1042,7 +1042,8 @@ Maya berdiri menatap siluet pria itu hingga menghilang di belokan koridor. Suasa
 
 Maya merapikan tumpukan brosur ke dalam tas kerjanya, menyunggingkan senyum tipis pada dirinya sendiri. Untuk pertama kalinya setelah berbulan-bulan dihantui rasa tidak berharga, Maya merasa kehadirannya diakui secara utuh di tempatnya berdiri.
 
- # ***BAB 25: Perempuan di Sisi Daniel***
+
+# ***BAB 25: Perempuan di Sisi Daniel***
 
 *Taplak meja linen putih di aula utama Hotel Papandayan tampak tertata rapi di bawah pendar lampu gantung kristal. Pagi itu, Sabtu sembilan belas April, Yayasan Lentera Sehat menggelar sarasehan tahunan bersama jajaran manajemen RS Cakrawala, menghadirkan para donatur dan mitra kesehatan masyarakat kota Bandung.*
 

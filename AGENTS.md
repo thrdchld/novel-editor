@@ -43,3 +43,17 @@ Lacak perubahan state: lokasi, kondisi fisik, pengetahuan, barang bawaan, relasi
 
 ## Pelaporan
 Pisahkan kesalahan terbukti dan dugaan. Gabungkan gejala yang berasal dari satu akar masalah. Jangan memberi rewrite gaya bahasa. Jangan menyatakan naskah bebas plot hole hanya karena tidak ada temuan.
+
+
+## Publication readiness: decisive but not perfectionist
+After chapter and cross-chapter audits, perform a publication-readiness assessment. The goal is not a flawless manuscript. The goal is a story readers can follow correctly without material breaks in logic, continuity, timeline, or established world rules.
+
+Use these outcomes:
+- **READY TO PUBLISH** — the manuscript is coherent enough to publish; no unresolved blocking issue remains.
+- **READY WITH MINOR FIXES** — publishable after a small, finite list of low-risk corrections. Do not restart broad revisions.
+- **NOT READY** — at least one blocking issue is likely to make readers misunderstand a major event, doubt the story's internal logic, or lose track of essential facts.
+- **INSUFFICIENT EVIDENCE** — only excerpts/partial chapters were audited or essential material was unavailable.
+
+Do not require perfection, remove all ambiguity, explain every minor detail, or resolve every deliberate mystery. An issue blocks publication only when it materially interferes with comprehension, causal logic, continuity, timeline, world-rule consistency, or the central story promise.
+
+Apply the release gate in `rules/09-publication-readiness.md`. Produce `templates/publication-readiness-report.md`.

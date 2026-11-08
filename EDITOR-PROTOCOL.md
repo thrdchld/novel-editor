@@ -29,3 +29,17 @@ Tokoh boleh berbohong, lupa, salah ingat, atau bertindak tidak rasional. Narator
 
 ## Cakupan audit
 Laporkan file/bab yang dibaca, referensi yang diperiksa, jenis audit (bab/lintas bab/full manuscript), file hilang/tidak terbaca, keterbatasan, dan temuan yang masih provisional.
+
+
+## 7. Publication-readiness gate
+The audit must end with a practical release recommendation, not an endless list of refinements. The standard is **reader-ready**, not perfect.
+
+Classify findings by release impact:
+- **BLOCKER**: material issue that makes a major event impossible/contradictory under the story's rules, breaks an essential timeline or continuity chain, makes a key character act on unavailable knowledge, invalidates a central world rule, or prevents readers from understanding a major plot turn or ending.
+- **FIX BEFORE RELEASE**: real technical issue, but limited in scope and repairable without restructuring the whole novel.
+- **ACCEPTABLE / AUTHOR CHOICE**: intentional ambiguity, unresolved thread by design, minor realism variation, or an imperfection that does not materially impair comprehension.
+- **OPTIONAL POLISH**: nonessential refinement. Never hold publication for this category.
+
+Use the release outcomes from `rules/09-publication-readiness.md`. A novel can be READY WITH MINOR FIXES while still having imperfections. A deliberate mystery, open ending, unreliable narrator, morally flawed character, or genre-specific convention is not a defect by itself.
+
+Never use “there are still things to improve” as the only reason to delay publication. Identify the reader-facing consequence and whether it crosses the blocker threshold.

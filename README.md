@@ -28,3 +28,15 @@ Script hanya memeriksa hal mekanis sederhana. Plot hole, worldbuilding, dan cont
 - HIGH: kegagalan logika/continuity kuat yang kemungkinan membingungkan pembaca.
 - REVIEW: indikasi yang memerlukan pertimbangan manusia/penulis.
 - INFO: catatan opsional.
+
+
+## Publication-readiness decision
+Novel Editor does not aim to make a novel perfect. It decides whether the manuscript is **coherent and understandable enough for readers**. The final gate distinguishes blockers from minor fixes and acceptable author choices. It checks core story logic, worldbuilding, continuity, timeline, information flow, and whether major plot events and the ending can be followed.
+
+Possible outcomes:
+- `READY TO PUBLISH`
+- `READY WITH MINOR FIXES`
+- `NOT READY`
+- `INSUFFICIENT EVIDENCE`
+
+Only material reader-facing failures should block release. Optional polish, harmless ambiguity, and intentional creative choices must not hold a novel hostage.

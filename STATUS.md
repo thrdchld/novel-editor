@@ -1,5 +1,5 @@
 # Status Paket
-Versi 2.0 — genre-agnostic technical story auditor.
+Versi 2.1 — genre-agnostic technical story auditor + publication-readiness gate.
 
 Mencakup worldbuilding consistency, continuity karakter/benda/lokasi/relasi/sumber daya/informasi, plot logic, causality, timeline, character knowledge, setup/payoff, repetition, AI-slop indicators, dan project-specific constraints.
 

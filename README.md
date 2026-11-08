@@ -40,3 +40,11 @@ Possible outcomes:
 - `INSUFFICIENT EVIDENCE`
 
 Only material reader-facing failures should block release. Optional polish, harmless ambiguity, and intentional creative choices must not hold a novel hostage.
+
+
+### File gerbang publikasi
+- `rules/09-publication-readiness.md`: kriteria dan ambang layak publish.
+- `checklists/publication-readiness.md`: checklist final sebelum rilis.
+- `templates/publication-readiness-report.md`: format keputusan kelayakan dan daftar blocker/minor fixes.
+
+Prinsipnya: **reader-ready, not perfect**. Jika tidak ada blocker material, jangan menahan novel hanya untuk optional polish.

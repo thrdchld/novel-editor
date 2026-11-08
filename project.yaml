@@ -1,0 +1,52 @@
+project:
+  title: "Nama Proyek"
+  genre_context: []  # Konteks opsional saja; tidak mengaktifkan penilaian gaya/tone.
+  language: "id"
+  audit_mode: "read_only"
+
+manuscript:
+  include: ["chapters/**/*.md", "naskah/**/*.txt"]
+  exclude: ["**/archive/**", "**/draft-old/**"]
+
+references:
+  canon: []
+  world_bible: []
+  character_bible: []
+  outline: []
+  timeline: []
+  continuity_ledger: []
+  glossary: []
+  other: []
+
+constraints:
+  em_dash_forbidden: false
+  word_count:
+    enabled: false
+    min_per_chapter: null
+    max_per_chapter: null
+  markdown_format:
+    enabled: false
+    allowed: true
+  custom_rules: []
+
+worldbuilding:
+  track_explicit_rules: true
+  track_limits_and_costs: true
+  track_exceptions: true
+  track_institutions_and_systems: true
+  track_geography_and_travel: true
+
+continuity:
+  track_character_state: true
+  track_character_knowledge: true
+  track_objects: true
+  track_locations: true
+  track_relationships: true
+  track_money_and_resources: true
+  track_timeline: true
+
+report:
+  output_dir: "novel-editor-reports"
+  include_quotes: true
+  include_minimal_recommendations: true
+  never_modify_manuscript: true

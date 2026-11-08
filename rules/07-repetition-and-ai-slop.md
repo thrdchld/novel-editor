@@ -1,0 +1,2 @@
+# Repetition and AI-Slop Indicators
+Ini diagnosis teknis, bukan penilaian gaya. Periksa informasi yang diulang, gestur yang sama di konteks serupa, fungsi adegan/percakapan yang duplikat, pola frasa generik, ringkasan emosi yang menggantikan informasi konkret, transisi/kesimpulan formulaik berulang, dan paragraf yang menyatakan ulang poin yang sama. Jangan menilai hanya dari frekuensi kata. Motif yang disengaja bukan otomatis masalah. Jangan mengklaim teks dibuat AI. Gunakan REVIEW kecuali redundansi terbukti tidak sengaja dan mengganggu.

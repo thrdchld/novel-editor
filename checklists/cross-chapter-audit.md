@@ -1,0 +1,12 @@
+# Cross-Chapter Continuity
+- [ ] Timeline dan durasi antar bab cocok.
+- [ ] Usia dan kronologi relasi cocok.
+- [ ] Lokasi, cedera, kelelahan, barang, tujuan, dan pengetahuan tokoh berlanjut konsisten.
+- [ ] Benda tidak berpindah/hilang/berlipat tanpa penjelasan.
+- [ ] Tata ruang, perjalanan, dan akses lokasi konsisten.
+- [ ] Uang, inventaris, bukti, pesan, dan sumber daya cocok.
+- [ ] Aturan dan batas dunia tetap konsisten.
+- [ ] Rahasia/reveal mengikuti aliran informasi.
+- [ ] Janji, petunjuk, ancaman, dan setup tidak terlupakan secara tidak sengaja.
+- [ ] Adegan/informasi duplikat yang tampak tidak sengaja ditandai.
+- [ ] Temuan didukung bukti lintas bab.

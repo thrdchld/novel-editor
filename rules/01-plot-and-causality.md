@@ -1,0 +1,2 @@
+# Plot Logic and Causality
+Periksa kejadian tanpa sebab memadai, solusi tanpa setup/akses/biaya, keputusan berdasarkan informasi yang belum dimiliki, konflik yang hilang tanpa tindakan, konsekuensi yang diabaikan, tujuan/constraint yang bertentangan, kebetulan berulang yang menyelesaikan konflik utama, urutan sebab-akibat yang terbalik, dan tindakan yang mustahil berdasarkan lokasi/kondisi/sumber daya/pengetahuan tokoh. Fokus pada langkah yang membawa bobot plot.

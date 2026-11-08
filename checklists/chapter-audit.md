@@ -1,0 +1,13 @@
+# Chapter Audit
+- [ ] Sebab dan konsekuensi kejadian dapat ditelusuri.
+- [ ] Keputusan tokoh sesuai pengetahuan, motivasi, dan state saat itu.
+- [ ] Lokasi/kondisi fisik tokoh konsisten.
+- [ ] Benda yang digunakan punya lokasi/pemegang/kondisi yang masuk akal.
+- [ ] Geografi dan akses lokasi konsisten.
+- [ ] Waktu cukup untuk perjalanan, deadline, pemulihan, dan tindakan.
+- [ ] Aturan dunia, batas, dan biaya diterapkan konsisten.
+- [ ] Fakta dunia baru tidak diam-diam membatalkan fakta lama.
+- [ ] Informasi sampai ke tokoh melalui jalur yang masuk akal.
+- [ ] Setup/payoff dicatat.
+- [ ] Repetisi dan AI-slop diperiksa secara kontekstual.
+- [ ] Hard constraints proyek hanya diterapkan jika dikonfigurasi.

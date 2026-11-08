@@ -1,0 +1,2 @@
+# Continuity Ledger
+Lacak state lintas adegan/bab. Karakter: lokasi, kondisi fisik, cedera, kelelahan, barang, relasi, tujuan, janji, rahasia, pengetahuan. Benda: identitas, jumlah, pemilik, pemegang, lokasi, kondisi, perpindahan, akses, kehancuran. Tempat: tata ruang, pintu/akses, jarak, rute, geografi. State lain: uang, inventaris, dokumen, bukti, pesan, kunci, kendaraan, jadwal, status institusi. Jangan menandai detail yang tidak relevan dengan plot.

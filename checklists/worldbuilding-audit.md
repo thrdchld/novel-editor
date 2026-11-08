@@ -1,0 +1,13 @@
+# Worldbuilding Audit
+- [ ] Premis dan fakta dasar dunia dicatat.
+- [ ] Aturan memiliki cakupan dan kondisi.
+- [ ] Kekuatan/teknologi punya batas, biaya, prasyarat, dan mode gagal jika relevan.
+- [ ] Pengecualian dijelaskan atau ditanamkan.
+- [ ] Geografi dan waktu perjalanan konsisten.
+- [ ] Institusi, hukum, hierarki, dan prosedur konsisten.
+- [ ] Ekonomi, uang, kelangkaan, dan sumber daya mendukung kejadian.
+- [ ] Budaya dan norma sosial tidak berubah arbitrer.
+- [ ] Sejarah dan kronologi selaras antar dokumen/bab.
+- [ ] Pengetahuan tokoh tentang dunia masuk akal.
+- [ ] Fakta baru direkonsiliasi dengan fakta lama.
+- [ ] Aturan dunia fiksi tidak dinilai memakai hukum dunia nyata secara otomatis.

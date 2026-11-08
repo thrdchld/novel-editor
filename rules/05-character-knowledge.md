@@ -1,0 +1,2 @@
+# Character Knowledge
+Untuk setiap keputusan/reveal penting, periksa bagaimana tokoh memperoleh informasi, apakah hadir/diberi tahu/melihat bukti/menyimpulkan, apakah informasi dapat sampai dalam waktu yang tersedia, apakah rahasia bocor tanpa jalur, apakah tokoh mengingat fakta yang belum pernah diketahui, dan apakah POV mengakses informasi yang tidak tersedia bagi tokoh. Fakta yang diketahui narator tidak otomatis diketahui semua tokoh.

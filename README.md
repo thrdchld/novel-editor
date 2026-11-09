@@ -15,7 +15,8 @@ Novel Editor memeriksa seluruh aspek teknis cerita yang dapat diverifikasi dari 
 7. Keterbacaan faktual: siapa melakukan apa, di mana, kapan, dengan informasi apa, dan mengapa.
 8. Repetisi informasi/adegan dan indikator AI-slop yang mengganggu fungsi cerita.
 9. Teknis naskah: ejaan, typo, tata bahasa objektif, tanda baca, konsistensi nama/istilah, format Markdown, struktur bab, catatan editor, placeholder, dan kesalahan format lain.
-10. Hard constraints proyek yang dinyatakan secara eksplisit, misalnya POV, tense, jumlah kata, format bab, atau larangan tanda baca tertentu.
+10. Kebocoran outline: timeline mentah, label beat/struktur, profil karakter, tujuan adegan, label arc/emosi, worldbuilding dump, instruksi reveal, repetisi fakta, artefak produksi, dan pola generatif mekanis.
+11. Hard constraints proyek yang dinyatakan secara eksplisit, misalnya POV, tense, jumlah kata, format bab, atau larangan tanda baca tertentu.
 
 ## Netralitas genre
 
@@ -46,7 +47,7 @@ Mengedit aturan dan konfigurasi Novel Editor tidak sama dengan mengedit naskah n
 - `AGENTS.md`: instruksi utama agent.
 - `EDITOR-PROTOCOL.md`: protokol audit, bukti, severity, dan kebijakan perbaikan.
 - `project.yaml`: konfigurasi cakupan, referensi, hard constraints, dan mode kerja.
-- `rules/`: standar pemeriksaan teknis.
+- `rules/`: standar pemeriksaan teknis, termasuk `rules/12-outline-leakage.md`.
 - `checklists/`: checklist bab, lintas bab, worldbuilding, teknis naskah, dan publikasi.
 - `templates/`: format laporan temuan dan keputusan.
 - `scripts/`: scanner mekanis; bukan pengganti audit kontekstual.

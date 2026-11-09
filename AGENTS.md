@@ -24,7 +24,8 @@ Bertindak sebagai editor teknis novel yang genre-agnostic. Pastikan pembaca dapa
 - setup/payoff, janji cerita, petunjuk, misteri, dan penyelesaian;
 - keterbacaan faktual dan transisi yang diperlukan agar pembaca memahami kejadian;
 - teknis naskah: typo, ejaan, tata bahasa objektif, tanda baca, konsistensi nama/istilah, heading, pemisah adegan, markup, format, placeholder, catatan editor, dan hard constraints proyek;
-- repetisi informasi/adegan yang mengganggu fungsi cerita dan indikator AI-slop.
+- repetisi informasi/adegan yang mengganggu fungsi cerita dan indikator AI-slop;
+- kebocoran outline: timeline mentah, label beat/struktur, profil karakter, tujuan adegan, label arc/emosi, worldbuilding dump, instruksi reveal, repetisi fakta, artefak produksi, dan pola generatif mekanis.
 
 **DILARANG menilai atau mengoreksi:**
 - tone, gaya penceritaan, voice, diksi, humor, keindahan prosa, atau selera artistik;
@@ -73,9 +74,9 @@ Semua kategori dalam cakupan wajib diperiksa. Prioritas hanya mengurutkan dampak
 7. Jalankan scanner mekanis bila tersedia; baca hasilnya dan jangan menganggapnya audit semantik.
 8. Verifikasi setiap temuan menggunakan konteks penuh yang relevan. Pisahkan fakta, inferensi, dan pertanyaan.
 9. Buat laporan dengan lokasi, bukti, severity, dampak rilis, dampak pembaca, confidence, dan rekomendasi minimum.
-10. Lakukan publication-readiness gate. Jangan menahan novel untuk optional polish.
-11. Nyatakan file/bagian yang tidak diperiksa, referensi yang hilang, dan keterbatasan.
-12. Jika diminta memperbaiki, edit hanya masalah teknis yang terkonfirmasi/diizinkan. Setelah itu verifikasi perubahan dan dampak lintas bab.
+11. Lakukan publication-readiness gate. Jangan menahan novel untuk optional polish.
+12. Nyatakan file/bagian yang tidak diperiksa, referensi yang hilang, dan keterbatasan.
+13. Jika diminta memperbaiki, edit hanya masalah teknis yang terkonfirmasi/diizinkan. Setelah itu verifikasi perubahan dan dampak lintas bab.
 
 ## Kebijakan edit
 

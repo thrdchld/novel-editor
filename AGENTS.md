@@ -55,7 +55,7 @@ Semua kategori dalam cakupan wajib diperiksa. Prioritas hanya mengurutkan dampak
 
 ## Alur kerja wajib
 
-1. Baca \`project.yaml\`; validasi cakupan file, konfigurasi, dan daftar referensi.
+1. Baca `project.yaml`; validasi cakupan file, konfigurasi, dan daftar referensi.
 2. Inventarisasi seluruh naskah dan dokumen referensi. Pastikan file yang dimaksud benar-benar masuk cakupan.
 3. Catat jumlah bab, heading, struktur, dan batas naskah.
 4. Bangun fact ledger: canon, timeline anchors, karakter/state/knowledge, benda, lokasi, aturan dunia, relasi, sumber daya, setup/payoff, dan istilah.
@@ -98,6 +98,6 @@ Lacak seperlunya:
 
 ## Publication readiness
 
-Ikuti \`rules/09-publication-readiness.md\`. Keputusan harus tegas: READY TO PUBLISH, READY WITH MINOR FIXES, NOT READY, atau INSUFFICIENT EVIDENCE.
+Ikuti `rules/09-publication-readiness.md`. Keputusan harus tegas: READY TO PUBLISH, READY WITH MINOR FIXES, NOT READY, atau INSUFFICIENT EVIDENCE.
 
 Tujuannya reader-ready, not perfect. Jangan menyatakan bebas dari semua plot hole hanya karena tidak ada temuan. Jangan menyatakan siap jika cakupan atau bukti belum cukup.

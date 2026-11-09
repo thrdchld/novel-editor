@@ -36,29 +36,29 @@ Mengedit aturan dan konfigurasi Novel Editor tidak sama dengan mengedit naskah n
 
 ## Struktur
 
-- \`AGENTS.md\`: instruksi utama agent.
-- \`EDITOR-PROTOCOL.md\`: protokol audit, bukti, severity, dan kebijakan perbaikan.
-- \`project.yaml\`: konfigurasi cakupan, referensi, hard constraints, dan mode kerja.
-- \`rules/\`: standar pemeriksaan teknis.
-- \`checklists/\`: checklist bab, lintas bab, worldbuilding, teknis naskah, dan publikasi.
-- \`templates/\`: format laporan temuan dan keputusan.
-- \`scripts/\`: scanner mekanis; bukan pengganti audit kontekstual.
-- \`schemas/\`: skema data temuan.
-- \`tests/\`: pengujian scanner.
+- `AGENTS.md`: instruksi utama agent.
+- `EDITOR-PROTOCOL.md`: protokol audit, bukti, severity, dan kebijakan perbaikan.
+- `project.yaml`: konfigurasi cakupan, referensi, hard constraints, dan mode kerja.
+- `rules/`: standar pemeriksaan teknis.
+- `checklists/`: checklist bab, lintas bab, worldbuilding, teknis naskah, dan publikasi.
+- `templates/`: format laporan temuan dan keputusan.
+- `scripts/`: scanner mekanis; bukan pengganti audit kontekstual.
+- `schemas/`: skema data temuan.
+- `tests/`: pengujian scanner.
 
 ## Cara menggunakan
 
 1. Tempatkan paket ini di repository novel atau gunakan sebagai standar terpisah.
-2. Sesuaikan \`project.yaml\` dengan lokasi naskah dan dokumen referensi yang benar-benar ada.
+2. Sesuaikan `project.yaml` dengan lokasi naskah dan dokumen referensi yang benar-benar ada.
 3. Masukkan outline, canon, timeline, character bible, world bible, dan glossary jika tersedia.
 4. Jalankan:
 
-   \`\`\`bash
+   ```bash
    pip install -r requirements.txt
    python scripts/run-audit.py --root PATH_PROYEK
-   \`\`\`
+   ```
 
-5. Minta agent membaca \`AGENTS.md\`, \`EDITOR-PROTOCOL.md\`, semua rule relevan, konfigurasi, dokumen referensi, dan naskah.
+5. Minta agent membaca `AGENTS.md`, `EDITOR-PROTOCOL.md`, semua rule relevan, konfigurasi, dokumen referensi, dan naskah.
 6. Lakukan audit per bab dan audit lintas bab. Untuk naskah panjang, bangun fact ledger dan lanjutkan secara bertahap tanpa menghilangkan konteks.
 7. Hasilkan laporan dengan bukti dan keputusan kelayakan publikasi.
 8. Jika diminta memperbaiki, terapkan koreksi teknis minimal lalu lakukan verifikasi ulang.
@@ -72,23 +72,23 @@ Scanner **tidak** dapat membuktikan plot hole, menilai makna kalimat secara penu
 ## Severity dan dampak rilis
 
 Severity:
-- \`ERROR\`: kontradiksi eksplisit atau pelanggaran hard rule yang terbukti.
-- \`HIGH\`: kegagalan logika/continuity yang kuat dan mengganggu pemahaman.
-- \`REVIEW\`: indikasi yang memerlukan verifikasi atau keputusan penulis.
-- \`INFO\`: catatan opsional.
+- `ERROR`: kontradiksi eksplisit atau pelanggaran hard rule yang terbukti.
+- `HIGH`: kegagalan logika/continuity yang kuat dan mengganggu pemahaman.
+- `REVIEW`: indikasi yang memerlukan verifikasi atau keputusan penulis.
+- `INFO`: catatan opsional.
 
 Dampak rilis:
-- \`BLOCKER\`: menghalangi publikasi.
-- \`FIX BEFORE RELEASE\`: kesalahan teknis nyata yang perlu diperbaiki, tetapi lokal.
-- \`ACCEPTABLE / AUTHOR CHOICE\`: pilihan kreatif/ambiguitas yang tidak merusak pemahaman.
-- \`OPTIONAL POLISH\`: tidak boleh menahan publikasi.
+- `BLOCKER`: menghalangi publikasi.
+- `FIX BEFORE RELEASE`: kesalahan teknis nyata yang perlu diperbaiki, tetapi lokal.
+- `ACCEPTABLE / AUTHOR CHOICE`: pilihan kreatif/ambiguitas yang tidak merusak pemahaman.
+- `OPTIONAL POLISH`: tidak boleh menahan publikasi.
 
 ## Publication readiness
 
 Kemungkinan keputusan:
-- \`READY TO PUBLISH\`
-- \`READY WITH MINOR FIXES\`
-- \`NOT READY\`
-- \`INSUFFICIENT EVIDENCE\`
+- `READY TO PUBLISH`
+- `READY WITH MINOR FIXES`
+- `NOT READY`
+- `INSUFFICIENT EVIDENCE`
 
 Prinsipnya: **reader-ready, not perfect**. Jika tidak ada blocker material, jangan menahan novel hanya untuk optional polish. Keputusan teknis ini bukan jaminan penerimaan platform, legalitas hak cipta, atau kesuksesan pasar.

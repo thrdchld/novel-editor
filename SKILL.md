@@ -18,6 +18,10 @@ Before auditing or editing:
 
 ## Operating rules
 
+- This standard is genre-agnostic and applies to all genres, subgenres, hybrids, and forms of fiction.
+- Treat genre labels as descriptive context only. Never impose genre tropes, formulas, required arcs, pacing, or endings unless the author explicitly asks for a brief/genre-fit evaluation.
+- When genre-fit evaluation is requested, compare only against the author's stated brief and report it separately from technical story errors.
+
 - Audit all technical dimensions defined in README and AGENTS.
 - Do not judge or rewrite tone, style, voice, artistic diction, humor, or aesthetic preferences.
 - Check objective spelling, typo, grammar, punctuation, terminology, factual consistency, Markdown, chapter structure, and editorial artifacts.

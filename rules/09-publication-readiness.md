@@ -16,7 +16,7 @@ Jangan menahan publikasi hanya karena masih ada hal yang bisa diperbaiki. Hampir
 
 Severity ERROR/HIGH/REVIEW tetap dipakai untuk audit. Release impact menjawab pertanyaan berbeda: apakah temuan itu benar-benar menghalangi pembaca menikmati dan memahami cerita? ERROR/HIGH biasanya blocker, tetapi tetap nilai dampak aktual dan konteksnya. REVIEW tidak otomatis blocker.
 
-## B. Enam gerbang kelayakan
+## B. Tujuh gerbang kelayakan
 
 ### 1. Integritas plot dan sebab-akibat
 LULUS bila konflik utama, tujuan tokoh, hambatan, keputusan penting, eskalasi, dan penyelesaian dapat diikuti. Peristiwa besar memiliki sebab yang cukup. Solusi utama tidak muncul dari kemampuan/informasi yang tiba-tiba diciptakan hanya untuk menyelamatkan plot.
@@ -46,6 +46,9 @@ Ini bukan penilaian gaya, tone, keindahan prosa, atau preferensi narasi. Kalimat
 ### 6. Ketuntasan cerita
 LULUS bila konflik dan janji utama cerita memperoleh resolusi/status yang dapat dipahami. Ending boleh terbuka dan subplot boleh berlanjut, selama itu tampak disengaja dan tidak membuat pembaca merasa informasi inti hilang karena kelalaian.
 
+### 7. Teknis naskah
+LULUS bila naskah tidak memiliki kesalahan teknis yang mengganggu pembacaan: typo/ejaan yang nyata, tata bahasa yang mengaburkan makna, tanda baca/dialog yang rusak, inkonsistensi nama/istilah/fakta tertulis, struktur bab yang salah, markup yang merusak tampilan, atau catatan editor/placeholder yang tertinggal. Kesalahan lokal yang mudah diperbaiki dapat masuk FIX BEFORE RELEASE, bukan otomatis BLOCKER. Jangan menjadikan tone, gaya, voice, atau diksi sebagai kriteria.
+
 ## C. Keputusan akhir
 
 ### READY TO PUBLISH
@@ -53,7 +56,7 @@ Gunakan bila:
 - semua bab yang dimaksud telah diaudit dan audit lintas bab dilakukan;
 - tidak ada BLOCKER terbuka;
 - tidak ada FIX BEFORE RELEASE yang berpengaruh material dan belum ditangani;
-- enam gerbang lulus atau memiliki catatan author choice yang dapat diterima;
+- tujuh gerbang lulus atau memiliki catatan author choice yang dapat diterima;
 - pembaca dapat mengikuti alur, aturan dunia, timeline, dan state cerita tanpa kontradiksi besar.
 
 ### READY WITH MINOR FIXES

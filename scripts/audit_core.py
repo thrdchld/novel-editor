@@ -47,7 +47,7 @@ def chapter_sections(text, heading_pattern):
     return sections, None
 
 def count_words(text):
-    text = re.sub(r"(?m)^#{1,6}\s*", "", text)
+    text = re.sub(r"(?m)^#{1,6}.*$", "", text)
     text = re.sub(r"(?m)^\s*[-*_]{3,}\s*$", " ", text)
     text = re.sub(r"[*_~]", "", text)
     return len(re.findall(r"[\w]+(?:['’-][\w]+)*", text, flags=re.UNICODE))

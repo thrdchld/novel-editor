@@ -1,12 +1,21 @@
 project:
   title: "Nama Proyek"
-  genre_context: []  # Konteks opsional saja; tidak mengaktifkan penilaian gaya/tone.
+  genre_context: []  # Konteks saja; tidak mengaktifkan penilaian gaya/tone.
   language: "id"
-  audit_mode: "read_only"
+  audit_mode: "review_and_edit_on_explicit_request"
 
 manuscript:
-  include: ["chapters/**/*.md", "naskah/**/*.txt"]
-  exclude: ["**/archive/**", "**/draft-old/**"]
+  # Sesuaikan dengan lokasi naskah. Jangan memasukkan dokumentasi auditor sebagai naskah.
+  include:
+    - "Story/**/*.md"
+    - "chapters/**/*.md"
+    - "naskah/**/*.md"
+    - "naskah/**/*.txt"
+  exclude:
+    - "**/archive/**"
+    - "**/draft-old/**"
+    - "**/draft_old/**"
+    - "**/novel-editor-reports/**"
 
 references:
   canon: []
@@ -25,8 +34,16 @@ constraints:
     min_per_chapter: null
     max_per_chapter: null
   markdown_format:
-    enabled: false
-    allowed: true
+    enabled: true
+    check_unclosed_fences: true
+    check_chapter_sequence: true
+    chapter_heading_regex: '^#{1,6}\\s+\\*{0,2}BAB\\s+(\\d+)\\b'
+    stray_note_patterns:
+      - '(?i)\\bTODO\\b'
+      - '(?i)\\bFIXME\\b'
+      - '(?i)CATATAN EDITOR'
+      - '(?i)NOTE TO SELF'
+      - '(?i)\\[PLACEHOLDER\\]'
   custom_rules: []
 
 worldbuilding:
@@ -45,8 +62,17 @@ continuity:
   track_money_and_resources: true
   track_timeline: true
 
+technical_review:
+  enabled: true
+  check_spelling_and_grammar_contextually: true
+  check_punctuation: true
+  check_name_and_term_consistency: true
+  check_editorial_artifacts: true
+  check_markdown_rendering: true
+  check_chapter_structure: true
+
 report:
   output_dir: "novel-editor-reports"
   include_quotes: true
   include_minimal_recommendations: true
-  never_modify_manuscript: true
+  edit_policy: "only_on_explicit_user_request"

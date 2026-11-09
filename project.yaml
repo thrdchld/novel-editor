@@ -1,6 +1,7 @@
 project:
   title: "Nama Proyek"
-  # Descriptive metadata only; never activates genre formulas or mandatory conventions.\n  genre_context: []
+  # Descriptive metadata only; never activates genre formulas or mandatory conventions.
+  genre_context: []
   language: "id"
   audit_mode: "review_and_edit_on_explicit_request"
 manuscript:

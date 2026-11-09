@@ -164,7 +164,7 @@ Ratih menghela napas pelan, mengusap puncak kepala Maya dengan jemarinya yang te
 
 "Iya, Bu."
 
-Maya tersenyum kecil, lalu beranjak kembali ke dalam kamar. Di atas tempat tidur perosotannya, Maya berbaring menatap langit-langit papan yang lapuk. Di luar kamar, suara genjot mesin jahit kembali terdengar, berderit teratur membelah sepi malam.
+Maya tersenyum kecil, lalu beranjak kembali ke dalam kamar. Di atas kasurnya, Maya berbaring menatap langit-langit papan yang lapuk. Di luar kamar, suara genjot mesin jahit kembali terdengar, berderit teratur membelah sepi malam.
 
 Malam itu, Maya belajar satu pelajaran penting tentang bertahan hidup di rumah mereka. Ia belajar bahwa setiap keinginan kecil yang ia minta adalah beban tambahan di bahu ibunya yang sudah lelah. Maya berjanji pada dirinya sendiri untuk menjadi anak yang tidak banyak menuntut, anak yang selalu bisa menyelesaikan masalahnya sendiri tanpa pernah kerepotan meminta tolong.
 

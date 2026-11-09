@@ -64,7 +64,7 @@ Semua kategori dalam cakupan wajib diperiksa. Prioritas hanya mengurutkan dampak
 
 ## Alur kerja wajib
 
-1. Baca `project.yaml`; validasi cakupan file, konfigurasi, dan daftar referensi.
+1. Baca `project.yaml` dan `rules/11-genre-neutrality.md`; validasi cakupan file, konfigurasi, daftar referensi, serta pastikan genre hanya diperlakukan sebagai konteks deskriptif.
 2. Inventarisasi seluruh naskah dan dokumen referensi. Pastikan file yang dimaksud benar-benar masuk cakupan.
 3. Catat jumlah bab, heading, struktur, dan batas naskah.
 4. Bangun fact ledger: canon, timeline anchors, karakter/state/knowledge, benda, lokasi, aturan dunia, relasi, sumber daya, setup/payoff, dan istilah.

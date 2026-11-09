@@ -50,7 +50,7 @@ Severity dan release impact adalah dua dimensi berbeda. Kesalahan ejaan dapat ER
 
 ## 6. Kategori
 
-\`PLOT_HOLE\`, \`CAUSALITY\`, \`TIMELINE\`, \`CHARACTER_CONTINUITY\`, \`OBJECT_CONTINUITY\`, \`LOCATION_CONTINUITY\`, \`RELATIONSHIP_CONTINUITY\`, \`WORLD_RULE_CONTRADICTION\`, \`WORLD_RULE_GAP\`, \`WORLD_STATE\`, \`CHARACTER_KNOWLEDGE\`, \`SETUP_PAYOFF\`, \`REPETITION\`, \`AI_SLOP\`, \`SPELLING_TYPO\`, \`GRAMMAR\`, \`PUNCTUATION\`, \`NAME_TERM_CONSISTENCY\`, \`MARKDOWN_FORMAT\`, \`DOCUMENT_STRUCTURE\`, \`EDITORIAL_ARTIFACT\`, \`PROJECT_CONSTRAINT\`, \`PLAUSIBILITY\`, \`OTHER_TECHNICAL\`.
+`PLOT_HOLE`, `CAUSALITY`, `TIMELINE`, `CHARACTER_CONTINUITY`, `OBJECT_CONTINUITY`, `LOCATION_CONTINUITY`, `RELATIONSHIP_CONTINUITY`, `WORLD_RULE_CONTRADICTION`, `WORLD_RULE_GAP`, `WORLD_STATE`, `CHARACTER_KNOWLEDGE`, `SETUP_PAYOFF`, `REPETITION`, `AI_SLOP`, `SPELLING_TYPO`, `GRAMMAR`, `PUNCTUATION`, `NAME_TERM_CONSISTENCY`, `MARKDOWN_FORMAT`, `DOCUMENT_STRUCTURE`, `EDITORIAL_ARTIFACT`, `PROJECT_CONSTRAINT`, `PLAUSIBILITY`, `OTHER_TECHNICAL`.
 
 ## 7. Hindari false positive
 
@@ -68,4 +68,4 @@ Audit biasa bersifat read-only. Jika pengguna secara eksplisit meminta penerapan
 
 ## 10. Publication-readiness gate
 
-Gunakan \`rules/09-publication-readiness.md\`. Standarnya reader-ready, bukan sempurna. Jangan gunakan “masih ada yang bisa diperbaiki” sebagai alasan menunda publikasi. Tunjukkan konsekuensi bagi pembaca dan apakah masalah melampaui ambang blocker.
+Gunakan `rules/09-publication-readiness.md`. Standarnya reader-ready, bukan sempurna. Jangan gunakan “masih ada yang bisa diperbaiki” sebagai alasan menunda publikasi. Tunjukkan konsekuensi bagi pembaca dan apakah masalah melampaui ambang blocker.

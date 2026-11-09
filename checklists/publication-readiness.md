@@ -1,6 +1,6 @@
 # Publication Readiness Checklist
 
-Gunakan checklist ini untuk memutuskan apakah pembaca dapat mengikuti cerita dengan benar. Tidak perlu mengejar kesempurnaan.
+Gunakan checklist ini untuk memutuskan apakah pembaca dapat mengikuti cerita dan membaca naskah dengan benar. Tidak perlu mengejar kesempurnaan.
 
 ## Cakupan
 - [ ] Semua bab yang akan diterbitkan telah diperiksa.
@@ -26,11 +26,26 @@ Gunakan checklist ini untuk memutuskan apakah pembaca dapat mengikuti cerita den
 - [ ] Timeline dan durasi memungkinkan kejadian utama berlangsung.
 - [ ] Tidak ada kontradiksi lintas bab yang mengubah pemahaman pembaca.
 
-## Keterbacaan teknis
-- [ ] Pembaca dapat mengetahui siapa melakukan apa, di mana, dan kapan.
+## Keterbacaan faktual
+- [ ] Pembaca dapat mengetahui siapa melakukan apa, di mana, kapan, dan mengapa.
 - [ ] Transisi penting tidak meninggalkan lompatan fakta yang membingungkan.
 - [ ] Istilah/fakta/aturan penting digunakan konsisten.
 - [ ] Ambiguitas yang tersisa tampak disengaja, bukan akibat informasi hilang.
+
+## Teknis naskah
+- [ ] Ejaan, typo, imbuhan, dan bentuk gabungan diperiksa.
+- [ ] Tata bahasa objektif tidak mengaburkan makna.
+- [ ] Tanda baca dan tanda kutip dialog berfungsi dengan benar.
+- [ ] Nama, gelar, tempat, organisasi, angka, dan istilah konsisten.
+- [ ] Heading, nomor bab, batas bab, dan pemisah adegan berfungsi.
+- [ ] Markdown tidak menyebabkan teks dirender keliru.
+- [ ] Tidak ada catatan editor, placeholder, TODO/FIXME, atau instruksi produksi tertinggal.
+- [ ] Tidak ada duplikasi teks akibat kesalahan teknis.
+- [ ] Hard constraints proyek diperiksa sesuai konfigurasi.
+
+## Batas artistik
+- [ ] Tone, gaya, voice, diksi artistik, dan selera tidak dijadikan kriteria kelayakan.
+- [ ] Tidak ada revisi wajib yang hanya didasarkan pada preferensi editor.
 
 ## Release decision
 - [ ] BLOCKER: target nol untuk READY.

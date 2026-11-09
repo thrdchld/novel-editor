@@ -58,14 +58,14 @@ Kesalahan bahasa yang objektif tetap masuk audit teknis. Bedakan kesalahan ejaan
 6. Setup/payoff dan janji cerita.
 7. Keterbacaan faktual dan transisi.
 8. Teknis naskah: ejaan, tata bahasa objektif, tanda baca, format, struktur, dan konsistensi istilah.
-9. Repetition dan AI-slop indicators.
+9. Repetition, AI-slop indicators, dan outline leakage.
 10. Hard constraints khusus proyek.
 
 Semua kategori dalam cakupan wajib diperiksa. Prioritas hanya mengurutkan dampak, bukan alasan melewatkan kategori.
 
 ## Alur kerja wajib
 
-1. Baca `project.yaml` dan `rules/11-genre-neutrality.md`; validasi cakupan file, konfigurasi, daftar referensi, serta pastikan genre hanya diperlakukan sebagai konteks deskriptif.
+1. Baca `project.yaml`, `rules/11-genre-neutrality.md`, dan `rules/12-outline-leakage.md`; validasi cakupan file, konfigurasi, daftar referensi, serta pastikan genre hanya diperlakukan sebagai konteks deskriptif.
 2. Inventarisasi seluruh naskah dan dokumen referensi. Pastikan file yang dimaksud benar-benar masuk cakupan.
 3. Catat jumlah bab, heading, struktur, dan batas naskah.
 4. Bangun fact ledger: canon, timeline anchors, karakter/state/knowledge, benda, lokasi, aturan dunia, relasi, sumber daya, setup/payoff, dan istilah.
@@ -73,7 +73,8 @@ Semua kategori dalam cakupan wajib diperiksa. Prioritas hanya mengurutkan dampak
 6. Audit lintas bab untuk kontradiksi, transisi hilang, timeline drift, knowledge leak, state drift, dan setup/payoff.
 7. Jalankan scanner mekanis bila tersedia; baca hasilnya dan jangan menganggapnya audit semantik.
 8. Verifikasi setiap temuan menggunakan konteks penuh yang relevan. Pisahkan fakta, inferensi, dan pertanyaan.
-9. Buat laporan dengan lokasi, bukti, severity, dampak rilis, dampak pembaca, confidence, dan rekomendasi minimum.
+9. Lakukan Outline Leakage Audit sesuai `rules/12-outline-leakage.md`; inventarisasi dokumen perencanaan dan bedakan surface scan dari perbandingan langsung outline-ke-naskah.
+10. Buat laporan dengan lokasi, bukti, severity, dampak rilis, dampak pembaca, confidence, dan rekomendasi minimum.
 11. Lakukan publication-readiness gate. Jangan menahan novel untuk optional polish.
 12. Nyatakan file/bagian yang tidak diperiksa, referensi yang hilang, dan keterbatasan.
 13. Jika diminta memperbaiki, edit hanya masalah teknis yang terkonfirmasi/diizinkan. Setelah itu verifikasi perubahan dan dampak lintas bab.

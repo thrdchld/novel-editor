@@ -54,7 +54,7 @@ Severity dan release impact adalah dua dimensi berbeda. Kesalahan ejaan dapat ER
 
 ## 7. Kategori
 
-`PLOT_HOLE`, `CAUSALITY`, `TIMELINE`, `CHARACTER_CONTINUITY`, `OBJECT_CONTINUITY`, `LOCATION_CONTINUITY`, `RELATIONSHIP_CONTINUITY`, `WORLD_RULE_CONTRADICTION`, `WORLD_RULE_GAP`, `WORLD_STATE`, `CHARACTER_KNOWLEDGE`, `SETUP_PAYOFF`, `REPETITION`, `AI_SLOP`, `SPELLING_TYPO`, `GRAMMAR`, `PUNCTUATION`, `NAME_TERM_CONSISTENCY`, `MARKDOWN_FORMAT`, `DOCUMENT_STRUCTURE`, `EDITORIAL_ARTIFACT`, `PROJECT_CONSTRAINT`, `PLAUSIBILITY`, `OTHER_TECHNICAL`.
+`PLOT_HOLE`, `CAUSALITY`, `TIMELINE`, `CHARACTER_CONTINUITY`, `OBJECT_CONTINUITY`, `LOCATION_CONTINUITY`, `RELATIONSHIP_CONTINUITY`, `WORLD_RULE_CONTRADICTION`, `WORLD_RULE_GAP`, `WORLD_STATE`, `CHARACTER_KNOWLEDGE`, `SETUP_PAYOFF`, `REPETITION`, `AI_SLOP`, `SPELLING_TYPO`, `GRAMMAR`, `PUNCTUATION`, `NAME_TERM_CONSISTENCY`, `MARKDOWN_FORMAT`, `DOCUMENT_STRUCTURE`, `EDITORIAL_ARTIFACT`, `PROJECT_CONSTRAINT`, `PLAUSIBILITY`, `OUTLINE_LEAKAGE`, `EDITORIAL_ARTIFACT`, `OTHER_TECHNICAL`.
 
 ## 8. Hindari false positive
 
@@ -73,3 +73,7 @@ Audit biasa bersifat read-only. Jika pengguna secara eksplisit meminta penerapan
 ## 11. Publication-readiness gate
 
 Gunakan `rules/09-publication-readiness.md`. Standarnya reader-ready, bukan sempurna. Jangan gunakan “masih ada yang bisa diperbaiki” sebagai alasan menunda publikasi. Tunjukkan konsekuensi bagi pembaca dan apakah masalah melampaui ambang blocker.
+
+## 12. Outline leakage audit
+
+Wajib baca dan terapkan `rules/12-outline-leakage.md` pada audit naskah. Outline, timeline, beat sheet, character bible, world bible, prompt, dan catatan penulis adalah panduan internal, bukan materi yang harus disalin ke prosa. Periksa tanggal mentah, label struktur/beat, ringkasan karakter, tujuan adegan, label arc/emosi, worldbuilding dump, foreshadowing/reveal instruction, repetisi fakta, artefak produksi, dan pola generatif mekanis. Pisahkan fakta canon dari cara penyampaiannya. Jika dokumen outline tidak tersedia, lakukan surface scan dan nyatakan keterbatasannya; jangan klaim perbandingan langsung. Setiap kandidat harus diuji berdasarkan kebutuhan pembaca, kewajaran POV/tokoh, pengulangan, dan dampak bila dihapus. Jangan menghapus informasi penting atau mengubah gaya hanya karena mirip outline.

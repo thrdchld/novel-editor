@@ -1,11 +1,9 @@
 project:
   title: "Nama Proyek"
-  genre_context: []  # Konteks saja; tidak mengaktifkan penilaian gaya/tone.
+  genre_context: []
   language: "id"
   audit_mode: "review_and_edit_on_explicit_request"
-
 manuscript:
-  # Sesuaikan dengan lokasi naskah. Jangan memasukkan dokumentasi auditor sebagai naskah.
   include:
     - "Story/**/*.md"
     - "chapters/**/*.md"
@@ -16,7 +14,6 @@ manuscript:
     - "**/draft-old/**"
     - "**/draft_old/**"
     - "**/novel-editor-reports/**"
-
 references:
   canon: []
   world_bible: []
@@ -26,7 +23,6 @@ references:
   continuity_ledger: []
   glossary: []
   other: []
-
 constraints:
   em_dash_forbidden: false
   word_count:
@@ -37,22 +33,20 @@ constraints:
     enabled: true
     check_unclosed_fences: true
     check_chapter_sequence: true
-    chapter_heading_regex: '^#{1,6}\\s+\\*{0,2}BAB\\s+(\\d+)\\b'
+    chapter_heading_regex: '^#{1,6}\s+\*{0,3}BAB\s+(\d+)\b'
     stray_note_patterns:
-      - '(?i)\\bTODO\\b'
-      - '(?i)\\bFIXME\\b'
+      - '(?i)\bTODO\b'
+      - '(?i)\bFIXME\b'
       - '(?i)CATATAN EDITOR'
       - '(?i)NOTE TO SELF'
-      - '(?i)\\[PLACEHOLDER\\]'
+      - '(?i)\[PLACEHOLDER\]'
   custom_rules: []
-
 worldbuilding:
   track_explicit_rules: true
   track_limits_and_costs: true
   track_exceptions: true
   track_institutions_and_systems: true
   track_geography_and_travel: true
-
 continuity:
   track_character_state: true
   track_character_knowledge: true
@@ -61,7 +55,6 @@ continuity:
   track_relationships: true
   track_money_and_resources: true
   track_timeline: true
-
 technical_review:
   enabled: true
   check_spelling_and_grammar_contextually: true
@@ -70,7 +63,6 @@ technical_review:
   check_editorial_artifacts: true
   check_markdown_rendering: true
   check_chapter_structure: true
-
 report:
   output_dir: "novel-editor-reports"
   include_quotes: true

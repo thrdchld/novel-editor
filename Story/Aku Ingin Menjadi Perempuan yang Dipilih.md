@@ -12,9 +12,9 @@ Ponselnya kembali bergetar, kali ini panggilan masuk dari Nita. Maya mengangkatn
 
 "Ini foto kapan, Nit?" Maya mendengar suaranya sendiri keluar begitu datar.
 
-"Caption-nya bilang tanggal 21 Desember lalu. Acara lamarannya di hotel daerah Jalan Jawa," jawab Nita pelan. "Kamu benar-benar tidak tahu apa-apa, May?"
+"Caption-nya bilang tanggal dua puluh satu Desember lalu. Acara lamarannya di hotel daerah Jalan Jawa," jawab Nita pelan. "Kamu benar-benar tidak tahu apa-apa, May?"
 
-Maya tidak langsung menjawab. Tanggal 21 Desember 2024 langsung berputar otomatis di ingatannya. Hari Sabtu. Waktu itu Arman berpamitan pergi ke luar kota untuk memantau lokasi proyek baru Arunika Properti di Garut. Pria itu bahkan sempat meneleponnya pada Sabtu malam, mengeluhkan sinyal daerah perkebunan yang buruk dan berjanji membawakan oleh-oleh dodol saat pulang ke Bandung hari Minggu.
+Maya tidak langsung menjawab. Tanggal pada foto itu langsung berputar otomatis di ingatannya. Hari Sabtu. Waktu itu Arman berpamitan pergi ke luar kota untuk memantau lokasi proyek baru Arunika Properti di Garut. Pria itu bahkan sempat meneleponnya pada Sabtu malam, mengeluhkan sinyal daerah perkebunan yang buruk dan berjanji membawakan oleh-oleh dodol saat pulang ke Bandung hari Minggu.
 
 Maya ingat betul bagaimana ia menghabiskan Sabtu sore itu dengan mendatangi rumah kontrakan Arman di Tubagus Ismail, membersihkan kamar mandi, merapikan tumpukan kemeja, dan mengisi kulkas pria itu dengan bahan masakan untuk seminggu.
 
@@ -32,7 +32,7 @@ Maya mematikan sambungan telepon sebelum Nita sempat membalas. Ia meletakkan pon
 
 Di sekelilingnya, suasana ruangan kantor komunikasi pemasaran tempatnya bekerja tetap berjalan seperti biasa. Suara ketikan kibor bersahut-sahutan dari kubikel sebelah, diiringi gelak tawa tipis rekan kerja yang mendiskusikan rencana makan siang esok hari. Dunia di luar dirinya tidak berhenti, tetapi di dalam kepala Maya, segalanya mendadak hening dan membeku.
 
-Hari ini persis lima tahun sejak mereka resmi berpacaran pada 10 Januari 2020. Maya bahkan sudah menyimpan reservasi satu meja kecil di kafe kawasan Ciumbuleuit untuk merayakan ulang tahun hubungan mereka nanti malam.
+Hari ini tepat lima tahun sejak mereka resmi berpacaran. Maya bahkan sudah menyimpan reservasi satu meja kecil di kafe kawasan Ciumbuleuit untuk merayakan ulang tahun hubungan mereka nanti malam.
 
 Maya tidak menangis. Tidak ada dorongan untuk membanting barang atau menumpahkan amarah histeris. Yang ada hanya rasa kebas dingin yang merayap pelan dari telapak tangannya hingga ke dada.
 
@@ -54,7 +54,7 @@ Bahkan kemeja batik sarimbit bermotif kebangsawanan bernuansa merah muda pastel 
 
 Ternyata acara resmi yang dimaksud Arman adalah acara pertunangannya sendiri.
 
-Maya meraih ponsel di samping kibor, membuka bilah pencarian WhatsApp, lalu mengetikkan satu tanggal: 21 Desember 2024.
+Maya meraih ponsel di samping kibor, membuka bilah pencarian WhatsApp, lalu mengetikkan tanggal yang tertera pada foto itu.
 
 Deretan pesan hari Sabtu tiga minggu lalu bermunculan di layar. Maya membaca ulang baris demi baris pesan yang dikirimkan Arman hari itu.
 
@@ -314,7 +314,7 @@ Bagi Maya yang sejak kecil tumbuh dengan rasa takut akan penolakan, kalimat *aku
 
 "Aku juga mau, Mas," sahut Maya pelan. Senyum tipis mengukir bibirnya, sebuah senyuman tulus tanpa beban kekhawatiran.
 
-Malam itu, di bawah rinai hujan Ciumbuleuit pada sepuluh Januari lima tahun lalu, Maya percaya sepenuhnya bahwa masa-masa menunggunya telah usai. Ia meyakini bahwa Arman adalah jawaban atas segala ketakutannya, pria yang secara sadar memilihnya dan tidak akan pernah meninggalkannya seperti yang dilakukan ayahnya.
+Malam itu, di bawah rinai hujan Ciumbuleuit lima tahun lalu, Maya percaya sepenuhnya bahwa masa-masa menunggunya telah usai. Ia meyakini bahwa Arman adalah jawaban atas segala ketakutannya, pria yang secara sadar memilihnya dan tidak akan pernah meninggalkannya seperti yang dilakukan ayahnya.
 
 Maya tidak pernah menduga bahwa tepat lima tahun setelah malam hangat itu, di tanggal yang sama, janji *tidak akan ke mana-mana* itu akan berubah menjadi belati yang merobek seluruh hidupnya.
 
@@ -462,7 +462,7 @@ Maya menatap wajah Arman. Ada rasa asing yang perlahan merayap di dadanya. Pria 
 
 Maya tidak membantah. Ia hanya tersenyum tipis dan mengangguk pelan, kembali memainkan peran sebagai pasangan yang mengerti dan tidak pernah menuntut.
 
-Ia tidak pernah menduga bahwa peninjauan lapangan di Garut pada tanggal 21 Desember yang diucapkan Arman dengan begitu tenang malam itu, sebenarnya adalah tanggal pertunangan pria itu dengan Celine di sebuah hotel di pusat kota Bandung.
+Ia tidak pernah menduga bahwa peninjauan lapangan di Garut pada hari yang disebut Arman dengan begitu tenang malam itu, sebenarnya adalah tanggal pertunangan pria itu dengan Celine di sebuah hotel di pusat kota Bandung.
 
 # **BAB 12: Penjelasan yang Tidak Menyelamatkan**
 
@@ -472,7 +472,7 @@ Tangan Arman yang baru saja hendak memasang sabuk pengaman mendadak terhenti di 
 
 "May... ini dari mana kamu dapat?" Suara Arman terdengar serak, kehilangan kelancaran yang biasanya selalu menghiasi bicaranya.
 
-"Tanggal 21 Desember 2024," kata Maya pelan. Suaranya datar dan tenang, tanpa kepanikan, tetapi justru ketenangan itu yang membuat suasana di dalam mobil terasa kaku. "Hari Sabtu waktu kamu bilang sedang menginap di perkebunan Garut karena sinyal jelek dan rapat proyek."
+"Tanggal dua puluh satu Desember dua ribu dua puluh empat," kata Maya pelan. Suaranya datar dan tenang, tanpa kepanikan, tetapi justru ketenangan itu yang membuat suasana di dalam mobil terasa kaku. "Hari Sabtu waktu kamu bilang sedang menginap di perkebunan Garut karena sinyal jelek dan rapat proyek."
 
 Arman menghembuskan napas pendek, mengusap wajahnya dengan telapak tangan kanan. Jemarinya gemetaran tipis saat melepas kacamata bingkai hitamnya, meletakkannya di atas dasbor.
 
@@ -970,7 +970,7 @@ Mbak Dewi menutup map portofolio Maya sambil mengangguk-angguk puas. "Pengalaman
 
 "Saya siap menyesuaikan ritme kerja dan mempelajari fokus program kesehatan yayasan, Mbak," sahut Maya yakin.
 
-Empat hari kemudian, pada **sepuluh Maret**, dering telepon di meja kontrakan Antapani memutus keheningan pagi Maya.
+Empat hari kemudian, dering telepon di meja kontrakan Antapani memutus keheningan pagi Maya.
 
 "Selamat pagi, Mbak Maya. Kami dari HRD Yayasan Lentera Sehat ingin mengonfirmasi bahwa berdasarkan hasil wawancara minggu lalu, **Mbak Maya dinyatakan diterima untuk posisi Staf Komunikasi dan Publikasi**," suara staf HRD dari ujung telepon terdengar melegakan.
 
@@ -1171,7 +1171,7 @@ Setiap kali melihat nama Daniel di daftar pesan grup atau saat berhadapan langsu
 
 Daniel pun bersikap sangat profesional. Ia bertindak sopan, fokus pada target program edukasi, dan menjaga jarak kerja yang wajar sebagai dokter pembicara mitra yayasan. Tidak ada komunikasi pribadi di luar jam kerja dan tidak ada percakapan di luar alur proyek.
 
-Sore harinya pada tanggal tiga belas Mei, Maya merapikan draf final pamflet yang sudah disetujui tim medis ke dalam folder arsip yayasan. Dari jendela kantornya di Jalan RE Martadinata, langit kota Bandung memancarkan pendar sore yang tenang.
+Sore itu, Maya merapikan draf final pamflet yang sudah disetujui tim medis ke dalam folder arsip yayasan. Dari jendela kantornya di Jalan RE Martadinata, langit kota Bandung memancarkan pendar sore yang tenang.
 
 Maya mematikan layar laptopnya, menyunggingkan senyum tipis. Ia menikmati dinamika kerjanya yang baru, merasa diakui sebagai rekan profesional yang kompeten, dan melangkah pulang dengan kepastian di atas kakinya sendiri.
 
@@ -1181,7 +1181,7 @@ Aroma gurih kunyit dan serai merebak dari atas meja kayu rumah Kiaracondong saat
 
 "Makan selagi hangat, May," ujar Ratih pelan, mendudukkan diri di bangku kayu seberang meja.
 
-Maya menatap piring nasi kuning di depannya. Hari ini, 14 Mei 2025, umurnya genap dua puluh delapan tahun.
+Maya menatap piring nasi kuning di depannya. Hari ini, umurnya genap dua puluh delapan tahun.
 
 Tidak ada tiup lilin, tidak ada dekorasi pesta, dan tidak ada kue ulang tahun berselimut krim tebal seperti yang biasa dipesan Arman dari toko roti ternama di kawasan Dago pada tahun-tahun lalu. Hanya ada hidangan sederhana buatan tangan ibunya di atas meja kayu yang dilapisi taplak plastik bening berkilat.
 
@@ -1677,7 +1677,7 @@ Perasaan diakui dan diinginkan itu menyeruak hangat, menyapu luka-luka lama di d
 
 Namun, di saat yang bersamaan, kejujuran dingin dari realitas menghantamnya dari arah sebaliknya.
 
-Maya menatap layar ponselnya lurus-lurus. Mereka tidak sedang berada di masa lalu. Daniel telah menikah dengan Sarah sejak hampir delapan tahun lalu di Ciumbuleuit, dan Maya berada di kamar kontrakan Antapani pada Agustus 2025. Berandai-andai tentang masa lalu tidak akan pernah mengubah fakta bahwa Daniel adalah suami perempuan lain.
+Maya menatap layar ponselnya lurus-lurus. Mereka tidak sedang berada di masa lalu. Daniel telah menikah dengan Sarah sejak hampir delapan tahun lalu di Ciumbuleuit, dan Maya berada di kamar kontrakan Antapani saat itu. Berandai-andai tentang masa lalu tidak akan pernah mengubah fakta bahwa Daniel adalah suami perempuan lain.
 
 Maya mengetikkan balasan dengan jemari yang bergetar tipis.
 
@@ -1741,7 +1741,7 @@ Maya menyadari kelemahannya secara gamblang. Ia tahu bahwa menarik diri setengah
 
 # **BAB 39: Ulang Tahun Daniel**
 
-Kalender meja kayu di sudut kantor Yayasan Lentera Sehat menunjukkan angka tiga September. Pagi itu, saat mengurutkan berkas formulir data dokter pembicara untuk arsip kegiatan kuartal ketiga, mata Maya tertahan pada kolom tanggal lahir di lembar biodata dr. Daniel Aditya, Sp.PD.
+Kalender meja kayu di sudut kantor Yayasan Lentera Sehat menunjukkan tanggal 3 September. Pagi itu, saat mengurutkan berkas formulir data dokter pembicara untuk arsip kegiatan kuartal ketiga, mata Maya tertahan pada kolom tanggal lahir di lembar biodata dr. Daniel Aditya, Sp.PD.
 
 3 September 1989.
 
@@ -1797,7 +1797,7 @@ Daniel yang menyadari perubahan raut wajah Sarah segera mematikan layar ponselny
 
 # **BAB 40: Pertanyaan Sarah**
 
-Suara gesekan cangkir keramik di atas meja kaca apartemen Ciumbuleuit terdengar nyaring di tengah keheningan malam delapan September. Pukul delapan malam lewat tiga puluh menit, angin pegunungan menyapu jendela balkon, membiaskan uap dingin ke dalam ruang tengah.
+Suara gesekan cangkir keramik di atas meja kaca apartemen Ciumbuleuit terdengar nyaring di tengah keheningan malam itu. Pukul delapan malam lewat tiga puluh menit, angin pegunungan menyapu jendela balkon, membiaskan uap dingin ke dalam ruang tengah.
 
 Daniel baru saja hendak beranjak menuju kamar kerja membawa laptop kerjanya ketika suara Sarah menghentikan langkahnya.
 
@@ -2101,7 +2101,7 @@ Kebutuhan mendalam untuk merasa diprioritaskan usai lima tahun diabaikan oleh Ar
 
 ---
 
-Senin pagi, dua puluh dua September, rutinitas kerja di kantor Yayasan Lentera Sehat kawasan Jalan RE Martadinata berjalan seperti biasa.
+Pagi berikutnya, rutinitas kerja di kantor Yayasan Lentera Sehat kawasan Jalan RE Martadinata berjalan seperti biasa.
 
 Suara ketikan kibor, deru mesin cetak di sudut ruangan, dan kesibukan staf lapangan merapikan spanduk kegiatan posyandu memenuhi ruang komunikasi. Maya duduk di meja kerjanya, memindai draf laporan publikasi kuartal ketiga.
 
@@ -2119,7 +2119,7 @@ Menyadari hal itu, rasa bersalah Maya terasa semakin tajam. Ia memiliki pekerjaa
 
 ---
 
-Rabu malam, dua puluh empat September, Maya berjalan menyusuri lorong gang kontrakan Antapani usai melengkapi belanjaan mingguan di warung kelontong depan. Udara malam kota Bandung berembus dingin, membawa keharuman tanah basah sisa gerimis sore.
+Dua malam kemudian, Maya berjalan menyusuri lorong gang kontrakan Antapani usai melengkapi belanjaan mingguan di warung kelontong depan. Udara malam kota Bandung berembus dingin, membawa keharuman tanah basah sisa gerimis sore.
 
 Di dalam kamar, Maya meletakkan tas kainnya di atas meja kerja. Ia mengambil ponsel dari dalam saku, menatap layarnya yang gelap.
 
@@ -2137,13 +2137,13 @@ Ia berhenti menyalahkan keadaan, berhenti menyalahkan Daniel, dan berhenti membe
 
 # **BAB 46: Jarak**
 
-Selasa terakhir di bulan September dua ribu dua puluh lima, udara pagi di kawasan Jalan RE Martadinata terasa lebih sejuk usai hujan deras yang mengguyur kota Bandung sepanjang malam. Di dalam ruang rapat utama Yayasan Lentera Sehat, aroma kopi hitam dan kertas cetak baru memenuhi ruangan berukuran enam kali delapan meter tersebut.
+Menjelang akhir September, udara pagi di kawasan Jalan RE Martadinata terasa lebih sejuk usai hujan deras yang mengguyur kota Bandung sepanjang malam. Di dalam ruang rapat utama Yayasan Lentera Sehat, aroma kopi hitam dan kertas cetak baru memenuhi ruangan berukuran enam kali delapan meter tersebut.
 
 Maya duduk di sisi kiri meja rapat panjang, merapikan tumpukan salinan laporan evaluasi publikasi program edukasi kesehatan lansia kuartal ketiga.
 
 Sepanjang sepuluh hari terakhir, sejak konfrontasi bermartabat bersama Sarah di kedai teh Jalan Riau, layar ponsel Maya tak lagi pernah berpendar oleh notifikasi pesan pribadi dari Dokter Daniel. Tidak ada sapaan malam hari, tidak ada pertanyaan seputar kondisi Ratih, dan tidak ada obrolan seputar kelelahan kerja di rumah sakit. Maya mematuhi janji dan batas yang telah disepakati sepenuhnya.
 
-Namun hari ini, tanggal tiga puluh September dua ribu dua puluh lima, tugas profesional menuntut mereka berada di dalam satu ruangan yang sama untuk pertama kalinya sejak seluruh komunikasi pribadi dihentikan total.
+Namun hari ini, tugas profesional menuntut mereka berada di dalam satu ruangan yang sama untuk pertama kalinya sejak seluruh komunikasi pribadi dihentikan total.
 
 Pukul sepuluh pagi tepat, pintu kaca ruang rapat bergeser pelan.
 
@@ -2301,7 +2301,7 @@ Aku tidak bermaksud menuntut atau mengacaukan hidupmu sekarang, May. Tapi selama
 
 Maya menatap baris-baris tulisan itu lurus-lurus.
 
-Ingatan kepalanya mendadak berputar kembali ke sepuluh Januari dua ribu dua puluh lima. Ia teringat dinginnya lantai kamar ini ketika ia pertama kali mengetahui foto pertunangan Arman dan Celine yang berlangsung diam-diam pada dua puluh satu Desember dua ribu dua puluh empat, hampir sebelas bulan lalu. Ia ingat betul bagaimana hancurnya hatinya saat menyadari bahwa kesabarannya selama lima tahun hanyalah penantian pada janji palsu seorang pria yang mempertahankan dua hubungan sekaligus.
+Ingatan kepalanya mendadak berputar kembali ke hari ketika ia pertama kali mengetahui pertunangan Arman dan Celine. Ia teringat dinginnya lantai kamar ini dan rasa hancur saat menyadari bahwa acara itu berlangsung diam-diam, hampir sebelas bulan sebelumnya. Ia ingat betul bagaimana hancurnya hatinya saat menyadari bahwa kesabarannya selama lima tahun hanyalah penantian pada janji palsu seorang pria yang mempertahankan dua hubungan sekaligus.
 
 Dahulu, Maya akan menghabiskan malam dengan jemari bergetar, membalik-balikkan ponsel, dan memohon penjelasan dari Arman yang terus menghindar. Dahulu, sapaan dari Arman adalah hal yang paling ia harapkan di dunia.
 
@@ -2321,7 +2321,7 @@ Maya menarik napas panjang, menghirup aroma uap teh melati yang mulai hangat sua
 
 Sabtu sore, lima belas November dua ribu dua puluh lima, kabut tipis merayap turun menyelimuti deretan pohon pinus di kawasan Dago atas. Hawa dingin khas Bandung utara menerobos sela-sela dinding kaca sebuah kafe berarsitektur kayu tempat Maya duduk berhadapan dengan segelas cappuccino hangat yang uapnya perlahan mengipis.
 
-Sepuluh hari telah berlalu sejak Arman mengirimkan pesan singkat pada lima November lalu. Maya sengaja mengambil waktu sepuluh hari untuk mengendapkan emosinya, memastikan bahwa keputusannya untuk menyetujui pertemuan sore ini murni didasari oleh kedewasaan batin, bukan dorongan impulsif atau sisa-sisa amarah masa lalu.
+Sepuluh hari telah berlalu sejak pesan singkat Arman masuk. Maya sengaja mengambil waktu sepuluh hari untuk mengendapkan emosinya, memastikan bahwa keputusannya untuk menyetujui pertemuan sore ini murni didasari oleh kedewasaan batin, bukan dorongan impulsif atau sisa-sisa amarah masa lalu.
 
 Di seberang meja kayu pelitur gelap, Arman Pratama duduk mengatupkan kedua telapak tangannya di samping cangkir kopi hitam.
 
@@ -2617,7 +2617,7 @@ Kebenaran yang disembunyikan selama dua puluh satu tahun kini telah terbuka sepe
 
 # **BAB 55: Pola yang Berulang**
 
-Minggu pertama di bulan Desember dua ribu dua puluh lima dibuka oleh hujan deras yang membasahi aspal Jalan RE Martadinata sejak pagi hari. Di dalam ruang kerja Yayasan Lentera Sehat, aroma uap kopi hangat dan kelembapan kain payung yang dikeringkan di dekat pintu memenuhi ruangan.
+Awal Desember dibuka oleh hujan deras yang membasahi aspal Jalan RE Martadinata sejak pagi hari. Di dalam ruang kerja Yayasan Lentera Sehat, aroma uap kopi hangat dan kelembapan kain payung yang dikeringkan di dekat pintu memenuhi ruangan.
 
 Maya duduk di meja kerjanya, menatap baris-baris angka anggaran publikasi kesehatan untuk kegiatan kuartal pertama tahun depan.
 
@@ -2823,7 +2823,7 @@ Ia membiarkan angin dingin menyusup di sela kemejanya. Ekspektasi tidak realisti
 
 Sabtu sore, sepuluh Januari dua ribu dua puluh enam, rintik gerimis tipis membasahi trotoar Jalan Riau. Di sudut sebuah kedai kopi beratap tinggi dengan dinding bata merah yang hangat, Maya duduk di dekat jendela, memandang uap tipis yang membumbung dari cangkir teh kamomil di hadapannya.
 
-Lima hari lalu, pada lima Januari, Maya memutuskan mengirim satu baris pesan formal melalui surel dinas kepada Dokter Daniel. Ia meminta waktu bertemu sejenak di tempat umum untuk sebuah percakapan penutup.
+Lima hari sebelumnya, Maya memutuskan mengirim satu baris pesan formal melalui surel dinas kepada Dokter Daniel. Ia meminta waktu bertemu sejenak di tempat umum untuk sebuah percakapan penutup.
 
 Sejak akhir September tahun lalu, ketika seluruh komunikasi pribadi dihentikan pascakonfrontasi bersama Sarah, Maya dan Daniel tidak pernah benar-benar membicarakan perpisahan mereka secara langsung. Keputusan memutus kontak kala itu diambil dalam ketergesaan dan rasa bersalah. Kini, setelah melewati sesi konseling psikologis bersama Mbak Melani serta menyelesaikan urusan masa lalunya bersama Arman dan Bima, Maya merasa butuh menutup babak tersebut secara jernih dan mendewasa.
 
@@ -2997,7 +2997,7 @@ Maya menatap lembar surat keputusan tersebut. Di sana tercantum nama lengkapnya:
 
 Dada Maya berdesir pelan, menghantarkan kehangatan yang amat jujur dan memikat.
 
-Ia mengingat kembali masa-masa sulit pada bulan Februari dua ribu dua puluh lima lalu—saat ia kehilangan pekerjaan lamanya akibat restrukturisasi, menghadapi pergelangan tangan Ratih yang patah, dan harus mengirimkan belasan lembar lamaran kerja tanpa kepastian. Ia mengingat betul bagaimana ia mengikuti wawancara di kantor ini pada enam Maret tahun lalu secara mandiri, melangkah masuk murni karena latar belakang pendidikan dan pengalaman kerjanya.
+Ia mengingat kembali masa-masa sulit pada Februari 2025—saat ia kehilangan pekerjaan lamanya akibat restrukturisasi, menghadapi pergelangan tangan Ratih yang patah, dan harus mengirimkan belasan lembar lamaran kerja tanpa kepastian. Ia mengingat betul bagaimana ia mengikuti wawancara di kantor ini pada enam Maret tahun lalu secara mandiri, melangkah masuk murni karena latar belakang pendidikan dan pengalaman kerjanya.
 
 Tidak ada rekomendasi dari siapa pun. Tidak ada campur tangan Arman, dan tidak ada sepatah kata pun bantuan atau pengaruh dari Dokter Daniel.
 
@@ -3023,7 +3023,7 @@ Jumat sore, enam belas Januari dua ribu dua puluh enam, rintik hujan mengguyur a
 
 Maya duduk di dipan kayu ruang tengah, merapikan bungkusan kue bolu kukus yang dibelinya di perlintasan jalan stasiun usai pulang kantor.
 
-Dua hari setelah menerima surat keputusan pengangkatan sebagai Koordinator Utama Komunikasi dan Publikasi di Yayasan Lentera Sehat pada empat belas Januari lalu, Maya memutuskan menghabiskan akhir pekannya di Kiaracondong. Senyum bangga dan usapan haru di kepala yang diberikan Ratih saat mendengar kabar kelulusan promosi kerjanya tadi sore menghadirkan kehangatan mendalam yang melapangkan dada Maya.
+Dua hari setelah menerima surat keputusan pengangkatan sebagai Koordinator Utama Komunikasi dan Publikasi di Yayasan Lentera Sehat dua hari sebelumnya, Maya memutuskan menghabiskan akhir pekannya di Kiaracondong. Senyum bangga dan usapan haru di kepala yang diberikan Ratih saat mendengar kabar kelulusan promosi kerjanya tadi sore menghadirkan kehangatan mendalam yang melapangkan dada Maya.
 
 Ratih melepas celemek kainnya, mendudukkan diri di sebelah Maya pada dipan kayu.
 
@@ -3183,7 +3183,7 @@ Maya duduk tertunduk di kursi kayunya, mengamati layar laptop yang menampilkan f
 
 Di sudut paling bawah direktori data lama, terdapat sebuah folder berlabel Arsip 2020-2024. Folder itu berisi ratusan foto perjalanan, salinan tiket liburan singkat ke Pangandaran, serta berkas tangkapan layar percakapan masa lalu bersama Arman.
 
-Selama satu tahun terakhir—sejak pertunangan Arman dan Celine terungkap pada sepuluh Januari dua ribu dua puluh lima—folder itu seolah menjelma menjadi monumen bisu dari pertanyaan-pertanyaan yang tak pernah selesai di dalam kepala Maya.
+Selama hampir setahun—sejak pertunangan Arman dan Celine terungkap—folder itu seolah menjelma menjadi monumen bisu dari pertanyaan-pertanyaan yang tak pernah selesai di dalam kepala Maya.
 
 Dahulu, Maya sering tergoda untuk membuka kembali folder tersebut di malam-malam yang sepi.
 
@@ -3537,9 +3537,9 @@ Sabtu pagi, tiga puluh satu Januari dua ribu dua puluh enam, pendar sinar mataha
 
 Maya menghirup aroma uap teh melati itu dalam-dalam, membiarkan kehangatannya meresap pelan di ulu hatinya.
 
-Tepat satu tahun telah berlalu sejak tiga puluh satu Januari dua ribu dua puluh lima—hari terakhir Maya melangkah keluar dari kantor lamanya membawa kardus berisi barang-barang pribadi. Ia mengingat betul bagaimana pada hari itu, tiga minggu setelah memergoki pertunangan Arman bersama Celine, ia berjalan menyusuri trotoar dengan batin yang remuk, diliputi kecemasan hebat akan pekerjaan yang hilang dan masa depan yang gelap.
+Tepat satu tahun telah berlalu sejak hari terakhir Maya bekerja di kantor lamanya. Ia masih mengingat bagaimana, tiga minggu setelah mengetahui pertunangan Arman dan Celine, ia melangkah keluar dari gedung itu dengan batin remuk, diliputi kecemasan tentang pekerjaan dan masa depan.
 
-Pagi ini, persis tiga ratus enam puluh lima hari kemudian, Maya berdiri di tempat yang sama dengan raga dan batin yang sepenuhnya berbeda.
+Kini, setelah setahun berlalu, Maya berdiri di tempat yang sama dengan raga dan batin yang sepenuhnya berbeda.
 
 Maya melangkah masuk ke dalam kamar, meletakkan cangkir tehnya di atas meja kerja. Di balik permukaan kayu yang bersih, buku agenda tebal bersampul abu-abu tua terbentang rapi. Di sana tertera lembar rencana tiga tahun yang telah disusunnya—sebuah peta kemandirian finansial, pengembangan karier di Yayasan Lentera Sehat, dan jadwal konseling psikologis rutin yang ia jalani demi menjaga kesehatan jiwanya.
 

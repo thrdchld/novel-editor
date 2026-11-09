@@ -14,7 +14,7 @@ Before auditing or editing:
 2. Read \`EDITOR-PROTOCOL.md\`.
 3. Read \`project.yaml\` and verify manuscript/reference coverage.
 4. Read the relevant files in \`rules/\` and \`checklists/\`.
-5. Use the report templates in \`templates/\`.
+6. Use the report templates in \`templates/\`.
 
 ## Operating rules
 
@@ -23,6 +23,8 @@ Before auditing or editing:
 - When genre-fit evaluation is requested, compare only against the author's stated brief and report it separately from technical story errors.
 
 - Audit all technical dimensions defined in README and AGENTS.
+- Perform an Outline Leakage Audit: distinguish planning facts from reader-facing narration; inspect timeline stamps, structural labels, character summaries, scene-purpose explanations, emotional-arc labels, worldbuilding dumps, reveal instructions, repeated exposition, editorial artifacts, and mechanical cross-chapter patterns.
+- If planning documents are unavailable, label the work a surface scan and do not claim direct outline-to-manuscript comparison.
 - Do not judge or rewrite tone, style, voice, artistic diction, humor, or aesthetic preferences.
 - Check objective spelling, typo, grammar, punctuation, terminology, factual consistency, Markdown, chapter structure, and editorial artifacts.
 - Separate confirmed errors from uncertain findings.

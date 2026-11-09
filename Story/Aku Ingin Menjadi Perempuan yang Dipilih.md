@@ -534,7 +534,7 @@ Maya menatap pria yang selama lima tahun menjadi pusat gravitasinya. Kata-kata A
 
 Kalimat itu menyengat tepat di dada Maya, tetapi alih-alih membuat hatinya goyah, kata-kata Arman justru menegaskan kenyataan pahit yang selama ini sengaja ia abaikan.
 
-"Bukan aku yang membuang lima tahun ini, Mas. Kamu yang menghancurkannya pada tanggal 21 Desember lalu," jawab Maya lurus. Ia melangkah maju, meletakkan kardus cokelat itu di atas kursi plastik hijau di teras, tepat di depan Arman. "Di dalam situ ada semua barangmu yang tersisa di rumah ini. Kunci cadangan kontrakanmu juga sudah aku masukkan di amplop cokelat."
+"Bukan aku yang membuang lima tahun ini, Mas. Kamu yang menghancurkannya pada tanggal dua puluh satu Desember lalu," jawab Maya lurus. Ia melangkah maju, meletakkan kardus cokelat itu di atas kursi plastik hijau di teras, tepat di depan Arman. "Di dalam situ ada semua barangmu yang tersisa di rumah ini. Kunci cadangan kontrakanmu juga sudah aku masukkan di amplop cokelat."
 
 Arman terpaku melihat amplop cokelat kecil di atas kardus tersebut. Senyum percaya diri yang biasa menjadi andalannya kini sirna sepenuhnya.
 
@@ -982,7 +982,7 @@ Setelah menutup telepon, Maya terduduk di tepi ranjang. Ia memejamkan mata erat-
 
 Ia segera menghubungi Kiaracondong untuk mengabarkan berita gembira itu pada Ratih. Suara ibunya dari ujung telepon terdengar begitu lega dan penuh syukur, membuncahkan haru yang membuat mata Maya berkaca-kaca.
 
-Pada **tujuh belas Maret**, Maya melangkahkan kaki memasuki pintu utama Yayasan Lentera Sehat sebagai karyawan resmi.
+Pada **17 Maret**, Maya melangkahkan kaki memasuki pintu utama Yayasan Lentera Sehat sebagai karyawan resmi.
 
 Mbak Dewi menyambutnya di sudut ruangan kerja divisi komunikasi, menyerahkan sebuah kartu identitas baru berselendang pita biru dan mengenalkannya pada tiga rekan timnya. Meja kerjanya terletak di dekat jendela yang menghadap ke halaman samping yang hijau. Di atas papan kayu meja itu, sebuah laptop inventaris dan tumpukan dokumen panduan program edukasi kesehatan masyarakat sudah tertata rapi.
 
@@ -1045,7 +1045,7 @@ Maya merapikan tumpukan brosur ke dalam tas kerjanya, menyunggingkan senyum tipi
 
 # **BAB 25: Perempuan di Sisi Daniel**
 
-Taplak meja linen putih di aula utama Hotel Papandayan tampak tertata rapi di bawah pendar lampu gantung kristal. Pagi itu, Sabtu sembilan belas April, Yayasan Lentera Sehat menggelar sarasehan tahunan bersama jajaran manajemen RS Cakrawala, menghadirkan para donatur dan mitra kesehatan masyarakat kota Bandung.
+Taplak meja linen putih di aula utama Hotel Papandayan tampak tertata rapi di bawah pendar lampu gantung kristal. Pagi itu, Yayasan Lentera Sehat menggelar sarasehan tahunan bersama jajaran manajemen RS Cakrawala, menghadirkan para donatur dan mitra kesehatan masyarakat kota Bandung.
 
 Maya berdiri di dekat meja registrasi tamu media, merapikan tumpukan map kit pers dan lembar evaluasi acara. Seragam kemeja putih berlapis blazer abu-abu gelap khas staf yayasan membalut tubuhnya dengan rapi.
 
@@ -1287,7 +1287,7 @@ Baru saja selesai visit tiga pasien rawat inap di lantai empat, balasan Daniel m
 
 Percakapan malam itu mengalir begitu saja, sebagaimana malam-malam sebelumnya sepanjang pertengahan bulan Juni 2025.
 
-Apa yang bermula pada dua Juni lalu sebagai pesan koreksi teknis mengenai angka ambang batas konsumsi garam pada pamflet edukasi, kini perlahan bergeser menjadi kebiasaan baru yang hadir hampir setiap hari. Pesan-pesan yang bertukar di antara mereka tak lagi melulu berisi berkas evaluasi publikasi Yayasan Lentera Sehat atau jadwal rapat panitia gabungan.
+Apa yang bermula dari sebuah pesan koreksi teknis beberapa waktu lalu mengenai angka ambang batas konsumsi garam pada pamflet edukasi, kini perlahan bergeser menjadi kebiasaan baru yang hadir hampir setiap hari. Pesan-pesan yang bertukar di antara mereka tak lagi melulu berisi berkas evaluasi publikasi Yayasan Lentera Sehat atau jadwal rapat panitia gabungan.
 
 Secara bertahap, ruang percakapan itu diisi oleh hal-hal kecil di luar jam kerja. Daniel sering menceritakan kelelahan ringannya usai menghadapi jadwal tindakan medis yang padat di rumah sakit, sementara Maya bercerita tentang kehangatan Mbak Dewi dan tim yayasan saat menyusun materi penyuluhan desa.
 
@@ -1485,11 +1485,11 @@ Maya meletakkan ponselnya di atas dada, menyandarkan kepalanya di atas bantal le
 
 # **BAB 34: Tanggal yang Diingat**
 
-Angka dua belas pada kalender meja di sudut kanan meja kerja Maya dilingkari garis merah kecil yang ia buat sejak awal tahun. Pagi itu, Selasa dua belas Agustus, sinar matahari merayap masuk melalui celah tirai kantor Yayasan Lentera Sehat, menerangi tumpukan berkas penyuluhan di hadapannya.
+Angka dua belas pada kalender meja di sudut kanan meja kerja Maya dilingkari garis merah kecil yang ia buat sejak awal tahun. Pagi itu, sinar matahari merayap masuk melalui celah tirai kantor Yayasan Lentera Sehat, menerangi tumpukan berkas penyuluhan di hadapannya.
 
 Maya menatap lingkaran merah itu selama beberapa detik sebelum perlahan membalikkan lembaran kalender.
 
-Selama lima tahun berturut-turut, tanggal dua belas Agustus adalah hari yang tidak pernah terlewatkan dalam hidup Maya. Itu adalah hari ulang tahun Arman.
+Selama lima tahun berturut-turut, 12 Agustus selalu menjadi hari yang tidak pernah terlewatkan dalam hidup Maya. Itu adalah hari ulang tahun Arman.
 
 Maya mengingat betul bagaimana sibuknya ia pada pertengahan Agustus tahun lalu. Ia menghemat uang makan selama dua minggu demi memesan kue tart favorit Arman dari toko roti ternama di kawasan Dago. Ia ingat betul bagaimana ia rela menunggu di pinggir jalan hingga pukul dua belas malam hanya untuk menjadi orang pertama yang mengulurkan kotak kado dan mengucapkan selamat ulang tahun di dalam mobil Arman.
 
@@ -1525,7 +1525,7 @@ Terima kasih banyak, Dokter Daniel. Berarti besok pagi bisa langsung saya serahk
 
 Sama-sama, May. Terima kasih juga sudah selalu teliti merapikan materi medis kami, balasan Daniel menyusul cepat, disusul pertanyaan ringan seputar kegiatannya sore tadi.
 
-Maya memeluk bantal kecilnya, membalas pesan Daniel dengan perasaan yang tenang. Malam dua belas Agustus tahun ini berlalu tanpa ada kue tart, tanpa ada ucapan tengah malam, dan tanpa ada air mata penyesalan. Di bawah naungan malam kota Bandung, Maya menyadari satu hal penting: ia telah berhasil melangkah melewati bayang-bayang masa lalunya, meski kini ia sedang berjalan menuju ruang baru yang tak kalah rumitnya.
+Maya memeluk bantal kecilnya, membalas pesan Daniel dengan perasaan yang tenang. Malam itu berlalu tanpa ada kue tart, tanpa ada ucapan tengah malam, dan tanpa ada air mata penyesalan. Di bawah naungan malam kota Bandung, Maya menyadari satu hal penting: ia telah berhasil melangkah melewati bayang-bayang masa lalunya, meski kini ia sedang berjalan menuju ruang baru yang tak kalah rumitnya.
 
 # **BAB 35: Perhatian yang Berbeda**
 
@@ -1901,7 +1901,7 @@ Daniel berdiri sendirian di ruang tengah apartemen Ciumbuleuit yang sunyi. Table
 
 # **BAB 42: Pengakuan yang Terlambat**
 
-Sinar matahari pagi tanggal sebelas September merayap tipis melewati sela tirai kamar tamu apartemen Ciumbuleuit. Di atas kasur tunggal berseprai abu-abu, Daniel terbangun dengan pelipis yang terasa berdenyut berat. Sepanjang malam ia hampir tidak dapat memejamkan mata, memutar kembali setiap baris kalimat Sarah dalam pertengkaran hebat yang meluluhlantakkan dinding ketidakjujurannya beberapa jam lalu.
+Keesokan paginya, sinar matahari merayap tipis melewati sela tirai kamar tamu apartemen Ciumbuleuit. Di atas kasur tunggal berseprai abu-abu, Daniel terbangun dengan pelipis yang terasa berdenyut berat. Sepanjang malam ia hampir tidak dapat memejamkan mata, memutar kembali setiap baris kalimat Sarah dalam pertengkaran hebat yang meluluhlantakkan dinding ketidakjujurannya beberapa jam lalu.
 
 Saat Daniel keluar ke ruang tengah dengan pakaian dinas rumah sakit, suasana apartemen terasa dingin dan kaku.
 
@@ -1909,7 +1909,7 @@ Sarah sedang berdiri di dekat konter dapur, menyesap cangkir kopi hitamnya dalam
 
 Sepanjang hari bertugas di RS Cakrawala, konsentrasi Daniel terpecah. Saat memeriksa berkas rekam medis pasien di ruang poliklinik lantai dua, bayangan raut muka Sarah yang terluka dan kekehan pahit istrinya saat membaca baris percakapan tablet terus membayangi pikirannya. Untuk pertama kalinya dalam tiga bulan terakhir, Daniel sama sekali tidak menyentuh aplikasi pesan singkat di ponselnya untuk menghubungi Maya. Rasa malu dan kelelahan emosional menghimpit dadanya rapat-rapat.
 
-Malam harinya, tanggal dua belas September, Daniel memutuskan untuk menghentikan kebiasaannya melarikan diri.
+Malam itu, Daniel memutuskan untuk menghentikan kebiasaannya melarikan diri.
 
 Pukul delapan malam, ketika Sarah sedang merapikan cangkir teh di meja makan kaca, Daniel melangkah mendekat. Pria itu menyingkirkan jas dokternya, lalu mendudukkan diri di kursi kayu bertentangan dengan tempat duduk Sarah.
 
@@ -2387,7 +2387,7 @@ Namun, memahami alasan seseorang ternyata tidak secara otomatis mengubah rasa sa
 
 ---
 
-Selasa sore, delapan belas November, ruang komunikasi Yayasan Lentera Sehat di Jalan RE Martadinata mulai lengang. Maya sedang menata berkas laporan evaluasi publikasi akhir tahun ketika ponsel di samping kibor bergetar pendek.
+Sore itu, ruang komunikasi Yayasan Lentera Sehat di Jalan RE Martadinata mulai lengang. Maya sedang menata berkas laporan evaluasi publikasi akhir tahun ketika ponsel di samping kibor bergetar pendek.
 
 Sebuah pesan singkat masuk dari nomor Arman.
 
@@ -2997,7 +2997,7 @@ Maya menatap lembar surat keputusan tersebut. Di sana tercantum nama lengkapnya:
 
 Dada Maya berdesir pelan, menghantarkan kehangatan yang amat jujur dan memikat.
 
-Ia mengingat kembali masa-masa sulit pada Februari 2025—saat ia kehilangan pekerjaan lamanya akibat restrukturisasi, menghadapi pergelangan tangan Ratih yang patah, dan harus mengirimkan belasan lembar lamaran kerja tanpa kepastian. Ia mengingat betul bagaimana ia mengikuti wawancara di kantor ini pada enam Maret tahun lalu secara mandiri, melangkah masuk murni karena latar belakang pendidikan dan pengalaman kerjanya.
+Ia mengingat kembali masa-masa sulit pada Februari 2025—saat ia kehilangan pekerjaan lamanya akibat restrukturisasi, menghadapi pergelangan tangan Ratih yang patah, dan harus mengirimkan belasan lembar lamaran kerja tanpa kepastian. Ia mengingat betul bagaimana ia mengikuti wawancara di kantor ini pada 6 Maret tahun lalu secara mandiri, melangkah masuk murni karena latar belakang pendidikan dan pengalaman kerjanya.
 
 Tidak ada rekomendasi dari siapa pun. Tidak ada campur tangan Arman, dan tidak ada sepatah kata pun bantuan atau pengaruh dari Dokter Daniel.
 
@@ -3191,7 +3191,7 @@ Ia membolak-balik foto lama, memindai tanggal demi tanggal, lalu membandingkanny
 
 Maya menarik napas panjang, menghembuskannya perlahan ke dalam keheningan kamar yang sejuk.
 
-Mengingat kembali pertemuannya bersama Arman di kafe kawasan Dago pada lima belas November lalu, Maya menyadari satu hal penting. Sore itu, Arman memang telah meminta maaf dan mengakui ketakutannya akan posisi finansial serta dorongan egoisnya untuk mempertahankan dua wanita sekaligus.
+Mengingat kembali pertemuannya dengan Arman di kafe kawasan Dago beberapa waktu lalu, Maya menyadari satu hal penting. Sore itu, Arman memang telah meminta maaf dan mengakui ketakutannya akan posisi finansial serta dorongan egoisnya untuk mempertahankan dua wanita sekaligus.
 
 Namun, penjelasan itu tidak pernah terasa sepenuhnya memuaskan bagi Maya.
 

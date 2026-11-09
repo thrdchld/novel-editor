@@ -1953,7 +1953,7 @@ Daniel tetap duduk di kursi meja makan, menatap bayangan dirinya di atas kaca me
 
 # **BAB 43: Pertemuan Sebelum Jarak**
 
-Sabtu siang, tiga belas September dua ribu dua puluh lima, terik matahari kota Bandung tertutup awan mendung tebal di atas kawasan Jalan Citarum. Di sudut sebuah kafe berkonsep terbuka dengan meja-meja kayu berpelitur gelap, Maya duduk menghadap segelas teh kamomil dingin yang es batunya telah mencair sepenuhnya.
+Siang itu, terik matahari kota Bandung tertutup awan mendung tebal di atas kawasan Jalan Citarum. Di sudut sebuah kafe berkonsep terbuka dengan meja-meja kayu berpelitur gelap, Maya duduk menghadap segelas teh kamomil dingin yang es batunya telah mencair sepenuhnya.
 
 Dua hari terakhir, sejak Kamis malam, ponsel Maya sepi dari sapaan Daniel. Tidak ada lagi pesan singkat pukul sembilan malam, tidak ada pertanyaan seputar rutinitas di Antapani, dan tidak ada obrolan ringan di luar urusan draf penyuluhan yayasan.
 
@@ -2021,7 +2021,7 @@ Maya memejamkan mata erat-erat, membiarkan keheningan dan rasa bersalah itu meng
 
 # **BAB 44: Perempuan yang Terluka**
 
-Sabtu sore, dua puluh September dua ribu dua puluh lima, gerimis tipis menyisakan genangan air di sepanjang trotoar Jalan RE Martadinata. Di sudut sebuah kedai teh yang tenang di kawasan Riau, Maya duduk memangku kedua tangannya di atas paha. Hawa dingin pendingin udara beradu dengan denyut cemas yang merambat kaku di tengkuknya.
+Sore itu, gerimis tipis menyisakan genangan air di sepanjang trotoar Jalan RE Martadinata. Di sudut sebuah kedai teh yang tenang di kawasan Riau, Maya duduk memangku kedua tangannya di atas paha. Hawa dingin pendingin udara beradu dengan denyut cemas yang merambat kaku di tengkuknya.
 
 Seminggu telah berlalu sejak Sabtu lalu, saat ia dan Dokter Daniel berjanji di kafe Jalan Citarum untuk memutus seluruh komunikasi pribadi di luar jam dinas. Namun, ketenangan yang Maya harapkan tak kunjung datang. Ketika sebuah pesan singkat masuk ke ponselnya dua jam lalu dari nomor yang tak asing—bukan nomor Daniel, melainkan sapaan singkat dari Sarah Putri Wicaksana yang meminta waktu bertemu sejenak—Maya tahu bahwa hari pertanggungjawaban itu akhirnya tiba.
 
@@ -2079,7 +2079,7 @@ Maya meremas jemarinya yang dingin, membiarkan rasa bersalah itu mengendap tebal
 
 # **BAB 45: Tidak Bisa Menyebut Diri Tidak Bersalah**
 
-Minggu pagi, dua puluh satu September dua ribu dua puluh lima, keheningan di kamar kontrakan Antapani terasa lebih tebal daripada hari-hari biasanya. Sinar matahari pagi menembus celah tirai katun kusam, membiaskan pendar kuning temaram di atas lantai keramik yang dingin.
+Pagi itu, keheningan di kamar kontrakan Antapani terasa lebih tebal daripada hari-hari biasanya. Sinar matahari pagi menembus celah tirai katun kusam, membiaskan pendar kuning temaram di atas lantai keramik yang dingin.
 
 Maya duduk tertunduk di tepi kasur busanya, kedua tangannya saling menangkup kaku di atas pangkuan.
 
@@ -2273,7 +2273,7 @@ Daniel tetap duduk sendirian di meja makan apartemen Ciumbuleuit. Udara malam ya
 
 # **BAB 49: Pesan dari Masa Lalu**
 
-Rabu malam, lima November dua ribu dua puluh lima, gerimis mengguyur kawasan Antapani sejak selepas magrib. Suara titikan air yang mengetuk atap seng dapur beradu pelan dengan desir halus angin malam yang menerobos celah ventilasi kamar kontrakan Maya.
+Malam itu, gerimis mengguyur kawasan Antapani sejak selepas magrib. Suara titikan air yang mengetuk atap seng dapur beradu pelan dengan desir halus angin malam yang menerobos celah ventilasi kamar kontrakan Maya.
 
 Maya mendudukkan diri di tepi kasur busa, memegang cangkir enamel berisi teh melati hangat yang baru diseduhnya.
 
@@ -2319,7 +2319,7 @@ Maya menarik napas panjang, menghirup aroma uap teh melati yang mulai hangat sua
 
 # **BAB 50: Pertemuan di Dago**
 
-Sabtu sore, lima belas November dua ribu dua puluh lima, kabut tipis merayap turun menyelimuti deretan pohon pinus di kawasan Dago atas. Hawa dingin khas Bandung utara menerobos sela-sela dinding kaca sebuah kafe berarsitektur kayu tempat Maya duduk berhadapan dengan segelas cappuccino hangat yang uapnya perlahan mengipis.
+Sore itu, kabut tipis merayap turun menyelimuti deretan pohon pinus di kawasan Dago atas. Hawa dingin khas Bandung utara menerobos sela-sela dinding kaca sebuah kafe berarsitektur kayu tempat Maya duduk berhadapan dengan segelas cappuccino hangat yang uapnya perlahan mengipis.
 
 Sepuluh hari telah berlalu sejak pesan singkat Arman masuk. Maya sengaja mengambil waktu sepuluh hari untuk mengendapkan emosinya, memastikan bahwa keputusannya untuk menyetujui pertemuan sore ini murni didasari oleh kedewasaan batin, bukan dorongan impulsif atau sisa-sisa amarah masa lalu.
 
@@ -2375,7 +2375,7 @@ Maya merapikan tas tangannya, berdiri perlahan dari kursi kafe. Di luar jendela,
 
 # **BAB 51: Penjelasan Bukan Penebusan**
 
-Minggu pagi, enam belas November dua ribu dua puluh lima, udara dingin sisa hujan semalam masih menyisa di pelataran kamar kontrakan Antapani. Maya menyiram deretan pot tanaman lidah mertua di sudut teras kecil, membiarkan gemericik air menyapu sisa-sisa debu yang menempel pada dedaunan hijau.
+Pagi itu, udara dingin sisa hujan semalam masih menyisa di pelataran kamar kontrakan Antapani. Maya menyiram deretan pot tanaman lidah mertua di sudut teras kecil, membiarkan gemericik air menyapu sisa-sisa debu yang menempel pada dedaunan hijau.
 
 Pikirannya melayang kembali pada percakapannya dengan Arman di kafe kawasan Dago kemarin sore.
 
@@ -2425,7 +2425,7 @@ Namun malam ini, di bawah naungan malam kota Bandung yang tenang, Maya mengerti 
 
 # **BAB 52: Kabar dari Ibu**
 
-Selasa sore, dua puluh lima November dua ribu dua puluh lima, aroma minyak kayu putih dan kain katun basah menyeruak di ruang tengah rumah sederhana kawasan Kiaracondong. Gemericik air hujan yang menetes dari teritisan atap seng beradu dengan dentang teratur mesin jahit klasik di dekat jendela depan.
+Sore itu, aroma minyak kayu putih dan kain katun basah menyeruak di ruang tengah rumah sederhana kawasan Kiaracondong. Gemericik air hujan yang menetes dari teritisan atap seng beradu dengan dentang teratur mesin jahit klasik di dekat jendela depan.
 
 Maya duduk di atas dipan kayu berlapis kasur tipis, memegang cangkir seng berisi teh tawar hangat yang baru dituangkan Ratih.
 
@@ -2485,7 +2485,7 @@ Sore itu, di balik deru hujan yang membasahi atap Kiaracondong, Maya duduk dalam
 
 # **BAB 53: Pertemuan dengan Bima**
 
-Sabtu siang, dua puluh sembilan November dua ribu dua puluh lima, gerimis tipis menyisakan kabut lembap di sepanjang Jalan Lengkong Besar. Di sudut sebuah rumah makan Sunda tradisional berarsitektur kayu jati yang tenang, Maya duduk di samping jendela kaca yang mengembun.
+Siang itu, gerimis tipis menyisakan kabut lembap di sepanjang Jalan Lengkong Besar. Di sudut sebuah rumah makan Sunda tradisional berarsitektur kayu jati yang tenang, Maya duduk di samping jendela kaca yang mengembun.
 
 Empat hari telah berlalu sejak Ratih menyampaikan kabar bahwa Bima menelepon ke rumah tua Kiaracondong. Maya memanfaatkan empat hari tersebut untuk merapikan seluruh gejolak emosinya. Ia ingin memastikan bahwa langkah yang diambilnya hari ini lahir dari keberanian seorang wanita dewasa, bukan dari ketergesaan anak kecil berusia tujuh tahun yang merindukan sosok ayah.
 
@@ -2549,7 +2549,7 @@ Maya merapikan tas tangannya, memegang dada kirinya yang terasa hangat dan lega.
 
 # **BAB 54: Kebenaran yang Disimpan**
 
-Minggu siang, tiga puluh November dua ribu dua puluh lima, aroma rebusan pisang dan uap teh melati hangat memenuhi ruang tengah rumah sederhana di kawasan Kiaracondong. Udara sejuk sisa gerimis pagi masih mengendap di balik dinding papan kayu, beradu dengan desir halus angin yang menggerakkan tirai katun di jendela depan.
+Siang itu, aroma rebusan pisang dan uap teh melati hangat memenuhi ruang tengah rumah sederhana di kawasan Kiaracondong. Udara sejuk sisa gerimis pagi masih mengendap di balik dinding papan kayu, beradu dengan desir halus angin yang menggerakkan tirai katun di jendela depan.
 
 Maya duduk di atas tikar pandan yang terbentang di lantai semen, menyandarkan punggungnya pada kaki dipan kayu.
 
@@ -2659,7 +2659,7 @@ Maya menutup buku catatan abu-abunya, memasukkannya kembali ke dalam laci meja, 
 
 # **BAB 56: Batas Pertama**
 
-Minggu sore, tujuh Desember dua ribu dua puluh lima, rintik hujan gerimis menyisakan hawa dingin yang mengendap di sepanjang jalan gang kontrakan Antapani. Suara titikan air yang jatuh dari lis seng teras beradu pelan dengan desir angin sore kota Bandung.
+Sore itu, rintik hujan gerimis menyisakan hawa dingin yang mengendap di sepanjang jalan gang kontrakan Antapani. Suara titikan air yang jatuh dari lis seng teras beradu pelan dengan desir angin sore kota Bandung.
 
 Maya duduk di tepi kasur busa kamarnya, memegangi cangkir keramik berisi teh melati hangat.
 
@@ -2723,7 +2723,7 @@ Menetapkan batas ternyata tidak membunuh siapa pun. Menolak keinginan orang lain
 
 # **BAB 57: Memulai Konseling**
 
-Senin pagi, delapan Desember dua ribu dua puluh lima, udara sejuk menyelimuti pelataran sebuah bangunan cagar budaya berarsitektur kolonial di kawasan Jalan Ganesha. Dinding bata merah yang tertutup merambatnya tanaman ivy dan pepohonan rimbun di halaman memberikan suasana tenang, jauh dari bising lalu lintas kota Bandung.
+Pagi itu, udara sejuk menyelimuti pelataran sebuah bangunan cagar budaya berarsitektur kolonial di kawasan Jalan Ganesha. Dinding bata merah yang tertutup merambatnya tanaman ivy dan pepohonan rimbun di halaman memberikan suasana tenang, jauh dari bising lalu lintas kota Bandung.
 
 Maya duduk di atas sofa kain berwarna krem dalam ruang praktik psikologi lantai dua.
 
@@ -2771,7 +2771,7 @@ Maya berdiri di trotoar, membiarkan angin sejuk menyapu wajahnya. Luka-lukanya b
 
 # **BAB 58: Tidak Semua Luka Selesai dalam Satu Sesi**
 
-Senin sore, dua puluh dua Desember dua ribu dua puluh lima, rintik hujan akhir tahun membasahi dedaunan rimbun di halaman gedung cagar budaya kawasan Jalan Ganesha. Pendar lampu jalan bertutup kaca kekuningan mulai menyala satu per satu, membiaskan bayangan temaram di atas permukaan aspal yang basah.
+Sore itu, rintik hujan akhir tahun membasahi dedaunan rimbun di halaman gedung cagar budaya kawasan Jalan Ganesha. Pendar lampu jalan bertutup kaca kekuningan mulai menyala satu per satu, membiaskan bayangan temaram di atas permukaan aspal yang basah.
 
 Maya duduk di atas sofa krem ruang praktik psikologi lantai dua, memegang cangkir keramik berisi teh hangat yang mengepulkan uap tipis.
 
@@ -2821,7 +2821,7 @@ Ia membiarkan angin dingin menyusup di sela kemejanya. Ekspektasi tidak realisti
 
 # **BAB 59: Percakapan Terakhir**
 
-Sabtu sore, sepuluh Januari dua ribu dua puluh enam, rintik gerimis tipis membasahi trotoar Jalan Riau. Di sudut sebuah kedai kopi beratap tinggi dengan dinding bata merah yang hangat, Maya duduk di dekat jendela, memandang uap tipis yang membumbung dari cangkir teh kamomil di hadapannya.
+Sore itu, rintik gerimis tipis membasahi trotoar Jalan Riau. Di sudut sebuah kedai kopi beratap tinggi dengan dinding bata merah yang hangat, Maya duduk di dekat jendela, memandang uap tipis yang membumbung dari cangkir teh kamomil di hadapannya.
 
 Lima hari sebelumnya, Maya memutuskan mengirim satu baris pesan formal melalui surel dinas kepada Dokter Daniel. Ia meminta waktu bertemu sejenak di tempat umum untuk sebuah percakapan penutup.
 
@@ -2895,7 +2895,7 @@ Maya memejamkan mata sejenak, menghirup udara dingin itu dalam-dalam. Tidak ada 
 
 (Sudut Pandang: Daniel)
 
-Senin sore, dua belas Januari dua ribu dua puluh enam, rintik gerimis tipis menyapu kaca jendela sebuah bangunan klinik psikologi dan keluarga berarsitektur hangat di kawasan Dipatiukur. Pendar lampu pijar kekuningan di dalam ruang konseling seluas lima kali lima meter itu menciptakan suasana yang tenang, diiringi harum aromaterapi lavender yang lembut.
+Sore itu, rintik gerimis tipis menyapu kaca jendela sebuah bangunan klinik psikologi dan keluarga berarsitektur hangat di kawasan Dipatiukur. Pendar lampu pijar kekuningan di dalam ruang konseling seluas lima kali lima meter itu menciptakan suasana yang tenang, diiringi harum aromaterapi lavender yang lembut.
 
 Daniel duduk di atas sofa kulit abu-abu, memegang segelas air mineral yang mengembun tipis. Di sebelahnya, terpisah jarak selebar satu jengkal, Sarah duduk tegap berbalut luaran rajut cokelat susu.
 
@@ -2957,7 +2957,7 @@ Di bawah naungan langit malam kota Bandung yang dingin, Daniel menyadari bahwa p
 
 # **BAB 61: Pekerjaan yang Menjadi Miliknya**
 
-Rabu pagi, empat belas Januari dua ribu dua puluh enam, matahari pertengahan bulan menyusutkan sisa embun di pekarangan kantor Yayasan Lentera Sehat di kawasan Jalan RE Martadinata. Suara deru kendaraan di jalan utama beradu pelan dengan denting perabot dapur kantor saat staf umum menyeduh teh dan kopi pagi.
+Pagi itu, matahari pertengahan bulan menyusutkan sisa embun di pekarangan kantor Yayasan Lentera Sehat di kawasan Jalan RE Martadinata. Suara deru kendaraan di jalan utama beradu pelan dengan denting perabot dapur kantor saat staf umum menyeduh teh dan kopi pagi.
 
 Di meja kerjanya yang menghadap jendela kaca ruang komunikasi, Maya sedang memoles lembar terakhir bundel evaluasi publikasi tahunan dua ribu dua puluh lima dan draf rencana komunikasi program edukasi dua ribu dua puluh enam.
 
@@ -3019,7 +3019,7 @@ Pekerjaan ini, pencapaian ini, dan rasa bangga yang memenuhi dadanya adalah mili
 
 # **BAB 62: Ibu dan Anak**
 
-Jumat sore, enam belas Januari dua ribu dua puluh enam, rintik hujan mengguyur atap seng rumah sederhana di kawasan Kiaracondong. Aroma minyak kayu putih beradu halus dengan uap hangat dari dua cangkir teh melati dan piring berisi pisang goreng renyah yang baru diangkat Ratih dari penggorengan.
+Sore itu, rintik hujan mengguyur atap seng rumah sederhana di kawasan Kiaracondong. Aroma minyak kayu putih beradu halus dengan uap hangat dari dua cangkir teh melati dan piring berisi pisang goreng renyah yang baru diangkat Ratih dari penggorengan.
 
 Maya duduk di dipan kayu ruang tengah, merapikan bungkusan kue bolu kukus yang dibelinya di perlintasan jalan stasiun usai pulang kantor.
 
@@ -3079,7 +3079,7 @@ Untuk pertama kalinya dalam hidupnya, Maya menyadari bahwa rumah tempat ia pulan
 
 # **BAB 63: Tidak Harus Memaafkan Hari Ini**
 
-Senin sore, sembilan belas Januari dua ribu dua puluh enam, gerimis tipis menyapu pekarangan kontrakan Antapani usai Maya menyelesaikan jam kerjanya di kantor Yayasan Lentera Sehat. Udara dingin kota Bandung menyusup pelan di antara celah ventilasi kamar, membawa aroma tanah basah dan kesegaran dedaunan mahoni.
+Sore itu, gerimis tipis menyapu pekarangan kontrakan Antapani usai Maya menyelesaikan jam kerjanya di kantor Yayasan Lentera Sehat. Udara dingin kota Bandung menyusup pelan di antara celah ventilasi kamar, membawa aroma tanah basah dan kesegaran dedaunan mahoni.
 
 Maya mendudukkan diri di meja kerjanya, merapikan tumpukan dokumen draf publikasi edukasi kesehatan masyarakat untuk kuartal pertama.
 
@@ -3127,7 +3127,7 @@ Maya memejamkan mata sejenak, menghirup udara dingin itu dalam-dalam. Tidak ada 
 
 # **BAB 64: Hari-Hari Biasa**
 
-Rabu pagi, dua puluh satu Januari dua ribu dua puluh enam, matahari terbit tipis di balik awan mendung yang menyelimuti kawasan Antapani. Udara dingin khas kota Bandung menyusup pelan melewati celah ventilasi kamar, membawa kesegaran embun pagi yang menempel pada dedaunan lidah mertua di teras depan.
+Pagi itu, matahari terbit tipis di balik awan mendung yang menyelimuti kawasan Antapani. Udara dingin khas kota Bandung menyusup pelan melewati celah ventilasi kamar, membawa kesegaran embun pagi yang menempel pada dedaunan lidah mertua di teras depan.
 
 Maya berdiri di dapur kecil kontrakan, menyeduh cangkir teh melati dengan gerakan yang santai dan teratur.
 
@@ -3177,7 +3177,7 @@ Ia menarik selimut katunnya hingga dada, memejamkan mata dengan napas yang terat
 
 # **BAB 65: Tidak Lagi Mencari Jawaban dari Arman**
 
-Kamis, dua puluh dua Januari dua ribu dua puluh enam, hujan gerimis menyapu dinding kaca kontrakan Antapani sejak selepas subuh. Udara dingin kota Bandung mengendap pelan di dalam ruangan, membawa keharuman uap teh hangat yang baru diseduh Maya di atas meja kerja.
+Hari itu, hujan gerimis menyapu dinding kaca kontrakan Antapani sejak selepas subuh. Udara dingin kota Bandung mengendap pelan di dalam ruangan, membawa keharuman uap teh hangat yang baru diseduh Maya di atas meja kerja.
 
 Maya duduk tertunduk di kursi kayunya, mengamati layar laptop yang menampilkan folder penyimpanan dokumen pribadi.
 
@@ -3221,7 +3221,7 @@ Ia berdiri perlahan, meminum tegukan terakhir teh melatinya yang hangat suam-sua
 
 # **BAB 66: Daniel Bukan Jawaban**
 
-Sabtu pagi, dua puluh empat Januari dua ribu dua puluh enam, kabut tipis menyelimuti pelataran kontrakan Antapani usai hujan deras yang membilas kota Bandung sepanjang malam. Udara sejuk berembus pelan menerobos celah ventilasi, membawa aroma tanah basah dan kesegaran dedaunan lidah mertua di sudut teras.
+Pagi itu, kabut tipis menyelimuti pelataran kontrakan Antapani usai hujan deras yang membilas kota Bandung sepanjang malam. Udara sejuk berembus pelan menerobos celah ventilasi, membawa aroma tanah basah dan kesegaran dedaunan lidah mertua di sudut teras.
 
 Maya mendudukkan diri di tepi kasur busa kamarnya, memangku sebuah map jepit berisi bundel materi edukasi kesehatan lansia dari kegiatan awal Yayasan Lentera Sehat pertengahan tahun lalu.
 
@@ -3263,7 +3263,7 @@ Tidak ada air mata yang menetes di pipinya, tidak ada amarah yang membakar, dan 
 
 # **BAB 67: Masa Lalu Tidak Bisa Diubah**
 
-Minggu pagi, dua puluh lima Januari dua ribu dua puluh enam, sinar matahari tipis menembus celah rimbun dedaunan pohon mahoni tua di sepanjang Jalan Ganesha. Udara sejuk kota Bandung menyertai ketenangan gedung cagar budaya tempat Maya duduk di atas sofa krem ruang konseling lantai dua.
+Pagi itu, sinar matahari tipis menembus celah rimbun dedaunan pohon mahoni tua di sepanjang Jalan Ganesha. Udara sejuk kota Bandung menyertai ketenangan gedung cagar budaya tempat Maya duduk di atas sofa krem ruang konseling lantai dua.
 
 Di hadapannya, Mbak Melani menyeduh teh herbal hangat, meletakkan cangkirnya di atas meja kayu kecil di antara mereka.
 
@@ -3317,7 +3317,7 @@ Masa lalu tidak bisa diubah. Ayahnya pernah pergi, Arman pernah mendua, dan ia s
 
 # **BAB 68: Hidup yang Tidak Menunggu**
 
-Senin malam, dua puluh enam Januari dua ribu dua puluh enam, deru hujan deras yang mengguyur kawasan Antapani mereda menjadi rintik-rintik halus. Suara titikan air yang jatuh menyapu atap seng beradu pelan dengan desis halus mesin pendingin ruangan di kamar kontrakan Maya.
+Malam itu, deru hujan deras yang mengguyur kawasan Antapani mereda menjadi rintik-rintik halus. Suara titikan air yang jatuh menyapu atap seng beradu pelan dengan desis halus mesin pendingin ruangan di kamar kontrakan Maya.
 
 Maya mendudukkan diri di meja kerjanya, menyalakan lampu belajar berbingkai hitam yang membiaskan pendar cahaya kuning hangat di atas permukaan kayu.
 
@@ -3361,7 +3361,7 @@ Dahulu, Maya mengira bahwa menjadi perempuan yang dipilih adalah puncak kebahagi
 
 # **BAB 69: Keputusan Bima**
 
-Selasa sore, dua puluh tujuh Januari dua ribu dua puluh enam, langit di atas kawasan Antapani dihiasi sebingkai pendar jingga keemasan yang perlahan menyusut di balik bukit-bukit barat kota Bandung. Hawa sejuk sisa gerimis siang masih tersisa di dedaunan mahoni, beradu pelan dengan desis halus angin sore yang menerobos katun gorden kamar Maya.
+Sore itu, langit di atas kawasan Antapani dihiasi sebingkai pendar jingga keemasan yang perlahan menyusut di balik bukit-bukit barat kota Bandung. Hawa sejuk sisa gerimis siang masih tersisa di dedaunan mahoni, beradu pelan dengan desis halus angin sore yang menerobos katun gorden kamar Maya.
 
 Maya baru saja merapikan lembar-lembar berkas laporan yayasan di meja kerjanya ketika getaran panjang ponsel di atas papan kayu memecah keheningan kamar.
 
@@ -3421,7 +3421,7 @@ Tidak ada kekacauan emosi di dadanya, tidak ada rasa bersalah yang mencubit, dan
 
 # **BAB 70: Rumah yang Berbeda**
 
-Rabu sore, dua puluh delapan Januari dua ribu dua puluh enam, deru hujan deras yang mengguyur kawasan Kiaracondong perlahan menyusut menjadi titikan gerimis yang lembut. Hawa dingin merayap masuk lewat celah papan kayu rumah sederhana, beradu dengan aroma harum tumisan bawang merah, kencur, dan uap hangat dari nasi liwet yang baru matang di dapur belakang.
+Sore itu, deru hujan deras yang mengguyur kawasan Kiaracondong perlahan menyusut menjadi titikan gerimis yang lembut. Hawa dingin merayap masuk lewat celah papan kayu rumah sederhana, beradu dengan aroma harum tumisan bawang merah, kencur, dan uap hangat dari nasi liwet yang baru matang di dapur belakang.
 
 Maya duduk di atas tikar pandan ruang tengah, melipat potongan-potongan kain katun sisa jahitan Ratih yang menumpuk di dekat mesin jahit.
 
@@ -3473,7 +3473,7 @@ Sore itu, di rumah sederhana Kiaracondong di tengah gerimis kota Bandung yang pe
 
 # **BAB 71: Perempuan yang Memilih**
 
-Jumat pagi, tiga puluh Januari dua ribu dua puluh enam, deru lembut kendaraan di Jalan RE Martadinata menyatu dengan hembusan angin sejuk yang membelai pepohonan di pekarangan kantor Yayasan Lentera Sehat. Sinar matahari pagi menerobos kaca jendela ruang komunikasi, membiaskan cahaya hangat di atas meja kerja Maya.
+Pagi itu, deru lembut kendaraan di Jalan RE Martadinata menyatu dengan hembusan angin sejuk yang membelai pepohonan di pekarangan kantor Yayasan Lentera Sehat. Sinar matahari pagi menerobos kaca jendela ruang komunikasi, membiaskan cahaya hangat di atas meja kerja Maya.
 
 Dua minggu telah berlalu sejak Maya menerima promosi sebagai Koordinator Utama Komunikasi dan Publikasi. Di atas mejanya, tumpukan berkas penyusunan materi edukasi kesehatan lansia dan rencana kerja kuartal pertama tersusun rapi. Maya sedang memindai ulang draf anggaran pencetakan modul posyandu ketika Mbak Dewi masuk ke ruangan membawa dua lembar dokumen berkop resmi dinas kesehatan.
 
@@ -3533,7 +3533,7 @@ Ia tak lagi menjadi perempuan pasif yang hanya menerima perlakuan atau beban dar
 
 # **BAB 72: Aku Ingin Menjadi Perempuan yang Dipilih**
 
-Sabtu pagi, tiga puluh satu Januari dua ribu dua puluh enam, pendar sinar matahari terbit menembus tipis sisa kabut pagi yang membalut langit kota Bandung. Udara sejuk berembus pelan di sepanjang Jalan Antapani, menggerakkan dedaunan lidah mertua di teras rumah kontrakan tempat Maya berdiri memegang cangkir teh melati hangat.
+Pagi itu, pendar sinar matahari terbit menembus tipis sisa kabut pagi yang membalut langit kota Bandung. Udara sejuk berembus pelan di sepanjang Jalan Antapani, menggerakkan dedaunan lidah mertua di teras rumah kontrakan tempat Maya berdiri memegang cangkir teh melati hangat.
 
 Maya menghirup aroma uap teh melati itu dalam-dalam, membiarkan kehangatannya meresap pelan di ulu hatinya.
 

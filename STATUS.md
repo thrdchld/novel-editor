@@ -1,10 +1,33 @@
 # Status Paket
-Versi 2.1 — genre-agnostic technical story auditor + publication-readiness gate.
 
-Mencakup worldbuilding consistency, continuity karakter/benda/lokasi/relasi/sumber daya/informasi, plot logic, causality, timeline, character knowledge, setup/payoff, repetition, AI-slop indicators, dan project-specific constraints.
+Versi 3.0 — standar kerja editor teknis novel genre-agnostic.
 
-Batasan: script Python hanya melakukan pemeriksaan mekanis sederhana. Plot hole, konsistensi dunia, dan continuity semantik memerlukan audit kontekstual. Paket tidak menjamin semua masalah cerita terdeteksi otomatis.
+## Cakupan
 
+- Plot logic, plot hole, causality.
+- Timeline, chronology, usia, durasi, deadline.
+- Continuity karakter, relasi, benda, lokasi, sumber daya, institusi, dokumen, dan informasi.
+- Worldbuilding dan aturan internal.
+- Character knowledge dan aliran informasi.
+- Setup/payoff, janji cerita, misteri, dan resolusi.
+- Keterbacaan faktual dan transisi.
+- Teknis naskah: ejaan, typo, tata bahasa objektif, tanda baca, konsistensi nama/istilah, Markdown, struktur bab, placeholder, dan catatan internal.
+- Repetition, AI-slop indicators, dan hard constraints proyek.
 
-## Publication readiness gate
-The release decision is intentionally based on reader-facing risk, not perfection. Findings are separated into BLOCKER, FIX BEFORE RELEASE, ACCEPTABLE/AUTHOR CHOICE, and OPTIONAL POLISH. See `rules/09-publication-readiness.md`.
+## Batas
+
+Tidak menilai tone, gaya penceritaan, voice, diksi artistik, keindahan prosa, atau selera. Script Python hanya melakukan pemeriksaan mekanis; audit semantik dan pemeriksaan ejaan kontekstual tetap memerlukan pembacaan editor.
+
+## Kebijakan kerja
+
+Audit default read-only. Pengeditan naskah hanya dilakukan atas instruksi eksplisit pengguna. Perbaikan harus minimal dan tidak mengubah gaya. Setelah edit, verifikasi ulang.
+
+## Publication readiness
+
+Keputusan berbasis dampak pembaca, bukan perfeksionisme:
+- READY TO PUBLISH
+- READY WITH MINOR FIXES
+- NOT READY
+- INSUFFICIENT EVIDENCE
+
+Temuan dibedakan menjadi BLOCKER, FIX BEFORE RELEASE, ACCEPTABLE/AUTHOR CHOICE, dan OPTIONAL POLISH.

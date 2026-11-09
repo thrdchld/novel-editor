@@ -17,6 +17,12 @@ Novel Editor memeriksa seluruh aspek teknis cerita yang dapat diverifikasi dari 
 9. Teknis naskah: ejaan, typo, tata bahasa objektif, tanda baca, konsistensi nama/istilah, format Markdown, struktur bab, catatan editor, placeholder, dan kesalahan format lain.
 10. Hard constraints proyek yang dinyatakan secara eksplisit, misalnya POV, tense, jumlah kata, format bab, atau larangan tanda baca tertentu.
 
+## Netralitas genre
+
+Novel Editor berlaku untuk semua genre dan bentuk fiksi: romance, drama, komedi, thriller, misteri, horor, fantasi, sci-fi, kriminal, sejarah, slice of life, action, petualangan, serta genre campuran atau kategori lain. Daftar ini hanya contoh, bukan batas cakupan.
+
+Genre pada project.yaml hanya konteks deskriptif. Genre tidak boleh otomatis mengaktifkan formula plot, struktur babak, trope, ending, karakter, pacing, atau ekspektasi pasar tertentu. Konvensi genre hanya boleh diperiksa jika penulis secara eksplisit menetapkannya sebagai target/constraint proyek; bahkan saat itu, periksa kesesuaian terhadap brief, bukan menganggap konvensinya sebagai hukum universal.
+
 ## Yang tidak dinilai
 
 - Tone, gaya penceritaan, voice, diksi, humor, keindahan prosa, atau selera artistik.

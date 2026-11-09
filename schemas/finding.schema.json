@@ -2,114 +2,44 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Novel Editor Finding",
   "type": "object",
-  "required": [
-    "id",
-    "severity",
-    "category",
-    "title",
-    "location",
-    "problem",
-    "reader_impact",
-    "confidence"
-  ],
+  "required": ["id", "severity", "release_impact", "category", "title", "location", "evidence", "problem", "reader_impact", "confidence"],
   "properties": {
-    "id": {
-      "type": "string"
-    },
-    "severity": {
-      "enum": [
-        "ERROR",
-        "HIGH",
-        "REVIEW",
-        "INFO"
-      ]
-    },
-    "category": {
-      "type": "string"
-    },
-    "title": {
-      "type": "string"
-    },
+    "id": {"type": "string", "minLength": 1},
+    "severity": {"enum": ["ERROR", "HIGH", "REVIEW", "INFO"]},
+    "release_impact": {"enum": ["BLOCKER", "FIX BEFORE RELEASE", "ACCEPTABLE / AUTHOR CHOICE", "OPTIONAL POLISH"]},
+    "category": {"type": "string", "minLength": 1},
+    "title": {"type": "string", "minLength": 1},
     "location": {
       "type": "object",
-      "required": [
-        "file"
-      ],
+      "required": ["file"],
       "properties": {
-        "file": {
-          "type": "string"
-        },
-        "chapter": {
-          "type": [
-            "string",
-            "null"
-          ]
-        },
-        "scene": {
-          "type": [
-            "string",
-            "null"
-          ]
-        },
-        "line_start": {
-          "type": [
-            "integer",
-            "null"
-          ]
-        },
-        "line_end": {
-          "type": [
-            "integer",
-            "null"
-          ]
-        }
-      }
+        "file": {"type": "string"},
+        "chapter": {"type": ["string", "null"]},
+        "scene": {"type": ["string", "null"]},
+        "line_start": {"type": ["integer", "null"], "minimum": 1},
+        "line_end": {"type": ["integer", "null"], "minimum": 1}
+      },
+      "additionalProperties": false
     },
     "evidence": {
       "type": "array",
+      "minItems": 1,
       "items": {
         "type": "object",
-        "required": [
-          "quote"
-        ],
+        "required": ["quote"],
         "properties": {
-          "quote": {
-            "type": "string"
-          },
-          "source": {
-            "type": "string"
-          },
-          "location": {
-            "type": "string"
-          }
-        }
+          "quote": {"type": "string", "minLength": 1},
+          "source": {"type": ["string", "null"]},
+          "location": {"type": ["string", "null"]}
+        },
+        "additionalProperties": false
       }
     },
-    "established_rule": {
-      "type": [
-        "string",
-        "null"
-      ]
-    },
-    "problem": {
-      "type": "string"
-    },
-    "reader_impact": {
-      "type": "string"
-    },
-    "recommendation": {
-      "type": [
-        "string",
-        "null"
-      ]
-    },
-    "confidence": {
-      "enum": [
-        "high",
-        "medium",
-        "low"
-      ]
-    }
+    "established_rule": {"type": ["string", "null"]},
+    "problem": {"type": "string", "minLength": 1},
+    "reader_impact": {"type": "string", "minLength": 1},
+    "recommendation": {"type": ["string", "null"]},
+    "confidence": {"enum": ["high", "medium", "low"]}
   },
   "additionalProperties": false
 }

@@ -2295,13 +2295,13 @@ Dada Maya berdesir pelan. Bukan debar bahagia atau kebingungan emosional yang li
 
 Maya membuka bilah percakapan. Dua paragraf kalimat yang disusun rapi terpampang di hadapannya.
 
-May, ini Arman. Maaf kalau pesan ini mengganggu atau membuat kamu tidak nyaman. Aku tahu aku tidak punya hak untuk menghubungi kamu lagi setelah semua kesalahan yang aku buat di awal tahun lalu.
+May, ini Arman. Maaf kalau pesan ini mengganggu atau membuat kamu tidak nyaman. Aku tahu aku tidak punya hak untuk menghubungi kamu lagi setelah semua kesalahan yang aku buat di awal tahun ini.
 
 Aku tidak bermaksud menuntut atau mengacaukan hidupmu sekarang, May. Tapi selama hampir sepuluh bulan ini, ada beban berat yang tidak pernah selesai di dadaku. Kalau kamu berkenan dan punya waktu luang, aku sungguh-sungguh ingin minta waktu sebentar untuk bertemu. Ada permintaan maaf dan penjelasan yang ingin aku sampaikan secara langsung ke kamu.
 
 Maya menatap baris-baris tulisan itu lurus-lurus.
 
-Ingatan kepalanya mendadak berputar kembali ke pertengahan Januari dua ribu dua puluh lima. Ia teringat dinginnya lantai kamar ini ketika ia pertama kali mengetahui foto pertunangan Arman dan Celine yang berlangsung diam-diam pada dua puluh satu Desember dua ribu dua puluh empat, hampir sebelas bulan lalu. Ia ingat betul bagaimana hancurnya hatinya saat menyadari bahwa kesabarannya selama lima tahun hanyalah penantian pada janji palsu seorang pria yang mempertahankan dua hubungan sekaligus.
+Ingatan kepalanya mendadak berputar kembali ke sepuluh Januari dua ribu dua puluh lima. Ia teringat dinginnya lantai kamar ini ketika ia pertama kali mengetahui foto pertunangan Arman dan Celine yang berlangsung diam-diam pada dua puluh satu Desember dua ribu dua puluh empat, hampir sebelas bulan lalu. Ia ingat betul bagaimana hancurnya hatinya saat menyadari bahwa kesabarannya selama lima tahun hanyalah penantian pada janji palsu seorang pria yang mempertahankan dua hubungan sekaligus.
 
 Dahulu, Maya akan menghabiskan malam dengan jemari bergetar, membalik-balikkan ponsel, dan memohon penjelasan dari Arman yang terus menghindar. Dahulu, sapaan dari Arman adalah hal yang paling ia harapkan di dunia.
 
@@ -2823,7 +2823,7 @@ Ia membiarkan angin dingin menyusup di sela kemejanya. Ekspektasi tidak realisti
 
 Sabtu sore, sepuluh Januari dua ribu dua puluh enam, rintik gerimis tipis membasahi trotoar Jalan Riau. Di sudut sebuah kedai kopi beratap tinggi dengan dinding bata merah yang hangat, Maya duduk di dekat jendela, memandang uap tipis yang membumbung dari cangkir teh kamomil di hadapannya.
 
-Lima hari lalu, pada lima Januari, Maya memutuskan mengirim satu baris pesan formal kepada Dokter Daniel. Ia meminta waktu bertemu sejenak di tempat umum untuk sebuah percakapan penutup.
+Lima hari lalu, pada lima Januari, Maya memutuskan mengirim satu baris pesan formal melalui surel dinas kepada Dokter Daniel. Ia meminta waktu bertemu sejenak di tempat umum untuk sebuah percakapan penutup.
 
 Sejak akhir September tahun lalu, ketika seluruh komunikasi pribadi dihentikan pascakonfrontasi bersama Sarah, Maya dan Daniel tidak pernah benar-benar membicarakan perpisahan mereka secara langsung. Keputusan memutus kontak kala itu diambil dalam ketergesaan dan rasa bersalah. Kini, setelah melewati sesi konseling psikologis bersama Mbak Melani serta menyelesaikan urusan masa lalunya bersama Arman dan Bima, Maya merasa butuh menutup babak tersebut secara jernih dan mendewasa.
 
@@ -3247,7 +3247,7 @@ Daniel adalah seorang pria dewasa berusia tiga puluh enam tahun yang kompeten di
 
 Dan Maya tidak lagi menutupi perannya sendiri di balik jubah korban.
 
-Maya menyadari betul bahwa dirinya bukanlah seorang perempuan lugu yang tidak tahu apa-apa. Sejak pertengahan April dua ribu dua puluh lima, ia sudah mengetahui bahwa Daniel telah menikah dengan Sarah. Namun, karena kehausan batinnya akan validasi—karena dorongan kuat untuk membuktikan bahwa ada pria yang bersedia menginginkannya usai ditinggalkan Arman—Maya secara sadar memilih membalas pesan-pesan pribadi itu.
+Maya menyadari betul bahwa dirinya bukanlah seorang perempuan lugu yang tidak tahu apa-apa. Sejak pertemuan mereka di Hotel Papandayan pada April dua ribu dua puluh lima, ia sudah mengetahui bahwa Daniel telah menikah dengan Sarah. Namun, karena kehausan batinnya akan validasi—karena dorongan kuat untuk membuktikan bahwa ada pria yang bersedia menginginkannya usai ditinggalkan Arman—Maya secara sadar memilih membalas pesan-pesan pribadi itu.
 
 Ia menikmati perasaan dibutuhkan, membiarkan batas-batas moralnya kabur, dan tega ikut melukai Sarah murni demi memberi makan egonya sendiri.
 

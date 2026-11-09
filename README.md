@@ -36,6 +36,7 @@ Mengedit aturan dan konfigurasi Novel Editor tidak sama dengan mengedit naskah n
 
 ## Struktur
 
+- `SKILL.md`: entrypoint skill reusable untuk editor novel.
 - `AGENTS.md`: instruksi utama agent.
 - `EDITOR-PROTOCOL.md`: protokol audit, bukti, severity, dan kebijakan perbaikan.
 - `project.yaml`: konfigurasi cakupan, referensi, hard constraints, dan mode kerja.

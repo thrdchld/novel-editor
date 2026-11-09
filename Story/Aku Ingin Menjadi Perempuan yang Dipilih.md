@@ -2453,7 +2453,7 @@ Ratih menelan ludah, menghembuskan helaan napas pendek yang terhela berat.
 
 Kata bapakmu yang meluncur dari bibir Ratih seketika memotong arus udara di dalam ruangan. Maya terpaku di tempatnya duduk, pandangan matanya membeku pada wajah ibunya.
 
-Dua puluh satu tahun telah berlalu sejak Juni dua ribu empat, saat Bima melangkah keluar dari pintu rumah ini dan tak pernah kembali. Selama dua dekade lebih, nama itu seolah menjelma menjadi kata terlarang yang jarang diucapkan di dalam rumah Kiaracondong. Maya tumbuh dewasa dengan ingatan samar tentang sesosok pria tinggi yang meninggalkannya saat ia baru berusia tujuh tahun, meninggalkan luka tak kasatmata yang kelak membentuk ketakutan terbesarnya akan penolakan dan rasa tidak dipilih.
+Dua puluh satu tahun telah berlalu sejak Bima melangkah keluar dari pintu rumah ini dan tak pernah kembali. Selama dua dekade lebih, nama itu seolah menjelma menjadi kata terlarang yang jarang diucapkan di dalam rumah Kiaracondong. Maya tumbuh dewasa dengan ingatan samar tentang sesosok pria tinggi yang meninggalkannya saat ia baru berusia tujuh tahun, meninggalkan luka tak kasatmata yang kelak membentuk ketakutan terbesarnya akan penolakan dan rasa tidak dipilih.
 
 "Bapak... menghubungi Ibu?" tutur Maya dengan suara bergetar tipis, seolah meragukan pendengarannya sendiri.
 
@@ -2495,7 +2495,7 @@ Seorang pria paruh baya melangkah masuk dengan langkah kaki yang agak tertahan. 
 
 Maya menatap sosok itu lurus-lurus dari meja sudut.
 
-Meskipun dua puluh satu tahun telah berlalu sejak Juni dua ribu empat, Maya masih mengenali garis rahang dan bentuk alis pria tersebut. Itu adalah Bima—pria berusia lima puluh enam tahun yang pernah menjadi pusat dunia masa kecilnya sebelum melangkah keluar dari pintu rumah dan tak pernah kembali.
+Meskipun sudah dua puluh satu tahun berlalu, Maya masih mengenali garis rahang dan bentuk alis pria tersebut. Itu adalah Bima—pria berusia lima puluh enam tahun yang pernah menjadi pusat dunia masa kecilnya sebelum melangkah keluar dari pintu rumah dan tak pernah kembali.
 
 Bima mengedarkan pandangan ke sekeliling ruangan, lalu matanya tertambat pada Maya. Ada bisikan ketidakpercayaan yang memancar tipis di binar matanya saat menyadari putri kecil yang ditinggalkannya kini telah tumbuh menjadi seorang perempuan dewasa yang tegap.
 
@@ -2573,7 +2573,7 @@ Maya menatap raut wajah ibunya yang dihiasi garis-garis halus di sekitar mata. "
 
 Ratih menggeleng perlahan, menyunggingkan senyum pahit yang sarat akan kenangan masa lalu.
 
-"Ibu sudah tahu cerita itu sejak Juni dua ribu empat, May," ujar Ratih. Ia meletakkan pisang rebusnya kembali ke piring, melipat kedua telapak tangannya di atas pangkuan. "Tapi selama dua puluh satu tahun ini... ada bagian dari cerita itu yang sengaja Ibu simpan dari kamu."
+"Ibu sudah tahu cerita itu sejak Bima pergi, May," ujar Ratih. Ia meletakkan pisang rebusnya kembali ke piring, melipat kedua telapak tangannya di atas pangkuan. "Tapi selama dua puluh satu tahun ini... ada bagian dari cerita itu yang sengaja Ibu simpan dari kamu."
 
 Dada Maya berdesir pelan. Ia membetulkan posisi duduknya, menatap Ratih dengan kening berkerut halus. "Bagian apa, Bu?"
 
@@ -2631,7 +2631,7 @@ Menatap tiga nama itu berjejer di atas kertas, Maya merasakan desiran dingin men
 
 Untuk pertama kalinya dalam hidupnya, Maya melihat benang merah psikologis yang mengikat ketiga sosok pria tersebut secara utuh dan telanjang.
 
-Bima adalah sumber luka pertamanya. Kepergian sang ayah pada Juni dua ribu empat—saat Maya baru berusia tujuh tahun—telah menanamkan keyakinan bawah sadar bahwa orang yang paling ia cintai pada akhirnya akan melangkah pergi. Kebohongan manis yang diciptakan Ratih selama puluhan tahun bahwa Bima pergi karena terpaksa oleh keadaan, tanpa disadari telah melatih Maya kecil untuk menjadi seseorang yang selalu memaklumi ketidakberadaan dan terus menunggu penantian yang tak pasti.
+Bima adalah sumber luka pertamanya. Kepergian sang ayah saat Maya baru berusia tujuh tahun—telah menanamkan keyakinan bawah sadar bahwa orang yang paling ia cintai pada akhirnya akan melangkah pergi. Kebohongan manis yang diciptakan Ratih selama puluhan tahun bahwa Bima pergi karena terpaksa oleh keadaan, tanpa disadari telah melatih Maya kecil untuk menjadi seseorang yang selalu memaklumi ketidakberadaan dan terus menunggu penantian yang tak pasti.
 
 Pola itu kemudian berulang dengan sempurna dalam hubungannya bersama Arman selama lima tahun.
 
@@ -2739,7 +2739,7 @@ Maya menarik napas panjang, menghembuskannya perlahan. Jemari tangannya yang sal
 
 Mbak Melani mengangguk pelan, memberikan ruang bagi Maya untuk melanjutkan tanpa menyela.
 
-Maya mengurai kisahnya secara bertahap. Ia menceritakan kepergian Bima pada Juni dua ribu empat saat ia baru berusia tujuh tahun, dan bagaimana Ratih menyembunyikan kenyataan itu dengan alasan-alasan manis yang melatih Maya kecil untuk terus menunggu. Ia menjelaskan hubungannya bersama Arman selama lima tahun—bagaimana ia bertahun-tahun memaklumi ketidakjelasan janji pernikahan hingga akhirnya ditinggalkan demi wanita lain.
+Maya mengurai kisahnya secara bertahap. Ia menceritakan kepergian Bima saat ia baru berusia tujuh tahun, dan bagaimana Ratih menyembunyikan kenyataan itu dengan alasan-alasan manis yang melatih Maya kecil untuk terus menunggu. Ia menjelaskan hubungannya bersama Arman selama lima tahun—bagaimana ia bertahun-tahun memaklumi ketidakjelasan janji pernikahan hingga akhirnya ditinggalkan demi wanita lain.
 
 Dan dengan kejujuran yang pahit tanpa pembelaan diri, Maya menceritakan keterlibatannya bersama Dokter Daniel.
 
@@ -3277,7 +3277,7 @@ Maya menarik napas panjang, menghembuskannya perlahan. Jemari tangannya mengusap
 
 Mbak Melani mengangguk pelan, menyandarkan punggung pada sofa kainnya dan menyimak dengan saksama.
 
-"Sejak pertemuan kami di Lengkong Besar akhir November lalu dan kejujuran Ibu soal kepergian Bapak dua puluh satu tahun lalu," tutur Maya pelan, "saya sadar bahwa sebagian besar rasa takut saya bermula dari bulan Juni dua ribu empat."
+"Sejak pertemuan kami di Lengkong Besar akhir November lalu dan kejujuran Ibu soal kepergian Bapak dua puluh satu tahun lalu," tutur Maya pelan, "saya sadar bahwa sebagian besar rasa takut saya bermula sejak Bapak pergi."
 
 Maya menatap pendar sinar matahari di atas meja kayu.
 
@@ -3293,11 +3293,11 @@ Ruang konseling itu hening sejenak. Suara cicit burung di pepohonan luar jendela
 
 Mbak Melani membetulkan posisi duduknya, menatap Maya lurus-lurus.
 
-"Anak kecil berusia tujuh tahun memang tidak punya daya untuk memahami kompleksitas keputusan orang dewasa," jelas Mbak Melani. "Ketika Bapak memilih pergi pada Juni dua ribu empat, keputusan itu murni bersumber dari kelemahan, ketakutan, dan egoisme Bapak sendiri. Itu sama sekali tidak ada hubungannya dengan nilai diri Mbak Maya."
+"Anak kecil berusia tujuh tahun memang tidak punya daya untuk memahami kompleksitas keputusan orang dewasa," jelas Mbak Melani. "Ketika Bapak memilih pergi saat Mbak Maya masih berusia tujuh tahun, keputusan itu murni bersumber dari kelemahan, ketakutan, dan egoisme Bapak sendiri. Itu sama sekali tidak ada hubungannya dengan nilai diri Mbak Maya."
 
 Mbak Melani menghentikan kalimatnya sejenak, memberikan ruang bagi kata-katanya untuk meresap.
 
-"Namun, yang paling penting untuk Mbak Maya terima hari ini adalah kenyataan ini," tegas Mbak Melani: "Mbak Maya tidak bisa memutar waktu kembali ke Juni dua ribu empat untuk mengubah keputusan Bapak. Mbak Maya tidak bisa mengubah lima tahun kebohongan Arman, dan Mbak Maya tidak bisa menghapus kenyataan bahwa hubungan bersama Daniel pernah melanggar batas."
+"Namun, yang paling penting untuk Mbak Maya terima hari ini adalah kenyataan ini," tegas Mbak Melani: "Mbak Maya tidak bisa memutar waktu untuk mengubah keputusan Bapak. Mbak Maya tidak bisa mengubah lima tahun kebohongan Arman, dan Mbak Maya tidak bisa menghapus kenyataan bahwa hubungan bersama Daniel pernah melanggar batas."
 
 Maya menunduk, membiarkan kalimat itu mengendap di dalam dadanya. Tidak ada rasa perih menghimpit, melainkan penerimaan dingin yang amat jujur.
 
@@ -3545,7 +3545,7 @@ Maya melangkah masuk ke dalam kamar, meletakkan cangkir tehnya di atas meja kerj
 
 Maya memandangi bayangan dirinya di cermin rias berbingkai kayu di sudut kamar.
 
-Dua puluh delapan tahun perjalanan hidupnya berputar perlahan di dalam ingatan. Maya mengingat kembali anak kecil berusia tujuh tahun pada Juni dua ribu empat yang berdiri menunggu di dekat jendela Kiaracondong, meratapi kepergian Bima yang melangkah keluar dari pintu tanpa pernah kembali. Ia mengingat lima tahun kebersamaannya bersama Arman—tahun-tahun di mana ia membiarkan dirinya digantung dalam ketidakpastian janji nikah murni karena takut dianggap menuntut dan takut ditinggalkan.
+Dua puluh delapan tahun perjalanan hidupnya berputar perlahan di dalam ingatan. Maya mengingat kembali anak kecil berusia tujuh tahun yang berdiri menunggu di dekat jendela Kiaracondong, meratapi kepergian Bima yang melangkah keluar dari pintu tanpa pernah kembali. Ia mengingat lima tahun kebersamaannya bersama Arman—tahun-tahun di mana ia membiarkan dirinya digantung dalam ketidakpastian janji nikah murni karena takut dianggap menuntut dan takut ditinggalkan.
 
 Dan ia mengingat bulan-bulan terlarang bersama Dokter Daniel—masa-masa di mana kehausan batinnya akan validasi membuat dirinya menutup mata dari batas pernikahan orang lain dan ikut melukai wanita seperti Sarah.
 

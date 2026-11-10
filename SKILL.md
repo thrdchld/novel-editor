@@ -10,8 +10,8 @@ Use this repository as a complete editorial standard, not merely a technical pro
 ## Required reading
 1. Read AGENTS.md and EDITOR-PROTOCOL.md.
 2. Read the project configuration, brief, outline, canon, manuscript map, and relevant references.
-3. Read rules/15-narrative-and-reader-experience.md and other applicable rules.
-4. Read the chapter, cross-chapter, narrative, and publication checklists.
+3. Read rules/15-narrative-and-reader-experience.md, rules/16-story-assessment-and-developmental-editing.md, rules/17-scene-and-line-editing.md, and other applicable rules.
+4. Read the developmental, chapter, cross-chapter, narrative-reader, and publication checklists.
 5. Use report templates where available.
 
 ## Core mandate

@@ -74,11 +74,15 @@ Adegan Ratih pingsan diperiksa terhadap:
 
 Hasilnya: gambaran hipotensi ortostatik akibat kekurangan cairan dan terapi cairan masih masuk akal. Penjelasan dokter diperbaiki agar tidak menyiratkan EKG dan tes darah saja dapat menyingkirkan stroke. Tidak ditemukan alasan untuk menambahkan CT kepala secara otomatis hanya demi membuat adegan tampak medis.
 
+Sumber yang diperiksa: Mayo Clinic, *Orthostatic Hypotension: Diagnosis and Treatment*; healthdirect, *Low Blood Pressure (Hypotension)*; CDC, *Mild TBI Management Guideline* (29 Juli 2025); dan NSW Emergency Care Institute, *Colles Fracture Clinical Tool*.
+
 ## 5. Pemeriksaan hukum ketenagakerjaan
 
 Surat pemberitahuan pada 24 Januari dan hari terakhir Maya bekerja di kantor pada 31 Januari semula dapat terbaca sebagai PHK efektif hanya tujuh hari setelah pemberitahuan. PP Nomor 35 Tahun 2021 Pasal 37 ayat (3) menetapkan pemberitahuan PHK secara tertulis paling lama 14 hari kerja sebelum PHK; pengecualian 7 hari kerja hanya untuk PHK dalam masa percobaan. Outline dan riwayat cerita menunjukkan Maya telah bekerja bertahun-tahun, bukan dalam masa percobaan.
 
 Perbaikan minimal: 31 Januari dipertahankan sebagai **hari terakhir Maya bekerja di kantor**, sedangkan surat menyatakan hubungan kerja resmi berakhir setelah masa pemberitahuan 14 hari kerja. Tanggal akhir hubungan kerja tidak dipaksakan karena 2025 memiliki hari libur nasional pada 27 dan 29 Januari serta cuti bersama 28 Januari; pelaksanaan cuti bersama di perusahaan swasta dapat bergantung pada kebijakan perusahaan. Dengan demikian, naskah tidak lagi menyajikan tenggat tujuh hari sebagai prosedur PHK yang normal.
+
+Sumber yang diperiksa: JDIH Kementerian Ketenagakerjaan, PP Nomor 35 Tahun 2021 Pasal 37 ayat (3)–(4), status berlaku; serta SKB 3 Menteri tentang Hari Libur Nasional dan Cuti Bersama Tahun 2025.
 
 ## 6. Batas audit dan langkah berikutnya
 

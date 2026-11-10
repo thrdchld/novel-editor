@@ -14,9 +14,9 @@ story_projects:
   manuscript_locations: ["chapters/**/*.md", "manuscript.md", "naskah/**/*.md", "naskah/**/*.txt"]
   report_directory: "reports"
 outline:
-  template: "../templates/outline-template.md"
-  guide: "../templates/outline-template-guide.md"
-  validation_rules: "../rules/14-outline-validation.md"
+  template: "templates/outline-template.md"
+  guide: "templates/outline-template-guide.md"
+  validation_rules: "rules/14-outline-validation.md"
   format_agnostic: true
   allow_additional_sections: true
   allow_freeform_notes: true

@@ -2753,7 +2753,7 @@ Mbak Melani menatap Maya lurus-lurus dengan binar mata empati.
 
 "Dari apa yang Mbak Maya ceritakan," lanjut Mbak Melani, "ada mekanisme pertahanan diri yang terbentuk sejak usia tujuh tahun. Ketika seorang anak mengalami penolakan atau kehilangan tanpa penjelasan yang jujur, anak tersebut sering kali menyimpulkan secara salah bahwa dirinyalah yang kurang berharga. Dan untuk mencegah kehilangan berikutnya, anak itu tumbuh menjadi orang yang selalu berusaha memaklumi, mengalah, dan menyenangkan orang lain."
 
-Kata-kata Mbak Melani meresap dalam ke dalam batin Maya.
+Kata-kata Mbak Melani meresap ke dalam batin Maya.
 
 "Sikap memaklumi dan bersabar yang Mbak Maya jalani bersama Arman—dan rasa butuh diakui bersama Daniel—sebenarnya bukan murni bentuk ketulusan," tegas Mbak Melani dengan kejelasan yang presisi. "Itu adalah bentuk strategi bertahan hidup agar Mbak Maya tidak ditinggalkan lagi. Mbak Maya merasa jika Mbak Maya cukup mengerti dan tidak menuntut, orang tersebut akan memilih untuk tinggal."
 
@@ -2829,7 +2829,7 @@ Sejak akhir September tahun lalu, ketika seluruh komunikasi pribadi dihentikan p
 
 Langkah kaki yang teratur terdengar mendekat. Maya mendongak saat siluet tegap Daniel melangkah menghampiri meja sudut.
 
-Daniel mengenakan kemeja katun biru tua dengan celana kain gelap. Pria berusia tiga puluh enam tahun itu tampak lebih tenang dibanding empat bulan lalu. Gurat kelelahan di sekitar matanya masih ada, tetapi pembawaannya kini memancarkan kepastian yang tidak lagi dibanyangi kebohongan.
+Daniel mengenakan kemeja katun biru tua dengan celana kain gelap. Pria berusia tiga puluh enam tahun itu tampak lebih tenang dibanding empat bulan lalu. Gurat kelelahan di sekitar matanya masih ada, tetapi pembawaannya kini memancarkan kepastian yang tidak lagi dibayangi kebohongan.
 
 "Selamat sore, Maya," sapa Daniel dengan nada suara yang hangat dan penuh hormat.
 
@@ -3091,7 +3091,7 @@ Maya meletakkan pulpennya, meraih ponsel tersebut. Di layar kaca, sebuah notifik
 
 Maya menarik napas panjang yang tenang, membuka bilah percakapan.
 
-Selamat sore, Maya. Semoga harimu menyenangkan di kantor. Bapak cuma ingin menanyakan kabarmu dan Ibu di rumah. Hari ini Bapak sudah kembali ke kegiatan harian di toko kelontong. Bapak selalu mendoakan kesehatan dan kelancaran pekerjamu di sana. Tidak perlu terburu-buru membalas kalau kamu sedang sibuk.
+Selamat sore, Maya. Semoga harimu menyenangkan di kantor. Bapak cuma ingin menanyakan kabarmu dan Ibu di rumah. Hari ini Bapak sudah kembali ke kegiatan harian di toko kelontong. Bapak selalu mendoakan kesehatan dan kelancaran pekerjaanmu di sana. Tidak perlu terburu-buru membalas kalau kamu sedang sibuk.
 
 Maya membaca deretan kalimat itu dengan binar mata yang jernih.
 
@@ -3123,7 +3123,7 @@ Maya menggeser layar ponselnya, meletakkan benda tersebut tertungkup di samping 
 
 Ia berdiri perlahan, melangkah menuju jendela kamar dan membuka katup kayunya. Angin malam kota Bandung berhembus masuk membawa hawa sejuk sisa gerimis sore.
 
-Maya memejamkan mata sejenak, menghirup udara dingin itu dalam-dalam. Tidak ada amarah yang tersisa di dalam dadanya, tidak pula ada dorongan dendam yang menyiksa. Yang ada hanyalah rasa lega yang teramat jujur. Maya menyadari bahwa ia telah memegang kendali penuh atas emosinya sendiri—ia berhak menentukan kecepatan pemulihannya, menetapkan batas tanpa rasa bersalah, dan melangkah maju tanpa lagi dibanyangi oleh keharusan menyenangkan orang lain.
+Maya memejamkan mata sejenak, menghirup udara dingin itu dalam-dalam. Tidak ada amarah yang tersisa di dalam dadanya, tidak pula ada dorongan dendam yang menyiksa. Yang ada hanyalah rasa lega yang teramat jujur. Maya menyadari bahwa ia telah memegang kendali penuh atas emosinya sendiri—ia berhak menentukan kecepatan pemulihannya, menetapkan batas tanpa rasa bersalah, dan melangkah maju tanpa lagi dibayangi oleh keharusan menyenangkan orang lain.
 
 # **BAB 64: Hari-Hari Biasa**
 

@@ -7,6 +7,10 @@
 - [ ] Benda yang digunakan punya lokasi/pemegang/kondisi yang masuk akal.
 - [ ] Geografi dan akses lokasi konsisten.
 - [ ] Waktu cukup untuk perjalanan, deadline, pemulihan, dan tindakan.
+- [ ] Flashback/lompatan waktu memiliki penanda alami yang cukup; pembaca tidak harus menebak kapan adegan terjadi.
+- [ ] Posisi tokoh/benda dan urutan aksi fisik dapat diikuti tanpa kontradiksi.
+- [ ] Batas POV konsisten; pikiran tokoh di luar POV tidak masuk tanpa perpindahan yang jelas.
+- [ ] Prosedur/fakta dunia nyata yang material bagi kejadian telah diverifikasi atau ditandai REVIEW.
 - [ ] Aturan dunia, batas, dan biaya diterapkan konsisten.
 - [ ] Fakta dunia baru tidak diam-diam membatalkan fakta lama.
 - [ ] Informasi sampai ke tokoh melalui jalur yang masuk akal.

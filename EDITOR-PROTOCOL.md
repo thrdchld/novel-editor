@@ -59,7 +59,7 @@ Severity dan release impact adalah dua dimensi berbeda. Kesalahan ejaan dapat ER
 
 ## 8. Hindari false positive
 
-Tokoh boleh berbohong, lupa, salah ingat, atau bertindak tidak rasional. Narator boleh tidak dapat dipercaya. Aturan dunia boleh punya pengecualian. Misteri boleh menahan informasi. Repetisi bisa menjadi motif. AI-slop bukan bukti bahwa teks ditulis AI. Realisme dunia nyata hanya digunakan jika cerita mengklaim mengikuti kondisi nyata atau proyek meminta pemeriksaan tersebut.
+Tokoh boleh berbohong, lupa, salah ingat, atau bertindak tidak rasional. Narator boleh tidak dapat dipercaya. Aturan dunia boleh punya pengecualian. Misteri boleh menahan informasi. Repetisi bisa menjadi motif. AI-slop bukan bukti bahwa teks ditulis AI. Verifikasi fakta dunia nyata hanya dilakukan pada detail/prosedur yang material dan secara eksplisit mengacu pada kondisi nyata; jangan memaksakan realisme pada fantasi atau detail kosmetik. Jika bukti tidak cukup, tandai REVIEW.
 
 Jangan menandai pilihan gaya sebagai kesalahan bahasa. Jangan menuntut semua detail kosmetik konsisten jika tidak relevan. Jangan menganggap ejaan tidak baku dalam dialog sebagai typo bila jelas merupakan karakterisasi/ucapan tokoh dan tidak melanggar hard constraint proyek.
 

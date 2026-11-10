@@ -75,8 +75,8 @@ Kategori dan format laporan lengkap berada di EDITOR-PROTOCOL.md dan rules/.
 - AGENTS.md: mandat dan instruksi utama agent.
 - SKILL.md: entrypoint reusable.
 - EDITOR-PROTOCOL.md: prosedur kerja, diagnosis, bukti, severity, dan kebijakan edit.
-- rules/: standar story assessment, developmental, narrative, scene, continuity, line/copy editing, outline, dan publication.
-- checklists/: alat bantu audit; bukan pengganti pembacaan dan penilaian.
+- rules/: standar plot/kausalitas, continuity, story assessment & developmental editing (16), narrative & reader experience (15), scene & line editing (17), copyediting, outline, dan publication.
+- checklists/: alat bantu developmental, narrative-reader, chapter, cross-chapter, technical, dan publication audit; bukan pengganti pembacaan dan penilaian.
 - templates/: format outline, laporan, dan artefak editorial.
 - scripts/: scanner mekanis; tidak dapat menggantikan penilaian naratif.
 - schemas/ dan tests/: struktur data dan pengujian.

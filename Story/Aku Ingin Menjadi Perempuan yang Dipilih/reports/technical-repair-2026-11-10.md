@@ -8,7 +8,7 @@ Versi manuskrip setelah perbaikan: `c235875ff0f569088936c5c4dea76207b99ff774`
 
 **Perbaikan teknis utama telah diterapkan. Struktur naskah kini lengkap dan hasil pemeriksaan otomatis struktur tidak menemukan bab hilang, nomor ganda, atau judul yang berbeda dari outline.**
 
-Status ini belum sama dengan sertifikasi proofread kata demi kata untuk seluruh 51.035 kata. Audit ini memeriksa struktur, kronologi utama, kontinuitas lintas bab yang terindikasi, batas POV, fakta medis yang relevan, format, serta kesalahan bahasa objektif yang ditemukan. Pemeriksaan akhir untuk detail bahasa dan fakta dunia nyata lain tetap harus dilakukan sebelum memberi label final `READY TO PUBLISH`.
+Status ini belum sama dengan sertifikasi proofread kata demi kata untuk seluruh 51.051 kata. Audit ini memeriksa struktur, kronologi utama, kontinuitas lintas bab yang terindikasi, batas POV, fakta medis yang relevan, format, serta kesalahan bahasa objektif yang ditemukan. Pemeriksaan akhir untuk detail bahasa dan fakta dunia nyata lain tetap harus dilakukan sebelum memberi label final `READY TO PUBLISH`.
 
 ## 1. Perbaikan pada manuskrip
 
@@ -69,8 +69,9 @@ Dokumen yang diperbarui: `AGENTS.md`, `SKILL.md`, `EDITOR-PROTOCOL.md`, `rules/0
 ## 4. Pemeriksaan fakta medis yang dilakukan
 
 Adegan Ratih pingsan diperiksa terhadap:
-- Direktorat Jenderal Kesehatan Lanjutan Kementerian Kesehatan RI, materi tentang hipotensi ortostatik: pengukuran tekanan darah dan denyut nadi dalam perubahan posisi, kemungkinan hipovolemia/dehidrasi, dan penggunaan cairan intravena pada kondisi yang memerlukan.
-- CDC, *About Mild TBI and Concussion* (15 September 2025): evaluasi klinis diperlukan; CT kepala tidak otomatis dibutuhkan pada setiap kasus gegar otak ringan dan dipertimbangkan berdasarkan faktor risiko.
+- Mayo Clinic, *Orthostatic Hypotension: Diagnosis and Treatment*: diagnosis mencakup pengukuran tekanan darah pada perubahan posisi; penyebab dan tata laksana ditentukan berdasarkan evaluasi klinis.
+- healthdirect, *Low Blood Pressure (Hypotension)*: dehidrasi dapat berkaitan dengan hipotensi dan cairan intravena dapat digunakan pada kondisi akut yang memerlukan.
+- CDC, *Mild TBI Management Guideline* (29 Juli 2025): evaluasi klinis diperlukan; CT kepala tidak otomatis dibutuhkan pada setiap kasus gegar otak ringan dan dipertimbangkan berdasarkan faktor risiko.
 
 Hasilnya: gambaran hipotensi ortostatik akibat kekurangan cairan dan terapi cairan masih masuk akal. Penjelasan dokter diperbaiki agar tidak menyiratkan EKG dan tes darah saja dapat menyingkirkan stroke. Tidak ditemukan alasan untuk menambahkan CT kepala secara otomatis hanya demi membuat adegan tampak medis.
 

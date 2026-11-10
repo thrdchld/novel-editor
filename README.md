@@ -35,7 +35,8 @@ Genre pada project.yaml hanya konteks deskriptif. Genre tidak boleh otomatis men
 
 ## Mode kerja
 
-- **Audit:** default read-only. Tidak mengubah naskah.
+- **Audit mandiri read-only:** jika pengguna hanya meminta pemeriksaan, tidak mengubah naskah.
+- **Workflow produksi:** saat pengguna menjalankan Novel Editor pada folder novel, perbaikan teknis otomatis adalah default; editor menganalisis, memutuskan, mengedit, menyimpan, dan memverifikasi.
 - **Keputusan editorial:** editor wajib menyelesaikan analisis bukti, kronologi, sebab-akibat, dan kontinuitas sebelum meminta klarifikasi. Editor harus menentukan apakah manuskrip, outline, timeline, atau canon yang perlu diperbaiki; perbedaan dari outline tidak otomatis merupakan kesalahan.
 - **Klarifikasi:** hanya untuk pilihan material yang tetap sama kuat setelah semua bukti internal diperiksa. Editor harus menyajikan alternatif, bukti, rekomendasi, confidence, dan konsekuensinya.
 - **Perbaikan atas instruksi eksplisit:** jika pengguna meminta koreksi diterapkan, editor boleh mengubah naskah sesuai temuan yang disetujui/terbukti. Jangan mengubah tone atau gaya.
@@ -49,9 +50,9 @@ Mengedit aturan dan konfigurasi Novel Editor tidak sama dengan mengedit naskah n
 - `AGENTS.md`: instruksi utama agent.
 - `EDITOR-PROTOCOL.md`: protokol audit, bukti, severity, dan kebijakan perbaikan.
 - `project.yaml`: konfigurasi cakupan, referensi, hard constraints, dan mode kerja.
-- `rules/`: standar pemeriksaan teknis, termasuk `rules/12-outline-leakage.md` dan `rules/13-editorial-decision-making.md`.
+- `rules/`: standar pemeriksaan teknis, termasuk `rules/12-outline-leakage.md`, `rules/13-editorial-decision-making.md`, dan `rules/14-outline-validation.md`.
 - `checklists/`: checklist bab, lintas bab, worldbuilding, teknis naskah, dan publikasi.
-- `templates/`: format laporan temuan dan keputusan.
+- `templates/`: outline universal, panduan outline, konfigurasi proyek novel, dan format laporan temuan/approval.
 - `scripts/`: scanner mekanis; bukan pengganti audit kontekstual.
 - `schemas/`: skema data temuan.
 - `tests/`: pengujian scanner.
@@ -60,7 +61,7 @@ Mengedit aturan dan konfigurasi Novel Editor tidak sama dengan mengedit naskah n
 
 1. Tempatkan paket ini di repository novel atau gunakan sebagai standar terpisah.
 2. Sesuaikan `project.yaml` dengan lokasi naskah dan dokumen referensi yang benar-benar ada.
-3. Masukkan outline, canon, timeline, character bible, world bible, dan glossary jika tersedia.
+3. Buat satu folder Story/<Judul Novel>/; salin templates/story-project.yaml sebagai project.yaml lokal, lalu masukkan outline dan dokumen referensi yang tersedia.
 4. Jalankan:
 
    ```bash

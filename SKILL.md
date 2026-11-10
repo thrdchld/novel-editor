@@ -56,3 +56,16 @@ When outline and manuscript disagree, determine whether the manuscript, outline,
 Ask the author only when multiple material alternatives remain equally supported after all internal evidence has been examined. Before asking, provide the alternatives, evidence for each, completed analysis, the editor's recommendation, confidence, and consequences. Never ask "which is correct?" without a reasoned recommendation.
 
 Do not silently replace approved canon. Permission to edit editor/repository rules does not automatically authorize manuscript edits. Follow rules/13-editorial-decision-making.md.
+
+
+## Multi-project production workflow
+- Treat each Story/<Novel Title>/ as an independent project; root config supplies defaults and local project.yaml overrides them.
+- Support both pre-drafting outline audits and post-drafting manuscript audits.
+- Accept any readable outline format; map its contents to the universal template categories rather than rejecting different headings/order.
+- Use templates/outline-template.md and templates/outline-template-guide.md for cross-model handoff.
+- Follow rules/14-outline-validation.md for completeness, consistency, automatic repair, verification, and approval.
+- Default production behavior is automatic technical repair: analyze, decide, edit, save, and verify without per-finding approval.
+- Preserve locked creative decisions. Ask only for genuinely unresolved material author choices after evidence analysis.
+- Compare the full manuscript with approved outline/canon and technical standards. Patch technical errors without changing style, voice, tone, or artistic diction.
+- Keep reports and continuity artifacts inside the relevant novel folder.
+- Read-only mode applies only when explicitly requested.

@@ -1,36 +1,42 @@
-project:
-  title: "Aku Ingin Menjadi Perempuan yang Dipilih"
-  # Descriptive metadata only; never activates genre formulas or mandatory conventions.
-  genre_context: ["Contemporary Romance", "Psychological Drama", "Forbidden Love", "Family Drama"]
-  language: "id"
-  audit_mode: "review_and_edit_on_explicit_request"
-manuscript:
-  include:
-    - "Story/**/*.md"
-    - "chapters/**/*.md"
-    - "naskah/**/*.md"
-    - "naskah/**/*.txt"
-  exclude:
-    - "**/archive/**"
-    - "**/draft-old/**"
-    - "**/draft_old/**"
-    - "**/novel-editor-reports/**"
-references:
-  canon:
-    - "references/MASTER-OUTLINE-FINAL-V4.md"
-  world_bible:
-    - "references/MASTER-OUTLINE-FINAL-V4.md"
-  character_bible:
-    - "references/MASTER-OUTLINE-FINAL-V4.md"
-  outline:
-    - "references/MASTER-OUTLINE-FINAL-V4.md"
-  timeline:
-    - "references/MASTER-OUTLINE-FINAL-V4.md"
-  continuity_ledger: []
-  glossary: []
-  other: []
+# Root defaults for the Novel Editor. Each novel is independent under Story/<Title>/.
+editor:
+  name: "Novel Editor"
+  scope: "genre-agnostic technical editing"
+  default_workflow: "automatic_audit_repair_verify"
+  preserve_authorial_style: true
+  preserve_creative_decisions: true
+  genre_is_descriptive_only: true
+story_projects:
+  root: "Story"
+  discovery: "one folder per novel"
+  entry_files: ["outline.md", "project.yaml"]
+  optional_references: ["canon.md", "timeline.md", "character-bible.md", "world-bible.md", "continuity-ledger.md", "glossary.md"]
+  manuscript_locations: ["chapters/**/*.md", "manuscript.md", "naskah/**/*.md", "naskah/**/*.txt"]
+  report_directory: "reports"
+outline:
+  template: "../templates/outline-template.md"
+  guide: "../templates/outline-template-guide.md"
+  validation_rules: "../rules/14-outline-validation.md"
+  format_agnostic: true
+  allow_additional_sections: true
+  allow_freeform_notes: true
+  mark_unknown_values: true
+audit:
+  outline_before_drafting: true
+  manuscript_against_approved_outline: true
+  cross_chapter_audit: true
+  automatic_repair: true
+  verify_after_repair: true
+  ask_only_for_unresolved_material_creative_choices: true
+repair_policy:
+  technical_corrections: "automatic"
+  preserve_locked_canon: true
+  preserve_tone_voice_diction_and_style: true
+  no_unrequested_creative_rewrites: true
+  no_silent_canon_retcon: true
 constraints:
-  em_dash_forbidden: false
+  genre_formulas_enabled: false
+  worldbuilding_depth: "proportional_to_story"
   word_count:
     enabled: false
     min_per_chapter: null
@@ -39,38 +45,10 @@ constraints:
     enabled: true
     check_unclosed_fences: true
     check_chapter_sequence: true
-    chapter_heading_regex: '^#{1,6}\s+\*{0,3}BAB\s+(\d+)\b'
-    stray_note_patterns:
-      - '(?i)\bTODO\b'
-      - '(?i)\bFIXME\b'
-      - '(?i)CATATAN EDITOR'
-      - '(?i)NOTE TO SELF'
-      - '(?i)\[PLACEHOLDER\]'
   custom_rules: []
-worldbuilding:
-  track_explicit_rules: true
-  track_limits_and_costs: true
-  track_exceptions: true
-  track_institutions_and_systems: true
-  track_geography_and_travel: true
-continuity:
-  track_character_state: true
-  track_character_knowledge: true
-  track_objects: true
-  track_locations: true
-  track_relationships: true
-  track_money_and_resources: true
-  track_timeline: true
-technical_review:
-  enabled: true
-  check_spelling_and_grammar_contextually: true
-  check_punctuation: true
-  check_name_and_term_consistency: true
-  check_editorial_artifacts: true
-  check_markdown_rendering: true
-  check_chapter_structure: true
 report:
-  output_dir: "novel-editor-reports"
-  include_quotes: true
-  include_minimal_recommendations: true
-  edit_policy: "only_on_explicit_user_request"
+  include_scope_and_limitations: true
+  include_evidence_and_line_locations: true
+  include_changes_applied: true
+  include_verification_results: true
+  include_publication_readiness: true

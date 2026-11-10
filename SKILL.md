@@ -1,71 +1,52 @@
 ---
 name: novel-editor
-description: Audit and technically edit novels without judging tone, style, voice, or artistic diction. Checks plot logic, causality, timeline and reader orientation, scene blocking and continuity, worldbuilding and verification of material real-world domain facts/procedures, POV/character knowledge, setup/payoff, technical language correctness, punctuation, names and terms, Markdown structure, repetition, and publication readiness. Use when reviewing, checking, proofreading, preparing, or applying technical corrections to a novel manuscript.
+description: Professionally assess, edit, repair, and validate AI-generated or human-written novels. Covers story foundations, developmental structure, narrative flow, reader orientation, scene craft, character and continuity, line editing, copyediting, and publication readiness across genres.
 ---
 
 # Novel Editor Skill
 
-Use this repository as the technical editing standard.
+Use this repository as a complete editorial standard, not merely a technical proofreading checklist.
 
 ## Required reading
+1. Read AGENTS.md and EDITOR-PROTOCOL.md.
+2. Read the project configuration, brief, outline, canon, manuscript map, and relevant references.
+3. Read rules/15-narrative-and-reader-experience.md and other applicable rules.
+4. Read the chapter, cross-chapter, narrative, and publication checklists.
+5. Use report templates where available.
 
-Before auditing or editing:
-1. Read \`AGENTS.md\`.
-2. Read \`EDITOR-PROTOCOL.md\`.
-3. Read \`project.yaml\` and verify manuscript/reference coverage.
-4. Read the relevant files in \`rules/\`, including \`rules/13-editorial-decision-making.md\`, and the applicable files in \`checklists/\`.
-5. Use the report templates in \`templates/\`.
+## Core mandate
+- Evaluate both whether the story works and whether it is successfully conveyed to a reader.
+- Treat AI-generated manuscripts as drafts that may contain structural, causal, narrative, scene-level, prose, language, and formatting defects.
+- Do not limit editing to outline compliance, timeline, continuity, spelling, or mechanical checks.
+- Read as a reader first; then diagnose as an editor.
+- Assess structure and story logic before line polishing.
+- Identify missing orientation, abrupt flashback transitions, unclear scene changes, weak causal links, stalled/repeated scenes, unclear motivation, missing reactions, confusing POV, exposition problems, and awkward prose.
+- Make corrections when the intended solution is supported by the manuscript, outline, canon, or context.
+- Preserve creative identity; do not impose a generic voice or genre formula.
+- Verify all edits in context and report what remains unresolved.
 
-## Operating rules
+## Editing sequence
+1. Scope and project understanding.
+2. Reader-first assessment.
+3. Story/developmental edit.
+4. Narrative and reader-orientation edit.
+5. Scene edit.
+6. Continuity, timeline, POV, world rules, and fact check.
+7. Line edit.
+8. Copyedit and formatting.
+9. Re-read and publication gate.
 
-- This standard is genre-agnostic and applies to all genres, subgenres, hybrids, and forms of fiction.
-- Treat genre labels as descriptive context only. Never impose genre tropes, formulas, required arcs, pacing, or endings unless the author explicitly asks for a brief/genre-fit evaluation.
-- When genre-fit evaluation is requested, compare only against the author's stated brief and report it separately from technical story errors.
+## Important distinctions
+- Flashbacks do not require a particular tense. Their entry, temporal context, and return must be understandable.
+- A technically consistent timeline does not guarantee clear narrative time transitions.
+- An outline is evidence of intent, not an infallible authority.
+- A scene can be logically possible but poorly conveyed; both questions must be assessed.
+- Style is not automatically exempt from editing: a sentence or paragraph may be revised if it fails to communicate the intended action, thought, emotion, or transition. Do not rewrite solely for taste.
+- A checklist is a prompt for attention, not proof that a manuscript passed.
 
-- Audit all technical dimensions defined in README and AGENTS, including reader orientation across flashbacks/time jumps, physical scene blocking, POV boundaries, and material real-world procedures/facts when relevant.
-- Perform an Outline Leakage Audit: distinguish planning facts from reader-facing narration; inspect timeline stamps, structural labels, character summaries, scene-purpose explanations, emotional-arc labels, worldbuilding dumps, reveal instructions, repeated exposition, editorial artifacts, and mechanical cross-chapter patterns.
-- If planning documents are unavailable, label the work a surface scan and do not claim direct outline-to-manuscript comparison.
-- Do not judge or rewrite tone, style, voice, artistic diction, humor, or aesthetic preferences.
-- Check objective spelling, typo, grammar, punctuation, terminology, factual consistency, Markdown, chapter structure, and editorial artifacts.
-- Separate confirmed errors from uncertain findings.
-- Support every non-INFO finding with exact evidence and location.
-- Audit chapters individually and then cross-chapter dependencies.
-- Build and maintain a fact ledger for long manuscripts.
-- Give a practical publication-readiness decision: READY TO PUBLISH, READY WITH MINOR FIXES, NOT READY, or INSUFFICIENT EVIDENCE.
-- For a standalone audit-only request, remain read-only. In the user's production workflow on a novel folder, automatic technical repair is authorized by default.
-- Make minimal technical corrections, preserve the author's style, and verify every change plus its cross-chapter effects. Honor an explicit read-only request.
-
-## Output
-
-Produce:
-1. audit scope and limitations;
-2. findings with severity, release impact, evidence, reader impact, confidence, and minimal recommendation;
-3. cross-chapter continuity/timeline summary;
-4. technical manuscript summary;
-5. publication-readiness decision.
-
-Never claim a complete audit when files or chapters were omitted. Never call a manuscript perfect or defect-free merely because no issue was found.
-
-
-## Editorial decision authority
-
-Do not merely list contradictions or return solvable analysis to the author. The editor must resolve issues using the full manuscript context, canon status and version, chronology, causality, character state and knowledge, setup/payoff, and the smallest coherent correction.
-
-When outline and manuscript disagree, determine whether the manuscript, outline, timeline, bible, or canon record should change. Classify the result as MANUSCRIPT ERROR, OUTLINE ERROR, CANON CONFLICT, INTENTIONAL DEVIATION, or UNRESOLVED AUTHOR CHOICE. A deviation is not automatically an error.
-
-Ask the author only when multiple material alternatives remain equally supported after all internal evidence has been examined. Before asking, provide the alternatives, evidence for each, completed analysis, the editor's recommendation, confidence, and consequences. Never ask "which is correct?" without a reasoned recommendation.
-
-Do not silently replace approved canon. Permission to edit editor/repository rules does not automatically authorize manuscript edits. Follow rules/13-editorial-decision-making.md.
-
-
-## Multi-project production workflow
-- Treat each Story/<Novel Title>/ as an independent project; root config supplies defaults and local project.yaml overrides them.
-- Support both pre-drafting outline audits and post-drafting manuscript audits.
-- Accept any readable outline format; map its contents to the universal template categories rather than rejecting different headings/order.
-- Use templates/outline-template.md and templates/outline-template-guide.md for cross-model handoff.
-- Follow rules/14-outline-validation.md for completeness, consistency, automatic repair, verification, and approval.
-- Default production behavior is automatic technical repair: analyze, decide, edit, save, and verify without per-finding approval.
-- Preserve locked creative decisions. Ask only for genuinely unresolved material author choices after evidence analysis.
-- Compare the full manuscript with approved outline/canon and technical standards. Patch technical errors without changing style, voice, tone, or artistic diction.
-- Keep reports and continuity artifacts inside the relevant novel folder.
-- Read-only mode applies only when explicitly requested.
+## Workflow and authority
+- In production editing, perform diagnosis, decide, repair, save, and verify; do not stop at a findings list.
+- Ask the author only for material creative decisions that cannot be resolved from evidence.
+- Respect locked canon and explicit instructions.
+- For audit-only requests, remain read-only.
+- Never claim full-manuscript readiness if the full scope was not read.

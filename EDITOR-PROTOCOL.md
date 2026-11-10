@@ -95,3 +95,13 @@ Gunakan `rules/09-publication-readiness.md`. Standarnya reader-ready, bukan semp
 
 Wajib baca dan terapkan `rules/12-outline-leakage.md` pada audit naskah. Outline, timeline, beat sheet, character bible, world bible, prompt, dan catatan penulis adalah panduan internal, bukan materi yang harus disalin ke prosa. Periksa tanggal mentah, label struktur/beat, ringkasan karakter, tujuan adegan, label arc/emosi, worldbuilding dump, foreshadowing/reveal instruction, repetisi fakta, artefak produksi, dan pola generatif mekanis. Pisahkan fakta canon dari cara penyampaiannya. Jika dokumen outline tidak tersedia, lakukan surface scan dan nyatakan keterbatasannya; jangan klaim perbandingan langsung. Setiap kandidat harus diuji berdasarkan kebutuhan pembaca, kewajaran POV/tokoh, pengulangan, dan dampak bila dihapus. Jangan menghapus informasi penting atau mengubah gaya hanya karena mirip outline.
 
+
+
+## 14. Automatic repair workflow
+Default production workflow is Mode A. When asked to run Novel Editor on a project, do not stop at findings if a correction is technically determinable. Inventory/read sources, establish canon/version and fact ledger, audit with evidence, decide the correct document to change, apply the smallest patch, update dependencies, save, reopen the saved result, re-audit affected sections and cross-chapter links, then report changes and readiness. Do not ask approval for each technical correction. Ask only for material creative choices unresolved after analysis. Preserve LOCKED canon; no silent retcons. An explicit read-only request overrides automatic repair.
+
+## 15. Outline Gate
+Before drafting, apply rules/14-outline-validation.md. Accept any readable outline structure; the universal template is a completeness reference, not a mandatory schema. Preserve freeform notes and AI-added sections. An outline is ready when technically coherent and sufficiently detailed for drafting, not when every optional field is filled. Statuses: APPROVED FOR DRAFTING, APPROVED WITH TRACKED FLEXIBILITY, REPAIR REQUIRED, AUTHOR DECISION REQUIRED, INSUFFICIENT EVIDENCE.
+
+## 16. Multi-novel layout
+Treat each Story/<Novel Title>/ as independent. Root config is generic; per-novel config overrides it. Keep reports and continuity artifacts inside the corresponding novel folder. Do not mix facts across novels unless a shared universe is explicitly configured.

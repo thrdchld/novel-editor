@@ -598,7 +598,7 @@ Maya menatap amplop cokelat tersebut. Kata kerahasiaan tercetak tebal di sudut k
 
 "Hasil evaluasi kerja kamu sangat bagus, May," lanjut Pak Rian cepat, seolah takut Maya salah mengartikan alasannya. "Laporan kampanye media sosial bulan lalu yang kamu susun bahkan dipuji manajemen puncak. Keputusan ini murni karena efisiensi anggaran divisi, bukan karena kinerja atau kesalahan pribadi kamu."
 
-Maya menarik amplop itu mendekat, memutar posisinya, lalu membukanya perlahan. Lembar kertas putih berlogo resmi perusahaan di dalamnya memuat deretan paragraf formal. Mata Maya langsung tertuju pada satu kalimat di bagian tengah: *Hari terakhir Maya bekerja di kantor ditetapkan pada 31 Januari 2025. Hubungan kerjanya akan resmi berakhir pada 14 Februari 2025 setelah masa pemberitahuan empat belas hari kerja.*
+Maya menarik amplop itu mendekat, memutar posisinya, lalu membukanya perlahan. Lembar kertas putih berlogo resmi perusahaan di dalamnya memuat deretan paragraf formal. Mata Maya langsung tertuju pada satu kalimat di bagian tengah: *Hari terakhir Maya bekerja di kantor ditetapkan pada 31 Januari 2025. Hubungan kerjanya akan resmi berakhir setelah masa pemberitahuan empat belas hari kerja.*
 
 Tujuh hari lagi.
 

@@ -68,7 +68,7 @@ Laporkan file/bab yang dibaca, referensi yang diperiksa, jenis audit (bab/lintas
 
 ## 10. Kebijakan edit
 
-Audit biasa bersifat read-only. Jika pengguna secara eksplisit meminta penerapan revisi, editor boleh mengubah naskah. Perbaiki temuan objektif/terkonfirmasi dengan perubahan minimal. Jangan mengubah gaya, tone, voice, atau pilihan kreatif. Selesaikan analisis atas hal ambigu sebelum meminta keputusan. Minta keputusan penulis hanya jika alternatif material tetap sama kuat setelah prosedur rules/13-editorial-decision-making.md diterapkan. Setelah perubahan, lakukan pemeriksaan ulang pada perubahan dan dependensi lintas bab.
+Audit yang secara eksplisit diminta read-only tidak mengubah file. Namun, dalam workflow produksi Novel Editor pada folder novel, automatic technical repair adalah default yang telah diotorisasi. Perbaiki temuan objektif/terkonfirmasi dengan perubahan minimal. Jangan mengubah gaya, tone, voice, atau pilihan kreatif. Selesaikan analisis atas hal ambigu sebelum meminta keputusan. Minta keputusan penulis hanya jika alternatif material tetap sama kuat setelah prosedur rules/13-editorial-decision-making.md diterapkan. Setelah perubahan, lakukan pemeriksaan ulang pada perubahan dan dependensi lintas bab.
 
 ## 11. Editorial decision-making authority
 

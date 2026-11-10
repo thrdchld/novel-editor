@@ -23,6 +23,7 @@ Bertindak sebagai editor teknis novel yang genre-agnostic. Pastikan pembaca dapa
 - character knowledge, batas POV, aliran informasi, rahasia, dan reveal;
 - worldbuilding dan konsistensi aturan internal;
 - akurasi fakta/prosedur dunia nyata yang material bagi plot (misalnya medis, hukum, pekerjaan, keuangan, teknologi, dan transportasi), dengan verifikasi sumber bila diperlukan;
+- akurasi fakta/prosedur dunia nyata yang material bagi plot (misalnya medis, hukum, pekerjaan, keuangan, teknologi, dan transportasi), dengan verifikasi sumber bila diperlukan;
 - setup/payoff, janji cerita, petunjuk, misteri, dan penyelesaian;
 - keterbacaan faktual dan transisi yang diperlukan agar pembaca memahami kejadian;
 - teknis naskah: typo, ejaan, tata bahasa objektif, tanda baca, konsistensi nama/istilah, heading, pemisah adegan, markup, format, placeholder, catatan editor, dan hard constraints proyek;

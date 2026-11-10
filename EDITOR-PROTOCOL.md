@@ -5,7 +5,7 @@
 Masalah teknis adalah masalah yang dapat dibuktikan dari teks, dokumen referensi, atau hard constraints dan dapat mengganggu logika, konsistensi, pemahaman, atau kesiapan naskah.
 
 Cakupannya mencakup dua lapisan yang sama-sama wajib:
-1. **Teknis cerita:** plot logic, causality, timeline, continuity, worldbuilding, character knowledge, setup/payoff, dan keterbacaan faktual.
+1. **Teknis cerita:** plot logic, causality, timeline dan orientasi waktu pembaca, continuity dan blocking adegan, worldbuilding, akurasi fakta/prosedur dunia nyata yang material, batas POV/character knowledge, setup/payoff, dan keterbacaan faktual.
 2. **Teknis naskah:** ejaan, typo, tata bahasa objektif, tanda baca, konsistensi nama/istilah, struktur bab, Markdown, format, placeholder, dan catatan internal.
 
 Bukan masalah teknis hanya karena editor tidak menyukai pilihan artistik, tone, voice, diksi, atau cara kalimat dibunyikan.
@@ -28,9 +28,10 @@ Jika tata bahasa punya lebih dari satu bentuk sah, jangan tandai sebagai ERROR. 
 2. Di mana aturan/fakta relevan ditetapkan?
 3. Apakah ada kontradiksi, sebab yang hilang, transisi mustahil, knowledge leak, state mismatch, atau kesalahan teknis objektif?
 4. Apakah penjelasan sengaja disimpan di bagian lain?
-5. Apakah masalah berdampak pada pemahaman, tampilan, stakes, atau kepercayaan pembaca?
-6. Apakah ini ERROR/HIGH atau hanya REVIEW?
-7. Apa koreksi terkecil yang menyelesaikan masalah tanpa mengubah gaya?
+5. Apakah pembaca tetap dapat mengenali waktu/tempat adegan, mengikuti blocking fisik, dan memahami batas POV? Jika ada prosedur dunia nyata yang material, apakah sudah diverifikasi?
+6. Apakah masalah berdampak pada pemahaman, tampilan, stakes, atau kepercayaan pembaca?
+7. Apakah ini ERROR/HIGH atau hanya REVIEW?
+8. Apa koreksi terkecil yang menyelesaikan masalah tanpa mengubah gaya?
 
 ## 5. Severity
 
@@ -54,7 +55,7 @@ Severity dan release impact adalah dua dimensi berbeda. Kesalahan ejaan dapat ER
 
 ## 7. Kategori
 
-`PLOT_HOLE`, `CAUSALITY`, `TIMELINE`, `CHARACTER_CONTINUITY`, `OBJECT_CONTINUITY`, `LOCATION_CONTINUITY`, `RELATIONSHIP_CONTINUITY`, `WORLD_RULE_CONTRADICTION`, `WORLD_RULE_GAP`, `WORLD_STATE`, `CHARACTER_KNOWLEDGE`, `SETUP_PAYOFF`, `REPETITION`, `AI_SLOP`, `SPELLING_TYPO`, `GRAMMAR`, `PUNCTUATION`, `NAME_TERM_CONSISTENCY`, `MARKDOWN_FORMAT`, `DOCUMENT_STRUCTURE`, `EDITORIAL_ARTIFACT`, `PROJECT_CONSTRAINT`, `PLAUSIBILITY`, `OUTLINE_LEAKAGE`, `OTHER_TECHNICAL`.
+`PLOT_HOLE`, `CAUSALITY`, `TIMELINE`, `TEMPORAL_ORIENTATION`, `SCENE_BLOCKING`, `CHARACTER_CONTINUITY`, `OBJECT_CONTINUITY`, `LOCATION_CONTINUITY`, `RELATIONSHIP_CONTINUITY`, `WORLD_RULE_CONTRADICTION`, `WORLD_RULE_GAP`, `DOMAIN_FACTUALITY`, `WORLD_STATE`, `CHARACTER_KNOWLEDGE`, `POV_BOUNDARY`, `SETUP_PAYOFF`, `REPETITION`, `AI_SLOP`, `SPELLING_TYPO`, `GRAMMAR`, `PUNCTUATION`, `NAME_TERM_CONSISTENCY`, `MARKDOWN_FORMAT`, `DOCUMENT_STRUCTURE`, `EDITORIAL_ARTIFACT`, `PROJECT_CONSTRAINT`, `PLAUSIBILITY`, `OUTLINE_LEAKAGE`, `OTHER_TECHNICAL`.
 
 ## 8. Hindari false positive
 

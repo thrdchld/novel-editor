@@ -518,7 +518,7 @@ Maya memutar kunci, lalu menggeser daun pintu separuh.
 
 Arman berdiri di ambang teras dengan wajah pucat dan mata yang menyiratkan kelelahan. Kemeja kerjanya sedikit kusut di bagian lengan, tanda pria itu meluncur langsung dari kantornya di Jalan Sumatra begitu jam kerja usai.
 
-"May," kata Arman cepat, melangkah maju satu pukulan tumit sebelum Maya mengangkat kardus cokelat itu di antara mereka.
+"May," kata Arman cepat, melangkah maju satu langkah sebelum Maya mengangkat kardus cokelat itu di antara mereka.
 
 "Ambil ini, Mas," ujar Maya pelan. Suaranya tidak melengking, tidak dipenuhi amarah, tetapi dingin dan tegas.
 
@@ -526,7 +526,7 @@ Arman menatap kardus itu dengan dahi berkerut. Matanya beralih menatap wajah May
 
 "May, jangan seperti ini," Arman menolak menyentuh kardus tersebut. Tangannya terulur meraih lengan Maya, tetapi Maya dengan cekatan menarik dirinya mundur dua langkah ke dalam ruangan. "Aku sudah bilang kemarin, soal Celine itu urusan profesional dan tuntutan keluarga investor. Aku bisa selesaikan itu kalau kamu kasih aku waktu."
 
-Maya menatap pria yang selama lima tahun menjadi pusat gravitasinya. Kata-kata Arman terdengar begitu akrab di telinganya. Selalu ada alasan profesional, selalu ada permohonan minta waktu, dan selalu ada Janji manis yang muaranya menuntut kemakluman Maya.
+Maya menatap pria yang selama lima tahun menjadi pusat gravitasinya. Kata-kata Arman terdengar begitu akrab di telinganya. Selalu ada alasan profesional, selalu ada permohonan minta waktu, dan selalu ada janji manis yang muaranya menuntut kemakluman Maya.
 
 "Waktu untuk apa, Mas?" tanya Maya tenang. "Waktu untuk menata kebohongan baru? Atau waktu untuk menunggu sampai kamu merasa aman di posisi direksimu?"
 
@@ -536,7 +536,7 @@ Kalimat itu menyengat tepat di dada Maya, tetapi alih-alih membuat hatinya goyah
 
 "Bukan aku yang membuang lima tahun ini, Mas. Kamu yang menghancurkannya pada tanggal 21 Desember lalu," jawab Maya lurus. Ia melangkah maju, meletakkan kardus cokelat itu di atas kursi plastik hijau di teras, tepat di depan Arman. "Di dalam situ ada semua barangmu yang tersisa di rumah ini. Kunci cadangan kontrakanmu juga sudah aku masukkan di amplop cokelat."
 
-Arman terpaku melihat amplop cokelat kecil di atas kardus tersebut. Senyum percaya diri yang biasa menjadi andalannya kini sirnah sepenuhnya.
+Arman terpaku melihat amplop cokelat kecil di atas kardus tersebut. Senyum percaya diri yang biasa menjadi andalannya kini sirna sepenuhnya.
 
 "May... tolong," bisik Arman serak. "Kita bisa bicarakan ini baik-baik. Jangan ambil keputusan pas kamu sedang emosi."
 
@@ -610,7 +610,7 @@ Dada Maya terasa mengencang, tetapi wajahnya tetap tenang. Pelajaran hidup yang 
 
 Maya merapikan surat itu kembali ke dalam amplop cokelat, menyusunnya sejajar dengan pulpen di atas meja.
 
-"Terima kasih atas keterus terangannya, Pak Rian," sahut Maya pelan. Suaranya terdengar stabil. "Saya akan menuntaskan semua sisa serah terima dokumen dan laporan evaluasi bulanan sebelum tanggal tiga puluh satu."
+"Terima kasih atas keterusterangannya, Pak Rian," sahut Maya pelan. Suaranya terdengar stabil. "Saya akan menuntaskan semua sisa serah terima dokumen dan laporan evaluasi bulanan sebelum tanggal tiga puluh satu."
 
 Pak Rian menatapnya dengan binar mata heran sekaligus segan. "Kamu yakin tidak apa-apa, May? Kalau kamu butuh waktu istirahat sore ini..."
 
@@ -722,7 +722,7 @@ Maya menelan ludah. "Penyebab pingsannya karena apa, Dok? Ibu tidak punya riwaya
 
 "Hasil pengukuran tekanan darah saat tiba di UGD memang sangat rendah, ditambah indikasi dehidrasi," jawab sang dokter. "Tapi untuk memastikan apakah ada gangguan organ dalam atau pemicu sistemik lainnya, kami sudah mendaftarkan konsul ke dokter spesialis penyakit dalam. Dokter spesialisnya akan mengevaluasi kondisi keseluruhan begitu pasien dipindahkan ke ruang rawat inap."
 
-Maya menatap ibunya yang kembali memejamkan mata karena pengaruh obat anti-nyeri. Tangan kanan Ratih yang biasa lincah memandu kain di bawah pacukan jarum mesin jahit kini terbaring tak berdaya. Bagi Ratih, tangan itu adalah alat penyambung hidup selama puluhan tahun.
+Maya menatap ibunya yang kembali memejamkan mata karena pengaruh obat anti-nyeri. Tangan kanan Ratih yang biasa lincah memandu kain di bawah jarum mesin jahit kini terbaring tak berdaya. Bagi Ratih, tangan itu adalah alat penyambung hidup selama puluhan tahun.
 
 Pak Dudung menepuk bahu Maya pelan dari belakang. "May, surat pengantar dari RT sudah Bapak uruskan. Uang jalan ambulans tadi juga sudah ditanggulangi Pak RT dulu."
 
@@ -2268,7 +2268,7 @@ Daniel mengangguk tegap, menatap istrinya dengan rasa hormat dan penyesalan yang
 
 Sarah tidak membalas lagi, hanya menyunggingkan senyum tipis yang jujur sebelum melangkah menuju kamar tidur.
 
-Daniel tetap duduk sendirian di meja makan apartemen Ciumbuleuit. Udara malam yang berhembus di luar jendela tetap dingin, tetapi ganjalan tebal di dadanya perlahan terangkat. Daniel menyadari bahwa proses memulihkan rumah tangganya akan menjadi jalan panjang yang melelahkan. Namun untuk pertama kalinya setelah bertahun-tahun melarikan diri, Daniel siap berdiri tegak, menghadapi konsekuensi dari kesalahannya, dan membuktikan komitmennya lewat tindakan nyata.
+Daniel tetap duduk sendirian di meja makan apartemen Ciumbuleuit. Udara malam yang berembus di luar jendela tetap dingin, tetapi ganjalan tebal di dadanya perlahan terangkat. Daniel menyadari bahwa proses memulihkan rumah tangganya akan menjadi jalan panjang yang melelahkan. Namun untuk pertama kalinya setelah bertahun-tahun melarikan diri, Daniel siap berdiri tegak, menghadapi konsekuensi dari kesalahannya, dan membuktikan komitmennya lewat tindakan nyata.
 
 # **BAB 49: Pesan dari Masa Lalu**
 
@@ -2713,7 +2713,7 @@ Di ujung saluran telepon, Bima menyapu tenggorokannya yang terasa kering. Nada s
 
 Maya mengakhiri panggilan telepon tersebut, lalu meletakkan ponselnya kembali di atas meja kerja.
 
-Maya berjalan melangkah ke arah jendela teras, membuka katup kayunya lebar-lebar. Angin sore kota Bandung berhembus masuk membawa aroma tanah basah dan kesegaran dedaunan mahoni.
+Maya berjalan melangkah ke arah jendela teras, membuka katup kayunya lebar-lebar. Angin sore kota Bandung berembus masuk membawa aroma tanah basah dan kesegaran dedaunan mahoni.
 
 Maya memejamkan mata sejenak, menghirup udara dingin itu dalam-dalam. Tidak ada penyesalan di dalam dadanya, tidak pula ada rasa bersalah yang mengganggu. Yang tertinggal hanyalah rasa lega yang teramat jujur dan menentramkan.
 
@@ -2827,7 +2827,7 @@ Sejak akhir September tahun lalu, ketika seluruh komunikasi pribadi dihentikan p
 
 Langkah kaki yang teratur terdengar mendekat. Maya mendongak saat siluet tegap Daniel melangkah menghampiri meja sudut.
 
-Daniel mengenakan kemeja katun biru tua dengan celana kain gelap. Pria berusia tiga puluh enam tahun itu tampak lebih tenang dibanding empat bulan lalu. Gurat kelelahan di sekitar matanya masih ada, tetapi pembawaannya kini memancarkan kepastian yang tidak lagi dibanyangi kebohongan.
+Daniel mengenakan kemeja katun biru tua dengan celana kain gelap. Pria berusia tiga puluh enam tahun itu tampak lebih tenang dibanding empat bulan lalu. Gurat kelelahan di sekitar matanya masih ada, tetapi pembawaannya kini memancarkan kepastian yang tidak lagi dibayangi kebohongan.
 
 "Selamat sore, Maya," sapa Daniel dengan nada suara yang hangat dan penuh hormat.
 
@@ -3089,7 +3089,7 @@ Maya meletakkan pulpennya, meraih ponsel tersebut. Di layar kaca, sebuah notifik
 
 Maya menarik napas panjang yang tenang, membuka bilah percakapan.
 
-Selamat sore, Maya. Semoga harimu menyenangkan di kantor. Bapak cuma ingin menanyakan kabarmu dan Ibu di rumah. Hari ini Bapak sudah kembali ke kegiatan harian di toko kelontong. Bapak selalu mendoakan kesehatan dan kelancaran pekerjamu di sana. Tidak perlu terburu-buru membalas kalau kamu sedang sibuk.
+Selamat sore, Maya. Semoga harimu menyenangkan di kantor. Bapak cuma ingin menanyakan kabarmu dan Ibu di rumah. Hari ini Bapak sudah kembali ke kegiatan harian di toko kelontong. Bapak selalu mendoakan kesehatan dan kelancaran pekerjaanmu di sana. Tidak perlu terburu-buru membalas kalau kamu sedang sibuk.
 
 Maya membaca deretan kalimat itu dengan binar mata yang jernih.
 
@@ -3119,9 +3119,9 @@ Terima kasih banyak atas balasannya, May. Bapak sangat menghargainya. Jaga diri 
 
 Maya menggeser layar ponselnya, meletakkan benda tersebut tertungkup di samping buku catatannya.
 
-Ia berdiri perlahan, melangkah menuju jendela kamar dan membuka katup kayunya. Angin malam kota Bandung berhembus masuk membawa hawa sejuk sisa gerimis sore.
+Ia berdiri perlahan, melangkah menuju jendela kamar dan membuka katup kayunya. Angin malam kota Bandung berembus masuk membawa hawa sejuk sisa gerimis sore.
 
-Maya memejamkan mata sejenak, menghirup udara dingin itu dalam-dalam. Tidak ada amarah yang tersisa di dalam dadanya, tidak pula ada dorongan dendam yang menyiksa. Yang ada hanyalah rasa lega yang teramat jujur. Maya menyadari bahwa ia telah memegang kendali penuh atas emosinya sendiri—ia berhak menentukan kecepatan pemulihannya, menetapkan batas tanpa rasa bersalah, dan melangkah maju tanpa lagi dibanyangi oleh keharusan menyenangkan orang lain.
+Maya memejamkan mata sejenak, menghirup udara dingin itu dalam-dalam. Tidak ada amarah yang tersisa di dalam dadanya, tidak pula ada dorongan dendam yang menyiksa. Yang ada hanyalah rasa lega yang teramat jujur. Maya menyadari bahwa ia telah memegang kendali penuh atas emosinya sendiri—ia berhak menentukan kecepatan pemulihannya, menetapkan batas tanpa rasa bersalah, dan melangkah maju tanpa lagi dibayangi oleh keharusan menyenangkan orang lain.
 
 # **BAB 64: Hari-Hari Biasa**
 

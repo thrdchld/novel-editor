@@ -34,12 +34,12 @@ LULUS bila tidak ada perubahan state penting yang mustahil/tidak terjelaskan: lo
 Tidak wajib mempertahankan detail kosmetik yang tidak berpengaruh pada cerita. Fokus pada detail yang dipakai plot atau dapat mengubah interpretasi adegan.
 
 ### 4. Timeline dan kronologi
-LULUS bila urutan dan durasi kejadian memungkinkan peristiwa penting terjadi. Umur, deadline, perjalanan, pemulihan, jadwal, dan jarak waktu tidak saling bertentangan secara material.
+LULUS bila urutan dan durasi kejadian memungkinkan peristiwa penting terjadi. Umur, deadline, perjalanan, pemulihan, jadwal, dan jarak waktu tidak saling bertentangan secara material. Perpindahan waktu dan flashback memiliki penanda yang cukup agar pembaca tidak kehilangan orientasi.
 
-Tidak perlu memaksa presisi kalender pada cerita yang memang tidak menyebut waktu spesifik.
+Tidak perlu memaksa presisi kalender pada cerita yang memang tidak menyebut waktu spesifik; penanda relatif yang alami sudah cukup bila urutannya jelas.
 
 ### 5. Keterbacaan faktual
-LULUS bila pembaca pada umumnya dapat memahami siapa melakukan apa, di mana, kapan, dengan informasi apa, serta mengapa kejadian penting terjadi. Perpindahan waktu/tempat dan pergantian state tidak menimbulkan kebingungan yang tidak disengaja.
+LULUS bila pembaca pada umumnya dapat memahami siapa melakukan apa, di mana, kapan, dengan informasi apa, serta mengapa kejadian penting terjadi. Perpindahan waktu/tempat, blocking aksi, pergantian state, dan batas POV tidak menimbulkan kebingungan yang tidak disengaja. Prosedur atau fakta dunia nyata yang menjadi dasar kejadian penting tidak mengandung kesalahan material yang terbukti.
 
 Ini bukan penilaian gaya, tone, keindahan prosa, atau preferensi narasi. Kalimat yang sederhana atau gaya yang tidak disukai editor tidak boleh menjadi blocker.
 

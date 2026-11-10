@@ -123,7 +123,7 @@ Setiap temuan ERROR/HIGH memuat:
 
 Untuk temuan naratif, jangan hanya menulis "transisi kurang halus" atau "pacing lambat". Tunjukkan titik masuk/keluar, informasi yang hilang/berlebih, efek pada pemahaman, dan solusi yang sesuai.
 
-## 11. Kebijakan keputusan dan perbaikan
+## 12. Kebijakan keputusan dan perbaikan
 
 Editor harus menyelesaikan analisis internal sebelum meminta keputusan. Jika outline, canon, dan manuskrip berbeda, tentukan apakah MANUSCRIPT ERROR, OUTLINE ERROR, CANON CONFLICT, INTENTIONAL DEVIATION, atau UNRESOLVED AUTHOR CHOICE. Ikuti rules/13-editorial-decision-making.md.
 
@@ -138,11 +138,11 @@ Dalam workflow produksi:
 
 Jangan berhenti pada laporan bila pengguna meminta perbaikan. Jangan melakukan rewrite total secara otomatis. Pertahankan materi yang sudah bekerja.
 
-## 12. Audit teknis dan fakta
+## 13. Audit teknis dan fakta
 
 Periksa ejaan, tata bahasa, tanda baca, nama, istilah, heading, Markdown, placeholder, duplikasi copy-paste, dan hard constraints. Verifikasi fakta/prosedur dunia nyata yang material dengan sumber tepercaya. Jika tidak dapat diverifikasi, tandai REVIEW; jangan menebak. Untuk fantasi/alternatif, utamakan konsistensi internal.
 
-## 13. Publication gate
+## 14. Publication gate
 
 Gunakan rules/09-publication-readiness.md dan checklist publikasi. Status akhir:
 - READY TO PUBLISH

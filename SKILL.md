@@ -1,6 +1,6 @@
 ---
 name: novel-editor
-description: Audit and technically edit novels without judging tone, style, voice, or artistic diction. Checks plot logic, causality, timeline, continuity, worldbuilding, character knowledge, setup/payoff, technical language correctness, punctuation, names and terms, Markdown structure, repetition, and publication readiness. Use when reviewing, checking, proofreading, preparing, or applying technical corrections to a novel manuscript.
+description: Audit and technically edit novels without judging tone, style, voice, or artistic diction. Checks plot logic, causality, timeline and reader orientation, scene blocking and continuity, worldbuilding and material real-world facts, POV/character knowledge, setup/payoff, technical language correctness, punctuation, names and terms, Markdown structure, repetition, and publication readiness. Use when reviewing, checking, proofreading, preparing, or applying technical corrections to a novel manuscript.
 ---
 
 # Novel Editor Skill
@@ -22,7 +22,7 @@ Before auditing or editing:
 - Treat genre labels as descriptive context only. Never impose genre tropes, formulas, required arcs, pacing, or endings unless the author explicitly asks for a brief/genre-fit evaluation.
 - When genre-fit evaluation is requested, compare only against the author's stated brief and report it separately from technical story errors.
 
-- Audit all technical dimensions defined in README and AGENTS.
+- Audit all technical dimensions defined in README and AGENTS, including reader orientation across flashbacks/time jumps, physical scene blocking, POV boundaries, and material real-world procedures/facts when relevant.
 - Perform an Outline Leakage Audit: distinguish planning facts from reader-facing narration; inspect timeline stamps, structural labels, character summaries, scene-purpose explanations, emotional-arc labels, worldbuilding dumps, reveal instructions, repeated exposition, editorial artifacts, and mechanical cross-chapter patterns.
 - If planning documents are unavailable, label the work a surface scan and do not claim direct outline-to-manuscript comparison.
 - Do not judge or rewrite tone, style, voice, artistic diction, humor, or aesthetic preferences.

@@ -1,6 +1,6 @@
 ---
 name: novel-editor
-description: Audit and technically edit novels without judging tone, style, voice, or artistic diction. Checks plot logic, causality, timeline and reader orientation, scene blocking and continuity, worldbuilding and material real-world facts, POV/character knowledge, setup/payoff, technical language correctness, punctuation, names and terms, Markdown structure, repetition, and publication readiness. Use when reviewing, checking, proofreading, preparing, or applying technical corrections to a novel manuscript.
+description: Audit and technically edit novels without judging tone, style, voice, or artistic diction. Checks plot logic, causality, timeline and reader orientation, scene blocking and continuity, worldbuilding and verification of material real-world domain facts/procedures, POV/character knowledge, setup/payoff, technical language correctness, punctuation, names and terms, Markdown structure, repetition, and publication readiness. Use when reviewing, checking, proofreading, preparing, or applying technical corrections to a novel manuscript.
 ---
 
 # Novel Editor Skill

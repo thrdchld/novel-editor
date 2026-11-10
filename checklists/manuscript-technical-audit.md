@@ -30,6 +30,12 @@
 - [ ] Tidak ada catatan editor, komentar kerja, TODO, FIXME, atau placeholder tertinggal.
 - [ ] Tidak ada teks duplikat akibat copy-paste.
 
+## Orientasi dan fakta domain
+- [ ] Flashback/lompatan waktu memiliki cue yang cukup dan alami.
+- [ ] Posisi tokoh/benda serta urutan aksi fisik dapat diikuti.
+- [ ] POV tidak bocor ke pikiran/informasi tokoh lain tanpa penanda.
+- [ ] Prosedur/fakta dunia nyata yang material telah diverifikasi dari sumber tepercaya atau ditandai REVIEW.
+
 ## Dialog dan atribusi
 - [ ] Pembicara dan atribusi dialog tidak tertukar.
 - [ ] Tanda kutip dan pergantian pembicara dapat diikuti.

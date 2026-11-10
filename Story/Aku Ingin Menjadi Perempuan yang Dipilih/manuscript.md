@@ -2306,17 +2306,17 @@ Dada Maya berdesir pelan. Bukan debar bahagia atau kebingungan emosional yang li
 
 Maya membuka bilah percakapan. Dua paragraf kalimat yang disusun rapi terpampang di hadapannya.
 
-May, ini Arman. Maaf kalau pesan ini mengganggu atau membuat kamu tidak nyaman. Aku tahu aku tidak punya hak untuk menghubungi kamu lagi setelah semua kesalahan yang aku buat di awal tahun lalu.
+May, ini Arman. Maaf kalau pesan ini mengganggu atau membuat kamu tidak nyaman. Aku tahu aku tidak punya hak untuk menghubungi kamu lagi setelah semua kesalahan yang aku buat di awal tahun ini.
 
-Aku tidak bermaksud menuntut atau mengacaukan hidupmu sekarang, May. Tapi selama belasan bulan ini, ada beban berat yang tidak pernah selesai di dadaku. Kalau kamu berkenan dan punya waktu luang, aku sungguh-sungguh ingin minta waktu sebentar untuk bertemu. Ada permintaan maaf dan penjelasan yang ingin aku sampaikan secara langsung ke kamu.
+Aku tidak bermaksud menuntut atau mengacaukan hidupmu sekarang, May. Tapi selama hampir sepuluh bulan ini, ada beban berat yang tidak pernah selesai di dadaku. Kalau kamu berkenan dan punya waktu luang, aku sungguh-sungguh ingin minta waktu sebentar untuk bertemu. Ada permintaan maaf dan penjelasan yang ingin aku sampaikan secara langsung ke kamu.
 
 Maya menatap baris-baris tulisan itu lurus-lurus.
 
-Ingatan kepalanya mendadak berputar kembali ke pertengahan Januari dua ribu dua puluh lima. Ia teringat dinginnya lantai kamar ini ketika ia pertama kali mengetahui foto pertunangan Arman dan Celine yang berlangsung diam-diam pada dua puluh satu Desember dua ribu dua belas bulan lalu. Ia ingat betul bagaimana hancurnya hatinya saat menyadari bahwa kesabarannya selama lima tahun hanyalah penantian pada janji palsu seorang pria yang mempertahankan dua hubungan sekaligus.
+Ingatan kepalanya mendadak berputar kembali ke pertengahan Januari dua ribu dua puluh lima. Ia teringat dinginnya lantai kamar ini ketika ia pertama kali mengetahui foto pertunangan Arman dan Celine yang berlangsung diam-diam pada dua puluh satu Desember dua ribu dua puluh empat, hampir sebelas bulan lalu. Ia ingat betul bagaimana hancurnya hatinya saat menyadari bahwa kesabarannya selama lima tahun hanyalah penantian pada janji palsu seorang pria yang mempertahankan dua hubungan sekaligus.
 
 Dahulu, Maya akan menghabiskan malam dengan jemari bergetar, membalik-balikkan ponsel, dan memohon penjelasan dari Arman yang terus menghindar. Dahulu, sapaan dari Arman adalah hal yang paling ia harapkan di dunia.
 
-Kini, ketika pesan itu akhirnya datang setelah hampir sebelas bulan berlalu, Maya melihatnya dari sudut pandang yang sangat berbeda.
+Kini, ketika pesan itu akhirnya datang setelah hampir sepuluh bulan berlalu, Maya melihatnya dari sudut pandang yang sangat berbeda.
 
 Maya mengusap tepi layar ponselnya yang hangat. Keinginan untuk melampiaskan amarah lama sempat terlintas tipis di dadanya. Dorongan untuk mengetikkan penolakan keras atau mempertanyakan mengapa Arman baru mencari penebusan dosa sekarang merayap halus di batinnya.
 

@@ -1,7 +1,7 @@
 project:
-  title: "Nama Proyek"
+  title: "Aku Ingin Menjadi Perempuan yang Dipilih"
   # Descriptive metadata only; never activates genre formulas or mandatory conventions.
-  genre_context: []
+  genre_context: ["Contemporary Romance", "Psychological Drama", "Forbidden Love", "Family Drama"]
   language: "id"
   audit_mode: "review_and_edit_on_explicit_request"
 manuscript:
@@ -16,11 +16,16 @@ manuscript:
     - "**/draft_old/**"
     - "**/novel-editor-reports/**"
 references:
-  canon: []
-  world_bible: []
-  character_bible: []
-  outline: []
-  timeline: []
+  canon:
+    - "references/MASTER-OUTLINE-FINAL-V4.md"
+  world_bible:
+    - "references/MASTER-OUTLINE-FINAL-V4.md"
+  character_bible:
+    - "references/MASTER-OUTLINE-FINAL-V4.md"
+  outline:
+    - "references/MASTER-OUTLINE-FINAL-V4.md"
+  timeline:
+    - "references/MASTER-OUTLINE-FINAL-V4.md"
   continuity_ledger: []
   glossary: []
   other: []

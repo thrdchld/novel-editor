@@ -1,10 +1,15 @@
 # [ID] [SEVERITY] [CATEGORY] — [Judul]
+
 - **Release impact:** [BLOCKER / FIX BEFORE RELEASE / ACCEPTABLE / AUTHOR CHOICE / OPTIONAL POLISH]
-- **Lokasi:** [file, bab, adegan, baris]
-- **Bukti A:** > "[kutipan]"
-- **Bukti B:** > "[kutipan pembanding jika perlu]"
-- **Fakta/aturan sumber:** [dokumen dan lokasi]
-- **Masalah:** [kontradiksi/sebab hilang/state mismatch/kesalahan teknis]
-- **Dampak pembaca:** [mengapa pembaca bisa bingung atau tampilan rusak]
-- **Rekomendasi:** [perbaikan teknis minimal/pertanyaan]
-- **Confidence:** [high/medium/low]
+- **Confidence:** [HIGH / MEDIUM / LOW]
+- **Lokasi:** [file, bab, adegan, baris jika terverifikasi]
+- **Kutipan bukti:** [kutipan spesifik]
+- **Konteks sebelum/sesudah:** [bagian yang diperlukan untuk memahami masalah]
+- **Masalah:** [apa yang tidak bekerja secara spesifik]
+- **Pembacaan pembaca:** [apa yang kemungkinan dipahami pembaca pada titik itu]
+- **Dampak cerita/pembaca:** [efek terhadap pemahaman, emosi, logika, perkembangan, atau tampilan]
+- **Sumber pembanding:** [outline/canon/fakta/dokumen lain bila relevan]
+- **Keputusan editorial:** [MANUSCRIPT ERROR / OUTLINE ERROR / CANON CONFLICT / INTENTIONAL DEVIATION / UNRESOLVED AUTHOR CHOICE / NOT APPLICABLE]
+- **Rekomendasi/perbaikan:** [patch minimum atau skala revisi yang diperlukan]
+- **Dependensi:** [adegan/bab/ledger yang perlu diperiksa ulang]
+- **Status:** [OPEN / FIXED / VERIFIED / ACCEPTED]

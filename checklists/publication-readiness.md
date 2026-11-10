@@ -1,61 +1,57 @@
 # Publication Readiness Checklist
 
-Gunakan checklist ini untuk memutuskan apakah pembaca dapat mengikuti cerita dan membaca naskah dengan benar. Tidak perlu mengejar kesempurnaan.
+Gunakan checklist ini setelah membaca keseluruhan naskah dalam urutan pembaca dan menyelesaikan pass editorial yang relevan. Checklist bukan pengganti penilaian.
 
-## Cakupan
-- [ ] Semua bab yang akan diterbitkan telah diperiksa.
-- [ ] Audit lintas bab dilakukan untuk timeline, state karakter/benda, world rules, dan informasi.
-- [ ] File/dokumen yang tidak tersedia dicatat.
-- [ ] Jika cakupan tidak lengkap, gunakan INSUFFICIENT EVIDENCE, bukan READY.
+## Cakupan dan bukti
+- [ ] Semua bab yang akan diterbitkan telah dibaca.
+- [ ] Pembacaan reader-experience dilakukan, bukan hanya scanner/checklist.
+- [ ] Story/developmental assessment dilakukan.
+- [ ] Narrative dan scene audit dilakukan.
+- [ ] Audit lintas bab, continuity, timeline, knowledge, dan setup/payoff dilakukan.
+- [ ] Line/copy/technical pass dilakukan.
+- [ ] Referensi yang hilang dan batas audit dicatat.
 
-## Cerita utama
-- [ ] Tujuan/konflik utama dapat dipahami.
-- [ ] Keputusan dan peristiwa penting memiliki sebab yang cukup.
-- [ ] Solusi konflik utama memiliki dasar dalam cerita.
-- [ ] Ending menyelesaikan atau secara jelas menetapkan status konflik utama.
+## Fondasi dan struktur
+- [ ] Premis, fokus, janji, dan arah cerita dapat dipahami.
+- [ ] Konflik/pertanyaan pendorong dapat dikenali.
+- [ ] Tujuan, hambatan, dan taruhan utama bekerja.
+- [ ] Rangkaian peristiwa memiliki sebab-akibat yang cukup.
+- [ ] Perkembangan karakter/relasi dan konsekuensinya dapat diikuti.
+- [ ] Tidak ada bagian berulang/stagnan yang merusak perkembangan.
+- [ ] Klimaks dan ending didukung oleh rangkaian cerita.
 
-## Worldbuilding
-- [ ] Aturan dunia yang diperlukan untuk memahami plot cukup jelas.
-- [ ] Aturan sentral diterapkan konsisten.
-- [ ] Batas/biaya/konsekuensi penting tidak hilang tanpa alasan.
-- [ ] Pengecualian penting dijelaskan atau ditanamkan.
+## Narasi dan pengalaman pembaca
+- [ ] Pembukaan memberi konteks secukupnya.
+- [ ] Waktu, tempat, situasi, dan POV jelas saat dibutuhkan.
+- [ ] Flashback dan perpindahan waktu memiliki orientasi serta transisi kembali yang cukup.
+- [ ] Perpindahan lokasi/adegan/bab dapat diikuti.
+- [ ] Urutan informasi tidak menimbulkan kebingungan yang tidak disengaja.
+- [ ] Pembaca dapat membayangkan aksi, blocking, dan urutan kejadian penting.
+- [ ] Motivasi, reaksi, dan perubahan emosi penting memiliki dasar.
+- [ ] Dialog dan atribusi dapat diikuti.
+- [ ] Eksposisi/repetisi tidak menghambat cerita.
+- [ ] Bab dan adegan terhubung sebagai perkembangan, bukan fragmen tanpa jembatan.
 
-## Continuity dan timeline
-- [ ] Perubahan state karakter, benda, lokasi, relasi, dan sumber daya konsisten.
-- [ ] Aliran informasi dan pengetahuan karakter masuk akal.
-- [ ] Timeline dan durasi memungkinkan kejadian utama berlangsung.
-- [ ] Penanda waktu cukup untuk mengikuti flashback dan lompatan waktu tanpa harus menebak.
-- [ ] Blocking adegan dan posisi tokoh/benda tidak membingungkan.
-- [ ] Tidak ada kontradiksi lintas bab yang mengubah pemahaman pembaca.
+## Continuity dan fakta
+- [ ] Timeline, usia, durasi, dan urutan memungkinkan.
+- [ ] State karakter, relasi, benda, lokasi, dan sumber daya konsisten.
+- [ ] Aliran informasi dan batas POV masuk akal.
+- [ ] Aturan dunia diterapkan konsisten.
+- [ ] Fakta/prosedur dunia nyata yang material diverifikasi atau ditandai REVIEW.
 
-## Keterbacaan faktual
-- [ ] Pembaca dapat mengetahui siapa melakukan apa, di mana, kapan, dan mengapa.
-- [ ] Transisi penting tidak meninggalkan lompatan fakta yang membingungkan.
-- [ ] Istilah/fakta/aturan penting digunakan konsisten.
-- [ ] Ambiguitas yang tersisa tampak disengaja, bukan akibat informasi hilang.
-- [ ] Batas POV konsisten dan prosedur/fakta dunia nyata yang material tidak mengandung kesalahan yang terbukti.
+## Prosa dan teknis
+- [ ] Kalimat/paragraf secara umum jelas dan terbaca.
+- [ ] Tidak ada pola repetisi/kalimat janggal yang mengganggu secara berulang.
+- [ ] Ejaan, typo, tata bahasa, tanda baca, nama, dan istilah diperiksa.
+- [ ] Heading, batas bab, pemisah adegan, dan Markdown berfungsi.
+- [ ] Tidak ada catatan editor, placeholder, TODO/FIXME, atau duplikasi teknis.
 
-## Teknis naskah
-- [ ] Ejaan, typo, imbuhan, dan bentuk gabungan diperiksa.
-- [ ] Tata bahasa objektif tidak mengaburkan makna.
-- [ ] Tanda baca dan tanda kutip dialog berfungsi dengan benar.
-- [ ] Nama, gelar, tempat, organisasi, angka, dan istilah konsisten.
-- [ ] Heading, nomor bab, batas bab, dan pemisah adegan berfungsi.
-- [ ] Markdown tidak menyebabkan teks dirender keliru.
-- [ ] Tidak ada catatan editor, placeholder, TODO/FIXME, atau instruksi produksi tertinggal.
-- [ ] Tidak ada duplikasi teks akibat kesalahan teknis.
-- [ ] Hard constraints proyek diperiksa sesuai konfigurasi.
+## Keputusan rilis
+- [ ] BLOCKER terbuka: nol untuk READY.
+- [ ] FIX BEFORE RELEASE sudah ditangani atau daftar minor sangat terbatas.
+- [ ] ACCEPTABLE / AUTHOR CHOICE dipisahkan dari kesalahan.
+- [ ] OPTIONAL POLISH tidak digunakan untuk menahan rilis.
+- [ ] Semua perubahan telah diverifikasi dalam konteks.
+- [ ] Status akhir dan alasan dinyatakan jelas.
 
-## Batas artistik
-- [ ] Tone, gaya, voice, diksi artistik, dan selera tidak dijadikan kriteria kelayakan.
-- [ ] Tidak ada revisi wajib yang hanya didasarkan pada preferensi editor.
-
-## Release decision
-- [ ] BLOCKER: target nol untuk READY.
-- [ ] FIX BEFORE RELEASE: daftar kecil, spesifik, dan memang perlu.
-- [ ] ACCEPTABLE / AUTHOR CHOICE: dipisahkan dari kesalahan.
-- [ ] OPTIONAL POLISH: tidak digunakan untuk menahan publikasi.
-- [ ] Status akhir dan alasannya ditulis secara eksplisit.
-
-## Ingat
-Novel tidak harus sempurna untuk dipublikasikan. Novel harus cukup solid agar pembaca bisa memahami dan mengikuti cerita tanpa gangguan teknis yang material.
+Ingat: novel tidak harus sempurna. Namun, pembaca harus dapat memahami dan mengikuti cerita sebagaimana dimaksud, tanpa gangguan naratif atau teknis yang material.

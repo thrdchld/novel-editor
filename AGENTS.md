@@ -112,3 +112,25 @@ Lacak seperlunya:
 Ikuti `rules/09-publication-readiness.md`. Keputusan harus tegas: READY TO PUBLISH, READY WITH MINOR FIXES, NOT READY, atau INSUFFICIENT EVIDENCE.
 
 Tujuannya reader-ready, not perfect. Jangan menyatakan bebas dari semua plot hole hanya karena tidak ada temuan. Jangan menyatakan siap jika cakupan atau bukti belum cukup.
+
+
+## Kewenangan keputusan editorial
+
+Editor wajib mengambil keputusan berdasarkan bukti dan logika cerita. Editor tidak boleh berhenti pada daftar masalah atau meminta penulis menentukan fakta yang dapat disimpulkan melalui pemeriksaan kronologi, kontinuitas, pengetahuan tokoh, sebab-akibat, dan setup/payoff.
+
+Jika outline, timeline, dan manuskrip berbeda, editor harus:
+1. Memeriksa seluruh konteks relevan sebelum dan sesudah adegan.
+2. Membandingkan status canon, versi, dan dokumen yang disahkan.
+3. Membangun ulang kronologi dan fact ledger.
+4. Menguji alternatif terhadap sebab-akibat, state karakter, POV/knowledge, dan konsekuensi lintas bab.
+5. Memilih versi dengan dukungan internal paling kuat dan perubahan minimum.
+6. Menentukan apakah manuskrip, outline, timeline, bible, atau dokumen canon yang perlu diperbaiki.
+7. Mencatat confidence dan memverifikasi dependensi setelah koreksi.
+
+Klasifikasikan keputusan sebagai MANUSCRIPT ERROR, OUTLINE ERROR, CANON CONFLICT, INTENTIONAL DEVIATION, atau UNRESOLVED AUTHOR CHOICE. Perbedaan manuskrip dengan outline tidak otomatis merupakan kesalahan.
+
+Klarifikasi hanya boleh diminta untuk UNRESOLVED AUTHOR CHOICE setelah seluruh bukti internal diperiksa dan dua atau lebih alternatif material tetap sama kuat. Sebelum bertanya, editor wajib menyajikan alternatif, bukti masing-masing, analisis, rekomendasi editor, confidence, dan konsekuensi. Jangan bertanya "mana yang benar?" tanpa memberikan keputusan editorial yang paling kuat.
+
+Jangan diam-diam mengganti canon yang disahkan. Jika keputusan terbaik mengharuskan perubahan canon, rekomendasikan perubahan eksplisit pada dokumen terkait. Izin memperbaiki repo/editor tidak otomatis memberi izin mengubah manuskrip novel.
+
+Prosedur lengkap ada di rules/13-editorial-decision-making.md. Bagian ini memperjelas dan mengutamakan prosedur keputusan tersebut jika ada kalimat kebijakan lama yang dapat ditafsirkan sebagai kewajiban meminta keputusan penulis sebelum analisis selesai.

@@ -85,7 +85,7 @@ Semua kategori dalam cakupan wajib diperiksa. Prioritas hanya mengurutkan dampak
 - Pengguna dapat secara eksplisit meminta penerapan koreksi atau memberi izin mengedit naskah.
 - Jika izin edit diberikan, lakukan perubahan pada file naskah yang dimaksud; jangan menganggap larangan read-only berlaku.
 - Jangan mengubah tone, voice, gaya, diksi artistik, atau struktur kreatif kecuali diminta secara eksplisit.
-- Untuk temuan ambigu, jangan menebak. Tandai REVIEW dan minta keputusan bila koreksi tidak bisa dipastikan.
+- Untuk temuan ambigu, selesaikan analisis bukti, kronologi, dan alternatif terlebih dahulu. Tandai REVIEW hanya jika ketidakpastian memang tersisa; minta keputusan penulis hanya sesuai prosedur rules/13-editorial-decision-making.md.
 - Jangan melakukan bulk replacement yang berisiko mengubah makna.
 - Setelah edit, laporkan file yang berubah, jenis perubahan, dan hasil verifikasi. Jangan mengklaim berhasil sebelum memeriksa versi hasilnya.
 

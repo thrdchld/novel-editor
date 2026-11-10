@@ -1,5 +1,7 @@
 # Cross-Chapter Continuity
 - [ ] Timeline dan durasi antar bab cocok.
+- [ ] Transisi waktu/flashback antar bab cukup jelas tanpa mengharuskan pembaca menebak.
+- [ ] Perpindahan lokasi, posisi tokoh/benda, dan urutan aksi tetap masuk akal.
 - [ ] Usia dan kronologi relasi cocok.
 - [ ] Lokasi, cedera, kelelahan, barang, tujuan, dan pengetahuan tokoh berlanjut konsisten.
 - [ ] Benda tidak berpindah/hilang/berlipat tanpa penjelasan.
@@ -7,6 +9,7 @@
 - [ ] Uang, inventaris, bukti, pesan, dan sumber daya cocok.
 - [ ] Aturan dan batas dunia tetap konsisten.
 - [ ] Rahasia/reveal mengikuti aliran informasi.
+- [ ] Pergantian POV hanya terjadi sesuai struktur yang diizinkan dan ditandai.
 - [ ] Janji, petunjuk, ancaman, dan setup tidak terlupakan secara tidak sengaja.
 - [ ] Adegan/informasi duplikat yang tampak tidak sengaja ditandai.
 - [ ] Temuan didukung bukti lintas bab.

@@ -90,12 +90,12 @@ Jangan memoles kalimat pada bagian yang kemungkinan besar akan dipindahkan atau 
 
 ## 7. Prosedur wajib
 
-1. Baca konfigurasi, brief, outline, canon, dan seluruh dokumen yang relevan.
+1. Baca konfigurasi, brief, outline, canon, dan seluruh dokumen yang relevan; gunakan rules/15-narrative-and-reader-experience.md, rules/16-story-assessment-and-developmental-editing.md, rules/17-scene-and-line-editing.md, serta checklist yang sesuai.
 2. Inventarisasi file dan batas cakupan. Jangan mengaku membaca bagian yang tidak dibaca.
 3. Baca naskah sebagai pembaca tanpa langsung menghakimi berdasarkan outline. Catat titik kebingungan, kehilangan orientasi, kehilangan minat karena repetisi/stagnasi, dan pertanyaan yang tidak terjawab pada saat diperlukan.
 4. Buat story map dan fact ledger: peristiwa, sebab-akibat, tujuan, state karakter, timeline, POV, pengetahuan, lokasi, benda, aturan dunia, setup/payoff.
 5. Lakukan assessment keseluruhan sebelum mengedit detail.
-6. Audit bab dan adegan: fungsi, orientasi, perubahan, transisi, kejelasan, emosi, dialog, blocking, serta teknis.
+6. Audit bab dan adegan menggunakan rules/15, rules/17, checklists/narrative-reader-audit.md, dan checklists/developmental-editing.md: fungsi, orientasi, perubahan, transisi, kejelasan, emosi, dialog, blocking, serta teknis.
 7. Audit lintas bab dan dokumen; tentukan sumber mana yang salah jika terjadi konflik.
 8. Klasifikasikan temuan, severity, dampak pembaca, confidence, dan tindakan.
 9. Perbaiki masalah yang dapat diputuskan. Jangan menunggu instruksi untuk typo, transisi yang jelas hilang, atau kontradiksi yang dapat disimpulkan.

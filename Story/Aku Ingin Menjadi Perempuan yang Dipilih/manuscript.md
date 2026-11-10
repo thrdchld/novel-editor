@@ -686,7 +686,7 @@ Di antara lalu lintas sore Jalan Riau yang padat dan deru mesin kendaraan yang b
 
 Langkah kaki Maya bergema cepat di atas lantai keramik dingin selasar Unit Gawat Darurat Rumah Sakit Cakrawala. Bau antiseptik yang menyengat bercampur aroma obat menyergap indra penciumannya, membuat dadanya semakin sesak.
 
-Kardus berisi berkas lamaran kerja yang baru saja ia rapi di rumah Antapani ditinggalkan begitu saja di dalam taksi.
+Kardus berisi berkas lamaran kerja yang baru saja ia rapikan di rumah Antapani ditinggalkan begitu saja di dalam taksi.
 
 "Mbak Maya\!"
 
@@ -702,7 +702,7 @@ Dada Maya seperti dihantam benda tumpul. "Pingsan, Pak?"
 
 Maya tidak menunggu penjelasan lebih lanjut. Ia menyibak tirai hijau tebal UGD.
 
-Di atas ranjang besi berpagar aluminium, Ratih terbaring lemah. Wajah ibunya yang biasa tampak tegar kini pucat pasi, bibirnya kering pecah-pecah. Selang infus menancap di punggung tangan kirinya, sementara tangan kanannya sudah terbebat kain kasa tebal dan bidai penyangga. Di pelipis kanan dekat garis rambut, tempelan kassa steril menutupi memar kebiruan.
+Di atas ranjang besi berpagar aluminium, Ratih terbaring lemah. Wajah ibunya yang biasa tampak tegar kini pucat pasi, bibirnya kering pecah-pecah. Selang infus menancap di punggung tangan kirinya, sementara tangan kanannya sudah terbebat kain kasa tebal dan bidai penyangga. Di pelipis kanan dekat garis rambut, tempelan kasa steril menutupi memar kebiruan.
 
 "Ibu..." Maya berlutut di samping ranjang, menggenggam jemari kiri Ratih yang terasa amat dingin.
 
@@ -792,7 +792,7 @@ Ponsel di genggamannya bergetar. Nama Pak Dudung tertera di layar. Maya segera m
 
 "Malam, May. Bagaimana kondisi Bu Ratih di dalam?" suara Pak Dudung terdengar ramah dari ujung telepon. "Pak RT baru saja menanyakan ke rumah."
 
-"Alhamdulillah sudah jauh lebih tenang, Pak. Tangan kanannya sudah dibidai rapi dan malam ini infus vitaminnya masih jalan," jawab Maya tulus. "Oya, Pak Dudung, uang pengganti ambulans dan konsumsi warga yang ditalangi Pak RT kemarin totalnya berapa ya? Biar malam ini langsung Maya transfer via m-banking."
+"Alhamdulillah sudah jauh lebih tenang, Pak. Tangan kanannya sudah dibidai rapi dan malam ini infusnya masih jalan," jawab Maya tulus. "Oya, Pak Dudung, uang pengganti ambulans dan konsumsi warga yang ditalangi Pak RT kemarin totalnya berapa ya? Biar malam ini langsung Maya transfer via m-banking."
 
 "Aduh, May, tidak usah terburu-buru begitu. Pak RT bilang itu bantuan dari kas warga untuk musibah," tanggap Pak Dudung segan. "Kamu fokus saja dulu mengurus biaya rumah sakit sama pemulihan Bu Ratih."
 
@@ -842,7 +842,7 @@ Tangan kiri Ratih yang tidak terbebat refleks terulur, seolah ingin meraih gulun
 
 "Jangan disentuh dulu, Bu," tegur Maya lembut namun sigap. Ia menahan lengan kiri ibunya, memandu langkah Ratih agar perlahan melewati ambang pintu menuju dipan kayu di sudut ruang tamu.
 
-Ratih menghela napas panjang, merosotkan tubuhnya pelan ke atas kasur tipis berperekat kain. Pergelangan tangan kanannya yang terbungkus gips putih tebal tersangga oleh kain gendongan hitam yang melingkar di lehernya. Di pelipis kanannya, plester steril masih menutupi sisa memar bekas benturan.
+Ratih menghela napas panjang, merosotkan tubuhnya pelan ke atas kasur tipis berlapis kain. Pergelangan tangan kanannya yang terbungkus gips putih tebal tersangga oleh kain gendongan hitam yang melingkar di lehernya. Di pelipis kanannya, plester steril masih menutupi sisa memar bekas benturan.
 
 "Itu kebaya hajatan Bu Yanti, May," kata Ratih dengan suara serak. Matanya menatap tumpukan kain itu dengan gurat cemas. "Harusnya besok Sabtu sudah masuk tahap pasang kancing. Kalau ditunda, Bu Yanti bisa bingung cari penjahit pengganti."
 

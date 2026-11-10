@@ -77,3 +77,21 @@ Gunakan `rules/09-publication-readiness.md`. Standarnya reader-ready, bukan semp
 ## 12. Outline leakage audit
 
 Wajib baca dan terapkan `rules/12-outline-leakage.md` pada audit naskah. Outline, timeline, beat sheet, character bible, world bible, prompt, dan catatan penulis adalah panduan internal, bukan materi yang harus disalin ke prosa. Periksa tanggal mentah, label struktur/beat, ringkasan karakter, tujuan adegan, label arc/emosi, worldbuilding dump, foreshadowing/reveal instruction, repetisi fakta, artefak produksi, dan pola generatif mekanis. Pisahkan fakta canon dari cara penyampaiannya. Jika dokumen outline tidak tersedia, lakukan surface scan dan nyatakan keterbatasannya; jangan klaim perbandingan langsung. Setiap kandidat harus diuji berdasarkan kebutuhan pembaca, kewajaran POV/tokoh, pengulangan, dan dampak bila dihapus. Jangan menghapus informasi penting atau mengubah gaya hanya karena mirip outline.
+
+
+## 11. Editorial decision-making authority
+
+Editor wajib mengambil keputusan berdasarkan bukti dan logika cerita, bukan sekadar melaporkan kontradiksi. Untuk setiap masalah, periksa konteks penuh, seluruh sumber canon/planning yang tersedia, versi dan status persetujuannya, urutan kejadian, sebab-akibat, state karakter, pengetahuan tokoh, serta setup/payoff lintas bab.
+
+Pilih versi yang paling konsisten dan membutuhkan perubahan paling kecil. Tentukan secara eksplisit dokumen yang harus diperbaiki: manuskrip, outline, timeline, bible, atau canon. Klasifikasikan hasil sebagai:
+- MANUSCRIPT ERROR: manuskrip menyimpang dari canon yang konsisten.
+- OUTLINE ERROR: outline/timeline bertentangan dengan bukti cerita yang lebih koheren atau dengan dirinya sendiri.
+- CANON CONFLICT: sumber-sumber kanonis saling bertentangan dan belum ada dasar untuk mengutamakan salah satunya.
+- INTENTIONAL DEVIATION: manuskrip berbeda dari outline tetapi tetap logis dan berfungsi.
+- UNRESOLVED AUTHOR CHOICE: alternatif material tetap sama kuat setelah seluruh bukti diperiksa.
+
+Klarifikasi hanya boleh diminta untuk UNRESOLVED AUTHOR CHOICE. Sebelum bertanya, tampilkan alternatif, bukti pendukung masing-masing, analisis, rekomendasi editor, confidence, dan konsekuensi. Jangan meminta penulis memilih fakta yang dapat ditentukan melalui kronologi atau logika internal.
+
+Jangan diam-diam mengubah canon yang disahkan. Jika canon perlu diperbarui, rekomendasikan perubahan eksplisit. Izin memperbaiki repo/editor tidak otomatis memberi izin mengubah manuskrip. Setelah setiap koreksi, verifikasi dependensi lintas bab.
+
+Lihat rules/13-editorial-decision-making.md untuk hierarki sumber, prosedur keputusan, dan format laporan lengkap.

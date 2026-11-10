@@ -926,7 +926,7 @@ Setelah rentetan surel penolakan dari beberapa agensi komersial sepanjang bulan 
 
 Maya menggeser kursor ke bawah, membaca lembar kualifikasi yang tertera di sana. Yayasan itu bergerak di bidang edukasi kesehatan masyarakat, pendampingan pasien kurang mampu, serta penyelenggaraan program pelayanan kesehatan berkala di wilayah Jawa Barat. Mereka membutuhkan seseorang yang sanggup menyusun materi penyuluhan publik, mengelola media sosial lembaga, serta merancang laporan evaluasi program edukasi lapangan.
 
-Tidak ada kriteria berlebihan tentang batasan usia tegar atau gengsi latar belakang perusahaan multinasional. Syarat utamanya adalah pengalaman minimal dua tahun di bidang komunikasi publik, kemampuan menyusun narasi edukatif, serta kerapian pengolahan data kampanye.
+Tidak ada persyaratan khusus mengenai batasan usia atau pengalaman di perusahaan multinasional. Syarat utamanya adalah pengalaman minimal dua tahun di bidang komunikasi publik, kemampuan menyusun narasi edukatif, serta kerapian pengolahan data kampanye.
 
 Maya mengusap pelipisnya yang sedikit pegal. Pengalaman tiga tahunnya di kantor lama dalam mengelola laporan evaluasi kampanye media sosial terasa sangat relevan dengan apa yang dicari lembaga ini.
 
@@ -964,7 +964,7 @@ Maya segera berdiri dan menyunggingkan senyum profesional. "Iya, Mbak."
 
 "Saya Dewi, Kepala Divisi Komunikasi Yayasan Lentera Sehat. Mari masuk, Mbak Maya," ajaknya hangat.
 
-Wawancara berlangsung selama empat puluh lima menit. Di dalam ruangan beraroma kertas baru dan teh melati itu, Mbak Dewi bersama staf HRD menanyakan cermat perihal pengalaman Maya menyusun naskah penyuluhan, strategi media sosial, hingga ketelitiannya menyusun laporan evaluasi bulanan. Tidak ada pertanyaan menjebak atau formalitas gengsi. Maya menjelaskan latar belakang kualifikasinya dengan lugas, tenang, dan jujur tanpa melebih-lebihkan.
+Wawancara berlangsung selama empat puluh lima menit. Di dalam ruangan beraroma kertas baru dan teh melati itu, Mbak Dewi bersama staf HRD menanyakan dengan cermat perihal pengalaman Maya menyusun naskah penyuluhan, strategi media sosial, hingga ketelitiannya menyusun laporan evaluasi bulanan. Tidak ada pertanyaan menjebak atau formalitas gengsi. Maya menjelaskan latar belakang kualifikasinya dengan lugas, tenang, dan jujur tanpa melebih-lebihkan.
 
 Mbak Dewi menutup map portofolio Maya sambil mengangguk-angguk puas. "Pengalaman Mbak Maya mengolah data laporan di kantor lama sangat cocok dengan yang kami butuhkan. Di sini kami tidak cuma butuh narasi yang bagus, tapi juga ketepatan data evaluasi program edukasi untuk mitra rumah sakit dan dinas."
 
@@ -1092,13 +1092,13 @@ Sarah mengangguk, menatap langkah suaminya hingga menghilang di antara barisan k
 
 Sarah berbicara dengan kecerdasan dan kedewasaan yang membuat Maya segan. Dari obrolan singkat itu, Maya mengetahui bahwa Sarah bekerja dari rumah sebagai editor fiksi dan non-fiksi untuk beberapa penerbit besar di Jakarta.
 
-Ketika Mbak Dewi menghampiri mereka untuk memandu Sarah menuju baris kursi kehormatan, Maya tanpa sengaja mendengar percakapan pelan mengenai usia pernikahan Daniel dan Sarah dari panitia lain di dekat meja registrasi. Mereka rupanya telah menikah sejak bulan Oktober 2017\. Delapan tahun perjalanan rumah tangga yang telah teruji waktu, jauh sebelum Maya mengenal nama Daniel di selasar UGD dua bulan lalu.
+Ketika Mbak Dewi menghampiri mereka untuk memandu Sarah menuju baris kursi kehormatan, Maya tanpa sengaja mendengar percakapan pelan mengenai usia pernikahan Daniel dan Sarah dari panitia lain di dekat meja registrasi. Mereka rupanya telah menikah sejak bulan Oktober 2017\. Hampir delapan tahun perjalanan rumah tangga yang telah teruji waktu, jauh sebelum Maya mengenal nama Daniel di selasar UGD dua bulan lalu.
 
 Pukul sepuluh pagi, saat acara sarasehan dimulai dengan pemutaran video dokumenter yayasan, Maya berdiri di sudut belakang aula.
 
 Pandangannya secara tidak sengaja tertuju pada barisan depan. Daniel duduk berdampingan dengan Sarah. Dari kejauhan, Maya melihat Daniel merapatkan posisi duduknya, mendengarkan bisikan Sarah saat istrinya menunjuk ke arah layar proyektor, lalu tersenyum bersama.
 
-Di dalam dada Maya, ada perasaan tenang sekaligus kejelasan tebal yang mengendap. Maya menyadari bahwa Dokter Daniel yang selalu bersikap tenang dan perhatian itu bukanlah pria yang berdiri sendirian di dunia ini. Pria itu memiliki sebuah kehidupan utuh, sebuah rumah tangga delapan tahun yang hangat, dan seorang istri yang begitu anggun dan berharga di sampingnya.
+Di dalam dada Maya, ada perasaan tenang sekaligus kejelasan tebal yang mengendap. Maya menyadari bahwa Dokter Daniel yang selalu bersikap tenang dan perhatian itu bukanlah pria yang berdiri sendirian di dunia ini. Pria itu memiliki sebuah kehidupan utuh, sebuah rumah tangga yang telah mereka bangun selama hampir delapan tahun, dan seorang istri yang begitu anggun dan berharga di sampingnya.
 
 Maya merapikan kertas presensi di papan jepitnya, lalu menarik napas panjang. Ia berada di sana murni untuk bekerja, membangun kembali pijakan hidupnya yang sempat runtuh, dan ia bersyukur telah melihat batas itu secara nyata sejak awal.
 
@@ -1112,7 +1112,7 @@ Ponsel di atas meja kayu bergetar pelan. Sebuah pesan grup dari panitia gabungan
 
 Maya teringat kembali pada bayangan dua insan di barisan depan aula Hotel Papandayan pekan lalu.
 
-Dalam ingatan Maya, Daniel dan Sarah tampil sebagai pasangan yang utuh dan tenang. Sikap Sarah yang mandiri, tutur katanya yang teratur saat memuji kerapian naskah brosur, serta cara Daniel memperhatikan istrinya di sela acara memberikan gambaran tentang sebuah rumah tangga yang tertata di atas fondasi kedewasaan delapan tahun. Maya belum mengetahui bahwa di balik ketenangan yang diperlihatkan di depan umum, ada retakan halus yang perlahan merayap di antara mereka.
+Dalam ingatan Maya, Daniel dan Sarah tampil sebagai pasangan yang utuh dan tenang. Sikap Sarah yang mandiri, tutur katanya yang teratur saat memuji kerapian naskah brosur, serta cara Daniel memperhatikan istrinya di sela acara memberikan gambaran tentang sebuah rumah tangga yang tertata di atas fondasi kedewasaan yang telah mereka bangun selama hampir delapan tahun. Maya belum mengetahui bahwa di balik ketenangan yang diperlihatkan di depan umum, ada retakan halus yang perlahan merayap di antara mereka.
 
 Di apartemen berlantai delapan kawasan Ciumbuleuit malam itu, suasana ruang tengah sangat sunyi.
 
@@ -1166,7 +1166,7 @@ Sikap saling menghormati di antara mereka tumbuh secara wajar. Bagi Maya, kerja 
 
 Namun di balik rasa hormat itu, Maya secara sadar memagari dirinya dengan batas yang tegas.
 
-Setiap kali melihat nama Daniel di daftar pesan grup atau saat berhadapan langsung di ruang rapat, bayangan sosok Sarah Putri Wicaksana di aula Hotel Papandayan bulan lalu selalu hadir di benak Maya. Keanggunan Sarah, tutur katanya yang ramah, serta usia pernikahan delapan tahun yang mereka jalani menjadi penanda yang tebal. Maya berjanji pada dirinya sendiri untuk menjaga batas profesionalisme dan tidak membiarkan dirinya masuk ke ruang pribadi siapa pun.
+Setiap kali melihat nama Daniel di daftar pesan grup atau saat berhadapan langsung di ruang rapat, bayangan sosok Sarah Putri Wicaksana di aula Hotel Papandayan bulan lalu selalu hadir di benak Maya. Keanggunan Sarah, tutur katanya yang ramah, serta usia pernikahan mereka yang hampir delapan tahun menjadi penanda yang tebal. Maya berjanji pada dirinya sendiri untuk menjaga batas profesionalisme dan tidak membiarkan dirinya masuk ke ruang pribadi siapa pun.
 
 Daniel pun bersikap sangat profesional. Ia bertindak sopan, fokus pada target program edukasi, dan menjaga jarak kerja yang wajar sebagai dokter pembicara mitra yayasan. Tidak ada komunikasi pribadi di luar jam kerja dan tidak ada percakapan di luar alur proyek.
 
@@ -1358,7 +1358,7 @@ Sarah kembali memfokuskan pandangannya pada naskah terjemahan di depan layarnya.
 
 Namun, di dalam ruangan apartemen yang tenang itu, kebiasaan kecil Daniel mulai mengendap di kepala Sarah.
 
-Sebagai istri yang telah delapan tahun mendampingi Daniel, Sarah sangat mengenali gestur suaminya. Daniel biasanya meletakkan ponsel di sembarang tempat tanpa terlalu memikirkan lokasinya. Namun sepanjang tiga minggu terakhir di bulan Juni ini, Sarah memperhatikan perubahan halus yang konsisten. Daniel lebih sering membawa ponselnya ke dalam kamar mandi, membalikkan layar ponselnya setiap kali duduk di meja makan, dan refleks memeriksa tombol notifikasi begitu ada getaran kecil.
+Sebagai istri yang telah hampir delapan tahun mendampingi Daniel, Sarah sangat mengenali gestur suaminya. Daniel biasanya meletakkan ponsel di sembarang tempat tanpa terlalu memikirkan lokasinya. Namun sepanjang tiga minggu terakhir di bulan Juni ini, Sarah memperhatikan perubahan halus yang konsisten. Daniel lebih sering membawa ponselnya ke dalam kamar mandi, membalikkan layar ponselnya setiap kali duduk di meja makan, dan refleks memeriksa tombol notifikasi begitu ada getaran kecil.
 
 Kebiasaan memeriksa ponsel dengan intensitas yang berbeda dari biasanya itu terasa seperti ada ruang baru yang sedang dijaga rapat oleh Daniel.
 
@@ -1600,7 +1600,7 @@ Sarah menatap suaminya dengan raut wajah yang tenang, namun memancarkan kekecewa
 
 "Memang begitu kenyataannya, Sar. Pekerjaan di rumah sakit itu menguras energi," sahut Daniel membela diri. "Aku tidak ingin membawa beban pasien ke rumah dan membuat kamu kepikiran."
 
-"Tapi kita ini suami istri, Niel," tegas Sarah. Suaranya mulai bergetar tipis, meski ia berusaha keras menjaga kontrol dirinya. "Delapan tahun kita menikah, tapi beberapa bulan terakhir ini kamu seperti membangun tembok tebal. Kamu memilih menyimpan semuanya sendirian, atau sibuk menatap ponselmu setiap kali ada jeda lima menit."
+"Tapi kita ini suami istri, Niel," tegas Sarah. Suaranya mulai bergetar tipis, meski ia berusaha keras menjaga kontrol dirinya. "Hampir delapan tahun kita menikah, tapi beberapa bulan terakhir ini kamu seperti membangun tembok tebal. Kamu memilih menyimpan semuanya sendirian, atau sibuk menatap ponselmu setiap kali ada jeda lima menit."
 
 Kata ponsel yang diucapkan Sarah membuat dada Daniel berdesir tipis. Ia teringat kejadian beberapa minggu lalu ketika Sarah melihat notifikasi dari Maya di meja kaca ini.
 
@@ -1676,7 +1676,7 @@ Perasaan diakui dan diinginkan itu menyeruak hangat, menyapu luka-luka lama di d
 
 Namun, di saat yang bersamaan, kejujuran dingin dari realitas menghantamnya dari arah sebaliknya.
 
-Maya menatap layar ponselnya lurus-lurus. Mereka tidak sedang berada di masa lalu. Daniel telah menikah dengan Sarah sejak delapan tahun lalu di Ciumbuleuit, dan Maya berada di kamar kontrakan Antapani pada Agustus 2025\. Berandai-andai tentang masa lalu tidak akan pernah mengubah fakta bahwa Daniel adalah suami perempuan lain.
+Maya menatap layar ponselnya lurus-lurus. Mereka tidak sedang berada di masa lalu. Daniel telah menikah dengan Sarah sejak Oktober 2017, dan Maya berada di kamar kontrakan Antapani pada Agustus 2025\. Berandai-andai tentang masa lalu tidak akan pernah mengubah fakta bahwa Daniel adalah suami perempuan lain.
 
 Maya mengetikkan balasan dengan jemari yang bergetar tipis.
 
@@ -1878,7 +1878,7 @@ Daniel menelan ludah yang terasa kesat di kerongkongan. Ia menyembunyikan tablet
 
 "Aku cuma lelah waktu itu, Sar\! Aku sedang tertekan oleh jadwal klinik dan suasana rumah ini\!" tangkis Daniel, mulai kehilangan kendali atas ketenangannya.
 
-"Jangan salahkan rumah ini atas ketidakjujuranmu\!" potong Sarah tegas. Suaranya tidak meledak dalam teriakan histeris, melainkan dipenuhi oleh amarah yang matang dan rasa sakit yang amat dalam. "Delapan tahun kita menikah, Daniel. Setiap kali ada masalah di antara kita, aku selalu minta kamu bicara. Aku mengajak kamu berbenah. Tapi kamu pilih diam, kamu bangun tembok di rumah ini, lalu kamu buka seluruh ruang rentanmu untuk perempuan lain\!"
+"Jangan salahkan rumah ini atas ketidakjujuranmu\!" potong Sarah tegas. Suaranya tidak meledak dalam teriakan histeris, melainkan dipenuhi oleh amarah yang matang dan rasa sakit yang amat dalam. "Hampir delapan tahun kita menikah, Daniel. Setiap kali ada masalah di antara kita, aku selalu minta kamu bicara. Aku mengajak kamu berbenah. Tapi kamu pilih diam, kamu bangun tembok di rumah ini, lalu kamu buka seluruh ruang rentanmu untuk perempuan lain\!"
 
 Daniel terpaku di tempatnya berdiri. Lidahnya terasa kaku.
 
@@ -1892,7 +1892,7 @@ Air mata Sarah akhirnya menetes di pipinya, mengalir pelan tanpa tangisan berleb
 
 Sarah membalikkan badan, berjalan menuju kamar tidur utama. Di ambang pintu, ia menghentikan langkahnya tanpa menoleh kembali.
 
-"Malam ini kamu tidur di kamar tamu," kata Sarah datar. "Dan kalau kamu masih punya sisa rasa hormat pada pernikahan delapan tahun ini, tentukan batasmu dan hentikan semua kebohongan ini."
+"Malam ini kamu tidur di kamar tamu," kata Sarah datar. "Dan kalau kamu masih punya sisa rasa hormat pada pernikahan kita yang hampir delapan tahun ini, tentukan batasmu dan hentikan semua kebohongan ini."
 
 Pintu kamar tidur utama tertutup rapat, disusul bunyi klik kunci yang diputar dari dalam.
 
@@ -1932,7 +1932,7 @@ Daniel menelan ludah yang terasa pahit di kerongkongan. Rasa malu melingkupi waj
 
 Pengakuan itu menggantung di udara ruang tengah Ciumbuleuit yang sunyi.
 
-Sarah mendengarkan setiap patah kata itu tanpa mengalihkan pandangan. Tidak ada riak emosi meledak-ledak di wajahnya. Sebagai wanita yang cerdas dan realistis, Sarah menangkap ketulusan dalam pengakuan keterlambatan suaminya. Namun, ia juga tahu bahwa pengakuan tidak serta-merta menghapus luka delapan tahun pernikahan yang telah tercoreng.
+Sarah mendengarkan setiap patah kata itu tanpa mengalihkan pandangan. Tidak ada riak emosi meledak-ledak di wajahnya. Sebagai wanita yang cerdas dan realistis, Sarah menangkap ketulusan dalam pengakuan keterlambatan suaminya. Namun, ia juga tahu bahwa pengakuan tidak serta-merta menghapus luka dalam pernikahan yang telah berjalan hampir delapan tahun.
 
 "Terima kasih sudah akhirnya jujur, Niel," sahut Sarah dengan suara pelan dan mantap. "Tapi pengakuan itu bukan penebusan instan. Kamu tidak bisa cuma minta maaf lalu menganggap semuanya kembali seperti semula."
 
@@ -1990,7 +1990,7 @@ Selama bertahun-tahun ia membenci Arman karena menyembunyikan hubungan mereka da
 
 Daniel menggeleng pelan, memotong kalimat Maya dengan tegas namun tanpa nada menyalahkan.
 
-"Jangan minta maaf ke saya, May. Dan jangan menanggung semua kesalahan ini sendirian," sela Daniel. Matanya menatap Maya dengan ketulusan yang sarat penyesalan. "Saya pria yang beristri. Saya yang mengikat janji pernikahan delapan tahun lalu, dan saya yang seharusnya menjaga batas itu. Saya yang mendatangi kamu, mencari pelarian saat rumah tangga saya terasa dingin, dan memanfaatkan kehangatanmu untuk menghindari masalah saya sendiri."
+"Jangan minta maaf ke saya, May. Dan jangan menanggung semua kesalahan ini sendirian," sela Daniel. Matanya menatap Maya dengan ketulusan yang sarat penyesalan. "Saya pria yang beristri. Saya yang mengikat janji pernikahan hampir delapan tahun lalu, dan saya yang seharusnya menjaga batas itu. Saya yang mendatangi kamu, mencari pelarian saat rumah tangga saya terasa dingin, dan memanfaatkan kehangatanmu untuk menghindari masalah saya sendiri."
 
 Keheningan menggantung tebal di meja sudut kafe tersebut. Suara gemericik air mancur di taman kecil kafe dan riuh rendah percakapan pengunjung lain di kejauhan terasa begitu asing di telinga Maya.
 
@@ -2048,7 +2048,7 @@ Maya menundukkan kepala, tak sanggup menatap mata Sarah. Lidahnya terasa kaku, k
 
 Sarah menghela napas pendek, menatap jemari Maya yang saling meremas kencang di atas meja.
 
-"Daniel adalah suami saya," kata Sarah, menyusun kalimatnya dengan ketepatan yang presisi. "Dia yang mengikat janji pernikahan delapan tahun lalu bersama saya, dan dia yang memegang tanggung jawab utama untuk menjaga pintu rumah tangga kami. Saya tidak melempar seluruh kesalahan ini ke pundak Mbak Maya, karena saya tahu Daniel yang mendatangi Mbak Maya dan membuka ruang itu."
+"Daniel adalah suami saya," kata Sarah, menyusun kalimatnya dengan ketepatan yang presisi. "Dia yang mengikat janji pernikahan bersama saya hampir delapan tahun lalu, dan dia yang memegang tanggung jawab utama untuk menjaga pintu rumah tangga kami. Saya tidak melempar seluruh kesalahan ini ke pundak Mbak Maya, karena saya tahu Daniel yang mendatangi Mbak Maya dan membuka ruang itu."
 
 Sarah terdiam sejenak, binar matanya menajam oleh luka yang ditahannya rapat-rapat.
 

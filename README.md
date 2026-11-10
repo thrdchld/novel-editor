@@ -1,128 +1,88 @@
 # Novel Editor
 
-**Novel Editor adalah standar kerja editor teknis novel yang genre-agnostic.** Tujuannya memastikan naskah solid, sinkron, logis, dan dapat diikuti pembaca sebelum dipublikasikan—tanpa menuntut kesempurnaan.
+**Novel Editor adalah sistem penyuntingan novel berbantuan AI yang menilai dan memperbaiki naskah sebagai karya utuh sekaligus pengalaman membaca.** Sistem ini dirancang untuk menerima naskah AI yang belum matang, menemukan masalah pada fondasi cerita maupun penyajiannya, melakukan perbaikan editorial yang dapat dipertanggungjawabkan, lalu menentukan apakah naskah sudah layak dibaca dan diterbitkan.
 
-## Apa yang diperiksa
+Standar ini genre-agnostic. Ia tidak memaksakan formula genre atau selera artistik editor, tetapi tidak membatasi pemeriksaan hanya pada kesalahan teknis mekanis.
 
-Novel Editor memeriksa seluruh aspek teknis cerita yang dapat diverifikasi dari naskah dan dokumen proyek:
+## Mandat editorial
 
-1. Plot hole, integritas plot, dan sebab-akibat.
-2. Timeline, kronologi, usia, durasi, deadline, dan urutan kejadian.
-3. Continuity karakter, relasi, benda, lokasi, kondisi fisik, sumber daya, dokumen, dan informasi.
-4. Character knowledge dan aliran informasi.
-5. Worldbuilding, aturan internal, batas, biaya, pengecualian, institusi, geografi, dan sistem.
-6. Setup/payoff, janji cerita, petunjuk, misteri, dan penyelesaian konflik.
-7. Keterbacaan faktual: siapa melakukan apa, di mana, kapan, dengan informasi apa, dan mengapa.
-8. Repetisi informasi/adegan dan indikator AI-slop yang mengganggu fungsi cerita.
-9. Teknis naskah: ejaan, typo, tata bahasa objektif, tanda baca, konsistensi nama/istilah, format Markdown, struktur bab, catatan editor, placeholder, dan kesalahan format lain.
-10. Kebocoran outline: timeline mentah, label beat/struktur, profil karakter, tujuan adegan, label arc/emosi, worldbuilding dump, instruksi reveal, repetisi fakta, artefak produksi, dan pola generatif mekanis.
-11. Hard constraints proyek yang dinyatakan secara eksplisit, misalnya POV, tense, jumlah kata, format bab, atau larangan tanda baca tertentu.
+Editor wajib menjawab dua pertanyaan yang berbeda:
 
-## Netralitas genre
+1. **Apakah cerita bekerja?** Premis, konflik, karakter, sebab-akibat, perkembangan, struktur, adegan, dan penyelesaian membentuk cerita yang koheren.
+2. **Apakah cerita tersampaikan dengan baik kepada pembaca?** Pembaca dapat memahami orientasi waktu/tempat, mengikuti perpindahan adegan, mengenali siapa yang bertindak dan mengetahui apa, memahami emosi serta motivasi dari konteks, dan terus mengikuti alur tanpa kebingungan yang tidak disengaja.
 
-Novel Editor berlaku untuk semua genre dan bentuk fiksi: romance, drama, komedi, thriller, misteri, horor, fantasi, sci-fi, kriminal, sejarah, slice of life, action, petualangan, serta genre campuran atau kategori lain. Daftar ini hanya contoh, bukan batas cakupan.
+Naskah yang logis tetapi membingungkan saat dibaca belum lulus. Naskah yang kalimatnya rapi tetapi konflik dan adegannya tidak bekerja juga belum lulus.
 
-Genre pada project.yaml hanya konteks deskriptif. Genre tidak boleh otomatis mengaktifkan formula plot, struktur babak, trope, ending, karakter, pacing, atau ekspektasi pasar tertentu. Konvensi genre hanya boleh diperiksa jika penulis secara eksplisit menetapkannya sebagai target/constraint proyek; bahkan saat itu, periksa kesesuaian terhadap brief, bukan menganggap konvensinya sebagai hukum universal.
+## Cakupan penyuntingan
 
-## Yang tidak dinilai
+1. **Story assessment:** premis, janji cerita, konflik utama, daya dorong, fokus, dan kelayakan rancangan.
+2. **Developmental editing:** struktur keseluruhan, urutan peristiwa, perkembangan konflik, karakter, subplot, eskalasi, klimaks, dan ending.
+3. **Narrative editing:** cara informasi disajikan; orientasi pembaca; pembukaan/penutupan flashback; transisi waktu, tempat, adegan, dan bab; POV; eksposisi; ritme informasi; kejelasan motivasi dan emosi.
+4. **Scene editing:** tujuan dan fungsi adegan, kondisi awal/akhir, perubahan yang terjadi, sebab-akibat, blocking, dialog, reaksi, dan hubungan antarscene.
+5. **Continuity editing:** timeline, karakter, relasi, benda, lokasi, kondisi fisik, pengetahuan, sumber daya, dan aturan dunia.
+6. **Line editing:** kejernihan kalimat, aliran paragraf, repetisi, referen, pilihan kata yang tidak tepat, kalimat janggal, dan keterbacaan—tanpa menyeragamkan voice.
+7. **Copyediting:** ejaan, typo, tata bahasa, tanda baca, konsistensi istilah, dan format.
+8. **Fact checking:** fakta/prosedur dunia nyata yang material bagi cerita.
+9. **Publication assessment:** dampak masalah terhadap pengalaman pembaca dan keputusan reader-ready.
 
-- Tone, gaya penceritaan, voice, diksi, humor, keindahan prosa, atau selera artistik.
-- Preferensi editor tentang bagaimana kalimat seharusnya terdengar.
-- Konvensi genre sebagai aturan wajib.
-- Realisme dunia nyata untuk cerita fantasi/sci-fi yang memiliki aturan internal sendiri.
+## Prinsip penilaian
 
-**Pengecualian penting:** kesalahan teknis bahasa tetap diperiksa. Typo, ejaan baku yang keliru, kalimat yang secara tata bahasa rusak hingga maknanya tidak jelas, tanda baca yang mengubah makna, atau format yang merusak tampilan adalah masalah teknis. Namun, kalimat yang hanya berbeda gaya atau terasa kurang indah bukan kesalahan.
+- Nilai naskah berdasarkan tujuan cerita, bukti dalam naskah, logika internal, dan pengalaman pembaca yang wajar—bukan selera pribadi editor.
+- Gaya, tone, voice, humor, diksi artistik, dan bentuk narasi adalah pilihan kreatif, bukan wilayah terlarang untuk dianalisis. Editor boleh menilai apakah pilihan penyajian berhasil menyampaikan adegan, tetapi tidak boleh menggantinya hanya karena lebih menyukai gaya lain.
+- Flashback tidak wajib memakai tense tertentu. Yang wajib ialah pembaca mendapat orientasi temporal yang cukup dan dapat mengenali kapan adegan masa lalu dimulai serta kapan cerita kembali.
+- Pacing bukan angka kecepatan universal. Periksa apakah informasi, aksi, reaksi, dan jeda ditempatkan sehingga perkembangan cerita dapat diikuti dan efek adegan tercapai.
+- Outline adalah dokumen kerja, bukan hukum yang mengalahkan manuskrip. Perbedaan harus dianalisis; tentukan apakah manuskrip, outline, atau canon yang perlu diperbaiki.
+- Tidak semua ambiguitas adalah kesalahan. Misteri dan penahanan informasi boleh disengaja selama pembaca tetap memahami hal yang perlu dipahami pada saat itu.
+- Perbaiki masalah dengan perubahan terkecil yang memulihkan fungsi cerita. Jangan melakukan rewrite total jika revisi lokal atau struktural terbatas sudah cukup.
+- Jangan menahan publikasi untuk optional polish. Standarnya reader-ready, not perfect.
+
+## Alur kerja
+
+1. Inventarisasi naskah, outline, canon, konfigurasi, dan dokumen referensi.
+2. Pahami janji cerita, konteks, genre sebagai deskripsi, POV, tense, target, dan keputusan yang dikunci.
+3. Baca naskah sebagai pembaca untuk memperoleh gambaran pengalaman aktual; jangan langsung mulai dari checklist mekanis.
+4. Lakukan story assessment dan developmental audit.
+5. Audit narasi, adegan, transisi, orientasi pembaca, dan keterbacaan bab demi bab.
+6. Bangun fact ledger dan lakukan audit lintas bab: timeline, continuity, knowledge, setup/payoff, serta aturan dunia.
+7. Lakukan line editing, copyediting, dan pemeriksaan format.
+8. Verifikasi fakta eksternal yang material bila diperlukan.
+9. Putuskan dan terapkan perbaikan; jangan berhenti pada daftar temuan.
+10. Baca ulang hasil revisi dalam konteks sebelum/sesudahnya, lalu audit dependensi.
+11. Lakukan publication gate berdasarkan pengalaman membaca keseluruhan naskah.
 
 ## Mode kerja
 
-- **Audit mandiri read-only:** jika pengguna hanya meminta pemeriksaan, tidak mengubah naskah.
-- **Workflow produksi:** saat pengguna menjalankan Novel Editor pada folder novel, perbaikan teknis otomatis adalah default; editor menganalisis, memutuskan, mengedit, menyimpan, dan memverifikasi.
-- **Keputusan editorial:** editor wajib menyelesaikan analisis bukti, kronologi, sebab-akibat, dan kontinuitas sebelum meminta klarifikasi. Editor harus menentukan apakah manuskrip, outline, timeline, atau canon yang perlu diperbaiki; perbedaan dari outline tidak otomatis merupakan kesalahan.
-- **Klarifikasi:** hanya untuk pilihan material yang tetap sama kuat setelah semua bukti internal diperiksa. Editor harus menyajikan alternatif, bukti, rekomendasi, confidence, dan konsekuensinya.
-- **Perbaikan atas instruksi eksplisit:** jika pengguna meminta koreksi diterapkan, editor boleh mengubah naskah sesuai temuan yang disetujui/terbukti. Jangan mengubah tone atau gaya.
-- **Verifikasi:** setelah perbaikan, audit ulang bagian terdampak dan cek efek lintas bab. Jangan mengulang seluruh audit tanpa alasan.
-
-Mengedit aturan dan konfigurasi Novel Editor tidak sama dengan mengedit naskah novel. Prosedur keputusan lengkap ada di rules/13-editorial-decision-making.md.
-
-## Struktur
-
-- `SKILL.md`: entrypoint skill reusable untuk editor novel.
-- `AGENTS.md`: instruksi utama agent.
-- `EDITOR-PROTOCOL.md`: protokol audit, bukti, severity, dan kebijakan perbaikan.
-- `project.yaml`: konfigurasi cakupan, referensi, hard constraints, dan mode kerja.
-- `rules/`: standar pemeriksaan teknis, termasuk `rules/12-outline-leakage.md`, `rules/13-editorial-decision-making.md`, dan `rules/14-outline-validation.md`.
-- `checklists/`: checklist bab, lintas bab, worldbuilding, teknis naskah, dan publikasi.
-- `templates/`: outline universal, panduan outline, konfigurasi proyek novel, dan format laporan temuan/approval.
-- `scripts/`: scanner mekanis; bukan pengganti audit kontekstual.
-- `schemas/`: skema data temuan.
-- `tests/`: pengujian scanner.
-
-## Cara menggunakan
-
-1. Tempatkan paket ini di repository novel atau gunakan sebagai standar terpisah.
-2. Sesuaikan `project.yaml` dengan lokasi naskah dan dokumen referensi yang benar-benar ada.
-3. Buat satu folder Story/<Judul Novel>/; salin templates/story-project.yaml sebagai project.yaml lokal, lalu masukkan outline dan dokumen referensi yang tersedia.
-4. Jalankan:
-
-   ```bash
-   pip install -r requirements.txt
-   python scripts/run-audit.py --root PATH_PROYEK
-   ```
-
-5. Minta agent membaca `AGENTS.md`, `EDITOR-PROTOCOL.md`, semua rule relevan, konfigurasi, dokumen referensi, dan naskah.
-6. Lakukan audit per bab dan audit lintas bab. Untuk naskah panjang, bangun fact ledger dan lanjutkan secara bertahap tanpa menghilangkan konteks.
-7. Hasilkan laporan dengan bukti dan keputusan kelayakan publikasi.
-8. Jika diminta memperbaiki, terapkan koreksi teknis minimal lalu lakukan verifikasi ulang.
-
-## Batas scanner otomatis
-
-Script hanya memeriksa hal mekanis yang dapat dipastikan dengan aturan sederhana: cakupan file, jumlah kata per bab jika dikonfigurasi, urutan/duplikasi nomor bab, pagar code fence, pola catatan/placeholder, em dash jika dilarang, dan kata berulang berdekatan.
-
-Scanner **tidak** dapat membuktikan plot hole, menilai makna kalimat secara penuh, mendeteksi semua typo, atau menggantikan pemeriksaan ejaan dan continuity oleh editor. Hasil scanner harus dibaca bersama audit kontekstual. Jangan pernah mengklaim seluruh naskah sudah diperiksa hanya karena script selesai berjalan.
+- **Audit read-only:** tidak mengubah file jika pengguna hanya meminta penilaian.
+- **Workflow produksi:** jika pengguna meminta editor menjalankan atau memperbaiki naskah, audit dan perbaikan editorial adalah default. Perbaikan yang jelas dan dapat disimpulkan dilakukan tanpa meminta persetujuan satu per satu.
+- **Keputusan kreatif material:** jangan mengarang perubahan premis, pasangan akhir, kematian/kehidupan tokoh, motivasi inti, atau ending yang belum diputuskan. Minta keputusan hanya jika alternatif tetap sama kuat setelah analisis.
+- **Preservasi voice:** pertahankan karakter suara penulis. Perbaiki kalimat yang tidak bekerja, bukan mengubah semua kalimat menjadi gaya seragam.
+- **Transparansi:** setiap perubahan signifikan harus punya alasan, bukti, dan status verifikasi.
 
 ## Severity dan dampak rilis
 
-Severity:
-- `ERROR`: kontradiksi eksplisit atau pelanggaran hard rule yang terbukti.
-- `HIGH`: kegagalan logika/continuity yang kuat dan mengganggu pemahaman.
-- `REVIEW`: indikasi yang memerlukan analisis/verifikasi lanjutan; keputusan penulis hanya diminta jika benar-benar menjadi UNRESOLVED AUTHOR CHOICE.
-- `INFO`: catatan opsional.
+Severity: ERROR, HIGH, REVIEW, INFO.
 
 Dampak rilis:
-- `BLOCKER`: menghalangi publikasi.
-- `FIX BEFORE RELEASE`: kesalahan teknis nyata yang perlu diperbaiki, tetapi lokal.
-- `ACCEPTABLE / AUTHOR CHOICE`: pilihan kreatif/ambiguitas yang tidak merusak pemahaman.
-- `OPTIONAL POLISH`: tidak boleh menahan publikasi.
+- BLOCKER: mengganggu pemahaman atau merusak cerita secara material.
+- FIX BEFORE RELEASE: masalah nyata yang harus dibereskan tetapi terbatas.
+- ACCEPTABLE / AUTHOR CHOICE: pilihan kreatif atau ambiguitas yang bekerja.
+- OPTIONAL POLISH: penyempurnaan yang tidak perlu menunda rilis.
 
-## Publication readiness
+Kategori dan format laporan lengkap berada di EDITOR-PROTOCOL.md dan rules/.
 
-Kemungkinan keputusan:
-- `READY TO PUBLISH`
-- `READY WITH MINOR FIXES`
-- `NOT READY`
-- `INSUFFICIENT EVIDENCE`
+## Struktur repository
 
-Prinsipnya: **reader-ready, not perfect**. Jika tidak ada blocker material, jangan menahan novel hanya untuk optional polish. Keputusan teknis ini bukan jaminan penerimaan platform, legalitas hak cipta, atau kesuksesan pasar.
+- AGENTS.md: mandat dan instruksi utama agent.
+- SKILL.md: entrypoint reusable.
+- EDITOR-PROTOCOL.md: prosedur kerja, diagnosis, bukti, severity, dan kebijakan edit.
+- rules/: standar story assessment, developmental, narrative, scene, continuity, line/copy editing, outline, dan publication.
+- checklists/: alat bantu audit; bukan pengganti pembacaan dan penilaian.
+- templates/: format outline, laporan, dan artefak editorial.
+- scripts/: scanner mekanis; tidak dapat menggantikan penilaian naratif.
+- schemas/ dan tests/: struktur data dan pengujian.
 
+## Batas alat otomatis
 
-## Workflow produksi novel berbantuan AI
+Scanner hanya dapat memeriksa pola yang dapat dipastikan secara mekanis. Ia tidak dapat menentukan apakah pembukaan menarik, flashback membingungkan, adegan terasa patah, dialog alami, emosi meyakinkan, atau alur enak diikuti. Lulus scanner bukan lulus editorial.
 
-Novel Editor mendukung banyak novel secara independen. Setiap cerita berada di Story/<Judul Novel>/ dengan outline, konfigurasi lokal opsional, bab, dokumen canon/continuity jika diperlukan, dan laporan di folder proyek tersebut.
-
-### Dua gerbang utama
-1. **Outline Gate sebelum drafting:** AI pembuat outline menggunakan templates/outline-template.md dan panduannya. Novel Editor memeriksa outline dengan rules/14-outline-validation.md, memperbaiki masalah teknis secara otomatis, memverifikasi ulang, lalu memberi status approval.
-2. **Manuscript Gate sebelum publikasi:** editor membandingkan semua bab dengan outline/canon yang berlaku, memeriksa standar teknis, menambal kesalahan terkonfirmasi, menyinkronkan continuity, dan melakukan verifikasi lintas bab sebelum publication readiness.
-
-### Automatic repair
-Default workflow produksi adalah audit → keputusan editorial → perbaikan teknis minimal → simpan → verifikasi. Editor tidak menunggu persetujuan untuk koreksi yang dapat dipastikan dari bukti. Keputusan kreatif LOCKED tidak boleh diubah diam-diam; klarifikasi hanya untuk pilihan material yang benar-benar tidak dapat disimpulkan.
-
-### Template extensible dan format-agnostic
-Template mencakup premis, ringkasan lengkap, konflik/kausalitas, karakter/relasi, dunia/aturan, timeline, character knowledge, objek/sumber daya, struktur, outline bab, setup/payoff, ending, canon, asumsi, dan catatan bebas. AI pembuat outline boleh menambah bagian apa pun. Outline lama dengan format berbeda tetap diterima; editor memetakan informasi, bukan menolak karena format.
-
-### Konfigurasi multi-novel
-project.yaml root berisi default editor. Setiap folder novel dapat memiliki project.yaml lokal untuk metadata, lokasi file, hard constraints, dan pengecualian proyek. Jangan mengubah konfigurasi root hanya untuk berganti judul.
-
-
-## Independensi standar
-
-Novel Editor dikembangkan sebagai standar editor teknis yang independen dan genre-agnostic. Beberapa gagasan pengelolaan continuity seperti canon, state, ledger, dan pemerolehan informasi tokoh dapat menjadi inspirasi dari proyek lain, termasuk Novel MetroPop, tetapi aturan khusus genre, formula struktur, target kata, larangan gaya, dan preferensi kreatif proyek tersebut tidak otomatis diimpor. Setiap aturan yang masuk ke Novel Editor harus relevan secara teknis lintas genre dan dinyatakan secara eksplisit di repositori ini.
+**Status READY TO PUBLISH hanya boleh diberikan setelah editor membaca dan menilai pengalaman membaca naskah secara menyeluruh, bukan hanya karena checklist atau script tidak menemukan kesalahan.**

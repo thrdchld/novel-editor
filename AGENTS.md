@@ -81,9 +81,9 @@ Semua kategori dalam cakupan wajib diperiksa. Prioritas hanya mengurutkan dampak
 
 ## Kebijakan edit
 
-- Mode default adalah audit read-only.
-- Pengguna dapat secara eksplisit meminta penerapan koreksi atau memberi izin mengedit naskah.
-- Jika izin edit diberikan, lakukan perubahan pada file naskah yang dimaksud; jangan menganggap larangan read-only berlaku.
+- Dalam penggunaan audit terpisah, mode read-only berlaku jika pengguna hanya meminta pemeriksaan.
+- Dalam workflow produksi Novel Editor pada folder novel, automatic technical repair adalah default yang telah diotorisasi: lakukan koreksi teknis terkonfirmasi, simpan, lalu verifikasi.
+- Pengguna dapat secara eksplisit meminta read-only untuk menonaktifkan perbaikan otomatis pada tugas tersebut.
 - Jangan mengubah tone, voice, gaya, diksi artistik, atau struktur kreatif kecuali diminta secara eksplisit.
 - Untuk temuan ambigu, selesaikan analisis bukti, kronologi, dan alternatif terlebih dahulu. Tandai REVIEW hanya jika ketidakpastian memang tersisa; minta keputusan penulis hanya sesuai prosedur rules/13-editorial-decision-making.md.
 - Jangan melakukan bulk replacement yang berisiko mengubah makna.

@@ -1,0 +1,44 @@
+# Salin file ini ke Story/<Judul Novel>/project.yaml lalu sesuaikan.
+project:
+  title: "<JUDUL NOVEL>"
+  language: "id"
+  genre_context: [] # Deskriptif saja; tidak mengaktifkan formula genre.
+  status: "outline_draft" # outline_draft / approved_for_drafting / drafting / manuscript_review / ready_to_publish
+  outline: "outline.md"
+  manuscript:
+    include:
+      - "chapters/**/*.md"
+      - "manuscript.md"
+      - "naskah/**/*.md"
+      - "naskah/**/*.txt"
+    exclude:
+      - "**/archive/**"
+      - "**/old-drafts/**"
+      - "**/reports/**"
+  references:
+    canon: ["canon.md"]
+    timeline: ["timeline.md"]
+    character_bible: ["character-bible.md"]
+    world_bible: ["world-bible.md"]
+    continuity_ledger: ["continuity-ledger.md"]
+    glossary: ["glossary.md"]
+    other: []
+  constraints:
+    pov: null
+    tense: null
+    word_count:
+      enabled: false
+      min_per_chapter: null
+      max_per_chapter: null
+    custom_rules: []
+  workflow:
+    outline_audit_before_drafting: true
+    automatic_technical_repair: true
+    compare_manuscript_to_approved_outline: true
+    verify_after_repair: true
+    preserve_locked_canon: true
+    preserve_style_voice_tone_diction: true
+    read_only: false
+  reports:
+    directory: "reports"
+    keep_change_log: true

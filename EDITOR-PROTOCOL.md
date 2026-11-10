@@ -70,15 +70,6 @@ Laporkan file/bab yang dibaca, referensi yang diperiksa, jenis audit (bab/lintas
 
 Audit biasa bersifat read-only. Jika pengguna secara eksplisit meminta penerapan revisi, editor boleh mengubah naskah. Perbaiki temuan objektif/terkonfirmasi dengan perubahan minimal. Jangan mengubah gaya, tone, voice, atau pilihan kreatif. Tandai hal yang ambigu untuk keputusan pengguna. Setelah perubahan, lakukan pemeriksaan ulang pada perubahan dan dependensi lintas bab.
 
-## 11. Publication-readiness gate
-
-Gunakan `rules/09-publication-readiness.md`. Standarnya reader-ready, bukan sempurna. Jangan gunakan “masih ada yang bisa diperbaiki” sebagai alasan menunda publikasi. Tunjukkan konsekuensi bagi pembaca dan apakah masalah melampaui ambang blocker.
-
-## 12. Outline leakage audit
-
-Wajib baca dan terapkan `rules/12-outline-leakage.md` pada audit naskah. Outline, timeline, beat sheet, character bible, world bible, prompt, dan catatan penulis adalah panduan internal, bukan materi yang harus disalin ke prosa. Periksa tanggal mentah, label struktur/beat, ringkasan karakter, tujuan adegan, label arc/emosi, worldbuilding dump, foreshadowing/reveal instruction, repetisi fakta, artefak produksi, dan pola generatif mekanis. Pisahkan fakta canon dari cara penyampaiannya. Jika dokumen outline tidak tersedia, lakukan surface scan dan nyatakan keterbatasannya; jangan klaim perbandingan langsung. Setiap kandidat harus diuji berdasarkan kebutuhan pembaca, kewajaran POV/tokoh, pengulangan, dan dampak bila dihapus. Jangan menghapus informasi penting atau mengubah gaya hanya karena mirip outline.
-
-
 ## 11. Editorial decision-making authority
 
 Editor wajib mengambil keputusan berdasarkan bukti dan logika cerita, bukan sekadar melaporkan kontradiksi. Untuk setiap masalah, periksa konteks penuh, seluruh sumber canon/planning yang tersedia, versi dan status persetujuannya, urutan kejadian, sebab-akibat, state karakter, pengetahuan tokoh, serta setup/payoff lintas bab.
@@ -95,3 +86,12 @@ Klarifikasi hanya boleh diminta untuk UNRESOLVED AUTHOR CHOICE. Sebelum bertanya
 Jangan diam-diam mengubah canon yang disahkan. Jika canon perlu diperbarui, rekomendasikan perubahan eksplisit. Izin memperbaiki repo/editor tidak otomatis memberi izin mengubah manuskrip. Setelah setiap koreksi, verifikasi dependensi lintas bab.
 
 Lihat rules/13-editorial-decision-making.md untuk hierarki sumber, prosedur keputusan, dan format laporan lengkap.
+
+## 12. Publication-readiness gate
+
+Gunakan `rules/09-publication-readiness.md`. Standarnya reader-ready, bukan sempurna. Jangan gunakan “masih ada yang bisa diperbaiki” sebagai alasan menunda publikasi. Tunjukkan konsekuensi bagi pembaca dan apakah masalah melampaui ambang blocker.
+
+## 13. Outline leakage audit
+
+Wajib baca dan terapkan `rules/12-outline-leakage.md` pada audit naskah. Outline, timeline, beat sheet, character bible, world bible, prompt, dan catatan penulis adalah panduan internal, bukan materi yang harus disalin ke prosa. Periksa tanggal mentah, label struktur/beat, ringkasan karakter, tujuan adegan, label arc/emosi, worldbuilding dump, foreshadowing/reveal instruction, repetisi fakta, artefak produksi, dan pola generatif mekanis. Pisahkan fakta canon dari cara penyampaiannya. Jika dokumen outline tidak tersedia, lakukan surface scan dan nyatakan keterbatasannya; jangan klaim perbandingan langsung. Setiap kandidat harus diuji berdasarkan kebutuhan pembaca, kewajaran POV/tokoh, pengulangan, dan dampak bila dihapus. Jangan menghapus informasi penting atau mengubah gaya hanya karena mirip outline.
+

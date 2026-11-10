@@ -24,6 +24,8 @@ Gunakan checklist ini untuk memutuskan apakah pembaca dapat mengikuti cerita dan
 - [ ] Perubahan state karakter, benda, lokasi, relasi, dan sumber daya konsisten.
 - [ ] Aliran informasi dan pengetahuan karakter masuk akal.
 - [ ] Timeline dan durasi memungkinkan kejadian utama berlangsung.
+- [ ] Penanda waktu cukup untuk mengikuti flashback dan lompatan waktu tanpa harus menebak.
+- [ ] Blocking adegan dan posisi tokoh/benda tidak membingungkan.
 - [ ] Tidak ada kontradiksi lintas bab yang mengubah pemahaman pembaca.
 
 ## Keterbacaan faktual
@@ -31,6 +33,7 @@ Gunakan checklist ini untuk memutuskan apakah pembaca dapat mengikuti cerita dan
 - [ ] Transisi penting tidak meninggalkan lompatan fakta yang membingungkan.
 - [ ] Istilah/fakta/aturan penting digunakan konsisten.
 - [ ] Ambiguitas yang tersisa tampak disengaja, bukan akibat informasi hilang.
+- [ ] Batas POV konsisten dan prosedur/fakta dunia nyata yang material tidak mengandung kesalahan yang terbukti.
 
 ## Teknis naskah
 - [ ] Ejaan, typo, imbuhan, dan bentuk gabungan diperiksa.

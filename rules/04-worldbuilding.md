@@ -7,7 +7,7 @@ Dunia fiksi boleh tidak realistis menurut dunia nyata. Utamakan konsistensi inte
 
 ## Akurasi fakta dunia nyata dan prosedur
 
-Jika cerita menggunakan profesi, lembaga, prosedur, atau fakta dunia nyata yang berpengaruh pada plot, periksa ketepatannya secara terarah. Contohnya: tindakan medis dan alur rumah sakit, hukum dan proses administratif, hubungan kerja/rekrutmen, keuangan, pendidikan, teknologi, transportasi, serta geografi.
+Jika cerita menggunakan profesi, lembaga, prosedur, atau fakta dunia nyata yang berpengaruh pada plot, periksa ketepatannya secara terarah. Contohnya: tindakan medis dan alur rumah sakit, hukum dan proses administratif, hubungan kerja/rekrutmen/PHK (status kontrak, masa pemberitahuan, dan pesangon), keuangan, pendidikan, teknologi, transportasi, serta geografi.
 
 - Bedakan fakta yang benar-benar penting bagi kejadian dari detail latar yang tidak memengaruhi cerita.
 - Jika klaim faktual material dapat diverifikasi, gunakan sumber primer atau sumber tepercaya yang relevan dan catat sumbernya dalam laporan.

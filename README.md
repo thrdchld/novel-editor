@@ -102,3 +102,21 @@ Kemungkinan keputusan:
 - `INSUFFICIENT EVIDENCE`
 
 Prinsipnya: **reader-ready, not perfect**. Jika tidak ada blocker material, jangan menahan novel hanya untuk optional polish. Keputusan teknis ini bukan jaminan penerimaan platform, legalitas hak cipta, atau kesuksesan pasar.
+
+
+## Workflow produksi novel berbantuan AI
+
+Novel Editor mendukung banyak novel secara independen. Setiap cerita berada di Story/<Judul Novel>/ dengan outline, konfigurasi lokal opsional, bab, dokumen canon/continuity jika diperlukan, dan laporan di folder proyek tersebut.
+
+### Dua gerbang utama
+1. **Outline Gate sebelum drafting:** AI pembuat outline menggunakan templates/outline-template.md dan panduannya. Novel Editor memeriksa outline dengan rules/14-outline-validation.md, memperbaiki masalah teknis secara otomatis, memverifikasi ulang, lalu memberi status approval.
+2. **Manuscript Gate sebelum publikasi:** editor membandingkan semua bab dengan outline/canon yang berlaku, memeriksa standar teknis, menambal kesalahan terkonfirmasi, menyinkronkan continuity, dan melakukan verifikasi lintas bab sebelum publication readiness.
+
+### Automatic repair
+Default workflow produksi adalah audit → keputusan editorial → perbaikan teknis minimal → simpan → verifikasi. Editor tidak menunggu persetujuan untuk koreksi yang dapat dipastikan dari bukti. Keputusan kreatif LOCKED tidak boleh diubah diam-diam; klarifikasi hanya untuk pilihan material yang benar-benar tidak dapat disimpulkan.
+
+### Template extensible dan format-agnostic
+Template mencakup premis, ringkasan lengkap, konflik/kausalitas, karakter/relasi, dunia/aturan, timeline, character knowledge, objek/sumber daya, struktur, outline bab, setup/payoff, ending, canon, asumsi, dan catatan bebas. AI pembuat outline boleh menambah bagian apa pun. Outline lama dengan format berbeda tetap diterima; editor memetakan informasi, bukan menolak karena format.
+
+### Konfigurasi multi-novel
+project.yaml root berisi default editor. Setiap folder novel dapat memiliki project.yaml lokal untuk metadata, lokasi file, hard constraints, dan pengecualian proyek. Jangan mengubah konfigurasi root hanya untuk berganti judul.

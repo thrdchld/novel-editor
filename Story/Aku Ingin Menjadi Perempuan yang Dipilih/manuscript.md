@@ -1158,7 +1158,7 @@ Di grup koordinasi panitia gabungan pada aplikasi pesan singkat, notifikasi masu
 
 Jemari Maya bergerak cepat menanggapi di dalam grup. "Baik, Dokter Daniel. Narasi peringatannya akan saya beri kotak warna khusus di lembar balik pamflet agar langsung terbaca."
 
-Sepanjang dua minggu pertama bulan Mei 2025, seluruh interaksi antara Maya dan Daniel berlangsung sepenuhnya melalui jalur kerja dan grup kegiatan resmi. Rapat koordinasi mingguan yang digelar di ruang pertemuan Yayasan Lentera Sehat di kawasan Jalan RE Martadinata selalu dihadiri oleh Mbak Dewi, perawat senior dari RS Cakrawala, serta dua staf lapangan yayasan.
+Sepanjang dua minggu pertama bulan Mei 2025, seluruh interaksi antara Maya dan Daniel berlangsung sepenuhnya melalui jalur kerja dan grup kegiatan resmi. Rapat koordinasi mingguan yang digelar di ruang pertemuan Yayasan Lentera Sehat di kawasan Jalan RE Martadinata selalu dihadiri oleh Suster Dewi, perawat senior dari RS Cakrawala, serta dua staf lapangan yayasan.
 
 Dalam setiap diskusi teknis, Maya mengamati ketelitian Daniel dalam mengevaluasi materi. Dokter spesialis penyakit dalam itu sangat menghargai masukan narasi dari Maya. Ketika Maya menyarankan agar istilah medis kardiomegali disederhanakan menjadi pembengkakan jantung akibat tekanan darah tinggi, Daniel mengangguk setuju dan memuji kepekaan bahasa Maya di depan anggota tim lainnya.
 
@@ -1220,7 +1220,7 @@ Layar laptop di atas meja kerja Maya memperlihatkan pendar biru samar dari berka
 
 Maya merapikan tumpukan salinan pamflet di sudut meja, lalu menggeser tetikus untuk menutup dokumen kerja.
 
-Rapat koordinasi persiapan program edukasi posyandu gabungan bersama tim RS Cakrawala yang berlangsung siang tadi berjalan lancar. Mbak Dewi dan perawat senior rumah sakit sudah menyepakati urutan materi penyuluhan. Sepanjang dua jam rapat berlangsung, Dokter Daniel memimpin pembahasan aspek medis dengan ketelitian seperti biasa. Interaksi Maya dengan Daniel sepenuhnya terbatas pada pemaparan alur publikasi di depan layar proyektor.
+Rapat koordinasi persiapan program edukasi posyandu gabungan bersama tim RS Cakrawala yang berlangsung siang tadi berjalan lancar. Mbak Dewi dan Suster Dewi sudah menyepakati urutan materi penyuluhan. Sepanjang dua jam rapat berlangsung, Dokter Daniel memimpin pembahasan aspek medis dengan ketelitian seperti biasa. Interaksi Maya dengan Daniel sepenuhnya terbatas pada pemaparan alur publikasi di depan layar proyektor.
 
 Maya mengambil ponselnya dari dalam saku tas, berniat memeriksa jadwal bus angkutan kota untuk perjalanan pulang ke Antapani.
 
@@ -2158,11 +2158,11 @@ Namun hari ini, tanggal tiga puluh September dua ribu dua puluh lima, tugas prof
 
 Pukul sepuluh pagi tepat, pintu kaca ruang rapat bergeser pelan.
 
-Mbak Dewi, perawat senior RS Cakrawala, melangkah masuk terlebih dahulu membawa map tebal, disusul oleh Dokter Daniel yang berjalan tegap di belakangnya. Daniel mengenakan kemeja katun abu-abu gelap dengan celana kain hitam dan jas dokter yang terlipat rapi di lengan kirinya. Raut wajahnya tampak tenang dan terkendali, meski gurat kelelahan tipis masih samar terlihat di sudut matanya.
+Suster Dewi, perawat senior RS Cakrawala, melangkah masuk terlebih dahulu membawa map tebal, disusul oleh Dokter Daniel yang berjalan tegap di belakangnya. Daniel mengenakan kemeja katun abu-abu gelap dengan celana kain hitam dan jas dokter yang terlipat rapi di lengan kirinya. Raut wajahnya tampak tenang dan terkendali, meski gurat kelelahan tipis masih samar terlihat di sudut matanya.
 
 Maya memosisikan pandangannya pada berkas di meja, menarik napas panjang yang tenang sebelum mendongak dan mengangguk sopan ke arah tim medis yang baru masuk.
 
-"Selamat pagi, Mbak Dewi, Dokter Daniel," sapa Maya halus dengan nada suara yang sepenuhnya netral.
+"Selamat pagi, Suster Dewi, Dokter Daniel," sapa Maya halus dengan nada suara yang sepenuhnya netral.
 
 "Selamat pagi, Mbak Maya," balas Daniel pendek. Suaranya terdengar tegap, formal, dan berada murni dalam intonasi seorang rekan kerja profesional.
 
@@ -2170,7 +2170,7 @@ Tidak ada keraguan verbal, tidak ada tatapan mata yang tertahan terlalu lama, da
 
 Rapat koordinasi bulanan itu berlangsung selama satu jam setengah. Sepanjang pembahasan agenda, dinamika kerja di antara mereka berjalan sangat lugas.
 
-Ketika giliran Maya memaparkan cakupan sebaran pamflet hipertensi dan tata letak grafis lembar balik untuk kegiatan desa bulan Oktober, Daniel mendengarkan dengan saksama. Saat Daniel memberikan masukan terkait penyesuaian kriteria usia rujukan pasien degeneratif, Maya mencatat poin-poin tersebut pada buku catatannya tanpa ragu. Setiap interaksi verbal terjalin secara presisi, fokus pada target program yayasan, dan disampaikan melalui forum rapat terbuka di hadapan Mbak Dewi dan dua staf lapangan.
+Ketika giliran Maya memaparkan cakupan sebaran pamflet hipertensi dan tata letak grafis lembar balik untuk kegiatan desa bulan Oktober, Daniel mendengarkan dengan saksama. Saat Daniel memberikan masukan terkait penyesuaian kriteria usia rujukan pasien degeneratif, Maya mencatat poin-poin tersebut pada buku catatannya tanpa ragu. Setiap interaksi verbal terjalin secara presisi, fokus pada target program yayasan, dan disampaikan melalui forum rapat terbuka di hadapan Suster Dewi dan dua staf lapangan.
 
 Tidak ada lagi perhatian-perhatian kecil tersembunyi seperti yang pernah terjadi di pertengahan Agustus lalu. Ketika rapat selesai dan tim mulai merapikan berkas masing-masing, Daniel tidak lagi mendatangi meja kerja Maya untuk meletakkan cangkir teh hangat atau berbincang seputar rutinitas harian.
 
@@ -2178,7 +2178,7 @@ Daniel merapikan dokumen medisnya ke dalam tas kulit, berdiri dari kursi rapat, 
 
 "Terima kasih atas kerja samanya untuk evaluasi bulan ini. Berkas finalnya akan disetujui tim medis via surel resmi sore nanti," ujar Daniel tegap.
 
-Ia mengangguk singkat ke arah Maya dan Mbak Dewi dari jarak dua meter, membalikkan badan, lalu melangkah keluar dari ruang rapat menyusuri koridor depan tanpa sekali pun menoleh ke belakang.
+Ia mengangguk singkat ke arah Maya dan Suster Dewi dari jarak dua meter, membalikkan badan, lalu melangkah keluar dari ruang rapat menyusuri koridor depan tanpa sekali pun menoleh ke belakang.
 
 Maya berdiri di dekat meja rapat, memperhatikan siluet Daniel yang menghilang di balik pintu kaca depan.
 
@@ -2188,7 +2188,7 @@ Namun, di atas rasa kehilangan itu, Maya merasakan sebuah arus kelegaan yang juj
 
 Maya menyadari bahwa inilah jarak yang seharusnya ada sejak awal. Jarak ini bukan diciptakan atas dasar dendam atau amarah, melainkan atas dasar penegakan harga diri, kejujuran emosional, dan penghormatan terhadap batas moral yang tak boleh dilanggar. Dengan berdirinya jarak ini, Maya tidak lagi harus berbohong pada nuraninya sendiri atau bermain di ruang remang yang melukai perempuan lain.
 
-Maya merapatkan folder arsipnya, menyunggingkan senyum tipis ke arah Mbak Dewi yang sedang mengemas alat peraga, lalu melangkah kembali ke meja kerjanya dengan pijakan kaki yang terasa jauh lebih mantap.
+Maya merapatkan folder arsipnya, menyunggingkan senyum tipis ke arah Suster Dewi yang sedang mengemas alat peraga, lalu melangkah kembali ke meja kerjanya dengan pijakan kaki yang terasa jauh lebih mantap.
 
 # **BAB 47: Kehidupan yang Tidak Berhenti**
 

@@ -1,33 +1,48 @@
-# Chapter Audit
+# Chapter and Scene Audit
 
-## Cerita
-- [ ] Sebab dan konsekuensi kejadian dapat ditelusuri.
-- [ ] Keputusan tokoh sesuai pengetahuan, motivasi, dan state saat itu.
-- [ ] Lokasi/kondisi fisik tokoh konsisten.
-- [ ] Benda yang digunakan punya lokasi/pemegang/kondisi yang masuk akal.
-- [ ] Geografi dan akses lokasi konsisten.
-- [ ] Waktu cukup untuk perjalanan, deadline, pemulihan, dan tindakan.
-- [ ] Flashback/lompatan waktu memiliki penanda alami yang cukup; pembaca tidak harus menebak kapan adegan terjadi.
-- [ ] Posisi tokoh/benda dan urutan aksi fisik dapat diikuti tanpa kontradiksi.
-- [ ] Batas POV konsisten; pikiran tokoh di luar POV tidak masuk tanpa perpindahan yang jelas.
-- [ ] Prosedur/fakta dunia nyata yang material bagi kejadian telah diverifikasi atau ditandai REVIEW.
-- [ ] Aturan dunia, batas, dan biaya diterapkan konsisten.
-- [ ] Fakta dunia baru tidak diam-diam membatalkan fakta lama.
-- [ ] Informasi sampai ke tokoh melalui jalur yang masuk akal.
-- [ ] Setup/payoff dicatat.
-- [ ] Repetisi dan AI-slop diperiksa secara kontekstual.
+Gunakan setelah membaca bab sebagai pembaca. Checklist membantu mengingat dimensi pemeriksaan; mencentang semua kotak bukan bukti otomatis bahwa bab berhasil.
 
-## Teknis naskah
-- [ ] Ejaan, typo, imbuhan, kata depan, dan penulisan gabungan diperiksa.
-- [ ] Tata bahasa objektif tidak merusak makna atau referen.
-- [ ] Tanda baca dan tanda kutip dialog benar secara teknis.
-- [ ] Nama tokoh, tempat, organisasi, jabatan, dan istilah konsisten.
-- [ ] Heading bab, pemisah adegan, dan batas bab berfungsi.
-- [ ] Markdown tidak menyebabkan paragraf/heading/dialog dirender keliru.
-- [ ] Tidak ada catatan editor, komentar kerja, TODO, FIXME, atau placeholder.
-- [ ] Tidak ada paragraf/kalimat duplikat akibat kesalahan copy-paste.
-- [ ] Hard constraints proyek hanya diterapkan jika dikonfigurasi.
+## Pengalaman pembaca
+- [ ] Pembukaan memberi orientasi dan konteks secukupnya.
+- [ ] Pembaca dapat mengenali waktu, tempat, situasi, dan POV pada saat diperlukan.
+- [ ] Masuk/keluar adegan tidak membuat pembaca kehilangan konteks.
+- [ ] Flashback/lompatan waktu memiliki sinyal masuk, konteks, dan jalan kembali yang cukup.
+- [ ] Pembaca memahami siapa melakukan apa, kepada siapa, dan dalam urutan bagaimana.
+- [ ] Informasi diberikan, ditahan, atau diungkap pada waktu yang bekerja.
+- [ ] Tidak ada lompatan informasi yang membuat pembaca harus menebak fakta dasar.
+- [ ] Hubungan antarparagraf, aksi, pikiran, dialog, dan deskripsi dapat diikuti.
+- [ ] Repetisi/eksposisi memiliki fungsi dan tidak menahan perkembangan tanpa alasan.
+- [ ] Emosi dan reaksi penting memiliki konteks/pemicu yang cukup.
 
-## Batas artistik
-- [ ] Tone, gaya, voice, diksi artistik, humor, dan keindahan prosa tidak dinilai.
-- [ ] Tidak ada rewrite hanya karena preferensi editor.
+## Fungsi dan perkembangan adegan
+- [ ] Fungsi adegan dapat dikenali (plot, karakter, relasi, informasi, atmosfer, tema, atau payoff).
+- [ ] Kondisi awal dan akhir adegan dapat dibedakan.
+- [ ] Ada perubahan, konsekuensi, penegasan, atau efek yang relevan.
+- [ ] Tujuan/kebutuhan tokoh dan hambatan dapat dipahami.
+- [ ] Keputusan dan tindakan penting memiliki dasar yang cukup.
+- [ ] Dialog punya pembicara, sasaran, konteks, dan respons yang dapat diikuti.
+- [ ] Blocking fisik, posisi tokoh/benda, dan urutan gerak masuk akal.
+- [ ] Adegan terhubung dengan bagian sebelumnya/berikutnya.
+
+## Struktur dan kontinuitas
+- [ ] Sebab-akibat kejadian dapat ditelusuri.
+- [ ] Tujuan, pengetahuan, kondisi, dan relasi tokoh konsisten.
+- [ ] Timeline dan durasi memungkinkan kejadian berlangsung.
+- [ ] Lokasi, benda, sumber daya, serta aturan dunia konsisten.
+- [ ] POV tidak membocorkan informasi yang tidak tersedia.
+- [ ] Setup/payoff penting dicatat.
+- [ ] Adegan/informasi duplikat diperiksa secara kontekstual.
+
+## Prosa dan teknis
+- [ ] Kalimat menyampaikan aksi, pikiran, emosi, dan referen secara jelas.
+- [ ] Paragraf mengalir dan hubungan antarkalimat dapat diikuti.
+- [ ] Repetisi kata/frasa/informasi tidak mengganggu.
+- [ ] Diksi tidak keliru secara makna; dialog tidak tertukar.
+- [ ] Ejaan, typo, tata bahasa, dan tanda baca diperiksa.
+- [ ] Nama, istilah, heading, pemisah adegan, dan Markdown konsisten.
+- [ ] Tidak ada catatan editor, TODO, FIXME, placeholder, atau teks duplikat teknis.
+
+## Batas penilaian
+- Jangan memaksakan formula genre, cliffhanger, atau konflik besar di setiap bab.
+- Jangan mengubah voice hanya karena preferensi editor.
+- Jangan menerima ketidakjelasan sebagai "gaya" jika pembaca kehilangan informasi yang diperlukan.

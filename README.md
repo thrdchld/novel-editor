@@ -36,10 +36,12 @@ Genre pada project.yaml hanya konteks deskriptif. Genre tidak boleh otomatis men
 ## Mode kerja
 
 - **Audit:** default read-only. Tidak mengubah naskah.
+- **Keputusan editorial:** editor wajib menyelesaikan analisis bukti, kronologi, sebab-akibat, dan kontinuitas sebelum meminta klarifikasi. Editor harus menentukan apakah manuskrip, outline, timeline, atau canon yang perlu diperbaiki; perbedaan dari outline tidak otomatis merupakan kesalahan.
+- **Klarifikasi:** hanya untuk pilihan material yang tetap sama kuat setelah semua bukti internal diperiksa. Editor harus menyajikan alternatif, bukti, rekomendasi, confidence, dan konsekuensinya.
 - **Perbaikan atas instruksi eksplisit:** jika pengguna meminta koreksi diterapkan, editor boleh mengubah naskah sesuai temuan yang disetujui/terbukti. Jangan mengubah tone atau gaya.
 - **Verifikasi:** setelah perbaikan, audit ulang bagian terdampak dan cek efek lintas bab. Jangan mengulang seluruh audit tanpa alasan.
 
-Mengedit aturan dan konfigurasi Novel Editor tidak sama dengan mengedit naskah novel.
+Mengedit aturan dan konfigurasi Novel Editor tidak sama dengan mengedit naskah novel. Prosedur keputusan lengkap ada di rules/13-editorial-decision-making.md.
 
 ## Struktur
 
@@ -47,7 +49,7 @@ Mengedit aturan dan konfigurasi Novel Editor tidak sama dengan mengedit naskah n
 - `AGENTS.md`: instruksi utama agent.
 - `EDITOR-PROTOCOL.md`: protokol audit, bukti, severity, dan kebijakan perbaikan.
 - `project.yaml`: konfigurasi cakupan, referensi, hard constraints, dan mode kerja.
-- `rules/`: standar pemeriksaan teknis, termasuk `rules/12-outline-leakage.md`.
+- `rules/`: standar pemeriksaan teknis, termasuk `rules/12-outline-leakage.md` dan `rules/13-editorial-decision-making.md`.
 - `checklists/`: checklist bab, lintas bab, worldbuilding, teknis naskah, dan publikasi.
 - `templates/`: format laporan temuan dan keputusan.
 - `scripts/`: scanner mekanis; bukan pengganti audit kontekstual.
@@ -82,7 +84,7 @@ Scanner **tidak** dapat membuktikan plot hole, menilai makna kalimat secara penu
 Severity:
 - `ERROR`: kontradiksi eksplisit atau pelanggaran hard rule yang terbukti.
 - `HIGH`: kegagalan logika/continuity yang kuat dan mengganggu pemahaman.
-- `REVIEW`: indikasi yang memerlukan verifikasi atau keputusan penulis.
+- `REVIEW`: indikasi yang memerlukan analisis/verifikasi lanjutan; keputusan penulis hanya diminta jika benar-benar menjadi UNRESOLVED AUTHOR CHOICE.
 - `INFO`: catatan opsional.
 
 Dampak rilis:

@@ -45,3 +45,14 @@ Produce:
 5. publication-readiness decision.
 
 Never claim a complete audit when files or chapters were omitted. Never call a manuscript perfect or defect-free merely because no issue was found.
+
+
+## Editorial decision authority
+
+Do not merely list contradictions or return solvable analysis to the author. The editor must resolve issues using the full manuscript context, canon status and version, chronology, causality, character state and knowledge, setup/payoff, and the smallest coherent correction.
+
+When outline and manuscript disagree, determine whether the manuscript, outline, timeline, bible, or canon record should change. Classify the result as MANUSCRIPT ERROR, OUTLINE ERROR, CANON CONFLICT, INTENTIONAL DEVIATION, or UNRESOLVED AUTHOR CHOICE. A deviation is not automatically an error.
+
+Ask the author only when multiple material alternatives remain equally supported after all internal evidence has been examined. Before asking, provide the alternatives, evidence for each, completed analysis, the editor's recommendation, confidence, and consequences. Never ask "which is correct?" without a reasoned recommendation.
+
+Do not silently replace approved canon. Permission to edit editor/repository rules does not automatically authorize manuscript edits. Follow rules/13-editorial-decision-making.md.

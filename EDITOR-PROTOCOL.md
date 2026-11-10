@@ -1,108 +1,143 @@
-# Editor Protocol
+# Editorial Protocol
 
-## 1. Definisi audit teknis
+## 1. Tujuan dan standar
 
-Masalah teknis adalah masalah yang dapat dibuktikan dari teks, dokumen referensi, atau hard constraints dan dapat mengganggu logika, konsistensi, pemahaman, atau kesiapan naskah.
+Novel Editor menilai novel sebagai **cerita** dan sebagai **pengalaman membaca**. Audit tidak selesai ketika tanggal, nama, ejaan, dan heading konsisten. Editor harus memastikan bahwa cerita memiliki perkembangan yang dapat dipahami dan bahwa narasi menyampaikan perkembangan itu dengan jelas, efektif, dan tidak membingungkan secara tidak sengaja.
 
-Cakupannya mencakup dua lapisan yang sama-sama wajib:
-1. **Teknis cerita:** plot logic, causality, timeline dan orientasi waktu pembaca, continuity dan blocking adegan, worldbuilding, akurasi fakta/prosedur dunia nyata yang material, batas POV/character knowledge, setup/payoff, dan keterbacaan faktual.
-2. **Teknis naskah:** ejaan, typo, tata bahasa objektif, tanda baca, konsistensi nama/istilah, struktur bab, Markdown, format, placeholder, dan catatan internal.
+Gunakan prinsip reader-ready, not perfect. Perbaiki masalah yang merusak fungsi cerita atau pengalaman pembaca; jangan menahan rilis untuk selera dan polish opsional.
 
-Bukan masalah teknis hanya karena editor tidak menyukai pilihan artistik, tone, voice, diksi, atau cara kalimat dibunyikan.
+## 2. Urutan penyuntingan
 
-## 2. Netralitas genre
-
-Standar ini berlaku untuk semua genre dan genre campuran. Label genre adalah konteks, bukan seperangkat aturan otomatis. Jangan mewajibkan trope, formula struktur, tipe tokoh, pola konflik, pacing, atau jenis ending berdasarkan konvensi genre. Pemeriksaan kesesuaian genre hanya dilakukan jika penulis secara eksplisit meminta evaluasi terhadap brief/target genre tertentu; nilai berdasarkan brief tersebut dan laporkan terpisah dari kesalahan teknis. Jika tidak diminta, jangan menilai apakah cerita cukup romantis, lucu, seram, fantastis, realistis, cepat, atau sesuai pasar.
-
-## 3. Batas pemeriksaan bahasa
-
-Periksa typo, ejaan baku, imbuhan, kata depan, kata ulang, bentuk gabungan, kapitalisasi, penulisan angka/tanggal jika tidak konsisten, tanda baca yang salah atau mengubah makna, tata bahasa yang secara objektif rusak hingga makna tidak jelas, rujukan kata ganti yang tidak memiliki referen, nama/istilah yang berubah-ubah, dialog yang kehilangan tanda kutip/pemisah, catatan editor, placeholder, TODO/FIXME, instruksi produksi, dan markup/format yang merusak tampilan.
-
-Jangan perbaiki hanya karena ada sinonim yang terasa lebih bagus, kalimat terasa sederhana/panjang/pendek, tone tidak sesuai selera, metafora tidak disukai, atau editor ingin menyamakan semua kalimat ke satu gaya.
-
-Jika tata bahasa punya lebih dari satu bentuk sah, jangan tandai sebagai ERROR. Gunakan REVIEW hanya bila ada dampak nyata pada makna atau konsistensi.
-
-## 4. Uji temuan
-
-1. Fakta/peristiwa/format apa yang dipersoalkan?
-2. Di mana aturan/fakta relevan ditetapkan?
-3. Apakah ada kontradiksi, sebab yang hilang, transisi mustahil, knowledge leak, state mismatch, atau kesalahan teknis objektif?
-4. Apakah penjelasan sengaja disimpan di bagian lain?
-5. Apakah pembaca tetap dapat mengenali waktu/tempat adegan, mengikuti blocking fisik, dan memahami batas POV? Jika ada prosedur dunia nyata yang material, apakah sudah diverifikasi?
-6. Apakah masalah berdampak pada pemahaman, tampilan, stakes, atau kepercayaan pembaca?
-7. Apakah ini ERROR/HIGH atau hanya REVIEW?
-8. Apa koreksi terkecil yang menyelesaikan masalah tanpa mengubah gaya?
-
-## 5. Severity
-
-| Level | Makna |
-|---|---|
-| ERROR | Kontradiksi langsung, typo/fakta salah yang terbukti, atau pelanggaran hard rule yang terbukti. |
-| HIGH | Kegagalan logika, timeline, worldbuilding, continuity, atau format yang kuat dan mengganggu pemahaman. |
-| REVIEW | Dugaan masalah, ambiguitas, atau bentuk bahasa yang perlu verifikasi/keputusan penulis. |
-| INFO | Catatan opsional, bukan vonis kesalahan. |
-
-## 6. Release impact
-
-| Kelas | Makna | Tindakan |
+| Tahap | Fokus | Pertanyaan utama |
 |---|---|---|
-| BLOCKER | Masalah material yang merusak pemahaman, logika inti, continuity penting, timeline, aturan dunia sentral, atau membuat naskah tidak dapat dibaca secara teknis. | Wajib diperbaiki sebelum rilis. |
-| FIX BEFORE RELEASE | Kesalahan teknis nyata tetapi lokal/terbatas, misalnya typo, heading rusak, catatan editor tertinggal, atau inkonsistensi faktual kecil. | Perbaiki dalam daftar singkat. |
-| ACCEPTABLE / AUTHOR CHOICE | Ambiguitas disengaja, misteri, open ending, variasi realisme kecil, atau pilihan kreatif yang tidak merusak pemahaman. | Boleh dipertahankan. |
-| OPTIONAL POLISH | Penyempurnaan non-esensial. | Tidak boleh menahan publikasi. |
+| 1. Story assessment | Premis, janji, konflik, fokus, kelayakan | Apakah ada cerita yang jelas dan alasan untuk mengikutinya? |
+| 2. Developmental editing | Struktur, plot, karakter, arc, subplot, ending | Apakah rangkaian cerita berkembang dan berujung secara masuk akal? |
+| 3. Narrative editing | Penyajian, orientasi, urutan informasi, transisi, POV, eksposisi | Apakah pembaca menerima informasi pada waktu dan cara yang membuat kejadian dapat diikuti? |
+| 4. Scene editing | Fungsi adegan, aksi, dialog, reaksi, blocking, emosi | Apakah setiap adegan bekerja dan mengubah sesuatu? |
+| 5. Continuity/fact checking | Timeline, state, knowledge, aturan dunia, fakta material | Apakah semua detail dan prosedur konsisten serta memungkinkan? |
+| 6. Line editing | Kejelasan, aliran, repetisi, kalimat/paragraf | Apakah prosa menyampaikan maksud tanpa hambatan yang tidak disengaja? |
+| 7. Copyediting | Ejaan, tata bahasa, tanda baca, format | Apakah naskah bersih secara bahasa dan teknis? |
+| 8. Publication assessment | Dampak gabungan pada pembaca | Apakah naskah sudah layak dibaca dan dirilis? |
 
-Severity dan release impact adalah dua dimensi berbeda. Kesalahan ejaan dapat ERROR tetapi release impact-nya FIX BEFORE RELEASE, bukan otomatis BLOCKER. REVIEW tidak otomatis menahan publikasi.
+Jangan melakukan line edit mendalam pada bagian yang masih mungkin dipindahkan/dihapus akibat keputusan struktural.
 
-## 7. Kategori
+## 3. Pembacaan pertama: reader pass
 
-`PLOT_HOLE`, `CAUSALITY`, `TIMELINE`, `TEMPORAL_ORIENTATION`, `SCENE_BLOCKING`, `CHARACTER_CONTINUITY`, `OBJECT_CONTINUITY`, `LOCATION_CONTINUITY`, `RELATIONSHIP_CONTINUITY`, `WORLD_RULE_CONTRADICTION`, `WORLD_RULE_GAP`, `DOMAIN_FACTUALITY`, `WORLD_STATE`, `CHARACTER_KNOWLEDGE`, `POV_BOUNDARY`, `SETUP_PAYOFF`, `REPETITION`, `AI_SLOP`, `SPELLING_TYPO`, `GRAMMAR`, `PUNCTUATION`, `NAME_TERM_CONSISTENCY`, `MARKDOWN_FORMAT`, `DOCUMENT_STRUCTURE`, `EDITORIAL_ARTIFACT`, `PROJECT_CONSTRAINT`, `PLAUSIBILITY`, `OUTLINE_LEAKAGE`, `OTHER_TECHNICAL`.
+Sebelum checklist:
+- Baca naskah dalam urutan pembaca, bukan hanya melompat antar fakta.
+- Catat titik ketika pembaca tidak tahu kapan/di mana adegan terjadi, siapa fokusnya, apa yang sedang berlangsung, atau mengapa tindakan terjadi.
+- Catat transisi yang terasa mendadak, adegan yang tidak punya jembatan, informasi yang datang terlambat, pengulangan tanpa perkembangan, dan bab yang tidak mengubah keadaan.
+- Catat pertanyaan yang sengaja ditimbulkan cerita versus pertanyaan yang muncul karena informasi hilang.
+- Jangan mengubah catatan pembaca menjadi vonis sebelum memeriksa bukti dan konteks keseluruhan.
 
-## 8. Hindari false positive
+Untuk naskah panjang, lakukan pass bertahap dengan catatan pembaca yang konsisten dan peta cerita; jangan berpura-pura telah membaca seluruh naskah bila baru membaca sampel.
 
-Tokoh boleh berbohong, lupa, salah ingat, atau bertindak tidak rasional. Narator boleh tidak dapat dipercaya. Aturan dunia boleh punya pengecualian. Misteri boleh menahan informasi. Repetisi bisa menjadi motif. AI-slop bukan bukti bahwa teks ditulis AI. Verifikasi fakta dunia nyata hanya dilakukan pada detail/prosedur yang material dan secara eksplisit mengacu pada kondisi nyata; jangan memaksakan realisme pada fantasi atau detail kosmetik. Jika bukti tidak cukup, tandai REVIEW.
+## 4. Uji naratif dan pengalaman pembaca
 
-Jangan menandai pilihan gaya sebagai kesalahan bahasa. Jangan menuntut semua detail kosmetik konsisten jika tidak relevan. Jangan menganggap ejaan tidak baku dalam dialog sebagai typo bila jelas merupakan karakterisasi/ucapan tokoh dan tidak melanggar hard constraint proyek.
+Untuk tiap bab/adegan, periksa:
+1. Orientasi: siapa, kapan, di mana, situasi apa, dan POV siapa—apakah cukup jelas pada saat diperlukan?
+2. Masuk adegan: apakah transisi dari bagian sebelumnya memungkinkan pembaca memahami perubahan waktu/tempat/fokus?
+3. Tujuan dan dorongan: apa yang diinginkan/dihadapi tokoh dalam adegan?
+4. Perkembangan: apa yang berubah dari awal ke akhir adegan?
+5. Penyajian: apakah aksi, dialog, reaksi, pikiran, dan deskripsi diurutkan sehingga dapat dibayangkan?
+6. Kausalitas: apakah tindakan dan respons memiliki pemicu yang dapat dipahami?
+7. Emosi: apakah reaksi penting memiliki konteks/pemicu; apakah perubahan emosi terlalu mendadak tanpa alasan?
+8. Informasi: apa yang pembaca tahu, belum tahu, atau salah pahami; apakah penahanan informasi disengaja?
+9. Keluar adegan: apakah pembaca memahami hasilnya dan hubungan ke adegan berikut?
+10. Efek: apakah adegan memberi perkembangan, tekanan, karakterisasi, atmosfer, informasi, atau payoff yang relevan—dan apakah fungsi itu benar-benar tercapai?
 
-## 9. Cakupan audit
+Adegan tidak harus memiliki konflik besar atau cliffhanger. Adegan tenang, reflektif, atau atmosferik dapat berfungsi jika punya alasan dan efek.
 
-Laporkan file/bab yang dibaca, referensi yang diperiksa, jenis audit (bab/lintas bab/full manuscript), file hilang/tidak terbaca, konfigurasi yang tidak valid, dan temuan provisional. Pastikan naskah yang diminta benar-benar termasuk dalam daftar file hasil inventarisasi.
+## 5. Flashback dan perpindahan waktu
 
-## 10. Kebijakan edit
+- Flashback boleh menggunakan tense yang konsisten dengan bahasa/narator; tense lampau bukan syarat universal.
+- Pembaca harus memperoleh sinyal temporal yang cukup sebelum atau pada titik ketika informasi waktu dibutuhkan.
+- Uji pembukaan flashback, durasi/ruang lingkupnya, perubahan konteks, serta titik kembali ke masa utama.
+- Penanda dapat berupa tanggal, usia, periode, lokasi, perubahan situasi, pengantar naratif, atau kombinasi alami. Tidak wajib selalu menggunakan label eksplisit.
+- Jika adegan masa lalu dibuka seolah-olah masa kini dan baru dijelaskan belakangan, nilai apakah keterlambatan itu membangun efek atau justru membuat pembaca salah memahami adegan.
+- Saat kembali ke masa utama, pastikan ada cue atau konteks yang cukup. Jangan mewajibkan frasa transisi tertentu.
+- Bedakan orientasi pembaca dari akurasi timeline: keduanya wajib diperiksa secara terpisah.
 
-Audit yang secara eksplisit diminta read-only tidak mengubah file. Namun, dalam workflow produksi Novel Editor pada folder novel, automatic technical repair adalah default yang telah diotorisasi. Perbaiki temuan objektif/terkonfirmasi dengan perubahan minimal. Jangan mengubah gaya, tone, voice, atau pilihan kreatif. Selesaikan analisis atas hal ambigu sebelum meminta keputusan. Minta keputusan penulis hanya jika alternatif material tetap sama kuat setelah prosedur rules/13-editorial-decision-making.md diterapkan. Setelah perubahan, lakukan pemeriksaan ulang pada perubahan dan dependensi lintas bab.
+## 6. Struktur, karakter, dan kausalitas
 
-## 11. Editorial decision-making authority
+Periksa konflik utama dan subplot, motivasi, tujuan, pilihan, konsekuensi, eskalasi, titik perubahan, distribusi informasi, stagnasi, repetisi, dan resolusi. Jangan memaksakan struktur tiga babak atau formula genre. Nilai struktur berdasarkan janji cerita dan efek yang benar-benar dibangun.
 
-Editor wajib mengambil keputusan berdasarkan bukti dan logika cerita, bukan sekadar melaporkan kontradiksi. Untuk setiap masalah, periksa konteks penuh, seluruh sumber canon/planning yang tersedia, versi dan status persetujuannya, urutan kejadian, sebab-akibat, state karakter, pengetahuan tokoh, serta setup/payoff lintas bab.
+Tindakan tokoh yang tidak rasional bukan otomatis kesalahan. Periksa apakah rasa takut, bias, kepentingan, keterbatasan, ketidaktahuan, atau karakterisasi menjelaskannya. Namun, jangan menerima "karakter memang begitu" jika teks tidak membangun dasar perilakunya.
 
-Pilih versi yang paling konsisten dan membutuhkan perubahan paling kecil. Tentukan secara eksplisit dokumen yang harus diperbaiki: manuskrip, outline, timeline, bible, atau canon. Klasifikasikan hasil sebagai:
-- MANUSCRIPT ERROR: manuskrip menyimpang dari canon yang konsisten.
-- OUTLINE ERROR: outline/timeline bertentangan dengan bukti cerita yang lebih koheren atau dengan dirinya sendiri.
-- CANON CONFLICT: sumber-sumber kanonis saling bertentangan dan belum ada dasar untuk mengutamakan salah satunya.
-- INTENTIONAL DEVIATION: manuskrip berbeda dari outline tetapi tetap logis dan berfungsi.
-- UNRESOLVED AUTHOR CHOICE: alternatif material tetap sama kuat setelah seluruh bukti diperiksa.
+## 7. Line editing dan batas artistik
 
-Klarifikasi hanya boleh diminta untuk UNRESOLVED AUTHOR CHOICE. Sebelum bertanya, tampilkan alternatif, bukti pendukung masing-masing, analisis, rekomendasi editor, confidence, dan konsekuensi. Jangan meminta penulis memilih fakta yang dapat ditentukan melalui kronologi atau logika internal.
+Line editing mencakup:
+- kalimat yang maknanya kabur, referennya tidak jelas, atau urutan informasinya menghambat pemahaman;
+- paragraf yang putus hubungan, repetitif, atau mengulang penjelasan tanpa fungsi;
+- diksi yang keliru secara makna, frasa janggal, konstruksi dialog yang mengaburkan maksud;
+- perpindahan antara aksi, pikiran, dialog, dan deskripsi yang membuat pembaca kehilangan subjek atau konteks;
+- kalimat yang tidak menyampaikan emosi/aksi yang dimaksud.
 
-Jangan diam-diam mengubah canon yang disahkan. Jika canon perlu diperbarui, rekomendasikan perubahan eksplisit. Izin memperbaiki repo/editor tidak otomatis memberi izin mengubah manuskrip. Setelah setiap koreksi, verifikasi dependensi lintas bab.
+Jangan:
+- mengganti diksi sah hanya karena editor punya sinonim favorit;
+- menyeragamkan suara semua tokoh;
+- memaksakan prosa puitis, ringkas, sederhana, atau formal;
+- menghapus pengulangan yang berfungsi sebagai motif, penekanan, atau karakterisasi;
+- menulis ulang gaya penulis hanya agar terdengar seperti editor.
 
-Lihat rules/13-editorial-decision-making.md untuk hierarki sumber, prosedur keputusan, dan format laporan lengkap.
+## 8. Netralitas genre
 
-## 12. Publication-readiness gate
+Genre adalah konteks, bukan formula. Jangan mewajibkan trope, pola babak, cliffhanger, happy ending, romance arc, misteri, atau kecepatan tertentu kecuali menjadi brief eksplisit. Untuk genre-fit review, gunakan janji/target yang dinyatakan penulis dan laporkan terpisah.
 
-Gunakan `rules/09-publication-readiness.md`. Standarnya reader-ready, bukan sempurna. Jangan gunakan “masih ada yang bisa diperbaiki” sebagai alasan menunda publikasi. Tunjukkan konsekuensi bagi pembaca dan apakah masalah melampaui ambang blocker.
+## 9. Severity dan release impact
 
-## 13. Outline leakage audit
+Severity:
+- ERROR: kesalahan terbukti atau kontradiksi langsung.
+- HIGH: kegagalan struktural/naratif/kausal yang berdampak nyata.
+- REVIEW: masalah yang masuk akal tetapi belum cukup bukti.
+- INFO: observasi opsional.
 
-Wajib baca dan terapkan `rules/12-outline-leakage.md` pada audit naskah. Outline, timeline, beat sheet, character bible, world bible, prompt, dan catatan penulis adalah panduan internal, bukan materi yang harus disalin ke prosa. Periksa tanggal mentah, label struktur/beat, ringkasan karakter, tujuan adegan, label arc/emosi, worldbuilding dump, foreshadowing/reveal instruction, repetisi fakta, artefak produksi, dan pola generatif mekanis. Pisahkan fakta canon dari cara penyampaiannya. Jika dokumen outline tidak tersedia, lakukan surface scan dan nyatakan keterbatasannya; jangan klaim perbandingan langsung. Setiap kandidat harus diuji berdasarkan kebutuhan pembaca, kewajaran POV/tokoh, pengulangan, dan dampak bila dihapus. Jangan menghapus informasi penting atau mengubah gaya hanya karena mirip outline.
+Release impact:
+- BLOCKER: menghalangi pemahaman, merusak alur/karakter/konflik utama, atau membuat pengalaman membaca gagal secara material.
+- FIX BEFORE RELEASE: kesalahan nyata yang lokal dan harus dibenahi.
+- ACCEPTABLE / AUTHOR CHOICE: pilihan kreatif yang bekerja atau ambiguitas disengaja.
+- OPTIONAL POLISH: perbaikan non-esensial.
 
+Jangan menyamakan severity dengan release impact. Typo dapat ERROR tetapi hanya FIX BEFORE RELEASE. Temuan HIGH dapat BLOCKER jika berdampak pada cerita utama.
 
+## 10. Format temuan
 
-## 14. Automatic repair workflow
-Default production workflow is Mode A. When asked to run Novel Editor on a project, do not stop at findings if a correction is technically determinable. Inventory/read sources, establish canon/version and fact ledger, audit with evidence, decide the correct document to change, apply the smallest patch, update dependencies, save, reopen the saved result, re-audit affected sections and cross-chapter links, then report changes and readiness. Do not ask approval for each technical correction. Ask only for material creative choices unresolved after analysis. Preserve LOCKED canon; no silent retcons. An explicit read-only request overrides automatic repair.
+Setiap temuan ERROR/HIGH memuat:
+- ID, kategori, severity, release impact, confidence;
+- file, bab, adegan, dan lokasi/nomor baris bila terverifikasi;
+- kutipan bukti yang cukup;
+- deskripsi masalah spesifik;
+- dampak pada pembaca/cerita;
+- rekomendasi dan, bila diizinkan, teks/perubahan perbaikan;
+- dependensi yang harus diperiksa ulang.
 
-## 15. Outline Gate
-Before drafting, apply rules/14-outline-validation.md. Accept any readable outline structure; the universal template is a completeness reference, not a mandatory schema. Preserve freeform notes and AI-added sections. An outline is ready when technically coherent and sufficiently detailed for drafting, not when every optional field is filled. Statuses: APPROVED FOR DRAFTING, APPROVED WITH TRACKED FLEXIBILITY, REPAIR REQUIRED, AUTHOR DECISION REQUIRED, INSUFFICIENT EVIDENCE.
+Untuk temuan naratif, jangan hanya menulis "transisi kurang halus" atau "pacing lambat". Tunjukkan titik masuk/keluar, informasi yang hilang/berlebih, efek pada pemahaman, dan solusi yang sesuai.
 
-## 16. Multi-novel layout
-Treat each Story/<Novel Title>/ as independent. Root config is generic; per-novel config overrides it. Keep reports and continuity artifacts inside the corresponding novel folder. Do not mix facts across novels unless a shared universe is explicitly configured.
+## 11. Kebijakan keputusan dan perbaikan
+
+Editor harus menyelesaikan analisis internal sebelum meminta keputusan. Jika outline, canon, dan manuskrip berbeda, tentukan apakah MANUSCRIPT ERROR, OUTLINE ERROR, CANON CONFLICT, INTENTIONAL DEVIATION, atau UNRESOLVED AUTHOR CHOICE. Ikuti rules/13-editorial-decision-making.md.
+
+Dalam workflow produksi:
+1. diagnosis;
+2. pilih solusi paling kecil yang benar-benar memperbaiki masalah;
+3. edit pada tingkat yang diperlukan (kalimat, paragraf, adegan, urutan adegan, bab, atau struktur);
+4. simpan;
+5. baca ulang konteks sebelum/sesudah;
+6. cek dependensi lintas bab;
+7. catat hasil dan temuan yang masih terbuka.
+
+Jangan berhenti pada laporan bila pengguna meminta perbaikan. Jangan melakukan rewrite total secara otomatis. Pertahankan materi yang sudah bekerja.
+
+## 12. Audit teknis dan fakta
+
+Periksa ejaan, tata bahasa, tanda baca, nama, istilah, heading, Markdown, placeholder, duplikasi copy-paste, dan hard constraints. Verifikasi fakta/prosedur dunia nyata yang material dengan sumber tepercaya. Jika tidak dapat diverifikasi, tandai REVIEW; jangan menebak. Untuk fantasi/alternatif, utamakan konsistensi internal.
+
+## 13. Publication gate
+
+Gunakan rules/09-publication-readiness.md dan checklist publikasi. Status akhir:
+- READY TO PUBLISH
+- READY WITH MINOR FIXES
+- NOT READY
+- INSUFFICIENT EVIDENCE
+
+Status harus didasarkan pada pembacaan dan penilaian pengalaman pembaca. Scanner dan checklist hanya alat bantu.

@@ -89,7 +89,19 @@ Periksa pembicara, sasaran, tujuan percakapan, informasi yang dimiliki, respons,
 - Chapter ending tidak wajib cliffhanger. Periksa apakah bab mencapai efek/keadaan akhir yang bermakna dan apakah hubungan ke bab berikutnya dapat diikuti.
 - Transisi dapat eksplisit atau implisit; ukur dari kejelasan hasil, bukan frasa template.
 
-## 12. Diagnosis dan repair
+## 12. Suspense, penundaan payoff, dan blok backstory
+
+Ketika sebuah bab menutup adegan dengan pertanyaan dramatik yang spesifik (konfrontasi, keputusan, bahaya, pengungkapan), lalu bab berikutnya berpindah ke masa lalu atau subplot:
+- identifikasi janji/pertanyaan yang ditinggalkan;
+- hitung berapa bab/adegan pembaca harus menunggu kelanjutannya;
+- nilai apakah materi selingan memberi informasi, konflik, atau perubahan yang memperdalam pertanyaan tersebut;
+- periksa apakah ketegangan tetap terasa hidup atau hilang dari perhatian pembaca;
+- periksa apakah pembaca memahami alasan struktural penundaan, tanpa harus diberi penjelasan meta;
+- nilai apakah urutan alternatif akan memperbaiki aliran tanpa merusak payoff.
+
+Penundaan bukan kesalahan otomatis. Flashback panjang dapat menjadi struktur yang disengaja. Masalah muncul jika cerita menjanjikan satu perkembangan lalu terlalu lama tidak mengembangkannya, sementara bagian selingan tidak memberi nilai dramatik yang sebanding. Jangan memotong backstory hanya karena pembaca harus menunggu; nilai fungsi dan efek kumulatifnya.
+
+## 13. Diagnosis dan repair
 Setiap temuan naratif harus menyertakan:
 1. kutipan/lokasi masalah;
 2. konteks sebelum dan sesudah;

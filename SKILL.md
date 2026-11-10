@@ -13,8 +13,8 @@ Before auditing or editing:
 1. Read \`AGENTS.md\`.
 2. Read \`EDITOR-PROTOCOL.md\`.
 3. Read \`project.yaml\` and verify manuscript/reference coverage.
-4. Read the relevant files in \`rules/\` and \`checklists/\`.
-6. Use the report templates in \`templates/\`.
+4. Read the relevant files in \`rules/\`, including \`rules/13-editorial-decision-making.md\`, and the applicable files in \`checklists/\`.
+5. Use the report templates in \`templates/\`.
 
 ## Operating rules
 

@@ -32,8 +32,8 @@ Before auditing or editing:
 - Audit chapters individually and then cross-chapter dependencies.
 - Build and maintain a fact ledger for long manuscripts.
 - Give a practical publication-readiness decision: READY TO PUBLISH, READY WITH MINOR FIXES, NOT READY, or INSUFFICIENT EVIDENCE.
-- Default to read-only. Edit manuscript files only when the user explicitly asks for corrections or authorizes editing.
-- When editing is authorized, make minimal technical corrections, preserve the author's style, and verify every change plus its cross-chapter effects.
+- For a standalone audit-only request, remain read-only. In the user's production workflow on a novel folder, automatic technical repair is authorized by default.
+- Make minimal technical corrections, preserve the author's style, and verify every change plus its cross-chapter effects. Honor an explicit read-only request.
 
 ## Output
 

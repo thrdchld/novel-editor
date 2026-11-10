@@ -100,7 +100,17 @@ Release impact:
 
 Jangan menyamakan severity dengan release impact. Typo dapat ERROR tetapi hanya FIX BEFORE RELEASE. Temuan HIGH dapat BLOCKER jika berdampak pada cerita utama.
 
-## 10. Format temuan
+## 10. Kategori temuan
+
+Gunakan kategori yang paling spesifik; kategori dapat ditambah jika kasus baru muncul:
+
+- Fondasi/struktur: `STORY_PREMISE`, `STORY_PROMISE`, `STRUCTURAL_DEVELOPMENT`, `PLOT_HOLE`, `CAUSALITY`, `CHARACTER_ARC`, `MOTIVATION`, `SUBPLOT`, `ENDING_PAYOFF`.
+- Narasi/pembaca: `READER_ORIENTATION`, `TEMPORAL_ORIENTATION`, `FLASHBACK_TRANSITION`, `SCENE_TRANSITION`, `POV_BOUNDARY`, `INFORMATION_FLOW`, `EXPOSITION`, `PACING_PROGRESSION`, `EMOTIONAL_CONTINUITY`, `NARRATIVE_CLARITY`.
+- Adegan/prosa: `SCENE_FUNCTION`, `SCENE_BLOCKING`, `DIALOGUE_EFFECTIVENESS`, `REACTION_BEAT`, `PARAGRAPH_FLOW`, `PROSE_CLARITY`, `REPETITION`, `AI_PATTERN`.
+- Integritas cerita: `TIMELINE`, `CHARACTER_CONTINUITY`, `OBJECT_CONTINUITY`, `LOCATION_CONTINUITY`, `RELATIONSHIP_CONTINUITY`, `WORLD_RULE`, `CHARACTER_KNOWLEDGE`, `SETUP_PAYOFF`, `DOMAIN_FACTUALITY`.
+- Teknis naskah: `SPELLING_TYPO`, `GRAMMAR`, `PUNCTUATION`, `NAME_TERM_CONSISTENCY`, `MARKDOWN_FORMAT`, `DOCUMENT_STRUCTURE`, `EDITORIAL_ARTIFACT`, `PROJECT_CONSTRAINT`.
+
+## 11. Format temuan
 
 Setiap temuan ERROR/HIGH memuat:
 - ID, kategori, severity, release impact, confidence;

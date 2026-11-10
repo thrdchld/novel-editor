@@ -34,6 +34,13 @@
 - [ ] Voice dan karakterisasi tetap terjaga.
 - [ ] Perbaikan tidak didasarkan pada selera semata.
 
+## Janji dramatik dan penundaan
+- [ ] Pertanyaan/adegan yang ditinggalkan pada akhir bab tetap terjaga.
+- [ ] Penundaan payoff memiliki fungsi dan memberi perkembangan baru.
+- [ ] Blok flashback/backstory tidak menghilangkan momentum konflik yang sudah dijanjikan.
+- [ ] Durasi penundaan dinilai dalam konteks rangkaian bab, bukan satu bab terpisah.
+- [ ] Urutan alternatif dipertimbangkan tanpa memaksakan struktur konvensional.
+
 ## Verifikasi
 - [ ] Setiap temuan punya kutipan/lokasi dan dampak pembaca.
 - [ ] Perbaikan diuji dalam konteks sebelum/sesudah.

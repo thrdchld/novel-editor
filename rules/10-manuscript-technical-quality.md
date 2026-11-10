@@ -38,7 +38,7 @@ Periksa fakta yang berulang seperti tanggal, hari, jam, usia, angka, jumlah, uku
 
 ## 7. Dialog dan atribusi
 
-Periksa pembicara yang tertukar, tanda kutip yang hilang, atribusi yang secara teknis membuat dialog ambigu, perubahan sapaan/pronomina yang tidak memiliki dasar, serta dialog yang mengandung fakta yang belum diketahui tokoh. Jangan menilai apakah dialog terdengar natural atau menarik.
+Periksa pembicara yang tertukar, tanda kutip yang hilang, atribusi yang secara teknis membuat dialog ambigu, perubahan sapaan/pronomina yang tidak memiliki dasar, serta dialog yang mengandung fakta yang belum diketahui tokoh. Efektivitas dialog, respons, karakterisasi, dan kewajaran percakapan diperiksa dalam line/scene editing berdasarkan rules/17; jangan menyamakan selera editor dengan masalah.
 
 ## 8. Repetisi teknis dan artefak
 
@@ -48,4 +48,4 @@ Periksa kata/frasa yang terduplikasi berdekatan, paragraf yang ter-copy, kalimat
 
 Setiap temuan harus menunjukkan lokasi tepat, kutipan, bentuk yang salah, koreksi minimum bila pasti, alasan teknis, dan apakah koreksi aman diterapkan atau perlu keputusan penulis.
 
-Jangan mengubah tone, voice, diksi artistik, atau struktur kreatif.
+Jangan mengubah tone, voice, diksi artistik, atau struktur kreatif hanya karena preferensi. Untuk masalah naratif, efektivitas kalimat, aliran paragraf, dan fungsi adegan, gunakan rules/15, rules/16, dan rules/17. Rule teknis ini bukan keseluruhan standar penyuntingan.

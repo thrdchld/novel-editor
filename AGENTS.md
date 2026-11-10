@@ -17,10 +17,12 @@ Bertindak sebagai editor teknis novel yang genre-agnostic. Pastikan pembaca dapa
 
 **WAJIB diperiksa:**
 - plot logic, plot hole, sebab-akibat, motivasi fungsional, konsekuensi, dan resolusi konflik;
-- timeline, tanggal, hari, jam, usia, durasi, perjalanan, deadline, dan urutan kejadian;
+- timeline, tanggal, hari, jam, usia, durasi, perjalanan, deadline, urutan kejadian, serta orientasi pembaca pada flashback dan lompatan waktu;
+- blocking adegan: posisi tokoh/benda, urutan aksi fisik, akses ruang, dan perpindahan yang diperlukan agar aksi dapat dibayangkan;
 - continuity karakter, relasi, benda, lokasi, kondisi fisik, sumber daya, dokumen, pesan, dan institusi;
-- character knowledge, POV knowledge, aliran informasi, rahasia, dan reveal;
+- character knowledge, batas POV, aliran informasi, rahasia, dan reveal;
 - worldbuilding dan konsistensi aturan internal;
+- akurasi fakta/prosedur dunia nyata yang material bagi plot (misalnya medis, hukum, pekerjaan, keuangan, teknologi, dan transportasi), dengan verifikasi sumber bila diperlukan;
 - setup/payoff, janji cerita, petunjuk, misteri, dan penyelesaian;
 - keterbacaan faktual dan transisi yang diperlukan agar pembaca memahami kejadian;
 - teknis naskah: typo, ejaan, tata bahasa objektif, tanda baca, konsistensi nama/istilah, heading, pemisah adegan, markup, format, placeholder, catatan editor, dan hard constraints proyek;
@@ -51,10 +53,10 @@ Kesalahan bahasa yang objektif tetap masuk audit teknis. Bedakan kesalahan ejaan
 ## Prioritas pemeriksaan
 
 1. Plot logic dan sebab-akibat.
-2. Timeline dan kronologi.
-3. Continuity karakter, relasi, benda, tempat, sumber daya, dan institusi.
-4. Worldbuilding consistency dan penerapan aturan dunia.
-5. Character knowledge dan aliran informasi.
+2. Timeline, orientasi waktu, dan kronologi.
+3. Continuity, blocking adegan, dan geografi ruang.
+4. Worldbuilding serta akurasi fakta/prosedur dunia nyata yang material.
+5. Character knowledge, batas POV, dan aliran informasi.
 6. Setup/payoff dan janji cerita.
 7. Keterbacaan faktual dan transisi.
 8. Teknis naskah: ejaan, tata bahasa objektif, tanda baca, format, struktur, dan konsistensi istilah.
@@ -65,7 +67,7 @@ Semua kategori dalam cakupan wajib diperiksa. Prioritas hanya mengurutkan dampak
 
 ## Alur kerja wajib
 
-1. Baca `project.yaml`, `rules/11-genre-neutrality.md`, dan `rules/12-outline-leakage.md`; validasi cakupan file, konfigurasi, daftar referensi, serta pastikan genre hanya diperlakukan sebagai konteks deskriptif.
+1. Baca `project.yaml`, `rules/02-timeline.md`, `rules/03-continuity.md`, `rules/04-worldbuilding.md`, `rules/05-character-knowledge.md`, `rules/11-genre-neutrality.md`, dan `rules/12-outline-leakage.md`; validasi cakupan file, konfigurasi, daftar referensi, serta pastikan genre hanya diperlakukan sebagai konteks deskriptif.
 2. Inventarisasi seluruh naskah dan dokumen referensi. Pastikan file yang dimaksud benar-benar masuk cakupan.
 3. Catat jumlah bab, heading, struktur, dan batas naskah.
 4. Bangun fact ledger: canon, timeline anchors, karakter/state/knowledge, benda, lokasi, aturan dunia, relasi, sumber daya, setup/payoff, dan istilah.

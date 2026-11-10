@@ -1,0 +1,23 @@
+project:
+  title: "Aku Ingin Menjadi Perempuan yang Dipilih"
+  status: "in_progress"
+  language: "id"
+  genre_context: ["Contemporary Romance", "Psychological Drama", "Forbidden Love", "Family Drama"]
+  canon_source: "outline.md"
+outline:
+  path: "outline.md"
+  status: "approved_canon"
+manuscript:
+  path: "manuscript.md"
+  format: "single_file"
+audit:
+  compare_manuscript_against_outline: true
+  check_continuity_across_chapters: true
+  automatic_technical_repair: true
+  verify_after_repair: true
+repair_policy:
+  preserve_authorial_style: true
+  preserve_locked_canon: true
+  no_silent_canon_retcon: true
+reports:
+  directory: "reports/"

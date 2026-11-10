@@ -1,39 +1,51 @@
-# Chapter Audit — [Bab]
+# Chapter and Scene Audit — [Bab]
 
 ## Cakupan
 - File/bab:
-- Referensi diperiksa:
 - Konteks bab sebelumnya/berikutnya:
-- Batasan:
+- Dokumen referensi:
+- Batasan dan bagian yang tidak diperiksa:
+
+## Reader experience
+- Orientasi waktu/tempat/POV:
+- Kejelasan pembukaan:
+- Transisi masuk/keluar adegan:
+- Aliran informasi:
+- Bagian yang membingungkan atau perlu dibaca ulang:
+- Perkembangan/efek bab:
+
+## Story dan adegan
+- Fungsi bab:
+- Tujuan/konflik tokoh:
+- Perubahan dari awal ke akhir:
+- Sebab-akibat dan konsekuensi:
+- Emosi/reaksi:
+- Dialog dan blocking:
+- Hubungan dengan bab lain:
 
 ## Temuan
 [Gunakan templates/finding.md]
 
 ## Pembaruan ledger
-- Karakter:
-- Benda:
-- Lokasi:
+- Karakter/relasi:
+- Benda/lokasi:
 - Timeline:
+- POV/pengetahuan:
 - Aturan dunia:
-- Pengetahuan:
 - Setup/payoff:
-- Nama dan istilah baku:
+- Nama/istilah:
 
-## Pemeriksaan teknis naskah
+## Line dan copy edit
+- Kejelasan kalimat/paragraf:
+- Repetisi:
 - Ejaan/typo:
-- Tata bahasa objektif:
-- Tanda baca:
-- Konsistensi nama/istilah:
+- Tata bahasa:
+- Tanda baca/dialog:
 - Markdown/format:
-- Struktur bab/adegan:
 - Catatan editor/placeholder:
-- Dialog/atribusi:
-- Repetisi teknis:
 
-## Ringkasan
-- ERROR:
-- HIGH:
-- REVIEW:
-- INFO:
-- Pertanyaan terbuka:
-- Hal yang tidak diperiksa:
+## Keputusan
+- Masalah utama:
+- Perbaikan yang diterapkan:
+- Bagian yang harus diverifikasi:
+- Status bab: PASS / REVISE / BLOCKER / INSUFFICIENT EVIDENCE

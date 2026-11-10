@@ -702,7 +702,7 @@ Dada Maya seperti dihantam benda tumpul. "Pingsan, Pak?"
 
 Maya tidak menunggu penjelasan lebih lanjut. Ia menyibak tirai hijau tebal UGD.
 
-Di atas ranjang besi berpagar aluminium, Ratih terbaring lemah. Wajah ibunya yang biasa nampak tegar kini pucat pasi, bibirnya kering pecah-pecah. Selang infus menancap di punggung tangan kirinya, sementara tangan kanannya sudah terbebat kain kasa tebal dan bidai penyangga. Di pelipis kanan dekat garis rambut, tempelan kassa steril menutupi memar kebiruan.
+Di atas ranjang besi berpagar aluminium, Ratih terbaring lemah. Wajah ibunya yang biasa nampak tegar kini pucat pasi, bibirnya kering pecah-pecah. Selang infus menancap di punggung tangan kirinya, sementara tangan kanannya sudah terbebat kain kasa tebal dan bidai penyangga. Di pelipis kanan dekat garis rambut, tempelan kasa steril menutupi memar kebiruan.
 
 "Ibu..." Maya berlutut di samping ranjang, menggenggam jemari kiri Ratih yang terasa amat dingin.
 
@@ -1405,7 +1405,7 @@ Kalimat terakhir itu diucapkan Daniel dengan nada bicara yang lirih, seolah terl
 
 Maya tidak langsung membalas. Ia berdiri tenang di samping mobil, memberikan ruang keheningan yang ramah tanpa menunjukkan desakan untuk bertanya. Selama bertahun-tahun menghadapi kebiasaan menyembunyikan masalah di rumah Kiaracondong, Maya paham kapan seseorang membutuhkan pendengar yang tidak menghakimi.
 
-Daniel melirik Maya, menangkap ekspresi empati di wajah perempuan itu. Sikap Maya yang tenang dan tidak menghujatnya dengan pertanyaan mengusik membuat ketegangan di dada Daniel perlahan melentur.
+Daniel melirik Maya, menangkap ekspresi empati di wajah perempuan itu. Sikap Maya yang tenang dan tidak mendesaknya dengan pertanyaan tampak membuat Daniel sedikit lebih rileks.
 
 "Pernah tidak, May, kamu merasa tinggal di satu rumah yang sangat tenang, tapi di dalamnya seperti tidak ada ruangan untuk bernapas?" bisik Daniel akhirnya.
 

@@ -1538,7 +1538,7 @@ Sebotol air mineral yang tinggal seperempat berdiri di samping kibor, berdamping
 
 Suara yang tak asing itu mengejutkan Maya. Ia membuka mata dan mendongak.
 
-Dokter Daniel berdiri di samping meja kerjanya, masih mengenakan kemeja katun biru muda dan celana kain gelap usai menghadiri rapat evaluasi medis bersama Mbak Dewi di ruang pertemuan depan. Di tangan kanannya, pria itu memegang sebuah kantong kertas cokelat kecil dan segelas cangkir teh hangat terbungkus tempat plastik penahan panas.
+Dokter Daniel berdiri di samping meja kerjanya, masih mengenakan kemeja katun biru muda dan celana kain gelap usai menghadiri rapat evaluasi medis bersama Mbak Dewi di ruang pertemuan depan. Di tangan kanannya, pria itu memegang sebuah kantong kertas cokelat kecil dan secangkir teh hangat terbungkus tempat plastik penahan panas.
 
 Maya mengulas senyum tipis, merapikan letak kacamatanya. "Tinggal merapikan halaman terakhir draf penyuluhan ini, Dok. Tanggung kalau ditinggal."
 
@@ -1578,7 +1578,7 @@ Namun, bagi seorang perempuan yang sepanjang hidupnya merasa tidak pernah diprio
 
 # **BAB 36: Rumah yang Tidak Tenang**
 
-__(Sudut Pandang: Daniel)__
+_(Sudut Pandang: Daniel)_
 
 Desing pendingin udara di ruang tengah apartemen Ciumbuleuit terdengar lebih nyaring dari biasanya malam itu. Di atas meja kaca, dua cangkir teh poci yang mulai melepaskan uap dingin berdiri berdampingan di dekat tumpukan berkas suntingan Sarah.
 
@@ -1592,7 +1592,7 @@ Sarah menggeleng perlahan. Ia menutup layar laptopnya, mematikan lampu baca di s
 
 "Bukan soal berkas," kata Sarah. "Soal kita."
 
-Daniel menarik napas pendek. Ia merapatkan jas tipisnya, mendudukkan diri kembali di kursi kayu bertentangan dengan Sarah. "Soal kita kenapa, Sar? Kalau soal jadwal libur bulan depan, aku kan sudah bilang minggu lalu kalau Rumah Sakit Cakrawala sedang padat akreditasi."
+Daniel menarik napas pendek. Ia merapatkan jas tipisnya, mendudukkan diri kembali di kursi kayu yang berhadapan dengan Sarah. "Soal kita kenapa, Sar? Kalau soal jadwal libur bulan depan, aku kan sudah bilang minggu lalu kalau Rumah Sakit Cakrawala sedang padat akreditasi."
 
 "Ini bukan soal liburan, Niel," pangkas Sarah dengan intonasi yang datar dan teratur. "Ini soal caramu ada di rumah ini."
 
@@ -1802,7 +1802,7 @@ Daniel yang menyadari perubahan raut wajah Sarah segera mematikan layar ponselny
 
 # **BAB 40: Pertanyaan Sarah**
 
-__(Sudut Pandang: Daniel)__
+_(Sudut Pandang: Daniel)_
 
 Suara gesekan cangkir keramik di atas meja kaca apartemen Ciumbuleuit terdengar nyaring di tengah keheningan malam delapan September. Pukul delapan malam lewat tiga puluh menit, angin pegunungan menyapu jendela balkon, membiaskan uap dingin ke dalam ruang tengah.
 
@@ -1854,7 +1854,7 @@ Daniel menyandarkan kepalanya pada sandaran kursi, memejamkan mata erat-erat. Ke
 
 # **BAB 41: Pertengkaran di Rumah**
 
-__(Sudut Pandang: Daniel)__
+_(Sudut Pandang: Daniel)_
 
 Pukul sembilan malam lewat dua puluh menit, dengung halus mesin pendingin udara di ruang tengah apartemen Ciumbuleuit menjadi satu-satunya suara yang mengisi ruangan. Lampu gantung minimalis membiaskan cahaya kuning temaram ke atas meja kerja kayu, tempat sebuah tablet pintar milik Daniel tergeletak dalam kondisi layar masih berpendar.
 
@@ -1882,7 +1882,7 @@ Sarah berdiri tegak. Wajahnya pucat, tetapi matanya menatap Daniel lurus-lurus d
 
 Daniel menelan ludah yang terasa kesat di kerongkongan. Ia menyembunyikan tablet itu di belakang punggungnya, lalu mengusap wajahnya yang basah oleh keringat dingin.
 
-"Sar, dengarkan aku dulu. Ini tidak seperti yang kamu pikirkan," kilih Daniel cepat, menyusun pembelaan rasional yang rapuh. "Aku tidak pernah ada hubungan fisik dengan Maya. Kami tidak pernah jalan berdua secara sembunyi-sembunyi atau sewaktu-waktu di luar jam kerja. Itu cuma pesan biasa... curhatan kelelahan kerja."
+"Sar, dengarkan aku dulu. Ini tidak seperti yang kamu pikirkan," kilah Daniel cepat, menyusun pembelaan rasional yang rapuh. "Aku tidak pernah ada hubungan fisik dengan Maya. Kami tidak pernah jalan berdua secara sembunyi-sembunyi atau sewaktu-waktu di luar jam kerja. Itu cuma pesan biasa... curhatan kelelahan kerja."
 
 "Pesan biasa?" Sarah terkekeh pendek, sebuah tawa pahit tanpa sedikit pun rasa humor yang membuat ruangan mendadak terasa mencekam. "Kamu bilang mengandaikan hidup berbeda dengan perempuan lain itu pesan biasa, Niel?"
 
@@ -1910,7 +1910,7 @@ Daniel berdiri sendirian di ruang tengah apartemen Ciumbuleuit yang sunyi. Table
 
 # **BAB 42: Pengakuan yang Terlambat**
 
-__(Sudut Pandang: Daniel)__
+_(Sudut Pandang: Daniel)_
 
 Sinar matahari pagi tanggal sebelas September merayap tipis melewati sela tirai kamar tamu apartemen Ciumbuleuit. Di atas kasur tunggal berseprai abu-abu, Daniel terbangun dengan pelipis yang terasa berdenyut berat. Sepanjang malam ia hampir tidak dapat memejamkan mata, memutar kembali setiap baris kalimat Sarah dalam pertengkaran hebat yang meluluhlantakkan dinding ketidakjujurannya beberapa jam lalu.
 
@@ -1978,7 +1978,7 @@ Daniel melangkah mendekati meja sudut. Pria itu mengenakan kemeja katun hitam be
 
 Maya menyunggingkan senyum tipis yang dipaksakan. "Baru lima belas menit, Dok. Silakan duduk."
 
-Daniel mendudukkan diri di kursi kayu bertentangan. Pria itu menaruh kunci mobilnya di atas meja, melipat kedua telapak tangannya, lalu memandang Maya lurus-lurus. Tidak ada sapaan hangat yang biasa membuka percakapan mereka, tidak ada gurauan ringan seputar jadwal klinik.
+Daniel mendudukkan diri di kursi kayu yang berhadapan dengan Maya. Pria itu menaruh kunci mobilnya di atas meja, melipat kedua telapak tangannya, lalu memandang Maya lurus-lurus. Tidak ada sapaan hangat yang biasa membuka percakapan mereka, tidak ada gurauan ringan seputar jadwal klinik.
 
 "Terima kasih sudah mau menyempatkan waktu bertemu," ujar Daniel pelan.
 
@@ -2044,7 +2044,7 @@ Maya mendongak. Sarah berdiri anggun dalam balutan luaran rajut berwarna abu-abu
 
 Maya berdiri refleks, mengangguk hormat dengan telapak tangan dingin. "Selamat sore, Mbak Sarah. Silakan duduk."
 
-Sarah mendudukkan diri di kursi kayu bertentangan. Ia meletakkan tas tangannya di samping kursi, membenahi letak cangkir air mineral yang disajikan pramusaji, lalu menatap Maya lurus-lurus tanpa beralih.
+Sarah mendudukkan diri di kursi kayu yang berhadapan dengan Maya. Ia meletakkan tas tangannya di samping kursi, membenahi letak cangkir air mineral yang disajikan pramusaji, lalu menatap Maya lurus-lurus tanpa beralih.
 
 Maya menahan napasnya. Memori kepalanya kembali berputar pada bulan April lalu di Hotel Papandayan, saat Daniel mengenalkan Sarah sebagai istrinya dengan penuh rasa hormat. Saat itu, Maya mengagumi keanggunan Sarah sebagai seorang editor buku yang cerdas dan mandiri. Kini, berhadapan langsung dengan perempuan yang hidupnya telah terusik oleh percakapan-percakapan malam di kontrakan Antapani, rasa malu dan rasa bersalah menghantam dada Maya begitu berat.
 
@@ -2284,7 +2284,7 @@ Daniel tetap duduk sendirian di meja makan apartemen Ciumbuleuit. Udara malam ya
 
 # **BAB 49: Pesan dari Masa Lalu**
 
-Rabu malam, lima November dua ribu dua puluh lima, gerimis mengguyur kawasan Antapani sejak selepas magrib. Suara titikan air yang mengetuk atap seng dapur beradu pelan dengan desir halus angin malam yang menerobos celah ventilasi kamar kontrakan Maya.
+Rabu malam, lima November dua ribu dua puluh lima, gerimis mengguyur kawasan Antapani sejak selepas magrib. Suara tetesan air yang mengetuk atap seng dapur beradu pelan dengan desir halus angin malam yang menerobos celah ventilasi kamar kontrakan Maya.
 
 Maya mendudukkan diri di tepi kasur busa, memegang cangkir enamel berisi teh melati hangat yang baru diseduhnya.
 
@@ -2513,7 +2513,7 @@ Bima mengedarkan pandangan ke sekeliling ruangan, lalu matanya tertambat pada Ma
 
 Maya berdiri perlahan, menyunggingkan senyum tipis yang sopan. "Selamat siang, Bapak. Silakan duduk."
 
-Bima mendudukkan diri di kursi kayu bertentangan dengan tempat duduk Maya. Pria itu meletakkan kacamata bacanya di atas meja, melipat kedua telapak tangannya yang mulai keriput. Ada canggung yang tebal menggantung di antara mereka, beradu dengan suara gemericik air mancur kecil di teras luar.
+Bima mendudukkan diri di kursi kayu yang berhadapan dengan Maya. Pria itu meletakkan kacamata bacanya di atas meja, melipat kedua telapak tangannya yang mulai keriput. Ada canggung yang tebal menggantung di antara mereka, beradu dengan suara gemericik air mancur kecil di teras luar.
 
 "Terima kasih sudah mau menemui Bapak, May," tutur Bima, matanya tak lepas memandangi raut wajah putrinya. "Bapak... Bapak hampir tidak mengenali kamu. Kamu sudah besar sekali."
 
@@ -2669,7 +2669,7 @@ Maya menutup buku catatan abu-abunya, memasukkannya kembali ke dalam laci meja, 
 
 # **BAB 56: Batas Pertama**
 
-Minggu sore, tujuh Desember dua ribu dua puluh lima, rintik hujan gerimis menyisakan hawa dingin yang mengendap di sepanjang jalan gang kontrakan Antapani. Suara titikan air yang jatuh dari lis seng teras beradu pelan dengan desir angin sore kota Bandung.
+Minggu sore, tujuh Desember dua ribu dua puluh lima, rintik hujan gerimis menyisakan hawa dingin yang mengendap di sepanjang jalan gang kontrakan Antapani. Suara tetesan air yang jatuh dari lis seng teras beradu pelan dengan desir angin sore kota Bandung.
 
 Maya duduk di tepi kasur busa kamarnya, memegangi cangkir keramik berisi teh melati hangat.
 
@@ -2845,7 +2845,7 @@ Daniel mengenakan kemeja katun biru tua dengan celana kain gelap. Pria berusia t
 
 "Selamat sore, Dokter Daniel. Silakan duduk," sahut Maya, menyunggingkan senyum tipis yang tulus.
 
-Daniel mendudukkan diri di kursi kayu bertentangan. Pria itu meletakkan kunci mobilnya di atas meja, memesan cangkir kopi hitam kepada pramusaji, lalu menatap Maya lurus-lurus. Tidak ada kecanggungan berlebihan, tidak ada pula usaha untuk membangkitkan kehangatan masa lalu.
+Daniel mendudukkan diri di kursi kayu yang berhadapan dengan Maya. Pria itu meletakkan kunci mobilnya di atas meja, memesan cangkir kopi hitam kepada pramusaji, lalu menatap Maya lurus-lurus. Tidak ada kecanggungan berlebihan, tidak ada pula usaha untuk membangkitkan kehangatan masa lalu.
 
 "Terima kasih sudah meluangkan waktu sore ini, Dok," ujar Maya membuka percakapan.
 
@@ -2915,7 +2915,7 @@ Di seberang meja kayu kecil, Pak Whisnu—seorang konselor pernikahan senior ber
 
 "Selamat sore, Mas Daniel, Mbak Sarah," sapa Pak Whisnu dengan intonasi ramah yang menenangkan. "Terima kasih sudah datang bersama hari ini. Di formulir awal, kalian menuliskan ingin memulihkan komunikasi dan memproses retaknya rasa percaya dalam pernikahan. Bisa kita mulai dari hal yang paling mengganjal dalam pikiran kalian saat ini?"
 
-Keheningan sempat mengendap selama beberapa detik. Suara titikan gerimis di luar ruangan beradu dengan dengung halus pendingin udara.
+Keheningan sempat mengendap selama beberapa detik. Suara rintik gerimis di luar ruangan beradu dengan dengung halus pendingin udara.
 
 Daniel berpaling menatap Sarah. Wajah istrinya tampak tenang, namun ada ketegangan halus di sekitar rahangnya.
 
@@ -3327,7 +3327,7 @@ Masa lalu tidak bisa diubah. Ayahnya pernah pergi, Arman pernah mendua, dan ia s
 
 # **BAB 68: Hidup yang Tidak Menunggu**
 
-Senin malam, dua puluh enam Januari dua ribu dua puluh enam, deru hujan deras yang mengguyur kawasan Antapani mereda menjadi rintik-rintik halus. Suara titikan air yang jatuh menyapu atap seng beradu pelan dengan desis halus mesin pendingin ruangan di kamar kontrakan Maya.
+Senin malam, dua puluh enam Januari dua ribu dua puluh enam, deru hujan deras yang mengguyur kawasan Antapani mereda menjadi rintik-rintik halus. Suara tetesan air yang jatuh menyapu atap seng beradu pelan dengan desis halus mesin pendingin ruangan di kamar kontrakan Maya.
 
 Maya mendudukkan diri di meja kerjanya, menyalakan lampu belajar berbingkai hitam yang membiaskan pendar cahaya kuning hangat di atas permukaan kayu.
 
@@ -3431,7 +3431,7 @@ Tidak ada kekacauan emosi di dadanya, tidak ada rasa bersalah yang mencubit, dan
 
 # **BAB 70: Rumah yang Berbeda**
 
-Rabu sore, dua puluh delapan Januari dua ribu dua puluh enam, deru hujan deras yang mengguyur kawasan Kiaracondong perlahan menyusut menjadi titikan gerimis yang lembut. Hawa dingin merayap masuk lewat celah papan kayu rumah sederhana, beradu dengan aroma harum tumisan bawang merah, kencur, dan uap hangat dari nasi liwet yang baru matang di dapur belakang.
+Rabu sore, dua puluh delapan Januari dua ribu dua puluh enam, deru hujan deras yang mengguyur kawasan Kiaracondong perlahan menyusut menjadi rintik gerimis yang lembut. Hawa dingin merayap masuk lewat celah papan kayu rumah sederhana, beradu dengan aroma harum tumisan bawang merah, kencur, dan uap hangat dari nasi liwet yang baru matang di dapur belakang.
 
 Maya duduk di atas tikar pandan ruang tengah, melipat potongan-potongan kain katun sisa jahitan Ratih yang menumpuk di dekat mesin jahit.
 

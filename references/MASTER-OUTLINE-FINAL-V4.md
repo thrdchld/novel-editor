@@ -251,7 +251,7 @@ BAGIAN IV — KRONOLOGI KANONIS
 
 Riwayat keluarga dan hubungan
 
-TanggalPeristiwa20 Oktober 1995Ratih dan Bima menikah14 Mei 1997Maya lahirJuni 2004Bima meninggalkan keluarga2015–2019Maya kuliah Ilmu Komunikasi di Bandung2019Maya bertemu Arman10 Januari 2020Maya dan Arman mulai berpacaranNovember 2024Arman mengatakan kepada Celine bahwa hubungan dengan Maya telah berakhir21 Desember 2024Arman bertunangan dengan Celine10 Januari 2025Maya mengetahui pertunangan Arman15 Januari 2025Maya mengakhiri hubungan dengan Arman24 Januari 2025Maya menerima pemberitahuan pengurangan tenaga kerja31 Januari 2025Hari terakhir Maya bekerja2 Februari 2025Ratih pingsan dan jatuh3 Februari 2025Maya bertemu Daniel7 Februari 2025Ratih pulang dari rumah sakit3 Maret 2025Maya mengirim lamaran ke yayasan6 Maret 2025Maya mengikuti wawancara kerja10 Maret 2025Maya menerima tawaran kerja17 Maret 2025Maya mulai bekerja12 April 2025Maya bertemu Daniel dalam kegiatan yayasan19 April 2025Maya diperkenalkan kepada Sarah14 Mei 2025Maya berulang tahun ke-282 Juni 2025Komunikasi pribadi Maya dan Daniel dimulai23 Juni 2025Sarah melihat notifikasi pesan Maya2 Agustus 2025Maya dan Daniel membicarakan kemungkinan hidup berbeda12 Agustus 2025Ulang tahun Arman15 Agustus 2025Kedekatan Maya dan Daniel semakin personal19 Agustus 2025Daniel dan Sarah bertengkar22 Agustus 2025Maya dan Daniel membicarakan perasaan mereka secara lebih terbuka27–30 Agustus 2025Maya menyadari ketergantungan emosionalnya kepada Daniel3 September 2025Ulang tahun Daniel8 September 2025Sarah mempertanyakan kedekatan Daniel10 September 2025Sarah menemukan sebagian percakapan Daniel dan Maya13 September 2025Maya dan Daniel sepakat menghentikan kedekatan pribadi20 September 2025Sarah berhadapan dengan MayaAkhir September 2025Komunikasi pribadi Maya dan Daniel dihentikanOktober 2025Maya fokus kembali pada pekerjaan5 November 2025Arman menghubungi Maya15 November 2025Maya bertemu Arman23 November 2025Bima menghubungi Ratih melalui nomor telepon lama yang masih dimilikinya25 November 2025Ratih memberi tahu Maya tentang Bima29 November 2025Maya bertemu Bima30 November 2025Ratih menceritakan masa lalu Bima8 Desember 2025Maya memulai konseling22 Desember 2025Maya menjalani sesi konseling berikutnya5 Januari 2026Maya menghubungi Daniel untuk meminta percakapan penutup10 Januari 2026Maya dan Daniel bertemu untuk terakhir kali12 Januari 2026Daniel dan Sarah menjalani sesi konseling pernikahan pertama31 Januari 2026Cerita berakhir
+TanggalPeristiwa20 Oktober 1995Ratih dan Bima menikah14 Mei 1997Maya lahirJuni 2004Bima meninggalkan keluarga2015–2019Maya kuliah Ilmu Komunikasi di Bandung2019Maya bertemu Arman10 Januari 2020Maya dan Arman mulai berpacaranNovember 2024Arman mengatakan kepada Celine bahwa hubungan dengan Maya telah berakhir21 Desember 2024Arman bertunangan dengan Celine10 Januari 2025Maya mengetahui pertunangan Arman15 Januari 2025Maya mengakhiri hubungan dengan Arman24 Januari 2025Maya menerima pemberitahuan pengurangan tenaga kerja31 Januari 2025Hari terakhir Maya bekerja2 Februari 2025Ratih pingsan dan jatuh3 Februari 2025Maya bertemu Daniel7 Februari 2025Ratih pulang dari rumah sakit3 Maret 2025Maya mengirim lamaran ke yayasan6 Maret 2025Maya mengikuti wawancara kerja10 Maret 2025Maya menerima tawaran kerja17 Maret 2025Maya mulai bekerja12 April 2025Maya bertemu Daniel dalam kegiatan yayasan19 April 2025Maya diperkenalkan kepada Sarah14 Mei 2025Maya berulang tahun ke-282 Juni 2025Komunikasi pribadi Maya dan Daniel dimulai23 Juni 2025Sarah melihat notifikasi pesan Maya22 Agustus 2025Maya dan Daniel membicarakan kemungkinan hidup berbeda12 Agustus 2025Ulang tahun Arman15 Agustus 2025Kedekatan Maya dan Daniel semakin personal19 Agustus 2025Daniel dan Sarah bertengkar22 Agustus 2025Maya dan Daniel membicarakan perasaan mereka secara lebih terbuka27–30 Agustus 2025Maya menyadari ketergantungan emosionalnya kepada Daniel3 September 2025Ulang tahun Daniel8 September 2025Sarah mempertanyakan kedekatan Daniel10 September 2025Sarah menemukan sebagian percakapan Daniel dan Maya13 September 2025Maya dan Daniel sepakat menghentikan kedekatan pribadi20 September 2025Sarah berhadapan dengan MayaAkhir September 2025Komunikasi pribadi Maya dan Daniel dihentikanOktober 2025Maya fokus kembali pada pekerjaan5 November 2025Arman menghubungi Maya15 November 2025Maya bertemu Arman23 November 2025Bima menghubungi Ratih melalui nomor telepon lama yang masih dimilikinya25 November 2025Ratih memberi tahu Maya tentang Bima29 November 2025Maya bertemu Bima30 November 2025Ratih menceritakan masa lalu Bima8 Desember 2025Maya memulai konseling22 Desember 2025Maya menjalani sesi konseling berikutnya5 Januari 2026Maya menghubungi Daniel untuk meminta percakapan penutup10 Januari 2026Maya dan Daniel bertemu untuk terakhir kali12 Januari 2026Daniel dan Sarah menjalani sesi konseling pernikahan pertama31 Januari 2026Cerita berakhir
 
 BAGIAN V — MASTER OUTLINE 72 BAB
 
@@ -321,17 +321,17 @@ Bab 10 — Perempuan yang Tidak Dikenalkan
 
 Waktu: November 2024
 
-Maya mendengar nama Celine ketika Arman menerima telepon. Arman menyebut Celine sebagai rekan kerja. Maya tidak memiliki bukti untuk menuduhnya, tetapi mulai merasakan ada sesuatu yang disembunyikan.
+Maya mendatangi kantor Arunika Properti dan bertemu Arman bersama Celine di lobi. Arman memperkenalkan Maya sebagai rekanan tim komunikasi publikasi proyek. Ia menjelaskan bahwa Celine adalah putri investor utama dan alasan profesionalitas membuatnya tidak mengenalkan Maya sebagai pasangan. Maya menerima penjelasan itu, tetapi merasa direndahkan.
 
-Bab 11 — Tanggal Dua Puluh Satu
+Bab 11 — Retakan yang Makin Nyata
 
-Tanggal: 10 Januari 2025
+Waktu: Desember 2024
 
-Maya memastikan bahwa pertunangan Arman berlangsung pada 21 Desember 2024. Ia membandingkan tanggal tersebut dengan pesan dan pertemuan mereka. Ia menyadari Arman masih mempertahankan hubungan dengannya ketika bertunangan.
+Dalam makan malam di kawasan Jalan Riau, Maya mencoba merencanakan cuti akhir tahun dan menanyakan tanggal 21 Desember. Arman berbohong bahwa ia harus berada di Garut sejak tanggal 20 hingga akhir pekan untuk urusan proyek. Maya belum mengetahui bahwa tanggal 21 Desember adalah hari pertunangan Arman dan Celine.
 
 Bab 12 — Penjelasan yang Tidak Menyelamatkan
 
-Tanggal: 12 Januari 2025
+Tanggal: 10 Januari 2025
 
 Maya menemui Arman. Arman mengakui pertunangan itu dan mengakui bahwa ia telah berbohong kepada Celine tentang berakhirnya hubungan dengan Maya pada November 2024. Ia mengatakan takut kehilangan kenyamanan bersama Maya, tetapi juga ingin membangun masa depan dengan Celine. Maya memahami bahwa Arman sengaja mempertahankan dua hubungan.
 
@@ -415,7 +415,7 @@ BAGIAN 4 — A MARRIAGE BEHIND CLOSED DOORS
 
 Bab 25–32: Kedekatan mulai terbentuk
 
-Bab 25 — Istri Sang Dokter
+Bab 25 — Perempuan di Sisi Daniel
 
 Tanggal: 19 April 2025
 
@@ -653,7 +653,7 @@ Bab 61 — Pekerjaan yang Menjadi Miliknya
 
 Tanggal: 14 Januari 2026
 
-Maya mendapat tanggung jawab lebih besar di yayasan setelah hasil kerjanya dinilai baik. Perkembangan ini berasal dari kompetensi dan kerja kerasnya, bukan karena hubungan dengan Daniel.
+Maya mendapat tanggung jawab lebih besar dan diangkat sebagai Koordinator Utama Komunikasi dan Publikasi di yayasan setelah hasil kerjanya dinilai baik. Perkembangan ini berasal dari kompetensi dan kerja kerasnya, bukan karena hubungan dengan Daniel.
 
 Bab 62 — Ibu dan Anak
 

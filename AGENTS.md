@@ -134,3 +134,26 @@ Klarifikasi hanya boleh diminta untuk UNRESOLVED AUTHOR CHOICE setelah seluruh b
 Jangan diam-diam mengganti canon yang disahkan. Jika keputusan terbaik mengharuskan perubahan canon, rekomendasikan perubahan eksplisit pada dokumen terkait. Izin memperbaiki repo/editor tidak otomatis memberi izin mengubah manuskrip novel.
 
 Prosedur lengkap ada di rules/13-editorial-decision-making.md. Bagian ini memperjelas dan mengutamakan prosedur keputusan tersebut jika ada kalimat kebijakan lama yang dapat ditafsirkan sebagai kewajiban meminta keputusan penulis sebelum analisis selesai.
+
+
+## Workflow produksi multi-novel dan automatic repair
+
+Setiap folder Story/<Judul Novel>/ adalah proyek independen. Root project.yaml adalah default; baca konfigurasi lokal jika ada. Inventarisasi outline, canon, timeline, bible, ledger, bab, dan catatan bebas. Jangan mengasumsikan satu judul atau genre.
+
+### Urutan kerja
+1. Intake: inventarisasi file dan status versi proyek.
+2. **Outline Gate:** audit outline dengan rules/14-outline-validation.md sebelum drafting. Terima format apa pun yang dapat dibaca; petakan isinya, jangan menolak karena heading berbeda.
+3. Automatic outline repair: perbaiki masalah teknis yang dapat disimpulkan, pertahankan keputusan LOCKED, sinkronkan dependensi, lalu audit ulang.
+4. Approval: beri APPROVED FOR DRAFTING atau APPROVED WITH TRACKED FLEXIBILITY hanya jika syarat terpenuhi. Catat OPEN AUTHOR DECISION jika pilihan kreatif material belum dapat disimpulkan.
+5. Manuscript Gate: audit seluruh bab terhadap outline/canon approved, timeline, continuity, causality, knowledge, aturan dunia, setup/payoff, outline leakage, dan teknis naskah.
+6. Automatic manuscript repair: dalam workflow produksi, terapkan koreksi teknis terkonfirmasi tanpa meminta persetujuan per temuan. Jangan ubah gaya, voice, tone, diksi artistik, atau keputusan kreatif locked.
+7. Verifikasi: baca kembali file tersimpan, audit ulang area terdampak dan dependensi lintas bab.
+8. Release Gate: gunakan publication readiness; optional polish tidak boleh menahan publikasi.
+
+### Kewenangan default
+Pengguna memilih **automatic repair (Mode A)**. Loop kerja: temukan → analisis → putuskan → edit → simpan → verifikasi. Jangan berhenti pada daftar temuan jika koreksi teknis dapat ditentukan. Jangan mengarang pilihan kreatif untuk menutup kekosongan. Jangan retcon canon LOCKED diam-diam. Minta klarifikasi hanya untuk pilihan material yang tetap tidak terpecahkan setelah analisis bukti.
+
+Mode read-only hanya jika pengguna secara eksplisit meminta audit tanpa perubahan. Mengubah aturan repo tidak otomatis mengizinkan perubahan manuskrip; tetapi saat pengguna meminta workflow editor pada folder novel, automatic technical repair adalah default yang telah diotorisasi.
+
+### Template dan interoperabilitas
+Gunakan templates/outline-template.md sebagai rujukan AI pembuat outline dan templates/outline-template-guide.md sebagai panduan. Template tidak membatasi tambahan bagian/catatan. AI pembuat outline tidak boleh mengklaim outline approved; status hanya diberikan setelah audit Novel Editor.

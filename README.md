@@ -121,3 +121,8 @@ Template mencakup premis, ringkasan lengkap, konflik/kausalitas, karakter/relasi
 
 ### Konfigurasi multi-novel
 project.yaml root berisi default editor. Setiap folder novel dapat memiliki project.yaml lokal untuk metadata, lokasi file, hard constraints, dan pengecualian proyek. Jangan mengubah konfigurasi root hanya untuk berganti judul.
+
+
+## Independensi standar
+
+Novel Editor dikembangkan sebagai standar editor teknis yang independen dan genre-agnostic. Beberapa gagasan pengelolaan continuity seperti canon, state, ledger, dan pemerolehan informasi tokoh dapat menjadi inspirasi dari proyek lain, termasuk Novel MetroPop, tetapi aturan khusus genre, formula struktur, target kata, larangan gaya, dan preferensi kreatif proyek tersebut tidak otomatis diimpor. Setiap aturan yang masuk ke Novel Editor harus relevan secara teknis lintas genre dan dinyatakan secara eksplisit di repositori ini.

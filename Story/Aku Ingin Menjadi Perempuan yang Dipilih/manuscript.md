@@ -758,7 +758,7 @@ Maya mengangguk cepat. "Lalu soal pingsannya bagaimana, Dok? Apakah ada gangguan
 
 Daniel membalik lembaran hasil rekam jantung dan tes darah di papan jepitnya.
 
-"Sejauh ini dari rekam jantung dan sampel darah lengkap, kami tidak menemukan indikasi serangan akut atau stroke," jelas Daniel dengan nada bicara yang runut, menjelaskan istilah medis kompleks menjadi kalimat yang mudah dipahami. "Tekanan darahnya saat tiba di UGD memang sangat rendah, delapan puluh per lima puluh. Ditambah asupan cairan dan makanan yang sangat minim selama dua hari terakhir, tubuhnya mengalami kegagalan kompensasi sementara saat berdiri dari posisi duduk di samping mesin jahit."
+"Dari pemeriksaan awal, termasuk rekam jantung, pemeriksaan neurologis, dan tes darah, belum tampak tanda yang mengarah pada serangan jantung atau gangguan saraf akut," jelas Daniel dengan nada bicara yang runut, menjelaskan istilah medis kompleks menjadi kalimat yang mudah dipahami. "Tekanan darahnya saat tiba di UGD memang sangat rendah, delapan puluh per lima puluh. Ditambah asupan cairan dan makanan yang sangat minim selama dua hari terakhir, tubuhnya kesulitan mempertahankan tekanan darah saat berdiri dari posisi duduk di samping mesin jahit."
 
 Ratih yang terbaring di atas ranjang membuka matanya pelan. Suara ibunya keluar sangat serak. "Dokter... saya boleh pulang malam ini? Jahitan tetangga saya belum selesai..."
 

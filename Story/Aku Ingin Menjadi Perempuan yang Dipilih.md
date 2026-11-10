@@ -1115,7 +1115,7 @@ Ponsel di atas meja kayu bergetar pelan. Sebuah pesan grup dari panitia gabungan
 
 Maya teringat kembali pada bayangan dua insan di barisan depan aula Hotel Papandayan pekan lalu.
 
-Dalam ingatan Maya, Daniel dan Sarah tampil sebagai pasangan yang utuh dan tenang. Sikap Sarah yang mandiri, tutur katanya yang teratur saat memuji kerapian naskah brosur, serta cara Daniel memperhatikan istrinya di sela acara memberikan gambaran tentang sebuah rumah tangga yang tertata di atas fondasi kedewasaan pernikahan yang hampir delapan tahun. Maya belum mengetahui bahwa di balik ketenangan yang diperlihatkan di depan umum, ada retakan halus yang perlahan merayap di antara mereka.
+Dalam ingatan Maya, Daniel dan Sarah tampil sebagai pasangan yang utuh dan tenang. Sikap Sarah yang mandiri, tutur katanya yang teratur saat memuji kerapian naskah brosur, serta cara Daniel memperhatikan istrinya di sela acara memberikan gambaran tentang sebuah rumah tangga yang tertata di atas fondasi kedewasaan pernikahan yang hampir delapan tahun. Maya belum mengetahui apa yang sebenarnya terjadi dalam rumah tangga mereka.
 
 ---
 
@@ -1155,7 +1155,7 @@ Kehadiran sosok Daniel dan Sarah di sarasehan lalu tidak menimbulkan rasa iri at
 
 Bagi Maya yang baru saja bangkit dari kehancuran hubungan lima tahun dengan Arman dan baru mendapatkan pijakan kerja baru, prioritas utamanya saat ini adalah menjaga profesionalitas dan membangun kemandirian hidupnya sendiri.
 
-Maya menutup buku catatannya, mematikan lampu meja, lalu berjalan menuju kasur busanya. Di bawah keheningan malam kota Bandung, tiga kehidupan itu berjalan di atas relnya masing-masing, belum menyadari bahwa takdir akan kembali mempertemukan lintasan mereka di bulan-bulan mendatang.
+Maya menutup buku catatannya, mematikan lampu meja, lalu berjalan menuju kasur busanya. Ia belum mengetahui bahwa kehidupannya kelak akan kembali bersinggungan dengan Daniel dan Sarah.
 
 # **BAB 27: Pekerjaan dan Batas**
 
@@ -1797,8 +1797,6 @@ Maya membalas setiap kalimat itu dengan kehangatan yang mengalir alami, memberik
 
 ---
 
----
-
 *(Sudut Pandang: Sarah)*
 
 Malam harinya di apartemen Ciumbuleuit, aroma semur daging dan tumis buncis hangat memenuhi ruang makan.
@@ -1827,7 +1825,7 @@ Dada Sarah terasa sesak oleh kepastian dingin yang merayap perlahan.
 
 Sarah mengusap pinggiran piringnya, membatalkan niat untuk menambah potongan kue. Ia tidak marah atau meledak emosi di meja makan, tetapi sorot matanya menajam oleh kecurigaan yang tak bisa lagi diabaikan. Sarah kini yakin sepenuhnya bahwa ada orang lain di luar sana—seorang perempuan yang telah menyita perhatian dan ruang emosional suaminya secara mendalam.
 
-Daniel yang menyadari perubahan raut wajah Sarah segera mematikan layar ponselnya dan memasukkannya ke dalam saku celana. Namun, kecanggungan tebal telah kembali memenuhi ruang makan apartemen Ciumbuleuit, menyisakan keheningan dingin di antara dua orang yang kini berdiri di ambang krisis.
+Melihat perubahan raut wajah Sarah, Daniel segera mematikan layar ponselnya dan memasukkannya ke dalam saku celana. Namun, kecanggungan tebal telah kembali memenuhi ruang makan apartemen Ciumbuleuit, menyisakan keheningan dingin di antara dua orang yang kini berdiri di ambang krisis.
 
 # **BAB 40: Pertanyaan Sarah**
 

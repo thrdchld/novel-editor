@@ -1,105 +1,113 @@
 # Publication Readiness: Reader-Ready, Not Perfect
 
 ## Tujuan
-Memutuskan apakah novel sudah **solid dan layak dibaca/publish** dari sisi teknis cerita. Standarnya bukan sempurna. Standarnya: pembaca bisa mengikuti apa yang terjadi, memahami sebab-akibat utama, dan tidak kehilangan kepercayaan karena kontradiksi atau ketidaksinkronan yang material.
+Menentukan apakah novel sudah **layak dibaca dan diterbitkan**. Ukuran utamanya bukan ketiadaan semua kekurangan, melainkan apakah pembaca dapat memahami cerita, mengikuti perkembangan, menerima sebab-akibat utama, dan mengalami penyajian tanpa gangguan material yang tidak disengaja.
 
-Jangan menahan publikasi hanya karena masih ada hal yang bisa diperbaiki. Hampir semua novel masih bisa dipoles. Tahan publikasi hanya untuk masalah yang benar-benar mengganggu pengalaman membaca.
+Naskah yang bebas typo tetapi membingungkan, stagnan, atau tidak menyampaikan adegan dengan jelas belum otomatis READY. Sebaliknya, prosa yang tidak sempurna atau pilihan artistik yang tidak disukai editor bukan alasan menahan publikasi.
 
-## A. Empat kelas temuan berdasarkan dampak rilis
+## A. Ambang pengalaman pembaca
+
+Sebelum status READY, editor harus mampu menjawab YA untuk pertanyaan berikut:
+- Apakah pembaca memahami premis/arah cerita cukup awal untuk mengetahui jenis perjalanan yang sedang diikuti?
+- Apakah konflik, tujuan, dan taruhan utama dapat dikenali?
+- Apakah urutan kejadian dan hubungan sebab-akibat dapat diikuti?
+- Apakah pembaca dapat mengenali waktu, tempat, situasi, dan fokus adegan pada saat informasi itu dibutuhkan?
+- Apakah flashback, lompatan waktu, perpindahan tempat, dan pergantian POV dapat dikenali tanpa harus menebak secara tidak sengaja?
+- Apakah adegan penting memiliki konteks, aksi, reaksi, dan hasil yang dapat dipahami?
+- Apakah motivasi dan perubahan emosi penting memiliki dasar yang cukup?
+- Apakah perkembangan cerita terasa sebagai rangkaian, bukan kumpulan adegan yang tidak tersambung?
+- Apakah pengulangan, eksposisi, dan jeda tidak menghalangi perkembangan yang dijanjikan?
+- Apakah klimaks dan ending didukung oleh rangkaian sebelumnya?
+- Apakah kalimat/paragraf secara umum menyampaikan makna tanpa hambatan yang terus-menerus?
+- Apakah kesalahan teknis yang mengganggu sudah diperbaiki?
+
+Jika ada jawaban TIDAK yang material, catat temuan dan tentukan apakah menjadi BLOCKER atau FIX BEFORE RELEASE.
+
+## B. Delapan gerbang kelayakan
+
+### 1. Fondasi dan janji cerita
+LULUS bila fokus, premis, konflik/pertanyaan pendorong, dan arah cerita dapat dipahami. Tidak wajib memakai formula atau hook tertentu. Pembukaan harus memberi konteks dan alasan yang cukup untuk memasuki cerita, sesuai jenis karya.
+
+### 2. Struktur dan perkembangan
+LULUS bila cerita bergerak melalui perubahan yang dapat ditelusuri: keputusan, hambatan, konsekuensi, perkembangan karakter/relasi, atau pengungkapan informasi. Tidak setiap bab harus penuh konflik. Namun, bagian yang berulang atau stagnan tanpa fungsi dapat menjadi masalah bila menghambat keseluruhan.
+
+### 3. Kausalitas, karakter, dan konflik
+LULUS bila peristiwa utama memiliki dasar, tindakan penting dapat dipahami dari motivasi/pengetahuan/kondisi tokoh, konsekuensi diperhitungkan, dan penyelesaian tidak muncul dari solusi mendadak tanpa dasar.
+
+### 4. Narasi dan orientasi pembaca
+LULUS bila pembaca dapat mengikuti waktu, tempat, situasi, POV, perpindahan adegan, flashback, urutan informasi, dan hubungan antarbagian. Tidak wajib menggunakan label tanggal atau transisi eksplisit jika konteks alami sudah cukup. Namun, pembaca tidak boleh terus-menerus dipaksa menebak hal mendasar yang seharusnya diketahui.
+
+### 5. Adegan dan keterbacaan
+LULUS bila adegan penting menyampaikan siapa melakukan apa, bagaimana, kepada siapa, dalam situasi apa, dan apa yang berubah. Blocking, dialog, reaksi, emosi, dan transisi cukup jelas. Pembaca tidak kehilangan langkah aksi atau konteks karena informasi hilang/tertukar.
+
+### 6. Continuity, timeline, dan dunia cerita
+LULUS bila kronologi memungkinkan, state karakter/benda/lokasi konsisten, pengetahuan tokoh memiliki jalur, serta aturan dunia diterapkan konsisten. Fakta dunia nyata yang material tidak mengandung kesalahan terbukti.
+
+### 7. Prosa dan teknis naskah
+LULUS bila bahasa secara umum jelas dan terbaca; tidak ada pola kalimat/paragraf yang secara berulang mengaburkan makna; ejaan, tata bahasa, tanda baca, nama, istilah, struktur, dan format tidak mengganggu. Tidak mensyaratkan prosa sempurna atau satu gaya tertentu.
+
+### 8. Ketuntasan dan payoff
+LULUS bila konflik/janji utama memperoleh resolusi atau status terbuka yang jelas disengaja. Setup penting dibayar atau secara masuk akal dibiarkan terbuka. Tidak semua detail/subplot wajib ditutup jika memang dirancang berlanjut.
+
+## C. Kelas dampak rilis
 
 | Kelas | Arti | Tindakan |
 |---|---|---|
-| BLOCKER | Masalah material yang merusak pemahaman, logika inti, continuity penting, timeline, aturan dunia sentral, atau penyelesaian konflik utama. | Wajib diperbaiki sebelum rilis. |
-| FIX BEFORE RELEASE | Kesalahan teknis nyata, tetapi lokal/terbatas dan dapat diperbaiki tanpa membongkar keseluruhan novel. | Perbaiki dalam daftar singkat sebelum rilis. |
-| ACCEPTABLE / AUTHOR CHOICE | Ambiguitas disengaja, misteri yang belum diungkap, open ending, karakter cacat, variasi realisme kecil, atau pilihan kreatif yang tidak merusak pemahaman. | Boleh dipertahankan; catat alasannya bila perlu. |
-| OPTIONAL POLISH | Penyempurnaan yang tidak memengaruhi pemahaman atau konsistensi penting. | Tidak boleh menjadi alasan menunda publikasi. |
+| BLOCKER | Masalah membuat pembaca sulit memahami cerita/adegan penting, merusak konflik utama, atau menyebabkan rangkaian cerita gagal bekerja. | Wajib diperbaiki sebelum rilis. |
+| FIX BEFORE RELEASE | Masalah nyata dan perlu diperbaiki, tetapi lokal/terbatas dan tidak menuntut pembongkaran cerita. | Selesaikan sebelum rilis. |
+| ACCEPTABLE / AUTHOR CHOICE | Pilihan artistik, ambiguitas, struktur nonkonvensional, atau misteri yang tetap dapat dipahami sebagai disengaja. | Boleh dipertahankan. |
+| OPTIONAL POLISH | Peningkatan yang tidak mengubah pemahaman atau fungsi cerita. | Tidak boleh menunda rilis. |
 
-Severity ERROR/HIGH/REVIEW tetap dipakai untuk audit. Release impact menjawab pertanyaan berbeda: apakah temuan itu benar-benar menghalangi pembaca menikmati dan memahami cerita? ERROR/HIGH biasanya blocker, tetapi tetap nilai dampak aktual dan konteksnya. REVIEW tidak otomatis blocker.
+Severity ERROR/HIGH/REVIEW adalah klasifikasi diagnosis yang terpisah. Jangan otomatis menyamakan ERROR dengan BLOCKER atau REVIEW dengan penahanan rilis.
 
-## B. Tujuh gerbang kelayakan
-
-### 1. Integritas plot dan sebab-akibat
-LULUS bila konflik utama, tujuan tokoh, hambatan, keputusan penting, eskalasi, dan penyelesaian dapat diikuti. Peristiwa besar memiliki sebab yang cukup. Solusi utama tidak muncul dari kemampuan/informasi yang tiba-tiba diciptakan hanya untuk menyelamatkan plot.
-
-Tidak wajib menjelaskan setiap kebetulan atau keputusan kecil. Yang diuji adalah mata rantai yang menopang cerita utama.
-
-### 2. Worldbuilding dan aturan internal
-LULUS bila pembaca dapat memahami aturan dunia yang diperlukan untuk mengikuti cerita dan aturan sentral tidak berubah seenaknya. Batas, biaya, dan konsekuensi sistem penting tetap berlaku atau pengecualiannya mendapat penjelasan.
-
-Tidak wajib membangun ensiklopedia dunia atau menjelaskan semua lore. Informasi yang tidak dibutuhkan pembaca untuk memahami kejadian boleh tetap implisit.
-
-### 3. Continuity karakter, benda, tempat, dan informasi
-LULUS bila tidak ada perubahan state penting yang mustahil/tidak terjelaskan: lokasi tokoh, cedera, barang, kepemilikan, relasi, sumber daya, rahasia, serta siapa mengetahui apa.
-
-Tidak wajib mempertahankan detail kosmetik yang tidak berpengaruh pada cerita. Fokus pada detail yang dipakai plot atau dapat mengubah interpretasi adegan.
-
-### 4. Timeline dan kronologi
-LULUS bila urutan dan durasi kejadian memungkinkan peristiwa penting terjadi. Umur, deadline, perjalanan, pemulihan, jadwal, dan jarak waktu tidak saling bertentangan secara material. Perpindahan waktu dan flashback memiliki penanda yang cukup agar pembaca tidak kehilangan orientasi.
-
-Tidak perlu memaksa presisi kalender pada cerita yang memang tidak menyebut waktu spesifik; penanda relatif yang alami sudah cukup bila urutannya jelas.
-
-### 5. Keterbacaan faktual
-LULUS bila pembaca pada umumnya dapat memahami siapa melakukan apa, di mana, kapan, dengan informasi apa, serta mengapa kejadian penting terjadi. Perpindahan waktu/tempat, blocking aksi, pergantian state, dan batas POV tidak menimbulkan kebingungan yang tidak disengaja. Prosedur atau fakta dunia nyata yang menjadi dasar kejadian penting tidak mengandung kesalahan material yang terbukti.
-
-Ini bukan penilaian gaya, tone, keindahan prosa, atau preferensi narasi. Kalimat yang sederhana atau gaya yang tidak disukai editor tidak boleh menjadi blocker.
-
-### 6. Ketuntasan cerita
-LULUS bila konflik dan janji utama cerita memperoleh resolusi/status yang dapat dipahami. Ending boleh terbuka dan subplot boleh berlanjut, selama itu tampak disengaja dan tidak membuat pembaca merasa informasi inti hilang karena kelalaian.
-
-### 7. Teknis naskah
-LULUS bila naskah tidak memiliki kesalahan teknis yang mengganggu pembacaan: typo/ejaan yang nyata, tata bahasa yang mengaburkan makna, tanda baca/dialog yang rusak, inkonsistensi nama/istilah/fakta tertulis, struktur bab yang salah, markup yang merusak tampilan, atau catatan editor/placeholder yang tertinggal. Kesalahan lokal yang mudah diperbaiki dapat masuk FIX BEFORE RELEASE, bukan otomatis BLOCKER. Jangan menjadikan tone, gaya, voice, atau diksi sebagai kriteria.
-
-## C. Keputusan akhir
+## D. Keputusan akhir
 
 ### READY TO PUBLISH
 Gunakan bila:
-- semua bab yang dimaksud telah diaudit dan audit lintas bab dilakukan;
+- seluruh naskah yang akan diterbitkan telah dibaca dan dinilai sebagai pengalaman membaca;
+- developmental, narrative, scene, continuity, line/copy, dan technical pass yang relevan telah dilakukan;
 - tidak ada BLOCKER terbuka;
-- tidak ada FIX BEFORE RELEASE yang berpengaruh material dan belum ditangani;
-- tujuh gerbang lulus atau memiliki catatan author choice yang dapat diterima;
-- pembaca dapat mengikuti alur, aturan dunia, timeline, dan state cerita tanpa kontradiksi besar.
+- tidak ada FIX BEFORE RELEASE yang belum ditangani;
+- delapan gerbang lulus atau memiliki author choice yang dapat diterima;
+- hasil revisi telah dibaca ulang dalam konteks.
 
 ### READY WITH MINOR FIXES
-Gunakan bila:
-- tidak ada BLOCKER;
-- tersisa sejumlah kecil kesalahan lokal yang jelas dan perbaikannya terbatas;
-- masalah tersebut tidak membutuhkan revisi struktur besar;
-- daftar tindakan sebelum rilis ringkas dan spesifik.
-
-Status ini tetap berarti novel pada dasarnya layak. Jangan memperluas daftar dengan OPTIONAL POLISH.
+Gunakan bila tidak ada BLOCKER dan tersisa beberapa perbaikan lokal yang spesifik. Daftarnya harus terbatas, tidak membutuhkan pembongkaran struktur, dan tidak mengubah keputusan kreatif utama.
 
 ### NOT READY
-Gunakan bila ada satu atau lebih BLOCKER yang membuat pembaca:
-- tidak dapat memahami mengapa peristiwa penting terjadi;
-- menemukan kontradiksi besar pada timeline/continuity;
-- melihat tokoh menggunakan informasi atau kemampuan yang tidak mungkin ia miliki menurut cerita;
-- tidak dapat memahami aturan dunia yang menjadi dasar konflik;
-- kehilangan pemahaman terhadap konflik atau ending utama.
+Gunakan bila satu atau lebih BLOCKER membuat pembaca:
+- tidak memahami orientasi atau situasi adegan penting;
+- kehilangan hubungan sebab-akibat atau perkembangan konflik utama;
+- tidak memahami motivasi/perubahan karakter yang menopang plot;
+- tidak dapat mengikuti urutan waktu/POV/informasi;
+- mengalami adegan atau transisi yang berulang kali membingungkan;
+- tidak menerima resolusi yang didukung oleh cerita sebelumnya.
 
-Sebutkan blocker minimum yang harus diselesaikan. Jangan menyarankan rewrite besar jika masalah bisa diperbaiki dengan klarifikasi atau satu transisi yang tepat.
+Sebutkan blocker minimum dan perbaikan yang diperlukan. Jangan menyarankan rewrite total bila revisi lebih terbatas cukup.
 
 ### INSUFFICIENT EVIDENCE
-Gunakan hanya jika yang diperiksa berupa cuplikan/sebagian naskah, file hilang, atau cakupan lintas bab tidak memadai untuk memberi keputusan keseluruhan. Jelaskan bagian apa yang perlu dilengkapi.
+Gunakan bila hanya cuplikan yang tersedia, bab penting tidak ada, referensi inti hilang, atau audit keseluruhan belum dilakukan. Jangan memberi status READY berdasarkan sampel.
 
-## D. Aturan untuk mencegah perfectionism
-- Maksimal prioritaskan masalah yang berdampak langsung pada pembaca.
-- Jangan mengubah preferensi editor menjadi aturan.
-- Jangan meminta semua setup kecil memiliki payoff.
-- Jangan meminta semua misteri dijelaskan.
-- Jangan menuntut setiap keputusan karakter rasional; cukup dapat dipahami dalam konteks karakternya.
-- Jangan meminta realisme dunia nyata bila dunia fiksi telah menetapkan aturan lain.
-- Jangan tahan rilis karena satu kata/frasa repetitif, preferensi diksi, atau polish opsional.
-- Jika ada beberapa solusi, sarankan perbaikan paling kecil yang memulihkan logika/keterbacaan.
-- Setelah blocker diperbaiki, lakukan re-audit terarah pada area terdampak dan cek dampak lintas bab. Jangan otomatis mengulang seluruh proses dari nol.
+## E. Perlindungan dari perfectionism dan selera editor
+- Jangan menahan publikasi karena gaya tidak sesuai selera.
+- Jangan mewajibkan cliffhanger, tempo cepat, konflik di setiap bab, atau struktur konvensional.
+- Jangan menghapus pengulangan yang berfungsi sebagai motif atau efek.
+- Jangan menuntut semua misteri dijawab.
+- Jangan menuntut semua adegan memiliki fungsi plot langsung; atmosfer, karakterisasi, dan refleksi dapat menjadi fungsi sah.
+- Jangan menyamakan sederhana dengan buruk atau kompleks dengan bagus.
+- Jangan menyatakan prosa gagal hanya dengan label "AI-sounding"; tunjukkan repetisi, formula, ketidakjelasan, atau pola konkret yang mengganggu.
+- Perbaiki masalah yang berdampak pada pembaca; biarkan optional polish.
+- Jika masalah naratif terlokalisasi, lakukan perbaikan lokal; jangan otomatis merombak seluruh novel.
 
-## E. Format keputusan
-Laporan akhir harus memuat:
-1. status final dan alasan singkat;
-2. cakupan bab/dokumen yang diperiksa;
-3. blocker yang ditemukan (target nol untuk status READY);
-4. daftar fix sebelum rilis yang terbatas dan spesifik;
-5. author choices yang diterima;
-6. optional polish yang secara eksplisit **tidak perlu menunda publikasi**;
-7. rekomendasi: publish / perbaiki daftar minor lalu publish / jangan publish sebelum blocker selesai.
+## F. Format laporan akhir
+1. Status final dan alasan.
+2. Cakupan file/bab dan jenis pass yang benar-benar dilakukan.
+3. Penilaian ringkas fondasi, struktur, narasi, adegan, prosa, continuity, dan teknis.
+4. BLOCKER terbuka (target nol untuk READY).
+5. FIX BEFORE RELEASE yang spesifik.
+6. ACCEPTABLE / AUTHOR CHOICE.
+7. OPTIONAL POLISH yang tidak perlu menahan publikasi.
+8. Daftar perbaikan yang diterapkan dan hasil verifikasinya.
+9. Rekomendasi rilis.
 
-Ini adalah penilaian kesiapan teknis dan keterbacaan. Bukan jaminan penerimaan platform/penerbit, legalitas hak cipta, atau kesuksesan pasar.
+READY adalah keputusan editorial tentang keterbacaan dan integritas naskah, bukan jaminan penerimaan platform, legalitas hak cipta, atau kesuksesan pasar.

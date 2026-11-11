@@ -277,3 +277,32 @@ Namun, versi manuskrip yang dibaca masih memiliki dua duplikasi teks yang jelas,
 Akhir cerita, pilihan Maya, dan fondasi sembilan bagian tetap dipertahankan.
 
 **Pembacaan berkesinambungan Bab 1–72 selesai pada versi manuskrip SHA `4ad3a66241b0d727988a4fc6728c6fde08b13c78`. Manuskrip belum diubah.**
+
+
+---
+
+## Log penerapan temuan pembacaan menyeluruh — 11 November 2026
+
+**Status: REVISI TERARAH DITERAPKAN — VERIFIKASI LINTAS BAB MASIH BERJALAN.**
+
+Revisi berikut diterapkan pada manuskrip setelah temuan pembacaan Bab 1–72:
+
+1. **Bab 3:** dua paragraf penutup yang mengulang tindakan menunggu disatukan. Perubahan dari menunggu aktif menjadi refleks menoleh tetap dipertahankan.
+2. **Bab 4:** pengulangan tindakan Maya kembali ke kamar dan bunyi mesin jahit dihapus; permintaan sepatu yang tidak terucap tetap menjadi penutup.
+3. **Bab 17:** detail kardus berisi berkas lamaran yang tidak memiliki fungsi lanjutan dihapus. Istilah “ambulans desa” diganti dengan penyebutan ambulans yang digunakan warga, sesuai konteks perkotaan.
+4. **Bab 34:** pernyataan bahwa Maya sama sekali tidak lagi terluka oleh ingatan tentang Arman dilunakkan. Sisa perih tetap ada, tetapi tidak lagi mendorongnya mencari penjelasan atau menuntut sesuatu dari Arman. Penutup malam disesuaikan agar tidak menyatakan bahwa ia telah sepenuhnya melewati masa lalu tepat sebelum kedekatan dengan Daniel berkembang.
+5. **Bab 49:** konstruksi kalimat tentang terputusnya komunikasi dengan Daniel diperbaiki.
+6. **Bab 50:** salah rujuk “hubungan lamaku denganku” diperbaiki menjadi “hubunganku denganmu”.
+7. **Bab 56:** judul diubah menjadi “Batas dengan Bima” dan disinkronkan pada outline agar tidak menyiratkan bahwa Maya baru pertama kali menetapkan batas dalam seluruh relasinya.
+8. **Bab 57:** konstruksi kalimat yang menggandakan kata “menyadari”, tanda baca gerak tubuh konselor, dan frasa “meresap dalam ke dalam” diperbaiki.
+9. **Bab 62:** frasa “kelulusan promosi kerja” diganti dengan rujukan yang tepat, yaitu pengangkatan jabatan. Penutup adegan Ratih–Maya dilunakkan agar tidak mengklaim semua rahasia telah selesai.
+10. **Bab 66:** pemicu refleksi berupa catatan fisik tulisan tangan Daniel yang tidak memiliki setup di bab sebelumnya diganti dengan pesan koreksi teknis di grup koordinasi yang memang sudah menjadi bagian komunikasi kerja mereka. Adegan kini menggunakan riwayat percakapan yang sudah memiliki dasar kontinuitas.
+11. **Bab 72:** rujukan “berdiri di kota yang sama” diperjelas menjadi Maya masih berada di Bandung. Refleksi akhir dipadatkan agar pilihan Maya terlihat melalui langkah yang ia ambil, bukan rangkuman tema berulang.
+
+### Batas verifikasi pada tahap ini
+
+- Manuskrip dan outline telah diperbarui; judul Bab 56 sudah disinkronkan.
+- Perubahan ini menyelesaikan temuan terarah yang disebut di atas, tetapi belum membuktikan bahwa seluruh dampak perubahan terhadap bab-bab dependensi sudah bersih.
+- Pemeriksaan lanjutan tetap diperlukan pada Bab 1–12, 15–20, 28–35, 49–58, dan 61–72, terutama transisi, kurva emosi, sumber informasi, serta pengulangan refleksi.
+- Belum dilakukan pass copyedit penuh untuk semua ejaan, tanda baca, dan konsistensi istilah.
+- Status publikasi belum dinaikkan. Novel belum boleh dinyatakan siap terbit hanya berdasarkan penerapan revisi ini.

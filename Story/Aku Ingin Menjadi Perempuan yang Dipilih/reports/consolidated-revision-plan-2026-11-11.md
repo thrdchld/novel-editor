@@ -466,3 +466,16 @@ Pembacaan ulang tidak menemukan alasan untuk mengubah struktur 72 bab atau akhir
 Penyisiran awal sudah diterapkan pada manuskrip: normalisasi tanda baca yang ter-escape, perbaikan sejumlah istilah antarmuka, penghalusan konstruksi kalimat yang tidak idiomatis, dan pengurangan beberapa repetisi diksi/reaksi emosional. Ini belum merupakan copyedit lengkap.
 
 **Sisa pekerjaan wajib:** pemeriksaan baris demi baris Bab 1–72 untuk ejaan dan typo, tanda baca dialog, konsistensi nama/tempat/sapaan, format angka/tanggal, pilihan kata, repetisi tingkat paragraf, serta kalimat yang terlalu panjang atau ambigu. Status tetap **NOT YET READY TO PUBLISH**.
+
+
+---
+
+## Perkembangan copyedit — 12 November 2026
+
+Copyedit terarah telah diterapkan pada seluruh Bab 1–72. Perubahan berfokus pada diksi, kalimat janggal, repetisi, dialog, typo yang teridentifikasi, serta konsistensi sebagian format tanggal dan istilah. Tidak dilakukan perubahan struktur cerita atau hasil adegan.
+
+Verifikasi teknis terbaru menunjukkan 72 bab berurutan, sekitar 49.441 kata, dan tidak ada tanda baca ber-escape. Pass ini belum boleh dianggap sebagai proofread final: pemeriksaan typo yang luput, nama/tempat/sapaan, format angka dan tanggal, tanda baca dialog, serta repetisi tingkat paragraf masih perlu dilakukan.
+
+**Status publikasi: NOT YET READY TO PUBLISH.** Lanjutkan dengan proofread akhir menyeluruh sebelum penilaian kelayakan terbit.
+
+Blob SHA manuskrip setelah pass ini: `4b20b5051118f69ec12d487b4d9497bb5fe60ffa`.

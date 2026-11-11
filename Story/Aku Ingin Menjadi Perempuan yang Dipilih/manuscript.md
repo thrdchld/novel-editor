@@ -132,7 +132,7 @@ Maya tumbuh dengan ingatan yang membeku di ambang pintu tersebut. Ingatan bahwa 
 
 Lima bulan setelah Bima pergi, bunyi genjot pedal mesin jahit tua berderit ritmis menembus hening tengah malam di ruang depan rumah Kiaracondong. Bau minyak mesin bercampur aroma uap kain katun yang baru disetrika memenuhi udara kamar yang sempit.
 
-Maya terbangun saat jarum jam dinding berdetik tiga kali. Dari balik celah tirai kain penutup kamar, ia melihat pendar kuning redup dari bohlam lima belas watt yang tergantung di atas meja jahit.
+Maya terbangun ketika suara mesin jahit yang sejak tadi terdengar mendadak berhenti. Dari balik celah tirai kain penutup kamar, ia melihat pendar kuning redup dari bohlam lima belas watt yang tergantung di atas meja jahit.
 
 Di sana, Ratih masih membungkuk meluruskan lipatan kain bahan seragam sekolah milik tetangga. Rambut ibunya yang biasa disanggul rapi kini terurai acak-acakan di punggung, menyembunyikan lehernya yang dibasahi keringat. Ratih sesekali berhenti memutar roda mesin, menekan pelipisnya dengan telapak tangan, lalu menarik napas panjang sebelum melanjutkan genjotan pedalnya.
 
@@ -216,7 +216,7 @@ Maya mendekati ibunya, meletakkan tas sekolahnya di kursi kayu dekat meja jahit.
 
 Ratih tersenyum pendek, mencoba mengibaskan kekhawatiran dari wajahnya. "Iya, bapak pemilik rumah tadi siang datang. Katanya bulan depan ada penyesuaian harga sedikit. Tapi tidak apa-apa, ini ada pesanan seragam TK dari tetangga sebelah yang bisa Ibu kejar sampai akhir minggu."
 
-Maya menelan ludah. Jemarinya yang berada di dalam saku seragam menggenggam erat formulir bimbingan belajar yang sudah remuk.
+Maya menelan ludah. Sebelum berangkat pulang, Maya tadi memindahkan formulir bimbingan belajar dari tas ke saku seragam. Kini jemarinya menggenggam kertas yang sudah remuk itu.
 
 "Oya, Maya... tadi teman-teman sekolahmu ada yang bahas soal tempat les atau persiapan ujian tidak?" tanya Ratih tiba-tiba, menatap putrinya dengan binar mata cemas. "Kalau ada yang perlu dibayar buat buku atau bimbingan, bilang ya, May. Nanti Ibu usahakan sisihkan dari uang jahitan."
 
@@ -230,7 +230,7 @@ Ratih menghela napas lega, mengusap bahu Maya dengan penuh kasih. "Anak pintar. 
 
 "Iya, Bu."
 
-Maya berjalan menuju kamarnya. Ia mengeluarkan formulir berhologram biru dari dalam tas, meremasnya kecil, lalu membuangnya ke dasar tempat sampah plastik di sudut meja belajar.
+Maya berjalan menuju kamarnya. Ia mengeluarkan formulir berhologram biru dari saku seragam, meremasnya kecil, lalu membuangnya ke dasar tempat sampah plastik di sudut meja belajar.
 
 Di kamar yang remang itu, Maya duduk sendirian di tepi ranjang. Kebiasaan untuk selalu mengalah, menyembunyikan keinginan, dan berpura-pura baik-baik saja kembali mengakar lebih dalam. Maya merasa bahwa selama ia tidak menuntut, selama ia tidak menjadi beban, dan selama ia bisa membuat orang lain nyaman, maka tempatnya di dunia ini akan tetap aman.
 
@@ -400,7 +400,7 @@ Sekilas, ada kilat canggung yang melintas di balik kacamata bingkai hitam Arman.
 
 "May? Kok tidak mengabari dulu kalau mau mampir?" tanya Arman halus. Suaranya terdengar sangat tenang, hampir tanpa celah.
 
-"Iya, Mas. Tadi kebetulan ada urusan serah terima dokumen di kantor cabang dekat sini, jadi aku sekalian bawa teh herbal hangat buat kamu," jawab Maya pelan. Matanya sempat melirik perempuan di samping Arman.
+"Iya, Mas. Tadi kebetulan ada urusan serah terima dokumen di kantor cabang dekat sini, jadi aku sekalian bawa kopi hitam hangat buat kamu," jawab Maya pelan. Matanya sempat melirik perempuan di samping Arman.
 
 Arman mengangguk pelan, lalu menoleh pada teman jalannya. "Celine, ini Maya. Maya ini rekanan dari tim komunikasi publikasi proyek kami."
 
@@ -464,7 +464,7 @@ Maya tidak membantah. Ia hanya tersenyum tipis dan mengangguk pelan, kembali mem
 
 Ia tidak pernah menduga bahwa peninjauan lapangan di Garut pada tanggal 21 Desember yang diucapkan Arman dengan begitu tenang malam itu, sebenarnya adalah tanggal pertunangan pria itu dengan Celine di sebuah hotel di pusat kota Bandung.
 
-# **BAB 12: Penjelasan yang Tidak Menyelamatkan**
+Malam 10 Januari 2025.  Penjelasan yang Tidak Menyelamatkan**
 
 Foto pertunangan di layar ponsel Maya menghadap tepat ke arah Arman, menyingkap senyum pria itu di samping Celine di bawah pendar lampu kabin sedan yang redup.
 
@@ -524,7 +524,7 @@ Arman berdiri di ambang teras dengan wajah pucat dan mata yang menyiratkan kelel
 
 Arman menatap kardus itu dengan dahi berkerut. Matanya beralih menatap wajah Maya, mencari sedikit saja celah keraguan atau ruang untuk bernegosiasi yang biasanya selalu Maya berikan selama lima tahun terakhir.
 
-"May, jangan seperti ini," Arman menolak menyentuh kardus tersebut. Tangannya terulur meraih lengan Maya, tetapi Maya dengan cekatan menarik dirinya mundur dua langkah ke dalam ruangan. "Aku sudah bilang kemarin, soal Celine itu urusan profesional dan tuntutan keluarga investor. Aku bisa selesaikan itu kalau kamu kasih aku waktu."
+"May, jangan seperti ini," Arman menolak menyentuh kardus tersebut. Tangannya terulur meraih lengan Maya, tetapi Maya dengan cekatan menarik dirinya mundur dua langkah ke dalam ruangan. "Aku sudah menjelaskan waktu kita bertemu di mobil, soal Celine itu urusan profesional dan tuntutan keluarga investor. Aku bisa selesaikan itu kalau kamu kasih aku waktu."
 
 Maya menatap pria yang selama lima tahun menjadi pusat gravitasinya. Kata-kata Arman terdengar begitu akrab di telinganya. Selalu ada alasan profesional, selalu ada permohonan minta waktu, dan selalu ada janji manis yang muaranya menuntut kemakluman Maya.
 
@@ -534,7 +534,7 @@ Maya menatap pria yang selama lima tahun menjadi pusat gravitasinya. Kata-kata A
 
 Kalimat itu menyengat tepat di dada Maya, tetapi alih-alih membuat hatinya goyah, kata-kata Arman justru menegaskan kenyataan pahit yang selama ini sengaja ia abaikan.
 
-"Bukan aku yang membuang lima tahun ini, Mas. Kamu yang menghancurkannya pada tanggal 21 Desember lalu," jawab Maya lurus. Ia melangkah maju, meletakkan kardus cokelat itu di atas kursi plastik hijau di teras, tepat di depan Arman. "Di dalam situ ada semua barangmu yang tersisa di rumah ini. Kunci cadangan kontrakanmu juga sudah aku masukkan di amplop cokelat."
+"Bukan aku yang membuang lima tahun ini, Mas. Kamu yang menghancurkannya pada tanggal 21 Desember lalu," jawab Maya lurus. Ia melangkah maju, meletakkan kardus cokelat itu di atas kursi plastik hijau di teras, tepat di depan Arman. "Di dalam situ ada semua barangmu yang tersisa di rumah ini. Kunci cadangan kontrakanku yang selama ini kamu pegang juga sudah aku masukkan ke amplop cokelat."
 
 Arman terpaku melihat amplop cokelat kecil di atas kardus tersebut. Senyum percaya diri yang biasa menjadi andalannya kini sirna sepenuhnya.
 
@@ -580,7 +580,7 @@ Maya mengepalkan tangannya, memejamkan mata erat-erat.
 
 "Jangan, May," bisiknya pada diri sendiri di tengah kamar yang temaram. "Jangan mulai lagi."
 
-Ia mengusap layar ponselnya dengan tegas, lalu memindahkan kontak Arman ke dalam daftar percakapan terarsip. Ia mematikan sambungan data ponselnya, meletakkannya dengan posisi telungkup di ujung meja kerja.
+Ia mengusap layar ponselnya dengan tegas, lalu mengarsipkan percakapannya dengan Arman. Ia mematikan sambungan data ponselnya, meletakkannya dengan posisi telungkup di ujung meja kerja.
 
 Maya menarik napas panjang, mengembuskannya perlahan. Rasa sakit di dadanya tidak lantas hilang saat ia mematikan ponsel. Rasa kesepian itu tetap berada di sana, tebal dan menekan, menuntut untuk dirasakan tanpa ada lagi kebohongan yang menutupinya.
 
@@ -598,7 +598,7 @@ Maya menatap amplop cokelat tersebut. Kata kerahasiaan tercetak tebal di sudut k
 
 "Hasil evaluasi kerja kamu sangat bagus, May," lanjut Pak Rian cepat, seolah takut Maya salah mengartikan alasannya. "Laporan kampanye media sosial bulan lalu yang kamu susun bahkan dipuji manajemen puncak. Keputusan ini murni karena efisiensi anggaran divisi, bukan karena kinerja atau kesalahan pribadi kamu."
 
-Maya menarik amplop itu mendekat, memutar posisinya, lalu membukanya perlahan. Lembar kertas putih berlogo resmi perusahaan di dalamnya memuat deretan paragraf formal. Mata Maya langsung tertuju pada satu kalimat di bagian tengah: *Hari terakhir Maya bekerja di kantor ditetapkan pada 31 Januari 2025. Hubungan kerjanya akan resmi berakhir setelah masa pemberitahuan empat belas hari kerja.*
+Maya menarik amplop itu mendekat, memutar posisinya, lalu membukanya perlahan. Lembar kertas putih berlogo resmi perusahaan di dalamnya memuat deretan paragraf formal. Mata Maya langsung tertuju pada satu kalimat di bagian tengah: *Hari terakhir Maya wajib hadir dan menyelesaikan pekerjaan di kantor ditetapkan pada 31 Januari 2025. Hubungan kerjanya akan berakhir setelah masa pemberitahuan tujuh hari kalender, sesuai tanggal efektif yang tercantum dalam surat ini.*
 
 Tujuh hari lagi.
 
@@ -3379,7 +3379,7 @@ Maya baru saja merapikan lembar-lembar berkas laporan yayasan di meja kerjanya k
 
 Maya mengulurkan tangan, meraih benda tersebut. Di layar monitor tipis, nama kontak Bima tertera jelas.
 
-Dua hari telah berlalu sejak Maya memproses keyakinan masa kecilnya di ruang konseling Mbak Melani, dan semalam ia telah mengunci buku agenda tiga tahunnya—sebuah peta masa depan yang sepenuhnya ia rancang tanpa menggantungkan harapan pada siapa pun.
+Dua hari telah berlalu sejak Maya mulai membicarakan pengalaman masa kecilnya di ruang konseling Mbak Melani, dan semalam ia kembali membuka buku agenda tiga tahunnya—sebuah peta masa depan yang ia susun berdasarkan kebutuhan dan kemampuannya sendiri.
 
 Maya menggeser tombol hijau di layar, lalu menempelkan ponsel itu di telinganya.
 
@@ -3427,7 +3427,7 @@ Di seberang saluran telepon, keheningan mengendap selama beberapa detik. Bima me
 
 Sambungan telepon itu berakhir dengan ketenangan murni. Maya meletakkan ponselnya tertungkup di atas meja.
 
-Tidak ada kekacauan emosi di dadanya, tidak ada rasa bersalah yang mencubit, dan tidak ada lagi kepura-puraan yang membebani. Maya melihat bagaimana Bima menerima batas tersebut tanpa memaksa—sebuah keputusan yang matang dari sang ayah yang akhirnya mau menghormati ruang batin putrinya.
+Tidak ada kekacauan emosi di dadanya, tidak ada rasa bersalah yang mencubit, dan tidak ada lagi kepura-puraan yang membebani. Maya melihat bahwa dalam percakapan itu Bima menerima batas yang ia sampaikan tanpa memaksa. Maya belum tahu apakah sikap tersebut akan bertahan; waktu dan perilaku berikutnya yang akan menjawabnya.
 
 ---
 
@@ -3515,7 +3515,7 @@ Maya tidak terburu-buru merespons. Ia membuka buku catatan agendanya, memindai k
 
 Ia menatap Pak Gunawan dan Pak Frans secara bergantian tanpa raut cemas atau rasa bersalah.
 
-"Namun, saya perlu menyampaikan kapasitas tim komunikasi secara terbuka," lanjut Maya. "Saat ini, tim kami sedang memfinalisasi modul kesehatan lansia yang memegang tenggat cetak tanggal lima Februari. Jika kita memajukan kampanye edukasi gizi ke pertengahan Februari dan menambah sepuluh jenis pamflet baru tanpa penyesuaian jadwal, ada dua konsekuensi nyata."
+"Namun, saya perlu menyampaikan kapasitas tim komunikasi secara terbuka," lanjut Maya. "Saat ini, tim kami sedang memfinalisasi modul kesehatan lansia yang memegang tenggat cetak tanggal lima Februari. Tiga modul inti kampanye gizi sudah memiliki draf lengkap dan telah melalui validasi awal; tim hanya perlu melakukan penyesuaian akhir sebelum masuk proses cetak. Jika kita memajukan kampanye edukasi gizi ke pertengahan Februari dan menambah sepuluh jenis pamflet baru tanpa penyesuaian jadwal, ada dua konsekuensi nyata."
 
 Pak Frans dan Pak Gunawan mendengarkan dengan saksama.
 

@@ -1,6 +1,6 @@
 # **BAB 1: Perempuan yang Selalu Menunggu**
 
-Foto di layar monitor laptop itu menampilkan Arman dalam balutan kemeja batik sarimbit, tersenyum lebar sambil menggandeng tangan seorang perempuan bergaun pastel yang memamerkan cincin di jari manisnya. Di bagian bawah foto, tertera kalimat tebal berhias stiker bunga: *Engagement Ceremony of Celine & Arman. 21.12.2024.*
+Foto yang dikirim Nita melalui WhatsApp Web di layar laptop itu menampilkan Arman dalam balutan kemeja batik sarimbit, tersenyum lebar sambil menggandeng tangan seorang perempuan bergaun pastel yang memamerkan cincin di jari manisnya. Di bagian bawah foto, tertera kalimat tebal berhias stiker bunga: *Engagement Ceremony of Celine & Arman. 21.12.2024.*
 
 Tepat saat jari Maya membeku di atas mouse pad, ponsel di samping kibornya bergetar. Satu notifikasi pesan dari nomor Arman sendiri muncul menimpa layar: "Semangat kerjanya ya, Sayang. Nanti malam aku usahakan jemput kalau rapat sama klien di Dago selesai cepat."
 
@@ -600,7 +600,7 @@ Maya menatap amplop cokelat tersebut. Kata kerahasiaan tercetak tebal di sudut k
 
 "Hasil evaluasi kerja kamu sangat bagus, May," lanjut Pak Rian cepat, seolah takut Maya salah mengartikan alasannya. "Laporan kampanye media sosial bulan lalu yang kamu susun bahkan dipuji manajemen puncak. Keputusan ini murni karena efisiensi anggaran divisi, bukan karena kinerja atau kesalahan pribadi kamu."
 
-Maya menarik amplop itu mendekat, memutar posisinya, lalu membukanya perlahan. Lembar kertas putih berlogo resmi perusahaan di dalamnya memuat deretan paragraf formal. Mata Maya langsung tertuju pada satu kalimat di bagian tengah: *Hari terakhir Maya wajib hadir dan menyelesaikan pekerjaan di kantor ditetapkan pada 31 Januari 2025. Hubungan kerjanya akan berakhir setelah masa pemberitahuan tujuh hari kalender, sesuai tanggal efektif yang tercantum dalam surat ini.*
+Maya menarik amplop itu mendekat, memutar posisinya, lalu membukanya perlahan. Lembar kertas putih berlogo resmi perusahaan di dalamnya memuat deretan paragraf formal. Mata Maya langsung tertuju pada satu kalimat di bagian tengah: *Hari terakhir Maya wajib hadir dan menyelesaikan pekerjaan di kantor ditetapkan pada 31 Januari 2025. Hubungan kerjanya efektif berakhir pada tanggal yang sama, setelah masa pemberitahuan tujuh hari kalender.*
 
 Tujuh hari lagi.
 

@@ -1853,9 +1853,7 @@ Daniel terpaku di tempatnya duduk. Kata-kata Sarah membuka pertahanan dirinya hi
 
 "Aku mengenalmu sejak delapan tahun lalu, Niel," lanjut Sarah, suaranya mulai bergetar oleh luka yang ditahannya rapat-rapat. "Aku tahu kapan kamu lelah karena pekerjaan rumah sakit, dan aku tahu kapan kamu sedang membagikan ruang batinmu untuk orang lain. Kamu mungkin merasa bersih dari kesalahan karena tidak pernah menyentuh perempuan itu secara fisik. Tapi caramu memberi perhatian emosional kepada orang luar sambil membiarkan rumah ini dingin, itu sudah bentuk ketidakjujuran."
 
-Daniel menunduk, menatap permukaan meja kaca yang memantulkan bayangan wajahnya yang pucat. Rasa bersalah dan rasa malu bergelung hebat di dalam dadanya.
-
-Ia ingin menyangkal lagi, ingin menegaskan bahwa ia tidak pernah berniat menceraikan Sarah atau merusak rumah tangga ini. Namun, ia tahu bahwa berbohong lebih jauh di hadapan mata Sarah yang jernih hanya akan meruntuhkan sisa-sisa harga dirinya sebagai seorang pria.
+Daniel menunduk, menatap permukaan meja kaca yang memantulkan bayangan wajahnya yang pucat. Ia ingin menyangkal lagi, tetapi kata-kata yang biasa ia gunakan untuk mengalihkan pembicaraan tidak lagi terasa meyakinkan.
 
 "Sar... aku..." suara Daniel tercekat di kerongkongan, kehilangan argumen rasionalnya.
 
@@ -1865,7 +1863,7 @@ Sarah berdiri perlahan dari kursi makan. Ia merapikan cangkir keramiknya, membel
 
 Pintu kamar tidur utama tertutup pelan, meninggalkan Daniel sendirian di ruang tengah yang sepi.
 
-Daniel menyandarkan kepalanya pada sandaran kursi, memejamkan mata erat-erat. Keheningan apartemen Ciumbuleuit malam itu terasa jauh lebih dingin dan menghimpit daripada biasanya. Untuk pertama kalinya, Daniel menyadari bahwa kebiasaannya melarikan diri dari percakapan yang sulit kini telah membawa rumah tangganya ke tepi jurang kehancuran.
+Daniel menyandarkan kepalanya pada sandaran kursi, memejamkan mata. Keheningan apartemen Ciumbuleuit malam itu terasa jauh lebih dingin daripada biasanya. Ia menatap pintu kamar tidur yang tertutup dan memahami bahwa Sarah tidak sedang menunggu jawaban yang terdengar meyakinkan malam ini. Ia harus membuktikan perubahan melalui tindakan setelah percakapan ini.
 
 # **BAB 41: Pertengkaran di Rumah**
 

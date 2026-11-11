@@ -298,7 +298,6 @@ Maya menahan napas sejenak. Kata rumah selalu terasa berat sekaligus asing di da
 
 Arman mengambil kalung itu dari kotaknya, lalu berdiri pelan untuk memakaikannya ke leher Maya. Sentuhan jemari Arman yang hangat di tengkuknya membuat dada Maya berdesir pelan.
 "Mulai hari ini, sepuluh Januari, kamu mau kan resmi jalan sama aku?" bisik Arman di dekat telinganya sebelum kembali duduk. "Aku janji, May. Aku tidak akan ke mana-mana. Aku bakal terus ada di sini buat kamu."
-
 Janji itu diucapkan dengan begitu mudah dan yakin.
 
 Bagi Maya yang sejak kecil tumbuh dengan rasa takut akan penolakan, kalimat *aku tidak akan ke mana-mana* adalah kalimat paling indah yang pernah ia dengar. Kalimat itu meluluhkan seluruh pertahanan emosional yang selama ini ia bangun di depan orang lain. Maya menunduk, mengusap liontin lingkaran di dadanya dengan ibu jari, merasakan dinginnya logam perak yang perlahan menyerap hangat tubuhnya.
@@ -327,7 +326,7 @@ Senyum Arman begitu tulus. Tatapan matanya memancarkan rasa tanggung jawab yang 
 
 Maya mengangguk pelan, menyembunyikan rasa kecewa yang sempat singgah di dadanya. Ia memberikan respons yang sama seperti yang selalu ia berikan sejak tahun-tahun pertama mereka bersama: kemakluman.
 
-Tahun-tahun berlalu seperti sapuan angin di jalanan kota Bandung. Di mata kawan-kawan lingkaran pertemanan mereka, Maya dan Arman adalah pasangan ideal yang tidak pernah diwarnai pertengkaran hebat. Maya selalu hadir mendampingi Arman dalam acara kumpul kantor, membawakan bekal makan siang saat pria itu lembur, dan menyelaraskan jadwal akhir pekannya dengan ritme pekerjaan Arman.
+Tahun-tahun berlalu begitu saja di jalanan kota Bandung. Di mata kawan-kawan lingkaran pertemanan mereka, Maya dan Arman adalah pasangan ideal yang tidak pernah diwarnai pertengkaran hebat. Maya selalu hadir mendampingi Arman dalam acara kantor, membawakan bekal makan siang saat pria itu lembur, dan menyesuaikan jadwal akhir pekannya dengan pekerjaan Arman.
 
 Setiap kali topik pernikahan mencuat di antara perbincangan keluarga atau obrolan santai bersama Nita, Maya selalu menjadi benteng pertahanan Arman. Ia akan menyusun alasan-alasan rasional yang terdengar sangat masuk akal.
 
@@ -365,9 +364,9 @@ Balasan dari Arman baru muncul satu jam kemudian, hanya berupa stiker jempol ber
 
 Maya menghela napas pelan, merapikan dua wadah makanan itu ke dalam kulkas kecil di sudut dapur. Rasa dingin menyengat menyentuh telapak tangannya saat ia menutup pintu pendingin.
 
-Perubahan itu tidak terjadi secara drastis dalam satu malam. Pergeseran itu berlangsung halus, merayap pelan di antara lipatan rutinitas mereka sepanjang tahun 2024.
+Perubahan itu tidak terjadi dalam satu malam. Pergeseran itu berlangsung perlahan di tengah rutinitas mereka sepanjang tahun 2024.
 
-Arman yang dahulu selalu menyempatkan diri mengabari di sela jam makan siang kini lebih sering mengabaikan pesan hingga larut malam. Ponsel pria itu yang biasanya diletakkan sembarangan di atas meja saat mereka jalan bersama kini lebih sering berposisi telungkup atau tetap tersimpan rapi di dalam saku jasnya. Setiap kali Maya mencoba memancing pembicaraan tentang perkembangan tabungan atau rencana masa depan mereka, Arman akan menjawab singkat dengan nada suara yang perlahan menegang, lalu mengalihkan topik ke beban target penjualan divisi propertinya yang makin menumpuk.
+Arman yang dahulu selalu menyempatkan diri mengabari di sela jam makan siang kini lebih sering mengabaikan pesan hingga larut malam. Ponsel pria itu, yang biasanya diletakkan sembarangan di atas meja saat mereka pergi bersama, kini lebih sering diletakkan telungkup atau disimpan di dalam saku jasnya. Setiap kali Maya mencoba memancing pembicaraan tentang perkembangan tabungan atau rencana masa depan mereka, Arman akan menjawab singkat dengan nada suara yang perlahan menegang, lalu mengalihkan topik ke beban target penjualan divisi propertinya yang makin menumpuk.
 
 Sebagai perempuan yang sejak kecil dididik untuk tidak menjadi beban orang lain, Maya kembali menelan pertanyaan-pertanyaan itu. Ia meyakinkan diri bahwa Arman sedang berada di puncak tekanan karier dan membutuhkan dukungan, bukan tuntutan emosional. Karena itu, ia mengurangi frekuensi menelepon, tidak lagi menanyakan kapan Arman akan menemui ibunya di Kiaracondong, dan menyambut suara lelah pria itu dengan pengertian. Maya berharap ruang yang diberikannya akan membuat Arman kembali terbuka seperti dulu.
 
@@ -379,7 +378,7 @@ Aroma uap kopi hitam hangat merebak dari termos kecil yang dipegang Maya. Sore i
 
 Maya berdiri di tepi selasar berkaca bening, menunggu lift menuruni lantai empat tempat divisi pemasaran berada.
 
-Pintu lift berdenting pelan, membuka lebar. Arman melangkah keluar dari dalam kabin bersama seorang perempuan bergaun simpel berwarna cokelat susu. Pria itu tertawa lepas, jenis tawa riang yang sudah jarang sekali Maya dengar dalam beberapa bulan terakhir. Perempuan di sampingnya memiliki potongan rambut sebahu yang rapi dan memegang dokumen dengan logo investor besar di bagian atas. Penampilannya rapi dan percaya diri.
+Pintu lift berdenting pelan, membuka lebar. Arman melangkah keluar dari kabin bersama seorang perempuan bergaun sederhana berwarna cokelat susu. Pria itu tertawa lepas, jenis tawa riang yang sudah jarang sekali Maya dengar dalam beberapa bulan terakhir. Perempuan di sampingnya berambut sebahu dan memegang dokumen dengan logo investor besar di bagian atas. Penampilannya tampak rapi dan percaya diri.
 
 Maya sempat terpaku di posisinya. Langkah Arman mendadak terhenti saat pandangannya bertumbukan dengan Maya yang berdiri beberapa meter di depan pintu kaca lobi.
 
@@ -389,7 +388,7 @@ Sekilas, ada kilat canggung yang melintas di balik kacamata bingkai hitam Arman.
 
 "Iya, Mas. Tadi kebetulan ada urusan serah terima dokumen di kantor cabang dekat sini, jadi aku sekalian bawa kopi hitam hangat buat kamu," jawab Maya pelan. Matanya sempat melirik perempuan di samping Arman.
 
-Arman mengangguk pelan, lalu menoleh pada teman jalannya. "Celine, ini Maya. Maya ini rekanan dari tim komunikasi publikasi proyek kami."
+Arman mengangguk pelan, lalu menoleh kepada perempuan di sampingnya. "Celine, ini Maya. Maya ini rekanan dari tim komunikasi publikasi proyek kami."
 
 Dada Maya seketika berdesir dingin. Kata-kata itu meluncur dari mulut Arman begitu lancar dan tanpa ragu. *Rekanan dari tim komunikasi.* Bukan kekasih, bukan pasangan lima tahun, bahkan bukan teman dekat.
 
@@ -399,11 +398,11 @@ Perempuan bernama Celine itu tersenyum anggun, mengulurkan tangannya yang terawa
 
 "Kalau begitu aku duluan ya, Man. Mobil jemputan orang tuaku sudah sampai di depan," kata Celine pada Arman dengan nada akrab yang alami. Pria itu mengangguk penuh hormat dan membukakan pintu lipat kaca lobi untuk Celine.
 
-Setelah siluet Celine menghilang di balik pintu sedan mewah yang menunggunya di lobby drop-off, Arman berbalik menghampiri Maya. Pria itu mengambil termos kecil dari tangan Maya, lalu mengusap bahu Maya pelan.
+Setelah siluet Celine menghilang di balik pintu sedan mewah yang menunggunya di area penurunan penumpang lobi, Arman berbalik menghampiri Maya. Pria itu mengambil termos kecil dari tangan Maya, lalu mengusap bahunya.
 
 "Mas..." Suara Maya terdengar bergetar tipis, menahan desakan pertanyaan yang menumpuk di dadanya. "Kenapa tadi bilangnya aku cuma rekanan tim komunikasi?"
 
-Arman menghela napas panjang, memutar tubuhnya sedikit hingga mereka berdiri agak jauh dari lalu lalang karyawan lain. Tatapan matanya memancarkan nada serba salah yang persuasif.
+Arman menghela napas panjang, lalu mengajak Maya bergeser hingga mereka berdiri agak jauh dari lalu lalang karyawan lain. Ekspresinya menunjukkan rasa serba salah.
 
 "May, Celine itu putrinya Pak Subrata, investor utama untuk pengembangan lahan Garut," bisik Arman dengan suara merendah. "Bapaknya sangat konservatif soal profesionalitas. Tadi itu konteksnya masih di area kantor dan depan klien penting. Kurang etis kalau aku tiba-tiba mengenalkan pacar pribadi di tengah pembahasan bisnis."
 
@@ -411,15 +410,15 @@ Arman menggenggam jemari Maya, meremasnya lembut dengan kehangatan yang biasa. "
 
 Pertanyaan itu ditutup dengan tatapan mata Arman yang penuh harapan akan kemakluman.
 
-Maya menatap pria di hadapannya. Di dalam dadanya, rasa kecewa dan harga diri yang terluka berteriak meminta Maya untuk protes. Namun, kebiasaan lama yang sudah mengakar sejak kecil kembali mengambil kendali. Maya tidak ingin terlihat childish, tidak ingin dinilai menuntut, dan tidak ingin menjadi penghambat karier Arman yang sedang dipertaruhkan.
+Maya menatap pria di hadapannya. Di dalam dadanya, rasa kecewa dan harga diri yang terluka berteriak meminta Maya untuk protes. Namun, kebiasaan lama yang sudah mengakar sejak kecil kembali mengambil kendali. Maya tidak ingin terlihat kekanak-kanakan, tidak ingin dinilai menuntut, dan tidak ingin menjadi penghambat karier Arman yang sedang dipertaruhkan.
 
-Maya menelan pahit di tenggorokannya, memaksakan senyum tipis di bibirnya.
+Maya menelan kepahitan, lalu memaksakan senyum tipis.
 
 "Iya, Mas. Aku paham," sahut Maya pelan.
 
 Arman tersenyum lega, mengusap puncak kepala Maya sebelum mengajaknya berjalan menuju tempat parkir.
 
-Maya melangkah di samping Arman tanpa suara. Di depan Celine, pria itu telah memperkenalkannya sebagai rekanan, bukan pasangan lima tahun terakhir. Maya menerima penjelasan Arman tanpa protes, meski sapaan itu terasa seperti penghapusan atas hubungan yang selama ini ia jaga.
+Maya melangkah di samping Arman tanpa suara. Di depan Celine, pria itu telah memperkenalkannya sebagai rekanan, bukan pasangan lima tahun terakhir. Maya menerima penjelasan Arman tanpa protes, meski perkenalan itu terasa seperti penghapusan atas hubungan yang selama ini ia jaga.
 
 # **BAB 11: Retakan yang Makin Nyata**
 
@@ -445,7 +444,7 @@ Arman sempat terdiam sejenak. Matanya melirik ponselnya yang berada di meja, lal
 
 Kata-kata itu diucapkan Arman dengan nada yang persis sama seperti tahun-tahun sebelumnya. Nada penuh janji yang menenangkan, namun kini terasa makin hampa di telinga Maya.
 
-Maya menatap wajah Arman. Ada rasa asing yang perlahan merayap di dadanya. Pria di hadapannya ini adalah orang yang sama yang lima tahun lalu berjanji tidak akan ke mana-mana. Namun malam itu, meski mereka duduk di meja yang sama, Maya merasa jarak di antara mereka sudah terbentang sejauh puluhan kilometer.
+Maya menatap wajah Arman. Ada sesuatu yang terasa asing dalam diri pria itu. Pria di hadapannya ini adalah orang yang sama yang lima tahun lalu berjanji tidak akan ke mana-mana. Namun malam itu, meski mereka duduk di meja yang sama, Maya merasa jarak di antara mereka sudah terbentang sejauh puluhan kilometer.
 
 Maya tidak membantah. Ia hanya tersenyum tipis dan mengangguk pelan, kembali memainkan peran sebagai pasangan yang mengerti dan tidak pernah menuntut.
 
@@ -597,16 +596,15 @@ Dada Maya terasa mengencang, tetapi wajahnya tetap tenang. Pelajaran hidup yang 
 
 "Rincian hak akibat PHK dan surat rekomendasi kerja sudah disiapkan tim HRD di lembar belakang, May. Pembayaran hak akhirnya akan diproses setelah tanggal efektif PHK," kata Pak Rian lagi, memperhatikan ekspresi Maya yang tidak bergeming. "Kalau kamu butuh izin tidak masuk beberapa hari ke depan untuk mencari peluang baru, saya siap berikan akses."
 Maya merapikan surat itu kembali ke dalam amplop cokelat, menyusunnya sejajar dengan pulpen di atas meja.
-
 "Terima kasih atas keterusterangannya, Pak Rian," sahut Maya pelan. Suaranya terdengar stabil. "Saya akan menuntaskan semua sisa serah terima dokumen dan laporan evaluasi bulanan sebelum tanggal tiga puluh satu."
 
 Pak Rian menatapnya dengan tatapan heran sekaligus segan. "Kamu yakin tidak apa-apa, May? Kalau kamu butuh waktu istirahat sore ini..."
 
 "Saya tidak apa-apa, Pak. Saya tuntaskan pekerjaan saya dulu."
 
-Maya berdiri, membawa amplop cokelat itu kembali menuju kubikel kerjanya.
+Maya berdiri dan membawa amplop cokelat itu kembali ke kubikelnya.
 
-Saat melewati deretan meja rekan kerjanya, Maya melihat Nita sedang berdiri di dekat mesin pencetak dokumen. Nita menangkap amplop di tangan Maya dan ekspresi wajah sahabatnya yang mendadak kaku. Nita segera melangkah mengikuti Maya hingga ke kubikelnya.
+Saat melewati deretan meja rekan kerjanya, Maya melihat Nita sedang berdiri di dekat mesin pencetak dokumen. Nita melihat amplop di tangan Maya dan ekspresi sahabatnya yang mendadak kaku. Nita segera melangkah mengikuti Maya hingga ke kubikelnya.
 
 "May, ada apa? Pak Rian panggil kamu soal apa tadi?" tanya Nita setengah berbisik, bersandar di sekat kayu kubikel.
 
@@ -622,7 +620,7 @@ Nita menahan napas, matanya melebar. "Demi apa? Kinerja kamu kan paling stabil d
 
 Maya menggeleng pelan, tersenyum tipis yang memaksakan ketenangan. "Tidak perlu, Nit. Keputusannya sudah final. Lagipula protes juga tidak akan mengubah kebijakan anggaran mereka."
 
-Maya menatap layar monitor di depannya. Baris-baris data statistik pekerjaan yang biasa ia kerjakan kini terasa seperti pengingat betapa cepatnya sesuatu yang ia bangun bisa hilang dalam sekejap. Selama lima tahun ini, Maya menggantungkan rasa aman hidupnya pada dua hal: hubungannya dengan Arman dan kepastian pekerjaannya di kantor ini.
+Maya menatap layar monitor di depannya. Baris-baris data statistik yang biasa ia kerjakan kini mengingatkannya betapa cepat sesuatu yang dibangunnya bisa hilang. Selama lima tahun ini, Maya menggantungkan rasa aman hidupnya pada dua hal: hubungannya dengan Arman dan kepastian pekerjaannya di kantor ini.
 
 Dalam kurun waktu kurang dari sebulan, kedua hal itu terenggut bergantian.
 
@@ -898,7 +896,6 @@ Ratih menatap putrinya lama, lalu menghela napas panjang. "Maaf ya, May. Gara-ga
 "Sama sekali tidak apa-apa, Bu," pangkas Maya tegas namun lembut. Ia menggenggam jemari kiri Ratih. "Uang bisa dicari lagi. Yang penting Ibu sehat dan tangannya sembuh sempurna."
 
 Ratih tersenyum tipis, mengusap punggung tangan Maya.
-
 Malam harinya saat kembali ke rumah kontrakan Antapani, Maya kembali duduk di depan layar laptopnya hingga pukul sebelas malam. Ia menekan tombol *kirim* pada berkas lamaran kelimabelas untuk minggu ini.
 
 Di dalam ruangan yang sunyi itu, Maya menatap pantulan wajahnya di kaca jendela yang gelap. Ketakutan akan penolakan dan bayangan rekening yang mengering masih membayangi. Ia membuka buku catatan, menuliskan nama lima belas perusahaan yang telah dikirimi lamaran minggu itu, lalu memberi tanda pada dua lowongan yang perlu ia tindak lanjuti esok hari.
@@ -1198,7 +1195,6 @@ Setelah menuntaskan makan malam dan membantu Ratih mencuci piring di dapur, Maya
 Ponsel di dalam saku celananya bergetar pelan. Maya mengeluarkan benda itu, mendapati pesan ucapan selamat ulang tahun dari Nita, beberapa rekan kerja baru dari Yayasan Lentera Sehat, serta ucapan hangat dari Mbak Dewi. Tidak ada pesan dari Arman. Maya bersyukur pria itu tidak mencoba menghubunginya.
 
 Maya memeluk kedua lututnya, menatap ke arah langit malam yang bertabur sedikit bintang di atas atap rumah-rumah Kiaracondong.
-
 Dalam empat bulan terakhir, kehidupannya telah berguncang hebat. Ia kehilangan pria yang menjadi pusat gravitasinya selama lima tahun, kehilangan pekerjaan lama yang memberinya rasa aman, dan menghadapi musibah kesehatan ibunya. Namun malam ini, di balik semua rasa sakit yang pernah menimpanya, Maya menyadari bahwa ia telah berhasil melewati titik-titik terendah itu satu demi satu.
 
 Ia telah memiliki pekerjaan baru yang menghargainya secara profesional, ibunya berangsur pulih, dan ia tidak lagi harus berpura-pura mengalah demi menyenangkan hati pria yang tak pernah memberi kepastian.
@@ -1497,7 +1493,6 @@ Maya mengembuskan napas pelan, menyandarkan punggungnya di kursi kerja.
 Keinginan untuk membuka percakapan lama dengan Arman memang sempat melintas tipis. Ada dorongan naluriah untuk sekadar memeriksa foto profilnya, atau mengetikkan dua kata formal untuk memastikan bahwa ia tidak menaruh dendam. Lima tahun adalah waktu yang panjang, dan memotong ingatan tentang seseorang yang pernah menjadi pusat dunianya bukanlah hal yang bisa selesai dalam sekejap.
 
 Di suatu tempat di kota Bandung hari ini, mungkin Celine yang sedang sibuk menyiapkan kejutan ulang tahun untuk Arman, sebagaimana yang biasa Maya lakukan di masa lalu.
-
 Maya menggenggam ponselnya di atas meja, menatap layar kaca yang gelap. Ia membiarkan ingatan-ingatan masa lalu itu melintas tanpa berusaha menahannya atau membuangnya dengan paksa. Ia mengingat senyum Arman, tawa mereka di kafe Dago, dan janji-janji manis yang tak pernah terwujud.
 
 Ingatan itu masih menyisakan perih, tetapi tidak lagi mendorong Maya untuk menuntut keadilan atau meminta penjelasan ulang. Ia mulai bisa membiarkan kenangan itu lewat tanpa merasa harus melakukan sesuatu terhadap Arman.
@@ -1798,7 +1793,6 @@ Daniel melirik ke arah Sarah, lalu segera mematikan layar ponselnya dan memasukk
 # **BAB 40: Pertanyaan Sarah**
 
 _(Sudut Pandang: Daniel)_
-
 Suara gesekan cangkir keramik di atas meja kaca apartemen Ciumbuleuit terdengar nyaring di tengah keheningan malam delapan September. Pukul delapan malam lewat tiga puluh menit, angin pegunungan menyapu jendela balkon, membiaskan uap dingin ke dalam ruang tengah.
 
 Daniel baru saja hendak beranjak menuju kamar kerja membawa laptop kerjanya ketika suara Sarah menghentikan langkahnya.
@@ -2097,7 +2091,6 @@ Maya memilih untuk membalas. Maya memilih untuk mendengarkan. Dan Maya memilih u
 
 
 ---
-
 Senin pagi, dua puluh dua September, rutinitas kerja di kantor Yayasan Lentera Sehat kawasan Jalan RE Martadinata berjalan seperti biasa.
 
 Suara ketikan kibor, deru mesin cetak di sudut ruangan, dan kesibukan staf lapangan merapikan spanduk kegiatan posyandu memenuhi ruang komunikasi. Maya duduk di meja kerjanya, memindai draf laporan publikasi kuartal ketiga.
@@ -2398,7 +2391,6 @@ Arman, penjelasanmu Sabtu kemarin sudah saya dengar dan saya pahami. Tapi memaha
 Maya menekan jeda sejenak, sebelum mengetikkan baris penutup yang tanpa keraguan.
 
 Masa lalu kita sudah selesai. Tolong hormati keputusan ini dan jangan hubungi saya atau Ibu lagi.
-
 Pesan itu terkirim. Maya menggeser layar ponselnya, lalu menghapus utas percakapan dan memblokir kontak tersebut secara permanen.
 
 Tidak ada ledakan amarah, tidak ada makian pahit, dan tidak ada air mata penyesalan. Maya meletakkan ponselnya tertungkup di atas papan kayu meja, merasa ada beban berat yang akhirnya terangkat sepenuhnya dari dadanya.
@@ -2698,7 +2690,6 @@ Di ujung saluran telepon, Bima menyapu tenggorokannya yang terasa kering. Nada s
 "Terima kasih banyak atas pengertiannya, Pak," sahut Maya tegap. "Semoga Bapak selalu sehat di sana."
 
 "Terima kasih, May. Kamu juga jaga kesehatan ya."
-
 Maya mengakhiri panggilan telepon tersebut, lalu meletakkan ponselnya kembali di atas meja kerja.
 
 Maya berjalan melangkah ke arah jendela teras, membuka katup kayunya lebar-lebar. Angin sore kota Bandung berembus masuk membawa aroma tanah basah dan kesegaran dedaunan mahoni.
@@ -2997,7 +2988,6 @@ Maya menegakkan posisi duduknya, menatap Pak Frans dengan tatapan yang jernih da
 Saat melangkah keluar dari ruang pimpinan membawa surat keputusan di tangannya, Maya menyusuri koridor kantor dengan pijakan kaki yang terasa amat ringan dan tegap. Mbak Dewi dan dua rekan staf lapangan menyambutnya dengan tepuk tangan meriah dan pelukan hangat di ruang tengah.
 
 Maya kembali mendudukkan diri di meja kerjanya di dekat jendela. Ia mengusap pinggiran kertas surat keputusan bertinta hitam tersebut dengan jemarinya yang tenang.
-
 Dahulu, Maya selalu mengukur harga dirinya dari perhatian yang diberikan oleh pria yang dicintainya. Ia menggantungkan rasa berharganya pada kepastian Arman atau validasi emosional dari Daniel. Namun siang ini, di bawah pendar sinar matahari kota Bandung yang menembus kaca kantor, Maya menyadari sebuah kebenaran baru.
 
 Pekerjaan ini, pencapaian ini, dan rasa bangga yang memenuhi dadanya adalah milik dirinya sendiri. Sesuatu yang ia bangun dengan tangannya sendiri, dan sesuatu yang tidak akan pernah bisa dicabut atau ditentukan oleh pilihan orang lain.
@@ -3298,7 +3288,6 @@ Ia membentangkan halaman pertama buku agenda tersebut, menuliskan judul besar di
 Jemari Maya berhenti sejenak di atas kertas. Ia menghela napas lega.
 
 Ia teringat bagaimana di tahun-tahun sebelumnya, setiap kali membayangkan masa depan, perencanaan hidupnya selalu berada dalam posisi mengambang dan tergantung pada orang lain.
-
 Selama lima tahun bersama Arman, seluruh rencana finansial dan karier Maya selalu disesuaikan dengan linimasa Arman. Ia menunda menabung untuk kepemilikan rumah pribadi karena berharap akan tinggal di rumah yang disediakan Arman di kawasan kaveling Arunika Properti. Ia menahan diri mengambil program sertifikasi komunikasi tingkat lanjut karena takut jadwal kuliah malamnya akan mengganggu waktu luang Arman di akhir pekan. Seluruh proyeksi kehidupannya diletakkan di atas fondasi penantian yang tak pasti.
 
 Bahkan ketika komunikasi dengan Dokter Daniel yang dimulai pada Juni menguat menjadi kedekatan personal pada Juli dan Agustus, pikiran Maya sempat terjebak dalam angan-angan pasif tentang kehidupan seperti apa yang bisa mereka bangun jika keadaan berpihak pada mereka.

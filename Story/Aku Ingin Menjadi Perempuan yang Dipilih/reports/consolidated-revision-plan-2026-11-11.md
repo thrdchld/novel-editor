@@ -294,7 +294,7 @@ Target akhir adalah naskah yang utuh, logis, konsisten, dan nyaman dibaca—buka
    - Durasi penyesalan Arman, kebohongan yang terungkap pada Januari 2025, dan jarak waktu Bab 51–52 diperbaiki.
 
 2. **Kontinuitas peristiwa dan detail**
-   - Surat pengurangan tenaga kerja pada Bab 15 kini menggunakan masa pemberitahuan tujuh hari kalender sampai 31 Januari.
+   - Bab 15 kini membedakan hari terakhir hadir di kantor (31 Januari 2025) dari tanggal efektif PHK (14 Februari 2025), dengan masa pemberitahuan 14 hari kerja. Maya dibebaskan dari kewajiban hadir mulai 1 Februari; pembayaran hak PHK baru diproses setelah tanggal efektif.
    - Perpindahan formulir di Bab 5, sumber foto di Bab 1, detail kopi Bab 10, kunci cadangan Bab 13, dan pengarsipan percakapan Bab 14 diperjelas.
    - Pemulihan gips Ratih pada Bab 29 diselaraskan dengan Bab 24 dan 28; saran Daniel dibatasi sesuai spesialisasinya.
    - Bab 71 memperjelas kapasitas produksi: tiga modul inti yang telah melalui validasi awal dan tujuh pamflet tambahan yang dapat ditunda.
@@ -358,3 +358,37 @@ Pemeriksaan struktur setelah perubahan kembali menunjukkan 72 judul bab beruruta
 - Blob SHA outline: `257504b6b015d65a0d478948b889e19c45586c50`.
 
 Pemeriksaan struktur di atas bukan pembacaan akhir dan tidak membuktikan bahwa seluruh repetisi, masalah gaya, atau dependensi lintas bab telah selesai. Langkah berikutnya tetap audit ulang setelah revisi, khususnya bagian yang menerima perubahan berantai dan bagian yang belum disentuh dalam putaran ini.
+
+
+### Pembaruan revisi silang lanjutan — 11 November 2026
+
+Pemeriksaan setelah revisi sebelumnya menemukan beberapa dependensi yang perlu diperbaiki lagi. Perubahan berikut sudah diterapkan pada manuskrip dan, bila relevan, outline.
+
+1. **PHK dan arus uang Bab 15–21**
+   - Masa pemberitahuan diselaraskan dengan Pasal 37 PP No. 35 Tahun 2021: 14 hari kerja. Pemberitahuan 24 Januari menghasilkan tanggal efektif PHK 14 Februari 2025.
+   - Hari terakhir Maya hadir di kantor tetap 31 Januari. Mulai 1 Februari ia dibebaskan dari kewajiban hadir selama sisa masa pemberitahuan.
+   - Bab 17, 19, dan 20 kini hanya menggunakan tabungan/dana darurat sebelum tanggal efektif PHK. Bab 21 diberi jangkar 17 Februari dan menyebut pesangon yang telah diterima setelah hubungan kerja berakhir.
+   - Outline Bab 15–16 disinkronkan dengan perbedaan antara hari terakhir hadir dan tanggal efektif PHK.
+
+2. **Perbaikan pembuka dan flashback Bab 1–16**
+   - Pengulangan kegiatan domestik pada hari pertunangan di Bab 1–2 dikurangi; Bab 2 kini menekankan kontradiksi antara pesan Garut dan foto pertunangan.
+   - Transisi Bab 2 ke flashback Bab 3 diberi pengait yang menjelaskan mengapa ingatan masa kecil muncul sebelum konfrontasi.
+   - Penutup Bab 3–5 dan Bab 6–9 dipangkas agar tidak terus-menerus merangkum pelajaran atau memberi foreshadowing yang sama.
+   - Detail formulir Bab 5, dialog Dion, sumber bunyi Bab 4, diksi Bab 10, penutup Bab 14, serta konstruksi kalimat Bab 16 diperbaiki.
+   - Bab 13 tetap menyebut kunci cadangan kontrakan Maya yang sebelumnya dipegang Arman; dialog “kemarin” diubah agar tidak menyiratkan adegan penting yang hilang.
+
+3. **POV dan batas pengetahuan Bab 26–48**
+   - Penilaian Maya terhadap rumah tangga Daniel–Sarah di Bab 26 dibatasi pada apa yang ia lihat di acara yayasan.
+   - Pikiran Daniel di Bab 33 diubah menjadi tafsiran Maya atas pesan yang diterimanya.
+   - Penilaian tentang ketulusan Daniel di Bab 35 diposisikan sebagai persepsi Maya, bukan fakta objektif.
+   - Adegan penemuan percakapan pada Bab 41 ditulis ulang agar sepenuhnya mengikuti apa yang dapat dilihat dan diketahui Daniel.
+   - Penjelasan Sarah pada Bab 31 dan adegan ulang tahun pada Bab 39 diperbaiki agar tidak memberi Sarah akses pada fakta atau motif yang belum ia ketahui.
+   - Bahasa konseling Bab 60 dilunakkan agar tidak menyatakan pernikahan telah runtuh secara final.
+
+4. **Perkembangan emosi Bab 53–72**
+   - Refleksi Maya sebelum konseling pada Bab 55 dibuat sebagai dugaan dan pengamatan pribadi, bukan kesimpulan psikologis yang sudah pasti.
+   - Bab 56, 63–68, 70, dan 72 diselaraskan agar kemajuan Maya tetap bertahap; batas yang berhasil disampaikan sekali tidak otomatis membuktikan seluruh pola lama telah hilang.
+   - Respons Bima pada Bab 69 tetap dinilai hanya berdasarkan percakapan saat itu, bukan bukti perubahan jangka panjang.
+   - Bab 71 kini menjelaskan urutan kerja: modul lansia tetap dituntaskan pada 5 Februari; tiga modul inti kampanye gizi disiapkan untuk cetak paling lambat 6 Februari; tujuh materi tambahan masuk tahap kedua pada Maret. Outline Bab 71 diperbarui sesuai pembagian tersebut.
+
+**Pemeriksaan yang masih perlu dilanjutkan:** audit ulang ritme dan repetisi pada Bab 25, 28–30, 44–48, serta pembacaan ulang menyeluruh untuk memeriksa efek berantai revisi. Perubahan teknis dan kronologi yang disebut dalam log ini sudah diterapkan, tetapi belum menjadi sertifikasi siap terbit.

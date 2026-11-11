@@ -318,7 +318,7 @@ Maya tidak tahu bahwa lima tahun kemudian, ia akan mengingat janji itu ketika me
 
 # **BAB 8: Tahun-Tahun yang Terlewat**
 
-Penghujung 2023. Arman memutar cincin perak berukir nama Maya yang dipakainya di jari kelingking, lalu membalik brosur perumahan komersial di atas meja kaca kedai kopi. Di seberangnya, Maya baru saja selesai melihat foto-foto pernikahan sepupunya di layar ponsel.
+Penghujung 2023. Arman memutar cincin perak polos di jari kelingkingnya, lalu membalik brosur perumahan komersial di atas meja kaca kedai kopi. Di seberangnya, Maya baru saja selesai melihat foto-foto pernikahan sepupunya di layar ponsel.
 
 "Kawasan mana lagi yang kamu lihat, Mas?" tanya Maya pelan, mencoba menangkap binar antusiasme di mata pria itu.
 

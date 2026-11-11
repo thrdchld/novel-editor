@@ -2952,7 +2952,7 @@ Pak Whisnu mengangguk-angguk paham, mencatat beberapa poin pada kertas catatan d
 
 Konselor senior itu menatap mereka berdua secara bergantian.
 
-"Pernikahan yang lama sudah runtuh saat ketidakjujuran itu terjadi," lanjut Pak Whisnu presisi. "Fokus kita sekarang bukan menempel retakan lama, melainkan melihat apakah kalian berdua masih memiliki komitmen yang sama untuk membangun cara berkomunikasi yang baru—cara yang jujur, tanpa pintu belakang, dan tanpa penghindaran."
+"Pernikahan kalian sudah berubah sejak ketidakjujuran itu terjadi," lanjut Pak Whisnu presisi. "Fokus kita sekarang bukan menempel retakan lama, melainkan melihat apakah kalian berdua masih memiliki komitmen yang sama untuk membangun cara berkomunikasi yang baru—cara yang jujur, tanpa pintu belakang, dan tanpa penghindaran."
 
 Sesi konseling pertama yang berlangsung selama enam puluh menit itu terasa menguras energi emosional mereka berdua. Tidak ada keajaiban instan yang membuat mereka langsung tertawa lepas saat melangkah keluar dari ruangan. Namun, untuk pertama kalinya dalam bertahun-tahun, hal-hal tersulit yang selama ini terkubur rapat akhirnya diucapkan secara terbuka di hadapan satu sama lain.
 

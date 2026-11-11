@@ -306,3 +306,25 @@ Revisi berikut diterapkan pada manuskrip setelah temuan pembacaan Bab 1–72:
 - Pemeriksaan lanjutan tetap diperlukan pada Bab 1–12, 15–20, 28–35, 49–58, dan 61–72, terutama transisi, kurva emosi, sumber informasi, serta pengulangan refleksi.
 - Belum dilakukan pass copyedit penuh untuk semua ejaan, tanda baca, dan konsistensi istilah.
 - Status publikasi belum dinaikkan. Novel belum boleh dinyatakan siap terbit hanya berdasarkan penerapan revisi ini.
+
+
+### Log lintasan ritme dan kurva emosi lanjutan — 11 November 2026
+
+Setelah perbaikan temuan objektif, dilakukan revisi terarah pada rangkaian Bab 55–72 agar perubahan Maya tidak tampak selesai hanya melalui deklarasi narator.
+
+1. **Bab 17:** frasa “hari terakhirnya bekerja” diperjelas menjadi “terakhir kali hadir di kantor” agar tidak bertentangan dengan tanggal efektif PHK 14 Februari 2025.
+2. **Bab 55–56:** kesimpulan Maya tentang pola masa lalunya dilunakkan menjadi dugaan awal yang masih perlu dieksplorasi. Bab 55 kini berakhir dengan pertanyaan yang dapat dibawa ke konseling; Bab 56 tidak lagi mengulang klaim bahwa Maya sudah memahami seluruh pola dirinya. Penutup Bab 56 beralih ke tindakan mencatat batas yang baru disampaikan.
+3. **Bab 58:** tidak diubah secara struktural. Adegan tetap menjadi ruang untuk menunjukkan bahwa Maya masih mengalami kesedihan meski telah mengambil beberapa keputusan yang sehat.
+4. **Bab 63:** refleksi tentang kewajiban memaafkan dan batas komunikasi dipadatkan. Respons Maya terhadap pesan Bima menjadi bukti utama, bukan uraian moral berulang.
+5. **Bab 64:** pengulangan tentang kebiasaan memeriksa ponsel dipadatkan agar bab lebih berfungsi sebagai gambaran hari biasa Maya.
+6. **Bab 65:** pengulangan tentang tidak lagi mencari kabar dan jawaban dari Arman dipadatkan setelah tindakan menghapus arsip digital.
+7. **Bab 67:** penutup yang mengulang pesan konseling tentang masa lalu diganti dengan respons Maya setelah sesi, tanpa menyatakan bahwa ia sudah selesai pulih.
+8. **Bab 68:** pengulangan refleksi bahwa hidup Maya tidak lagi berada di ruang tunggu dipadatkan. Fokus bab dikembalikan pada rencana finansial, profesional, dan kesejahteraan yang konkret.
+9. **Bab 70:** penutup abstrak tentang rumah sebagai ruang baru diganti dengan tindakan sederhana Maya dan Ratih melanjutkan makan setelah percakapan jujur.
+
+### Catatan editorial
+
+- Rangkaian Arman dan Bima tetap dipertahankan karena tujuan serta hasil relasinya berbeda. Revisi menghindari penyamaan keduanya sebagai pola permintaan maaf yang identik.
+- Bab 63, 69, dan 70 tetap memiliki fungsi berbeda: respons pertama terhadap pesan Bima, kesepakatan komunikasi terbatas, lalu bukti kerentanan Maya dalam hubungan dengan Ratih.
+- Bab 61 dan 71 tetap dipertahankan sebagai dua bukti berbeda: pengakuan kompetensi profesional dan kemampuan menetapkan batas kapasitas kerja.
+- Revisi ritme ini belum menjadi line edit penuh. Seluruh 72 bab tetap perlu dibaca ulang setelah perubahan untuk menguji transisi dan efek berantai.

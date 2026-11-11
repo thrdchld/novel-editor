@@ -1321,7 +1321,7 @@ Daniel melangkah keluar mengenakan kaus katun abu-abu dan celana panjang santai.
 
 Ponsel milik Daniel yang tergeletak di atas meja kaca, tepat di samping tumpukan naskah Sarah, mendadak berpendar terang.
 
-Layar ponsel yang menyala memunculkan baris notifikasi pesan instan. Nama kontak Maya \- Lentera Sehat tertera di bilah atas, disusul dua baris kalimat singkat yang menyala selama beberapa detik sebelum meredup kembali.
+Layar ponsel yang menyala memunculkan baris notifikasi pesan instan. Nama kontak Maya - Lentera Sehat tertera di bagian atas layar, disusul dua baris kalimat singkat yang menyala selama beberapa detik sebelum meredup kembali.
 
 Sarah yang refleks menoleh saat layar ponsel itu menyala, secara tidak sengaja menangkap baris tulisan tersebut.
 

@@ -291,15 +291,15 @@ Ketika kecewa atau membutuhkan sesuatu, Maya lebih sering menyimpan perasaan. Ia
 
 Bab 6 — Pertemuan dengan Arman
 
-Waktu: 2019
+Waktu: Juli 2019
 
-Maya bertemu Arman melalui lingkaran pertemanan. Arman memperlihatkan perhatian yang membuat Maya nyaman. Hubungan mereka berkembang melalui pertemuan dan komunikasi yang semakin intens.
+Maya bertemu Arman melalui lingkaran pertemanan. Arman membantu mengumpulkan dokumen Maya yang tersenggol minuman, mengantarnya pulang saat hujan, dan meminta nomor kontaknya. Hubungan belum langsung menjadi romantis.
 
 Bab 7 — Awal yang Terlihat Sederhana
 
 Tanggal: 10 Januari 2020
 
-Maya dan Arman resmi berpacaran. Hubungan dimulai dengan perhatian dan janji tentang masa depan. Maya merasa akhirnya memiliki seseorang yang akan tetap tinggal.
+Enam bulan setelah pertemuan pertama, Maya dan Arman resmi berpacaran. Perhatian Arman berkembang melalui komunikasi rutin, ia menunggu Maya selesai presentasi akhir, menjemputnya saat hujan, dan mulai mengenal Ratih. Hubungan dimulai dengan perhatian dan janji tentang masa depan. Maya merasa akhirnya memiliki seseorang yang akan tetap tinggal.
 
 Bab 8 — Tahun-Tahun yang Terlewat
 
@@ -541,7 +541,7 @@ Bab 44 — Perempuan yang Terluka
 
 Tanggal: 20 September 2025
 
-Sarah bertemu Maya. Percakapan berlangsung tegang tetapi tidak melodramatis. Sarah mengatakan bahwa Maya mungkin tidak membuat janji pernikahan, tetapi tetap ikut masuk ke ruang emosional yang seharusnya dijaga Daniel. Maya tidak membela diri dengan menyalahkan Daniel sepenuhnya.
+Sarah memperoleh nomor pribadi Maya dari percakapan mereka yang terbuka di tablet Daniel, lalu meminta pertemuan. Percakapan berlangsung tegang tetapi tidak melodramatis. Sarah mengatakan bahwa Maya mungkin tidak membuat janji pernikahan, tetapi tetap ikut masuk ke ruang emosional yang seharusnya dijaga Daniel. Maya tidak membela diri dengan menyalahkan Daniel sepenuhnya.
 
 Bab 45 — Tidak Bisa Menyebut Diri Tidak Bersalah
 
@@ -665,7 +665,7 @@ Bab 63 — Tidak Harus Memaafkan Hari Ini
 
 Tanggal: 19 Januari 2026
 
-Bima mengirim pesan untuk menanyakan kabar. Maya membalas singkat dan menetapkan batas. Ia tidak menyatakan bahwa mereka sudah berdamai.
+Bima mengirim pesan untuk menanyakan kabar. Maya membalas singkat tanpa menjanjikan pertemuan; ia tetap mempertahankan batas yang telah disepakati sebelumnya. Ia tidak menyatakan bahwa mereka sudah berdamai.
 
 Bab 64 — Hari-Hari Biasa
 

@@ -922,7 +922,7 @@ Di dalam ruangan yang sunyi itu, Maya menatap pantulan wajahnya di kaca jendela 
 
 # **BAB 22: Yayasan Lentera Sehat**
 
-Empat puluh lima menit sebelum matahari terbenam di atas atap rumah-rumah Antapani, Maya masih menatap bilah pendaftaran lowongan kerja di layar laptopnya. Segelas air putih yang sudah dingin bertengger di samping bantalan kibor, bersebelahan dengan buku catatan bersampul cokelat yang halamannya kini dipenuhi coretan anggaran bulanan.
+Senin sore, 3 Maret 2025. Empat puluh lima menit sebelum matahari terbenam di atas atap rumah-rumah Antapani, Maya masih menatap bilah pendaftaran lowongan kerja di layar laptopnya. Segelas air putih yang sudah dingin bertengger di samping bantalan kibor, bersebelahan dengan buku catatan bersampul cokelat yang halamannya kini dipenuhi coretan anggaran bulanan.
 
 Setelah rentetan surel penolakan dari beberapa agensi komersial sepanjang bulan Februari, jemari Maya tertahan pada satu baris pengumuman di situs portal lowongan nirlaba.
 
@@ -996,7 +996,7 @@ Saat jemarinya mulai mengetikkan baris pertama draf rencana publikasi program ke
 
 # **BAB 24: Nama yang Dikenal**
 
-Mikrofon nirkabel di atas podium aula lantai dua Gedung Serbaguna RS Cakrawala mendengung tipis sebelum suara mantap Dokter Daniel mengisi seisi ruangan. Di hadapan empat puluh peserta seminar edukasi pencegahan penyakit degeneratif, pria berjas putih itu berdiri tenang, memandu slide presentasi mengenai pentingnya deteksi dini tekanan darah dan pola makan seimbang dengan bahasa yang lugas.
+Sabtu pagi, 12 April 2025. Mikrofon nirkabel di atas podium aula lantai dua Gedung Serbaguna RS Cakrawala mendengung tipis sebelum suara mantap Dokter Daniel mengisi seisi ruangan. Di hadapan empat puluh peserta seminar edukasi pencegahan penyakit degeneratif, pria berjas putih itu berdiri tenang, memandu slide presentasi mengenai pentingnya deteksi dini tekanan darah dan pola makan seimbang dengan bahasa yang lugas.
 
 Dari sudut samping panggung, Maya berdiri menenteng papan jepit berisi lembar presensi dan kamera di bahunya.
 
@@ -1705,7 +1705,7 @@ Tidak ada kata-kata mesra berlebihan yang terucap setelahnya, tidak ada rencana 
 
 # **BAB 38: Menginginkan yang Tidak Tersedia**
 
-Layar ponsel yang tergeletak di samping papan ketik laptop itu sengaja Maya balikkan dengan posisi menghadap ke bawah. Pendar birunya tak lagi terlihat, tetapi bayangan akan apa yang ada di balik layar kaca itu tetap menghantui pikirannya.
+Rabu, 27 Agustus 2025. Layar ponsel yang tergeletak di samping papan ketik laptop itu sengaja Maya balikkan dengan posisi menghadap ke bawah. Pendar birunya tak lagi terlihat, tetapi bayangan akan apa yang ada di balik layar kaca itu tetap menghantui pikirannya.
 
 Sejak percakapan mengenai pengandaian waktu di pelataran Pasteur lima hari lalu, ada ganjalan tebal yang terus menghimpit dada Maya.
 
@@ -1831,7 +1831,7 @@ Pertanyaan itu meluncur tanpa basa-basi, menghantam dada Daniel hingga napasnya 
 
 Refleks pertahanan diri Daniel bekerja seketika. Pria itu memperbaiki posisi duduknya, menyusun raut wajah yang tampak terkejut sekaligus merasa dituduh secara tidak adil.
 
-"Perempuan lain? Maksudmu apa, Sar?" sahut Daniel dengan nada suara yang sengaja ditinggikan tipis, mencoba mengendalikan alur pembicaraan. "Aku ini dokter spesialis di RS Cakrawala. Setiap hari jadwal rawat inap, tindakan, dan rapat mitra selalu padat. Tidak ada perempuan lain dalam hidupku."
+"Perempuan lain? Maksudmu apa, Sar?" sahut Daniel dengan nada suara yang sengaja ditinggikan tipis, mencoba mengendalikan alur pembicaraan. "Aku tidak menjalin hubungan fisik dengan perempuan lain, Sar. Aku hanya sibuk dengan pekerjaan rumah sakit dan program mitra."
 
 "Aku tidak sedang bertanya soal hubungan fisik atau perselingkuhan di kamar hotel, Niel," sela Sarah cepat. Suaranya tetap teratur, memotong sanggahan defensif suaminya dengan ketepatan yang presisi. "Aku bertanya soal kedekatan emosional. Soal seseorang yang akhir-akhir ini menyita perhatianmu, tempatmu berbagi cerita saat kamu memilih diam di rumah ini."
 
@@ -1927,7 +1927,7 @@ Saat Daniel keluar ke ruang tengah dengan pakaian dinas rumah sakit, suasana apa
 
 Sarah sedang berdiri di dekat konter dapur, menyesap cangkir kopi hitamnya dalam keheningan. Tidak ada sapaan pagi, tidak ada lambaian tangan, dan tidak ada pertanyaan seputar agenda kliniknya. Sarah memperlakukannya seperti sesosok bayangan yang kebetulan berbagi lantai keramik yang sama.
 
-Sepanjang hari bertugas di RS Cakrawala, konsentrasi Daniel terpecah. Saat memeriksa berkas rekam medis pasien di ruang poliklinik lantai dua, bayangan raut muka Sarah yang terluka dan kekehan pahit istrinya saat membaca baris percakapan tablet terus membayangi pikirannya. Untuk pertama kalinya dalam tiga bulan terakhir, Daniel sama sekali tidak menyentuh aplikasi pesan singkat di ponselnya untuk menghubungi Maya. Rasa malu dan kelelahan emosional menghimpit dadanya rapat-rapat.
+Sepanjang hari bertugas di RS Cakrawala, konsentrasi Daniel terpecah. Saat memeriksa berkas rekam medis pasien di ruang poliklinik lantai dua, bayangan raut muka Sarah yang terluka dan kekehan pahit istrinya saat membaca baris percakapan tablet terus membayangi pikirannya. Hari itu Daniel tidak membuka percakapan pribadi dengan Maya. Ia tetap menggunakan aplikasi pesan untuk urusan kerja, tetapi tidak mengirim pesan kepada perempuan itu. Rasa malu dan kelelahan emosional menghimpit dadanya rapat-rapat.
 
 Keesokan malamnya, tanggal dua belas September, Daniel memutuskan untuk menghentikan kebiasaannya melarikan diri.
 
@@ -2043,7 +2043,7 @@ Maya memejamkan mata erat-erat, membiarkan keheningan dan rasa bersalah itu meng
 
 Sabtu sore, dua puluh September dua ribu dua puluh lima, gerimis tipis menyisakan genangan air di sepanjang trotoar Jalan RE Martadinata. Di sudut sebuah kedai teh yang tenang di kawasan Riau, Maya duduk memangku kedua tangannya di atas paha. Hawa dingin pendingin udara beradu dengan denyut cemas yang merambat kaku di tengkuknya.
 
-Seminggu telah berlalu sejak Sabtu lalu, saat ia dan Dokter Daniel berjanji di kafe Jalan Citarum untuk memutus seluruh komunikasi pribadi di luar jam dinas. Namun, ketenangan yang Maya harapkan tak kunjung datang. Ketika sebuah pesan singkat masuk ke ponselnya dua jam lalu dari nomor yang tak asing—bukan nomor Daniel, melainkan sapaan singkat dari Sarah Putri Wicaksana yang meminta waktu bertemu sejenak—Maya tahu bahwa hari pertanggungjawaban itu akhirnya tiba.
+Seminggu telah berlalu sejak Sabtu lalu, saat ia dan Dokter Daniel berjanji di kafe Jalan Citarum untuk memutus seluruh komunikasi pribadi di luar jam dinas. Namun, ketenangan yang Maya harapkan tak kunjung datang. Dua jam lalu, sebuah pesan singkat masuk dari Sarah Putri Wicaksana. Sarah memperoleh nomor pribadi Maya dari percakapan mereka yang terbuka di tablet Daniel. Pesannya singkat: ia meminta waktu untuk bertemu. Maya tahu bahwa hari pertanggungjawaban itu akhirnya tiba.
 
 Langkah kaki yang teratur dan halus terdengar mendekati meja sudut.
 
@@ -3102,7 +3102,7 @@ Senin sore, sembilan belas Januari dua ribu dua puluh enam, gerimis tipis menyap
 
 Maya mendudukkan diri di meja kerjanya, merapikan tumpukan dokumen draf publikasi edukasi kesehatan masyarakat untuk kuartal pertama.
 
-Sejak percakapan terbukanya bersama Ratih Jumat lalu—saat mereka berdua sepakat menghentikan kebiasaan puluhan tahun saling menyembunyikan kesedihan—suasana batin Maya terasa jauh lebih tenang. Tidak ada lagi ganjalan rahasia atau rasa bersalah yang mengimpit. Ia telah menerima perjalanan hidupnya secara utuh, termasuk fakta bahwa masa lalu yang tidak sempurna tidak harus menghalangi kehidupannya saat ini.
+Sejak percakapan terbukanya bersama Ratih Jumat lalu—saat mereka berdua sepakat menghentikan kebiasaan puluhan tahun saling menyembunyikan kesedihan—Maya merasakan sedikit kelegaan. Tidak semua ganjalan langsung hilang, tetapi ia tidak lagi harus menebak-nebak apa yang disimpan ibunya. Ia mulai menerima bahwa masa lalu yang tidak sempurna tidak harus menghalangi kehidupannya saat ini.
 
 Pukul lima sore lewat dua puluh menit, getaran pendek ponsel di atas meja kayu memecah keheningan kamar.
 
@@ -3150,7 +3150,7 @@ Rabu pagi, dua puluh satu Januari dua ribu dua puluh enam, matahari terbit tipis
 
 Maya berdiri di dapur kecil kontrakan, menyeduh cangkir teh melati dengan gerakan yang santai dan teratur.
 
-Di atas meja kayu, ponselnya tergeletak tenang tanpa getaran. Tidak ada lagi debar cemas di dadanya saat menatap layar kaca yang gelap. Ia tak lagi membalikkan ponselnya dengan gugup, tak pula menunggu notifikasi pesan malam dari Dokter Daniel atau sapaan tak pasti dari Arman. Benda persegi itu telah kembali ke fungsinya yang asli: sebuah alat komunikasi sederhana yang tidak lagi memegang kendali atas suasana hatinya.
+Di atas meja kayu, ponselnya tergeletak tenang tanpa getaran. Debar cemas itu tidak lagi muncul setiap kali ia menatap layar kaca yang gelap. Ia tak lagi membalikkan ponselnya dengan gugup atau terus-menerus menunggu notifikasi dari Dokter Daniel maupun Arman. Benda persegi itu telah kembali ke fungsinya yang asli: sebuah alat komunikasi sederhana yang tidak lagi memegang kendali atas suasana hatinya.
 
 Maya menyesap teh hangatnya perlahan, membiarkan uap melati yang lembut menyapu kerongkongannya.
 
@@ -3454,7 +3454,7 @@ Perempuan berusia lima puluh tiga tahun itu menaruh hidangan di atas meja kayu r
 
 Maya menyunggingkan senyum tipis, meletakkan gulungan kain katun di samping meja. Ia mengambil piring seng, menyendokkan nasi liwet dan potongan tempe goreng hangat ke dalamnya.
 
-Mereka berdua makan dalam keheningan yang nyaman selama beberapa menit. Tidak ada dering telepon yang menyela, tidak ada kepura-puraan yang membebani, dan tidak ada lagi kecemasan tersembunyi seperti di masa-masa lalu.
+Mereka berdua makan dalam keheningan yang terasa lebih nyaman selama beberapa menit. Tidak ada dering telepon yang menyela. Sesekali masih ada hal yang belum mereka bicarakan, tetapi Maya tidak lagi merasa harus menyembunyikan setiap kegelisahan agar suasana rumah tetap tenang.
 
 Di pertengahan makan sore itu, Maya menghentikan gerakan suapannya sejenak. Ia memandangi tangannya yang sedikit gemetar karena kelelahan fisik usai memimpin rapat evaluasi media yayasan maraton sepanjang pagi hingga siang tadi.
 

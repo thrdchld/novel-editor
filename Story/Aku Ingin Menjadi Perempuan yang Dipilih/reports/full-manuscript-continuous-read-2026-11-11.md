@@ -390,3 +390,16 @@ Perubahan awal pada manuskrip mencakup:
 **Batas pekerjaan:** ini baru penyisiran awal dan koreksi terpilih. Belum dilakukan verifikasi kata demi kata terhadap seluruh 72 bab; ejaan nama/tempat, konsistensi sapaan, angka dan tanggal, tanda baca dialog, serta repetisi pada tingkat paragraf masih perlu diperiksa. Karena itu status publikasi tidak berubah.
 
 Blob SHA manuskrip setelah penyisiran awal: `df6101a3c21d37d76bdb05aaec380cfdda47fbb4`.
+
+
+---
+
+## Perkembangan copyedit — 12 November 2026
+
+Copyedit terarah kini telah diterapkan pada seluruh rentang Bab 1–72. Pass ini mencakup koreksi diksi dan konstruksi kalimat yang janggal, pengurangan repetisi, perapian dialog, koreksi typo yang teridentifikasi, serta penyeragaman sebagian format tanggal dan istilah. Alur, urutan peristiwa, motivasi tokoh, dan hasil adegan dipertahankan.
+
+Pemeriksaan teknis terbaru: 72 bab terdeteksi dan berurutan; 49.441 kata perkiraan berbasis pemisahan spasi; tidak ada lagi tanda baca ber-escape. Pemeriksaan typo terpilih juga menemukan dan memperbaiki bentuk “kelimabelas”, “berbernama”, dan konstruksi “tatapannya menatap”.
+
+**Batas pekerjaan:** ini merupakan copyedit terarah atas seluruh bab, bukan jaminan bahwa setiap kata telah bebas salah. Masih diperlukan proofread akhir untuk menangkap typo yang luput, konsistensi ejaan nama/tempat dan sapaan, format tanggal/angka, tanda baca dialog, serta pembacaan ulang ritme dan repetisi paragraf. Status tetap **NOT YET READY TO PUBLISH**.
+
+Blob SHA manuskrip setelah pass ini: `4b20b5051118f69ec12d487b4d9497bb5fe60ffa`.

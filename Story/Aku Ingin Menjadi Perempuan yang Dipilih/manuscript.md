@@ -958,7 +958,7 @@ Maya menyandarkan punggungnya ke sandaran kursi kayu, menatap layar monitor yang
 
 # **BAB 23: Kesempatan Baru**
 
-Langkah kaki Maya bergema pelan di atas selasar berubin abu-abu gedung **Yayasan Lentera Sehat** di kawasan Jalan RE Martadinata. Suasana kantor nirlaba itu terasa jauh berbeda dibanding agensi komersial tempatnya bekerja dulu. Tidak ada dinding kaca tinggi berpendingin udara dingin yang kaku, melainkan deretan papan pengumuman kayu berisi foto-foto kegiatan penyuluhan desa dan senyum ramah dua staf penerima tamu yang sedang merapikan brosur kesehatan.
+Kamis pagi, 6 Maret 2025. Langkah kaki Maya bergema pelan di atas selasar berubin abu-abu gedung **Yayasan Lentera Sehat** di kawasan Jalan RE Martadinata. Suasana kantor nirlaba itu terasa jauh berbeda dibanding agensi komersial tempatnya bekerja dulu. Tidak ada dinding kaca tinggi berpendingin udara dingin yang kaku, melainkan deretan papan pengumuman kayu berisi foto-foto kegiatan penyuluhan desa dan senyum ramah dua staf penerima tamu yang sedang merapikan brosur kesehatan.
 
 Maya mendudukkan diri di kursi kayu ruang tunggu, merapikan letak blazer hitam yang melapisi kemeja putihnya. Di dalam tas kulitnya, salinan portofolio kampanye publikasi dan dokumen pengalaman kerjanya sudah tersusun rapi.
 

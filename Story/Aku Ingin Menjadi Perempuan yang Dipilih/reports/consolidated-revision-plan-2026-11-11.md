@@ -38,12 +38,13 @@ Kesimpulan umum: novel tidak membutuhkan rewrite total. Fondasi premis, arah kar
 - Rekomendasi minimum: tempatkan adegan Bab 32 pada Jumat, 27 Juni 2025 (atau penanda akhir Juni yang konsisten), lalu pertahankan Bab 33 pada 1–10 Juli. Perbarui outline Bab 32 agar sesuai.
 - Periksa pula hubungan kronologis Bab 29–31: pesan pertama 2 Juni, notifikasi Sarah 23 Juni, lalu pengungkapan masalah rumah tangga pada Bab 32.
 
-#### P0.3 Perbaikan masa pemberitahuan kerja Bab 15 dan dampaknya
-- Surat menyebut hari terakhir bekerja di kantor 31 Januari 2025 sekaligus hubungan kerja berakhir setelah 14 hari kerja.
-- Kedua hal itu harus dibedakan secara eksplisit: hari terakhir hadir/bekerja di kantor tidak otomatis sama dengan tanggal efektif berakhirnya hubungan kerja.
-- Bab 17 menyebut pesangon sudah cair dua hari sebelum 2 Februari. Pembayaran ini perlu diselaraskan dengan tanggal efektif dan proses administrasi yang akhirnya dipilih.
-- Pertahankan 31 Januari sebagai hari terakhir bekerja di kantor jika itu tetap menjadi kanon; tetapkan tanggal administratif yang benar setelah memeriksa ketentuan dan kebijakan perusahaan. Sinkronkan surat, dialog, status kerja, pembayaran hak, dan narasi Bab 17. Jangan menyelesaikan hanya dengan mengganti satu angka.
+#### P0.3 Perbaikan masa pemberitahuan kerja Bab 15 dan dampaknya — RESOLVED
 
+- Temuan awal: manuskrip menetapkan hari terakhir hadir di kantor dan tanggal efektif PHK pada 31 Januari, sekaligus menyebut masa pemberitahuan 14 hari kerja. Bab 17 juga saat itu menyebut pesangon telah cair sebelum tanggal efektif yang diasumsikan.
+- Revisi kedua menetapkan 31 Januari 2025 sebagai hari terakhir Maya wajib hadir di kantor, pembebasan dari kewajiban hadir mulai 1 Februari, dan tanggal efektif PHK pada 14 Februari 2025.
+- Masa pemberitahuan 14 hari kerja dihitung dari hari kerja setelah pemberitahuan 24 Januari sampai 13 Februari; hubungan kerja berakhir 14 Februari.
+- Bab 17, 19, dan 20 kini hanya menggunakan tabungan/dana darurat sebelum tanggal efektif. Bab 21 diberi tanggal 17 Februari dan menyebut pesangon yang telah diterima setelah hubungan kerja berakhir.
+- Master outline Bab 15–16 telah diperbarui agar membedakan hari terakhir hadir dan tanggal efektif PHK.
 #### P0.4 Konflik Bab 43 dan Bab 59
 - Bab 43 memperlihatkan Maya dan Daniel bertemu langsung pada 13 September 2025, mengakui pelanggaran batas, dan secara eksplisit sepakat menghentikan komunikasi pribadi.
 - Bab 59 menyatakan mereka belum pernah membicarakan perpisahan secara langsung dan bahwa keputusan September diambil terburu-buru tanpa percakapan dewasa.

@@ -1149,7 +1149,7 @@ _(Sudut Pandang: Maya)_
 
 Sementara itu di rumah kontrakan Antapani, Maya baru saja selesai menyeduh teh hangat.
 
-Ia mendudukkan diri di meja kerja kamar, memutar musik instrumen pelan dari laptopnya. Di depannya, buku catatan bersampul cokelar terbuka pada lembar evaluasi anggaran bulan depan. Maya mencatat dengan rapi alokasi gaji pertamanya dari Yayasan Lentera Sehat yang akan cair pertengahan Mei. Sebagian untuk biaya kontrol rutin Ratih di Kiaracondong, sebagian untuk sewa kontrakan, dan sisa kecilnya ditabung secara ketat.
+Ia mendudukkan diri di meja kerja kamar, memutar musik instrumen pelan dari laptopnya. Di depannya, buku catatan bersampul cokelat terbuka pada lembar evaluasi anggaran bulan depan. Maya mencatat dengan rapi alokasi gaji pertamanya dari Yayasan Lentera Sehat yang akan cair pertengahan Mei. Sebagian untuk biaya kontrol rutin Ratih di Kiaracondong, sebagian untuk sewa kontrakan, dan sisa kecilnya ditabung secara ketat.
 
 Maya mengusap pelipisnya, tersenyum tipis menatap deretan angka di bukunya.
 
@@ -1739,7 +1739,7 @@ Semoga perjalanan pulangmu lancar sore ini.
 
 Informasi persetujuan draf sebenarnya bisa disampaikan melalui grup panitia. Pertanyaan tentang perjalanan pulangnya membuat pesan itu terasa lebih personal daripada yang Maya inginkan.
 
-Menatap dua baris kalimat sederhana yang memancarkan kepedulian tulus itu, niat Maya untuk mengabaikannya runtuh sepenuhnya. Ketidakkonsistenan itu membuat Maya merasa malu pada dirinya sendiri, tetapi rasa lega yang menyeruak saat membalas pesan Daniel jauh lebih kuat daripada rasa bersalah yang mengintai di sudut batin.
+Menatap dua baris kalimat sederhana itu, Maya merasakan niatnya untuk mengabaikan pesan tersebut mulai melemah. Kalimat-kalimat itu terasa seperti perhatian yang selama ini ia rindukan. Maya merasa malu karena kembali mengingkari tekadnya sendiri. Namun, kelegaan saat membalas pesan Daniel masih terasa lebih kuat daripada rasa bersalah yang berusaha ia abaikan.
 
 Jemari Maya menari di atas layar sentuh, membalas dengan nada yang diusahakannya tetap ramah dan tenang.
 

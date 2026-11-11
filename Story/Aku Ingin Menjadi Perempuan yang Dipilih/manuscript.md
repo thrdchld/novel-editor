@@ -586,7 +586,7 @@ Malam itu, Maya berbaring di atas ranjangnya dengan lampu utama yang dimatikan. 
 
 # **BAB 15: Surat Pengurangan Tenaga Kerja**
 
-Amplop cokelat berstempel kerahasiaan di tengah meja rapat kaca itu digeser pelan oleh Pak Rian, berhenti tepat beberapa sentimeter dari jemari Maya.
+Jumat pagi, 24 Januari 2025. Amplop cokelat berstempel kerahasiaan di tengah meja rapat kaca itu digeser pelan oleh Pak Rian, berhenti tepat beberapa sentimeter dari jemari Maya.
 
 "Maya, saya minta maaf harus menyampaikan berita ini di awal tahun," ujar Pak Rian. Suara Manajer Komunikasi Pemasaran itu terdengar jauh lebih pelan dari biasanya, kehilangan ketegasan yang biasa ia tunjukkan di depan tim. "Ini keputusan direksi pusat. Restrukturisasi efisiensi organisasi untuk seluruh kantor cabang."
 
@@ -640,7 +640,7 @@ Ia masih memiliki Ratih di Kiaracondong, dan ia masih memiliki kemampuan tangann
 
 # **BAB 16: Hari Terakhir**
 
-Bunyi petikan klip plastik ID card yang terlepas dari kerah kemeja Maya menggema pelan di kubikelnya yang sudah bersih. Kardus kecil di atas meja hanya berisi satu cangkir keramik polos, kipas angin USB mungil, dan sepasang tanaman sukulen mini dalam pot tanah liat.
+Jumat sore, 31 Januari 2025. Bunyi petikan klip plastik ID card yang terlepas dari kerah kemeja Maya menggema pelan di kubikelnya yang sudah bersih. Kardus kecil di atas meja hanya berisi satu cangkir keramik polos, kipas angin USB mungil, dan sepasang tanaman sukulen mini dalam pot tanah liat.
 
 Layar laptop kantor tempatnya bekerja selama tiga tahun terakhir sudah dalam posisi mati, menyisakan pantulan bayangan Maya yang mengenakan kemeja katun abu-abu.
 

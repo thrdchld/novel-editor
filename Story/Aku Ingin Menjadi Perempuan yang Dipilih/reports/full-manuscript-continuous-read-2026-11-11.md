@@ -328,3 +328,15 @@ Setelah perbaikan temuan objektif, dilakukan revisi terarah pada rangkaian Bab 5
 - Bab 63, 69, dan 70 tetap memiliki fungsi berbeda: respons pertama terhadap pesan Bima, kesepakatan komunikasi terbatas, lalu bukti kerentanan Maya dalam hubungan dengan Ratih.
 - Bab 61 dan 71 tetap dipertahankan sebagai dua bukti berbeda: pengakuan kompetensi profesional dan kemampuan menetapkan batas kapasitas kerja.
 - Revisi ritme ini belum menjadi line edit penuh. Seluruh 72 bab tetap perlu dibaca ulang setelah perubahan untuk menguji transisi dan efek berantai.
+
+
+### Snapshot teknis setelah revisi terarah — 11 November 2026
+
+- Manuskrip: 72 bab berurutan; sekitar 50,282 token berbasis pemisahan spasi (bukan hitungan kata editorial).
+- Blob SHA manuskrip: `b0e71b953d951356a8e552b38f963d41d017f769`.
+- Blob SHA outline: `f09d29a4e812a78f729c8cd1df71a7fa357a1cb9`.
+- Judul Bab 56 pada manuskrip dan outline sama-sama: **Batas dengan Bima**.
+- Pemeriksaan struktur memastikan nomor Bab 1–72 lengkap pada kedua dokumen.
+- Pemeriksaan string memastikan istilah “ambulans desa”, detail catatan fisik Bab 66 yang tidak memiliki setup, dan salah rujuk “hubungan lamaku denganku” tidak lagi tersisa.
+
+**Status:** revisi terarah telah diterapkan; pembacaan ulang berkesinambungan atas versi pascarevisi dan copyedit penuh masih harus dilakukan. Status publikasi tetap **NOT YET READY TO PUBLISH**.

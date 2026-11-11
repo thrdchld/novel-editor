@@ -1114,7 +1114,7 @@ Ponsel di atas meja kayu bergetar pelan. Sebuah pesan grup dari panitia gabungan
 
 Maya teringat kembali pada bayangan dua insan di barisan depan aula Hotel Papandayan pekan lalu.
 
-Dalam ingatan Maya, Daniel dan Sarah tampil sebagai pasangan yang utuh dan tenang. Sikap Sarah yang mandiri, tutur katanya yang teratur saat memuji kerapian naskah brosur, serta cara Daniel memperhatikan istrinya di sela acara memberikan gambaran tentang sebuah rumah tangga yang tertata di atas fondasi kedewasaan yang telah mereka bangun selama hampir delapan tahun. Maya belum mengetahui bahwa di balik ketenangan yang diperlihatkan di depan umum, ada retakan halus yang perlahan merayap di antara mereka.
+Bagi Maya, Daniel dan Sarah tampak sebagai pasangan yang tenang. Sarah terlihat mandiri dan ramah ketika memuji kerapian naskah brosur; Daniel beberapa kali memperhatikan istrinya di sela acara. Dari luar, keduanya tampak sudah menemukan ritme setelah hampir delapan tahun menikah. Maya tidak punya alasan untuk menduga ada persoalan di balik kesan itu.
 
 ---
 
@@ -1155,7 +1155,7 @@ Kehadiran sosok Daniel dan Sarah di sarasehan lalu tidak menimbulkan rasa iri at
 
 Bagi Maya yang baru saja bangkit dari kehancuran hubungan lima tahun dengan Arman dan baru mendapatkan pijakan kerja baru, prioritas utamanya saat ini adalah menjaga profesionalitas dan membangun kemandirian hidupnya sendiri.
 
-Maya menutup buku catatannya, mematikan lampu meja, lalu berjalan menuju kasur busanya. Di bawah keheningan malam kota Bandung, tiga kehidupan itu berjalan di atas relnya masing-masing, belum menyadari bahwa takdir akan kembali mempertemukan lintasan mereka di bulan-bulan mendatang.
+Maya menutup buku catatannya, mematikan lampu meja, lalu berjalan menuju kasur busanya. Esok pagi ia harus kembali menyiapkan materi program. Untuk saat ini, ia ingin menjaga jarak dari urusan pribadi rekan kerja dan menuntaskan tanggung jawabnya dengan baik.
 
 # **BAB 27: Pekerjaan dan Batas**
 
@@ -1477,7 +1477,7 @@ Di balik kesederhanaan topik yang dibicarakan, ada rasa saling membutuhkan yang 
 
 Bagi Maya, pesan-pesan Daniel adalah tempat berteduh dari rasa sepi yang selama ini mengendap di jiwanya. Selama lima tahun berpacaran dengan Arman, Maya selalu menjadi pihak yang menyesuaikan diri, menunggu kepastian, dan merasa tidak pernah benar-benar diprioritaskan. Kini, bersama Daniel, Maya merasakan sensasi dihargai yang belum pernah ia alami sebelumnya. Daniel mendengarkan setiap opininya dengan penuh perhatian, menanyakan kabarnya dengan tulus, dan menempatkan pendapat Maya sebagai hal yang penting.
 
-Sementara bagi Daniel, komunikasi harian bersama Maya menjadi oase di tengah keheningan dan kelelahan emosional yang menyelimuti rumah tangganya di Ciumbuleuit. Bersama Maya, ia merasa didengar tanpa harus berpura-pura menjadi sosok suami yang selalu kuat dan sempurna.
+Dari pesan-pesan Daniel, Maya menangkap bahwa pria itu merasa lebih leluasa bercerita kepadanya daripada di rumah. Namun, Maya hanya mengetahui sisi kehidupan Daniel yang dipilih pria itu untuk diceritakan; ia tidak tahu bagaimana Sarah memandang keadaan rumah tangga mereka.
 
 Maya mendudukkan diri di tepi kasur busanya, memeluk bantal kecil sambil menatap layar ponsel yang hangat di genggamannya.
 
@@ -1555,7 +1555,7 @@ Maya mengulas senyum tipis, merapikan letak kacamatanya. "Tinggal merapikan hala
 
 Daniel meletakkan cangkir teh hangat dan kantong kertas berisi dua potong roti gandum di atas meja Maya, persis di samping laptopnya.
 
-"Saya perhatikan waktu rapat tadi jam satu siang, Mbak Maya cuma minum air putih dan tidak menyentuh kue kotak panitia sama sekali," kata Daniel halus. Suaranya terdengar lembut, memancarkan perhatian yang jujur dan tanpa kepura-puraan. "Roti ini dari toko sebelah, belum manis sekali, pas buat pengganjal perut."
+"Saya perhatikan waktu rapat tadi jam satu siang, Mbak Maya cuma minum air putih dan tidak menyentuh kue kotak panitia sama sekali," kata Daniel halus. Bagi Maya, nada suaranya terdengar lembut dan perhatian itu terasa tulus. "Roti ini dari toko sebelah, belum manis sekali, pas buat pengganjal perut."
 
 Maya menatap gelas teh hangat dan kantong roti di mejanya. Ada kehangatan spontan yang langsung menyapu dadanya.
 
@@ -1563,7 +1563,7 @@ Maya menatap gelas teh hangat dan kantong roti di mejanya. Ada kehangatan sponta
 
 "Tidak repot," Daniel mendudukkan diri di kursi kayu kosong di samping meja Maya. Ia menatap Maya lurus-lurus dengan binar mata yang jernih dan tenang. "Kamu itu terbiasa mengurus hal-hal kecil milik orang lain, May. Dari jadwal penyuluhan, bahan bacaan warga, sampai urusan latihan tangan Ibu Ratih di rumah. Tapi diri sendiri sering lupa diperhatikan."
 
-Kalimat itu diucapkan Daniel tanpa nada menggurui. Pria itu mengucapkannya dengan ketulusan seorang dewasa yang benar-benar mengamati dan menghargai keberadaan Maya.
+Daniel mengucapkannya tanpa nada menggurui. Maya menangkap bahwa pria itu memperhatikan kebiasaannya, dan perhatian tersebut terasa berbeda dari yang biasa ia terima.
 
 Maya terdiam sejenak. Jemari tangannya mengusap pinggiran cangkir teh yang hangat.
 
@@ -1571,7 +1571,7 @@ Di dalam keremangan ruang kantor yang sepi itu, pikiran Maya tanpa sengaja melay
 
 Dahulu, selama setengah dekade menjalani hubungan dengan Arman, Maya selalu menjadi pihak yang mengalah dan mengingat segalanya. Ia yang menghafal jadwal rapat Arman, ia yang mengantarkan makanan saat Arman lembur, dan ia yang selalu menyesuaikan diri saat Arman kelelahan. Arman jarang sekali menyadari apakah Maya sudah makan, apakah Maya sedang lelah, atau apakah Maya membutuhkan tempat bersandar. Arman menganggap ketegaran dan kesabaran Maya sebagai hal yang sudah seharusnya ada.
 
-Kini, di hadapannya, ada Dokter Daniel. Pria yang baru beberapa bulan ia kenal, tetapi sanggup menangkap perubahan sekecil apa pun pada raut wajah dan staminanya. Daniel tidak pernah menuntut Maya untuk menjadi sempurna, melainkan hadir dengan perhatian yang nyata dan menghormati keberadaannya sebagai manusia.
+Kini, di hadapannya, ada Dokter Daniel, pria yang baru beberapa bulan ia kenal. Ia memperhatikan Maya belum makan dan mengingat hal-hal kecil tentang Ratih. Perhatian itu membuat Maya merasa dilihat, meskipun ia belum benar-benar mengenal kehidupan pribadi pria tersebut.
 
 Perbandingan itu menghantam dada Maya dengan dampak yang begitu kuat.
 
@@ -1585,7 +1585,7 @@ Maya menatap siluet Daniel yang menghilang di balik pintu kaca. Ia memegang cang
 
 Maya menyadari betul bahaya yang sedang mengintai. Ia tahu bahwa Daniel adalah suami dari wanita lain, dan ia tahu bahwa menerima perhatian personal semacam ini membuat batas profesionalitas mereka semakin kabur.
 
-Namun, bagi seorang perempuan yang sepanjang hidupnya merasa tidak pernah diprioritaskan dan selalu diabaikan, perhatian tulus dari Daniel terasa seperti penawar luka yang teramat manis. Maya menghirup teh hangatnya perlahan, membiarkan keterikatan emosional itu merayap semakin dalam ke dalam dadanya, meskipun ia tahu harga yang harus dibayar kelak akan sangat mahal.
+Namun, bagi seorang perempuan yang sepanjang hidupnya merasa tidak pernah diprioritaskan dan selalu diabaikan, perhatian Daniel terasa seperti penawar luka yang teramat manis. Maya menghirup teh hangatnya perlahan, membiarkan keterikatan emosional itu merayap semakin dalam ke dalam dadanya, meskipun ia tahu harga yang harus dibayar kelak akan sangat mahal.
 
 # **BAB 36: Rumah yang Tidak Tenang**
 
@@ -1875,13 +1875,13 @@ Daniel sedang berada di dapur, membilas cangkir kopi bekas pakai di bawah kucura
 
 Sarah, yang baru saja selesai merapikan berkas naskah terjemahan di meja sebelah, melangkah mendekati meja tengah untuk mengambil kacamata bacanya yang tertinggal. Mata Sarah secara tak sengaja tertambat pada layar tablet yang belum terkunci. Aplikasi pesan singkat yang tersinkronisasi dengan nomor ponsel Daniel terbuka penuh, menampilkan utas percakapan panjang dengan nama kontak Maya \- Lentera Sehat.
 
-Sarah tampak hanya hendak mengambil kacamata bacanya. Namun, saat melihat layar tablet yang belum terkunci, langkahnya terhenti. Dua baris pesan dari pertengahan Agustus yang tertampil di bagian tengah bilah percakapan itu menarik pandangannya.
+Sarah tidak segera bergerak ketika Daniel mendekat. Di layar tablet, dua baris pesan dari pertengahan Agustus masih terlihat di bagian tengah percakapan.
 
 Kadang saya berpikir, seandainya waktu bisa diputar kembali, seandainya kita bertemu beberapa tahun lebih awal... mungkin segalanya akan terasa jauh berbeda.
 
 Di bawahnya, baris balasan dari Maya tercetak jelas: Tapi kita tidak bertemu lebih awal, Dokter Daniel. Kita baru bertemu tahun ini, dalam situasi yang sudah seperti sekarang.
 
-Jemari Sarah membeku di atas papan meja. Binar matanya bergetar hebat saat ia menyapu layarnya ke atas. Terbuka baris-baris pesan lain sepanjang bulan Juli hingga September: curahan kelelahan Daniel tentang rumah tangga mereka, keluhan tentang keheningan Ciumbuleuit, perhatian-perhatian kecil Maya tentang jadwal makan Daniel, hingga ucapan hangat di hari ulang tahun pria itu sepekan lalu.
+Sarah menggeser percakapan ke atas. Saat Daniel mendekat, layar menampilkan pesan-pesan lain sepanjang Juli hingga September: curahan kelelahan Daniel tentang rumah tangga mereka, keluhan tentang keheningan Ciumbuleuit, perhatian Maya tentang jadwal makan Daniel, hingga ucapan ulang tahun sepekan sebelumnya.
 
 Suara langkah kaki Daniel dari arah dapur mendekat. Daniel melangkah masuk sambil mengeringkan tangannya dengan serbet kain. Begitu matanya menangkap sosok Sarah yang berdiri kaku memegang tabletnya, raut wajah Daniel seketika berubah pucat pasi.
 

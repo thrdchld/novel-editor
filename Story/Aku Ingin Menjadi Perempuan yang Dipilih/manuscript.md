@@ -2079,7 +2079,7 @@ Sarah terdiam sejenak, binar matanya menajam oleh luka yang ditahannya rapat-rap
 
 Kata-kata Sarah meluncur tanpa nada menghujat, namun kejujuran dingin di balik kalimat itu menghantam batin Maya hingga dadanya terasa sesak.
 
-Maya tidak mencoba membela diri. Ia tidak menggunakan alasan bahwa Daniel yang lebih dahulu memulainya, tidak pula menggunakan alasan bahwa ia sedang terluka usai ditinggalkan Arman atau kelelahan mengurus ibunya. Maya menyadari sepenuhnya bahwa ia telah membuat keputusan egois: ia menikmati perasaan dibutuhkan dan diperhatikan oleh Daniel, hingga sengaja mengabaikan fakta bahwa ada seorang istri yang terluka di balik perhatian tersebut.
+Maya tidak mencoba membela diri. Ia tidak menggunakan alasan bahwa Daniel yang lebih dahulu memulainya, tidak pula menggunakan alasan bahwa ia sedang terluka usai ditinggalkan Arman atau kelelahan mengurus ibunya. Maya menyadari bahwa ia telah membuat keputusan egois: ia menikmati perasaan dibutuhkan dan diperhatikan oleh Daniel, sambil mengabaikan fakta bahwa ada seorang istri yang dapat terluka oleh kedekatan tersebut.
 
 "Saya salah, Mbak Sarah," bisik Maya dengan suara bergetar. Air mata penyesalan menggenang di pelupuk matanya, tetapi ia menahannya agar tidak jatuh. "Saya sungguh-sungguh minta maaf. Tidak ada pembelaan apa pun yang bisa saya sampaikan. Saya tahu saya sudah melukai Mbak Sarah, dan saya sangat menyesali keputusan saya."
 
@@ -2618,9 +2618,9 @@ Ratih menggenggam kedua telapak tangan Maya yang dingin, meremasnya dengan kehan
 
 Kata-kata Ratih menghantam batin Maya dengan dampak yang amat tebal.
 
-Seketika itu juga, rantai benang merah yang mengikat seluruh perjalanan hidupnya menjadi benderang di dalam kepala Maya. Kebiasaan Ratih menyederhanakan fakta demi melindungi perasaannya telah menanamkan keyakinan bahwa pria yang pergi atau mengabaikannya selalu memiliki alasan yang patut dimaklumi. Itulah alasan mengapa Maya sanggup bertahan selama lima tahun menunggu janji-janji palsu Arman, dan itulah alasan mengapa ia sempat terbuai oleh perhatian hangat Daniel di ruang remang yang salah.
+Maya mulai melihat hubungan antara beberapa pengalaman itu, meski ia tahu masih banyak hal yang belum ia pahami sepenuhnya. Kebiasaan Ratih menyederhanakan fakta demi melindungi perasaannya telah menanamkan keyakinan bahwa pria yang pergi atau mengabaikannya selalu memiliki alasan yang patut dimaklumi. Itulah alasan mengapa Maya sanggup bertahan selama lima tahun menunggu janji-janji palsu Arman, dan itulah alasan mengapa ia sempat terbuai oleh perhatian hangat Daniel di ruang remang yang salah.
 
-Selama ini, Maya mengira ia sedang belajar menjadi wanita yang sabar. Padahal, ia hanya sedang mengulang pola masa kecilnya: terus menunggu dan memaklumi orang yang tidak pernah benar-benar memilihnya.
+Selama ini, Maya mengira ia sedang belajar menjadi perempuan yang sabar. Kini ia mulai mempertanyakan apakah sebagian kesabarannya justru membuatnya terus menunggu dan memaklumi orang yang tidak memberi kepastian.
 
 Maya menarik napas panjang, lalu mengembuskannya perlahan.
 
@@ -2740,7 +2740,7 @@ Maya berjalan melangkah ke arah jendela teras, membuka katup kayunya lebar-lebar
 
 Maya memejamkan mata sejenak, menghirup udara dingin itu dalam-dalam. Maya tidak ingin menarik kembali batas yang baru saja ia sampaikan. Meski masih ada sedih dan ragu yang belum dapat ia uraikan, ia merasa sedikit lega karena kali ini ia tidak memaksakan diri menyetujui sesuatu yang belum siap dijalaninya.
 
-Menetapkan batas ternyata tidak membunuh siapa pun. Menolak keinginan orang lain tidak membuatnya menjadi manusia yang jahat. Di bawah naungan langit Antapani yang perlahan menggelap sore itu, Maya menyadari bahwa ia baru saja mengambil langkah terbesar dalam hidupnya: berhenti mengorbankan kedamaian batinnya sendiri hanya demi diprioritaskan oleh orang lain.
+Menetapkan batas ternyata tidak membunuh siapa pun. Menolak keinginan orang lain tidak membuatnya menjadi manusia yang jahat. Di bawah naungan langit Antapani yang perlahan menggelap sore itu, Maya menyadari bahwa ia baru saja mengambil langkah penting: mulai menyampaikan batas tanpa harus memaksakan diri demi diprioritaskan oleh orang lain.
 
 # **BAB 57: Memulai Konseling**
 
@@ -3546,7 +3546,7 @@ Maya mendudukkan diri di kursi kerjanya, menyesap teh melati hangat di samping l
 
 Ia memandang keluar jendela kaca, memperhatikan pendar sinar matahari pagi yang menghangatkan daun-daun mahoni. Kecemasan tidak sepenuhnya hilang, tetapi Maya tidak lagi menganggap penolakan terhadap beban yang tidak realistis sebagai ancaman bagi posisinya. Ia menyadari perubahan dalam cara mengambil keputusan.
 
-Ia tak lagi menjadi perempuan pasif yang hanya menerima perlakuan atau beban dari orang lain demi disukai. Hari ini, melalui tindakan nyata di dunia kerja sehari-hari, Maya telah menjelma menjadi perempuan yang berani memilih: memilih batas dirinya, memilih profesionalisme yang sehat, dan memilih untuk menghargai nilainya sendiri.
+Hari ini, melalui tindakan nyata di dunia kerja sehari-hari, Maya berlatih menjadi perempuan yang berani memilih: menetapkan batas, menjaga profesionalisme, dan menghargai nilainya sendiri. Ia tahu satu keputusan tegas tidak otomatis mengubah semua kebiasaannya, tetapi setidaknya kali ini ia tidak mengatakan ya hanya karena takut mengecewakan orang lain.
 
 # **BAB 72: Aku Ingin Menjadi Perempuan yang Dipilih**
 

@@ -705,7 +705,7 @@ Bab 69 — Keputusan Bima
 
 Tanggal: 27 Januari 2026
 
-Bima kembali meminta kesempatan bertemu. Maya menyetujui komunikasi terbatas, tetapi belum bersedia membangun kedekatan seperti ayah dan anak. Bima menerima batas tersebut tanpa memaksa.
+Bima meminta izin untuk tetap berkirim kabar sekadarnya, misalnya sebulan sekali atau pada hari-hari penting. Maya menyetujui komunikasi terbatas, tetapi belum bersedia membangun kedekatan seperti ayah dan anak. Bima menerima batas tersebut tanpa memaksa.
 
 Bab 70 — Rumah yang Berbeda
 

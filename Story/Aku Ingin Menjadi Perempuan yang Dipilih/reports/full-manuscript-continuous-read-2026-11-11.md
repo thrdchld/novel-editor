@@ -1,0 +1,279 @@
+# Pembacaan Menyeluruh Berkesinambungan — Bab 1–72
+
+Tanggal: 11 November 2026  
+Novel: *Aku Ingin Menjadi Perempuan yang Dipilih*  
+Manuskrip yang diperiksa: `Story/Aku Ingin Menjadi Perempuan yang Dipilih/manuscript.md`  
+SHA manuskrip saat pembacaan: `4ad3a66241b0d727988a4fc6728c6fde08b13c78`  
+Master outline: `Story/Aku Ingin Menjadi Perempuan yang Dipilih/outline.md`  
+SHA outline saat pembacaan: `ce117703ce795b71c98574b3bb606a0be936146a`
+
+## 1. Status dan ruang lingkup
+
+**CONTINUOUS READ COMPLETED — TARGETED REVISION REQUIRED — NOT YET READY TO PUBLISH.**
+
+Seluruh 72 bab dibaca berurutan dari Bab 1 sampai Bab 72 pada versi manuskrip dengan SHA yang tercantum di atas. Pembacaan dilakukan sebagai pengalaman pembaca terlebih dahulu, lalu dibandingkan dengan Master Outline v4.0 dan keputusan kontinuitas yang sudah ditetapkan.
+
+Fokus pemeriksaan:
+- hubungan sebab-akibat dan transisi antarbab;
+- ritme pembukaan, perkembangan konflik, eskalasi, dan penutupan;
+- konsistensi perkembangan Maya dan agensi tokoh pendukung;
+- pengulangan konflik, adegan, refleksi, dan pola penutup;
+- timeline, usia, lokasi, status hubungan, pengetahuan tokoh, serta kesinambungan benda;
+- setup/payoff dan pengalaman pembaca dari pembukaan hingga akhir.
+
+**Tidak ada perubahan pada manuskrip maupun outline dalam audit ini.** Dokumen ini mencatat hasil pembacaan menyeluruh dan sasaran revisi. Audit ini tidak menggantikan proofread ejaan dan tanda baca baris demi baris.
+
+Catatan versi: sejumlah laporan audit per empat bab sebelumnya memakai SHA manuskrip `c235875ff0f569088936c5c4dea76207b99ff774`. Versi yang dibaca sekarang memiliki SHA berbeda. Karena itu, laporan terdahulu diperlakukan sebagai riwayat temuan, bukan bukti otomatis bahwa semua temuan lama masih ada atau semua perbaikannya sudah benar. Putusan dalam dokumen ini mengacu pada isi manuskrip yang benar-benar dibaca dengan SHA di atas.
+
+## 2. Putusan keseluruhan
+
+Novel memiliki satu garis dramatik yang utuh:
+
+1. Maya mengetahui pengkhianatan Arman.
+2. Kilas balik memperlihatkan bagaimana pengalaman masa kecil dan hubungan lima tahun membentuk kebiasaannya menunggu.
+3. Kehilangan pekerjaan dan kecelakaan Ratih memaksa Maya membangun pijakan hidup baru.
+4. Perhatian Daniel berkembang menjadi kedekatan emosional yang melanggar batas pernikahan.
+5. Sarah menemukan kedekatan itu dan menuntut pertanggungjawaban.
+6. Arman dan Bima kembali dengan bentuk penyesalan yang berbeda.
+7. Maya mengakui pola dan kesalahannya, memulai konseling, lalu menerapkan batas dalam relasi keluarga dan pekerjaan.
+8. Akhir cerita mengembalikan makna judul: Maya tidak lagi menjadikan pilihan orang lain sebagai ukuran nilai dirinya.
+
+**Tidak ditemukan kontradiksi kronologi besar yang merusak keseluruhan alur pada versi yang dibaca.** Usia utama, tanggal peristiwa, urutan konflik, status pernikahan Daniel–Sarah, masa hubungan Maya–Arman, serta urutan pertemuan dengan Bima secara umum konsisten dengan outline.
+
+Struktur 72 bab dapat dipertahankan. Tidak ada kebutuhan untuk rewrite total, menambah pasangan baru, mengubah hasil konflik, atau mengganti akhir cerita.
+
+Masalah utama versi sekarang berada pada:
+- penundaan payoff pembukaan;
+- duplikasi teks dan repetisi refleksi;
+- beberapa jembatan adegan atau properti yang kurang jelas;
+- beberapa pernyataan perkembangan emosi yang terlalu final dibanding bukti adegan;
+- kebutuhan line polish terbatas.
+
+## 3. Temuan prioritas
+
+### P1 — Perbaikan yang perlu dilakukan sebelum rilis
+
+#### F01 — Duplikasi paragraf penutup Bab 3
+
+- Kategori: `REPETITION`, `COPYEDIT`
+- Severity: P1
+- Lokasi: Bab 3, dua paragraf terakhir.
+- Bukti:
+  - Paragraf pertama dimulai dengan: “Sore-sore berikutnya sepanjang bulan Juni, Maya masih sering mencuri waktu untuk duduk sendirian di ambang pintu teras.”
+  - Paragraf berikutnya mengulang tindakan yang sama: “Hari-hari berikutnya, Maya tetap duduk di ambang pintu setiap sore.”
+- Masalah: kedua paragraf menyampaikan perkembangan yang hampir identik—Maya terus menunggu Bima, kemudian masih menoleh setiap mendengar sepeda motor.
+- Dampak: penutup terasa seperti pengulangan hasil penyuntingan yang belum dibersihkan.
+- Rekomendasi: satukan menjadi satu penutup yang mempertahankan perubahan dari menunggu aktif menjadi refleks menoleh. Tidak perlu menambah refleksi baru.
+
+#### F02 — Duplikasi tindakan pada penutup Bab 4
+
+- Kategori: `REPETITION`, `SCENE_CRAFT`
+- Severity: P1
+- Lokasi: Bab 4, dua paragraf terakhir.
+- Bukti:
+  - “Maya tersenyum kecil, lalu beranjak kembali ke dalam kamar.”
+  - Paragraf terakhir kembali menyatakan: “Maya kembali ke kamar dan menarik selimut hingga dagu. Dari ruang depan, bunyi mesin jahit kembali berderit.”
+- Masalah: Maya sudah kembali ke kamar dan suara mesin jahit sudah terdengar pada paragraf sebelumnya. Paragraf terakhir mengulang blocking dan bunyi yang sama.
+- Dampak: penutup kehilangan ketajaman dan mengurangi efek adegan.
+- Rekomendasi: pilih satu rangkaian tindakan. Pertahankan detail permintaan sepatu yang tidak jadi diucapkan sebagai penutup emosional.
+
+#### F03 — Benda penting muncul tanpa setup yang cukup pada Bab 66
+
+- Kategori: `CONTINUITY`, `PROP_CONTINUITY`, `SETUP_PAYOFF`
+- Severity: P1
+- Lokasi: Bab 66.
+- Bukti: Maya menemukan “selembar catatan kecil bertuliskan tangan” yang disebut sebagai catatan alur rujukan pasien degeneratif, ditulis Daniel pada pertengahan Juli 2025.
+- Masalah: dalam rangkaian adegan kerja sebelumnya, Daniel mengirim revisi dan masukan melalui grup koordinasi, tetapi tidak ada adegan yang menanamkan bahwa ia pernah menulis atau menyerahkan catatan fisik tersebut kepada Maya. Catatan itu kemudian dipakai sebagai pemicu refleksi besar tentang romantisasi Daniel.
+- Dampak: objek terasa muncul karena dibutuhkan oleh refleksi, bukan sebagai benda yang memang telah hidup dalam kontinuitas cerita.
+- Rekomendasi: pilihan paling sederhana adalah mengganti pemicu refleksi dengan artefak yang sudah memiliki setup, misalnya pesan atau dokumen kerja yang memang pernah dipertukarkan. Jika catatan fisik ingin dipertahankan, tambahkan setup singkat pada adegan sebelumnya yang relevan. Jangan membuat adegan baru panjang hanya untuk menjelaskan benda tersebut.
+
+#### F04 — Properti dan perpindahan pada pembuka Bab 17 membingungkan
+
+- Kategori: `SCENE_BLOCKING`, `PROP_CONTINUITY`, `READER_ORIENTATION`
+- Severity: P1
+- Lokasi: Bab 17, paragraf pembuka.
+- Bukti: “Kardus berisi berkas lamaran kerja yang baru saja ia rapikan di rumah Antapani ditinggalkan begitu saja di dalam taksi.”
+- Masalah: kardus tersebut tidak disiapkan atau dibawa dalam adegan sebelumnya. Pembaca tidak mendapat alasan mengapa Maya membawa kardus berisi berkas lamaran ke perjalanan dari Antapani menuju rumah sakit, lalu meninggalkannya di taksi. Detail ini juga mudah tertukar dengan kardus barang pribadi yang dibawa pulang dari kantor pada Bab 16.
+- Dampak: pembaca harus berhenti untuk membayangkan benda dan perpindahannya, padahal adegan seharusnya langsung berfokus pada kondisi Ratih.
+- Rekomendasi: hapus detail kardus jika tidak memiliki fungsi lanjutan. Jika benda itu penting, jelaskan secara singkat apa isinya dan mengapa ikut dibawa. Jangan biarkan dua kardus dengan fungsi berbeda tercampur dalam ingatan pembaca.
+
+### P2 — Revisi pengalaman baca dan konsistensi karakter
+
+#### F05 — Payoff konfrontasi Arman tertunda terlalu lama setelah pembukaan
+
+- Kategori: `PACING_PROGRESSION`, `OPENING_PROMISE`, `FLASHBACK_TRANSITION`
+- Severity: P2
+- Lokasi: Bab 1–12, terutama transisi Bab 2 ke Bab 3.
+- Bukti:
+  - Bab 1–2 membangun situasi masa kini pada 10 Januari 2025: Maya menemukan foto pertunangan dan sedang menunggu Arman datang.
+  - Bab 2 menyatakan Maya harus melihat reaksi Arman secara langsung.
+  - Bab 3–11 kemudian membawa pembaca dari Juni 2004, masa SMA, 2019, 2020–2023, hingga Desember 2024.
+  - Konfrontasi baru berlangsung pada Bab 12.
+- Masalah: kilas balik memberi fondasi penting bagi karakter dan menjelaskan mengapa pengkhianatan Arman begitu menghancurkan. Namun, setelah dua bab pembuka menjanjikan konfrontasi yang segera terjadi, pembaca harus menunggu sembilan bab sebelum kembali ke garis waktu utama.
+- Dampak: sebagian pembaca dapat merasa cerita menahan payoff yang sudah dijanjikan. Risiko ini lebih besar karena beberapa informasi tentang kebiasaan Maya mengalah dan menunggu disampaikan berulang dalam kilas balik.
+- Rekomendasi: jangan otomatis menghapus atau memindahkan kilas balik. Pertahankan fondasinya, tetapi evaluasi pemadatan pengulangan Bab 3–5 dan Bab 8–11. Pastikan setiap bab kilas balik memberi informasi atau perubahan baru, bukan hanya mengulang bahwa Maya takut merepotkan dan selalu memaklumi. Jika struktur tetap dipertahankan, transisi kembali ke 10 Januari pada Bab 12 harus terasa jelas dan memuaskan.
+
+#### F06 — Perkembangan emosi Maya berulang kali disimpulkan, bukan selalu diperlihatkan
+
+- Kategori: `EMOTIONAL_CONTINUITY`, `REPETITION`, `NARRATIVE_OVERSTATEMENT`
+- Severity: P2
+- Lokasi utama:
+  - Bab 3–5;
+  - Bab 8–11;
+  - Bab 21–24;
+  - Bab 32–39;
+  - Bab 49–58;
+  - Bab 61–72.
+- Masalah: beberapa bab menampilkan tindakan atau dialog yang sudah cukup menjelaskan keadaan Maya, kemudian menambahkan paragraf yang mengulang kesimpulan emosionalnya. Pola ini muncul dalam bentuk refleksi bahwa Maya selalu mengalah, ingin dipilih, mulai mandiri, sedang pulih, tidak lagi menunggu, atau telah menemukan kebebasan batin.
+- Dampak: ritme melambat karena pembaca menerima kesimpulan yang sama beberapa kali. Adegan yang sebenarnya kuat menjadi terasa seperti ilustrasi bagi pesan yang sudah dijelaskan.
+- Rekomendasi:
+  1. Pertahankan refleksi yang memberi informasi atau pemahaman baru.
+  2. Pangkas kalimat yang hanya mengulang makna dialog atau tindakan tepat sebelumnya.
+  3. Biarkan beberapa bab berakhir pada tindakan, keputusan, benda, atau respons tokoh tanpa selalu menambahkan kesimpulan moral.
+  4. Jangan menghilangkan tema utama atau membuat prosa menjadi kering.
+
+#### F07 — Pernyataan pemulihan pada Bab 34 terlalu absolut dibandingkan perkembangan sebelumnya
+
+- Kategori: `CHARACTER_CONTINUITY`, `EMOTIONAL_PACING`
+- Severity: P2
+- Lokasi: Bab 28, 34–35.
+- Bukti:
+  - Bab 28 mengakui bahwa masih ada sisa kesedihan ketika Maya mengingat rencana masa depannya bersama Arman.
+  - Bab 34 menyatakan Maya “tidak lagi merasa terluka oleh ingatan itu” dan tidak lagi memiliki dorongan emosional untuk menuntut keadilan atau meminta penjelasan.
+  - Bab 35 kembali menunjukkan bahwa pengalaman bersama Arman masih menjadi ukuran pembanding yang kuat ketika Daniel memperhatikan Maya.
+- Masalah: Maya boleh tidak lagi ingin menghubungi Arman atau meminta penjelasan, tetapi itu berbeda dari tidak lagi terluka oleh ingatan tersebut.
+- Dampak: perkembangan emosi tampak meloncat maju, lalu kembali memakai luka lama sebagai motivasi pada bab berikutnya.
+- Rekomendasi: lunakkan klaim Bab 34. Bedakan antara tidak lagi ingin kembali atau menuntut jawaban dengan masih memiliki sisa kesedihan. Ini akan menjaga kesinambungan dari Bab 28 menuju Bab 35.
+
+#### F08 — Pola penyesalan Arman dan Bima berisiko terasa berulang
+
+- Kategori: `CONFLICT_REPETITION`, `ARC_DIFFERENTIATION`, `PACING`
+- Severity: P2
+- Lokasi: Bab 49–56, dengan payoff pada Bab 63 dan 69.
+- Masalah: kedua tokoh kembali setelah lama menjauh, meminta kesempatan berbicara, mengakui kesalahan, lalu berhadapan dengan batas yang ditetapkan Maya. Secara tematik, paralel ini memang penting: Arman adalah mantan pasangan, sedangkan Bima adalah ayah yang pergi selama dua puluh satu tahun.
+- Dampak: jika ritme adegan dan bentuk refleksinya terlalu mirip, pembaca dapat merasakan pengulangan pola “pria datang—minta maaf—Maya menetapkan batas”.
+- Rekomendasi:
+  - Pertahankan kedua rangkaian karena hasilnya berbeda dan penting bagi perkembangan Maya.
+  - Pertajam perbedaan kebutuhan emosionalnya. Arman datang membawa penjelasan dan keinginan meringankan rasa bersalah; Bima datang dengan sejarah keluarga yang jauh lebih panjang dan kebutuhan membangun komunikasi yang belum tentu akan diterima.
+  - Jangan membuat Bima menjadi versi Arman yang hanya lebih tua.
+  - Pertahankan keputusan Maya untuk menolak kontak lanjutan dengan Arman tetapi mengizinkan komunikasi terbatas dengan Bima.
+
+#### F09 — Bab 55–58 terlalu cepat mengubah pemahaman menjadi rangkaian kesimpulan
+
+- Kategori: `CHARACTER_ARC`, `PACING`, `PSYCHOLOGICAL_PLAUSIBILITY`
+- Severity: P2
+- Lokasi: Bab 55–58.
+- Masalah: Bab 55 memperlihatkan Maya menyusun hubungan antara Bima, Arman, dan Daniel. Bab 56 langsung menerapkan batas kepada Bima. Bab 57 memulai konseling dan menemukan formulasi pola, lalu Bab 58 menjelaskan bahwa pemulihan tidak linear.
+- Yang bekerja: rangkaian ini memiliki sebab-akibat yang jelas dan konseling menjadi langkah masuk akal setelah Maya melihat pola hidupnya.
+- Risiko: beberapa kesimpulan Bab 55 dan 56 sudah sangat lengkap sebelum eksplorasi profesional pada Bab 57–58 dimulai. Akibatnya, konseling kadang terasa mengonfirmasi penjelasan yang sudah final, bukan membantu Maya menguji dan memperdalam pemahamannya.
+- Rekomendasi: pertahankan urutan peristiwa, tetapi lunakkan kepastian beberapa refleksi Bab 55–56. Beri ruang bahwa Maya baru mulai melihat pola dan belum sepenuhnya memahami semua penyebabnya. Pertahankan dialog psikolog yang menyebut formulasi sebagai hipotesis yang perlu dieksplorasi.
+
+#### F10 — Bagian akhir Bab 61–72 memiliki terlalu banyak penegasan tema dalam rentang waktu yang rapat
+
+- Kategori: `ENDING_PACING`, `REPETITION`, `CHARACTER_ARC`
+- Severity: P2
+- Lokasi: Bab 61–72, terutama Bab 65–68 dan Bab 72.
+- Masalah: dalam rentang 14–31 Januari 2026, pembaca menerima banyak penegasan berturut-turut bahwa Maya mandiri, tidak lagi menunggu, tidak lagi mencari validasi, mampu menetapkan batas, dan memilih dirinya sendiri. Beberapa bab memiliki fungsi yang berbeda, tetapi refleksi penutupnya kembali menyatakan tema yang sama.
+- Yang bekerja:
+  - Bab 61 memberi bukti kemandirian profesional.
+  - Bab 62 memberi perubahan konkret dalam hubungan Maya–Ratih.
+  - Bab 70 menunjukkan Maya berani mengatakan bahwa ia lelah.
+  - Bab 71 memperlihatkan batas melalui keputusan kerja yang operasional.
+  - Bab 72 mengembalikan judul dan tema utama.
+- Rekomendasi: pertahankan semua milestone tersebut, tetapi kurangi penjelasan yang mengulang hasilnya. Bab 72 khususnya dapat dipadatkan agar pembaca merasakan payoff dari perjalanan Maya, bukan menerima ringkasan moral untuk kesekian kalinya. Jangan menghapus ketidakpastian atau kemungkinan bahwa Maya masih bisa mengalami hari buruk.
+
+#### F11 — Bab 26 memiliki dua perpindahan POV dalam satu bab
+
+- Kategori: `POV_STRUCTURE`, `SCENE_TRANSITION`
+- Severity: P2
+- Lokasi: Bab 26.
+- Masalah: bab bergerak dari Maya ke Daniel, lalu kembali ke Maya. Setiap bagian sudah diberi label, sehingga tidak ada kebocoran POV yang jelas. Namun, dua perpindahan dalam satu bab membuat aliran pembaca sedikit terputus.
+- Rekomendasi: tidak wajib mengubah struktur. Pastikan pemisah adegan dan penanda POV tetap terlihat jelas. Jika dilakukan line polish, perkuat transisi agar perpindahan bukan sekadar pergantian informasi, melainkan kontras yang sengaja dibangun antara kesan Maya terhadap pasangan itu dan kenyataan yang diketahui Daniel.
+
+## 4. Catatan copyedit dan kejernihan kalimat
+
+Hal-hal berikut tidak memerlukan perubahan plot, tetapi perlu masuk dalam pass bahasa:
+
+1. **Bab 17:** istilah “ambulans desa” terasa kurang alami untuk konteks lingkungan perkotaan Bandung. Periksa apakah yang dimaksud ambulans warga, ambulans kelurahan, atau kendaraan layanan setempat.
+2. **Bab 49:** kalimat “Sepenuhnya terputusnya komunikasi pribadi dengan Dokter Daniel sejak akhir September rasa perih itu masih sesekali muncul” memiliki konstruksi yang rusak. Susun ulang agar subjek dan predikatnya jelas.
+3. **Bab 50:** frasa “hubungan lamaku denganku” merupakan salah ketik/konstruksi yang tidak tepat. Periksa maksud kalimat dan ganti dengan rujukan yang benar.
+4. **Bab 57:** kalimat “Mbak Melani menggeser posisi duduknya melipat tangan...” membutuhkan tanda baca atau penyusunan ulang agar gerakannya terbaca.
+5. **Bab 62:** frasa “kabar kelulusan promosi kerjanya” kurang tepat untuk pengangkatan jabatan. Gunakan istilah yang sesuai dengan surat keputusan promosi.
+6. **Bab 72:** periksa lagi kepadatan refleksi pada bagian akhir. Beberapa paragraf mengulang isi yang sudah disampaikan oleh Bab 65–71.
+
+Catatan ini adalah temuan pembacaan, bukan daftar seluruh typo. Pemeriksaan ejaan, tanda baca, spasi, huruf kapital, konsistensi istilah, dan format tetap memerlukan satu pass copyedit khusus.
+
+## 5. Hal-hal yang sudah bekerja dan harus dipertahankan
+
+### Struktur dan payoff
+- Hook Bab 1 kuat: foto pertunangan berhadapan dengan pesan Arman yang masih memperlakukan Maya sebagai pasangan.
+- Kilas balik memberi alasan yang dapat dipahami bagi kebiasaan Maya mengalah dan menunggu.
+- Bab 12 membayar konfrontasi yang dijanjikan pembukaan.
+- Kehilangan pekerjaan dan kecelakaan Ratih memberi tekanan eksternal yang membuat awal baru Maya terasa diperjuangkan, bukan diberikan begitu saja.
+- Kedekatan Maya–Daniel berkembang dari komunikasi profesional menjadi ruang emosional pribadi, dengan kesalahan kedua pihak tetap terlihat.
+- Sarah memiliki agensi dan tidak ditulis sebagai antagonis atau penyebab tunggal perselingkuhan emosional.
+- Pertemuan kembali dengan Arman dan Bima memiliki hasil yang berbeda.
+- Akhir tidak memberi pasangan baru sebagai hadiah pemulihan.
+
+### Karakter
+- Maya tidak selalu benar. Ia pernah menjadi korban pengkhianatan Arman dan juga ikut melukai Sarah melalui pilihannya sendiri.
+- Daniel bertanggung jawab atas keputusan dan penghindaran konflik yang dilakukannya.
+- Sarah berhak marah, menentukan batas, dan mempertimbangkan kelanjutan pernikahannya sendiri.
+- Arman menyesal, tetapi penyesalan tidak memberinya hak atas hubungan lama.
+- Bima boleh menunjukkan penyesalan tanpa otomatis mendapatkan pengampunan atau kedekatan.
+- Ratih memiliki kasih sayang dan keterbatasan; kebohongannya di masa lalu tetap memiliki konsekuensi.
+- Perkembangan Maya paling meyakinkan ketika ditunjukkan lewat perilaku: membatasi komunikasi, berbicara jujur kepada Ratih, mengakui kelelahan, dan mengatur kapasitas tim.
+
+### Kontinuitas dan logika
+- Usia Maya sesuai dengan tanggal lahir 14 Mei 1997: tujuh tahun ketika Bima pergi pada Juni 2004, 27 tahun pada awal cerita, 28 tahun pada akhir.
+- Usia Arman dan Daniel sesuai dengan tanggal lahir yang ditetapkan dalam outline.
+- Masa hubungan Maya–Arman, pertunangan Arman–Celine, dan tanggal penemuan foto konsisten.
+- Pemberitahuan PHK, hari terakhir hadir, tanggal efektif berakhirnya hubungan kerja, dan pembayaran hak secara umum tersambung.
+- Kecelakaan Ratih, rawat inap, penanganan penyakit dalam dan ortopedi, pemulihan, serta pelepasan gips tidak menunjukkan kontradiksi besar.
+- Maya diterima di Yayasan Lentera Sehat melalui proses rekrutmen biasa; Daniel tidak menjadi perantara.
+- Komunikasi pribadi Maya–Daniel berhenti pada September, dengan pertemuan penutup satu kali pada Januari 2026 yang diketahui Sarah.
+- Batas komunikasi Bima pada Bab 56, 63, dan 69 tetap dibedakan dari rekonsiliasi.
+- Rangkaian tanggal Bab 49–72 tersusun secara kronologis dan hari dalam pekan yang disebutkan sesuai dengan kalender.
+- Bab 71 telah menjelaskan kesiapan tiga modul inti dan penundaan tujuh materi tambahan. Solusi operasionalnya dapat dipahami tanpa mengubah hasil rapat.
+
+## 6. Peta dependensi untuk revisi
+
+| Sasaran revisi | Bab yang harus dibaca bersama |
+|---|---|
+| Pemadatan kilas balik dan payoff konfrontasi | 1–12 |
+| Pengulangan pola Maya sejak kecil | 3–11, 28, 34–35, 55–58 |
+| PHK, kecelakaan Ratih, dan pekerjaan baru | 15–24 |
+| Batas profesional dan awal komunikasi pribadi | 24–33 |
+| Eskalasi kedekatan Maya–Daniel | 32–40 |
+| Pengungkapan dan pertanggungjawaban Daniel–Sarah | 39–48, 59–60 |
+| Penyesalan dan batas dengan Arman | 49–51, 65 |
+| Kembalinya Bima dan batas komunikasi | 52–56, 63, 69 |
+| Kurva pemulihan Maya | 55–70 |
+| Bukti perubahan dalam tindakan dan payoff judul | 61–72 |
+
+## 7. Urutan revisi yang direkomendasikan
+
+1. **Bersihkan duplikasi objektif:** Bab 3 dan Bab 4.
+2. **Bersihkan kontinuitas properti:** Bab 17 dan Bab 66.
+3. **Lakukan pass transisi dan ritme pembukaan:** Bab 1–12, tanpa membongkar struktur sebelum dampak pemadatan dinilai.
+4. **Lakukan satu pass repetisi/refleksi:** utamakan Bab 49–58 dan Bab 61–72.
+5. **Lunakkan pernyataan emosi yang terlalu absolut:** utamakan Bab 34 dan bagian akhir.
+6. **Pertajam perbedaan dua arc penyesalan:** Arman dan Bima, tanpa mengubah hasil masing-masing.
+7. **Lakukan line/copyedit terbatas:** termasuk catatan Bab 17, 49, 50, 57, 62, dan 72.
+8. **Baca ulang seluruh dependensi setelah revisi:** bukan hanya kalimat yang disentuh.
+
+Setiap revisi yang mengubah tanggal, informasi yang diketahui tokoh, atau batas hubungan harus diperiksa terhadap bab sebelum dan sesudahnya serta outline kanonis.
+
+## 8. Putusan akhir audit menyeluruh
+
+**Status: TARGETED REVISION REQUIRED — NOT YET READY TO PUBLISH.**
+
+Novel ini sudah memiliki struktur, konflik utama, perkembangan karakter, dan akhir yang layak dipertahankan. Tidak ada temuan yang mengharuskan rewrite total atau perubahan fondasi cerita.
+
+Namun, versi manuskrip yang dibaca masih memiliki dua duplikasi teks yang jelas, satu kontinuitas properti yang tidak tertanam, satu detail perpindahan properti yang membingungkan, serta repetisi refleksi dan beberapa pernyataan emosi yang perlu ditata. Bagian-bagian tersebut layak dibereskan sebelum rilis karena dapat mengganggu pengalaman pembaca meskipun tidak meruntuhkan plot.
+
+**Putusan ini bukan tuntutan agar novel menjadi sempurna.** Targetnya adalah memastikan pembaca dapat mengikuti cerita dari Bab 1 sampai Bab 72 tanpa terganggu oleh pengulangan yang tidak disengaja, jeda dramaturgis yang terlalu panjang, benda yang muncul tanpa setup, atau kesimpulan emosional yang terus diulang.
+
+Akhir cerita, pilihan Maya, dan fondasi sembilan bagian tetap dipertahankan.
+
+**Pembacaan berkesinambungan Bab 1–72 selesai pada versi manuskrip SHA `4ad3a66241b0d727988a4fc6728c6fde08b13c78`. Manuskrip belum diubah.**

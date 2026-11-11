@@ -339,3 +339,22 @@ Revisi diperluas ke bagian awal dan tengah novel setelah temuan audit lama diper
 - **Bab 59–72:** pengakuan satu kali pada Bab 59 tetap dibatasi dan diketahui Sarah; Bab 63 tidak menganggap satu pesan sebagai bukti perubahan Bima; Bab 65–70 mengurangi klaim pemulihan yang terlalu mutlak; Bab 69 dan outline kini sama-sama menetapkan permintaan Bima untuk berkirim kabar secara terbatas, bukan meminta pertemuan.
 
 Pemeriksaan struktur setelah perubahan kembali menunjukkan 72 judul bab berurutan dari Bab 1 sampai Bab 72. Pemeriksaan ini memastikan struktur dan beberapa konflik yang ditargetkan, bukan pengganti pembacaan ulang penuh seluruh naskah.
+
+
+### Pembaruan pemeriksaan lanjutan — 11 November 2026
+
+- Bab 6–7 kini menunjukkan perkembangan enam bulan melalui beberapa tindakan konkret Arman, bukan hanya lompatan waktu menuju pernyataan resmi berpacaran.
+- Bab 8–9 dipisahkan fungsinya: Bab 8 menyoroti penundaan pernikahan sepanjang 2020–2023; Bab 9 menyoroti perubahan perilaku Arman pada 2024. Penjelasan berulang tentang Maya yang mengalah dipadatkan.
+- Bab 23 kini menandai wawancara pada 6 Maret 2025. Bab 21 menghindari pengulangan simpulan tema melalui penutup berbentuk tindakan.
+- Bab 37 mengaitkan perubahan komunikasi dengan perhatian personal sejak pertengahan Agustus, tanpa berpindah ke pikiran Daniel.
+- Bab 39 kini memperlihatkan transisi percakapan ulang tahun dari formal ke personal melalui pertukaran pesan singkat. Kecurigaan Sarah tetap kuat, tetapi belum diperlakukan sebagai pengetahuan pasti sebelum konfrontasi Bab 40.
+- Bab 40 mempersempit penyangkalan Daniel menjadi pengelakan soal hubungan fisik, sesuai strategi defensif tokoh dan pertanyaan Sarah. Penjelasan batin yang berulang juga dipangkas.
+- Outline diperbarui untuk menyimpan detail perkembangan hubungan Bab 6–7, sumber nomor Sarah pada Bab 44, batas respons Maya pada Bab 63, serta bentuk komunikasi terbatas Bima pada Bab 69.
+
+**Snapshot teknis setelah pembaruan ini:**
+- Manuskrip: 72 bab, nomor berurutan 1–72; sekitar 51.375 kata.
+- Outline: sekitar 5.700 kata.
+- Blob SHA manuskrip: `d5d4333821d65978c98241f99f359d653d9b6987`.
+- Blob SHA outline: `257504b6b015d65a0d478948b889e19c45586c50`.
+
+Pemeriksaan struktur di atas bukan pembacaan akhir dan tidak membuktikan bahwa seluruh repetisi, masalah gaya, atau dependensi lintas bab telah selesai. Langkah berikutnya tetap audit ulang setelah revisi, khususnya bagian yang menerima perubahan berantai dan bagian yang belum disentuh dalam putaran ini.

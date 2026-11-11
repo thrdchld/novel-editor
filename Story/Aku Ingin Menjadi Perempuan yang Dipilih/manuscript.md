@@ -3246,11 +3246,11 @@ Itu adalah catatan garis besar alur rujukan pasien degeneratif yang dituliskan D
 
 Maya memandangi deretan tulisan tangan itu lurus-lurus.
 
-Dahulu, pada bulan Juli dan Agustus tahun lalu, selembar catatan kecil atau pesan singkat dari Daniel memiliki daya sihir yang sanggup melambungkan perasaannya sepanjang hari. Di tengah kehancuran hatinya akibat pengkhianatan Arman dan kehilangan pekerjaan lamanya, kehadiran Daniel terasa bagaikan oase yang menyelamatkan harga dirinya.
+Dahulu, ketika komunikasi yang bermula pada Juni semakin personal pada Juli dan Agustus, selembar catatan kecil atau pesan singkat dari Daniel memiliki daya sihir yang sanggup melambungkan perasaannya sepanjang hari. Di tengah kehancuran hatinya akibat pengkhianatan Arman dan kehilangan pekerjaan lamanya, kehadiran Daniel terasa bagaikan oase yang menyelamatkan harga dirinya.
 
 Selama berbulan-bulan—bahkan ketika komunikasi pribadi mereka telah dihentikan secara resmi pada akhir September—ada sebuah narasi manis yang tanpa sadar dipelihara Maya di dalam dadanya. Ia sering menganggap Daniel sebagai sosok pria ideal yang hadir di waktu yang salah. Maya memandang perpisahan mereka sebagai sebuah tragedi romantis antara dua insan yang saling memahami namun terhalang oleh takdir dan ikatan pernikahan.
 
-Namun pagi ini, di balik keremangan kamar Antapani yang tenang, kacamata romantisasi itu akhirnya runtuh sepenuhnya.
+Namun pagi ini, di balik keremangan kamar Antapani yang tenang, Maya mulai melihat romantisasi itu dengan lebih jernih.
 
 Maya menarik napas panjang, mengembuskannya perlahan. Ia menyandarkan punggung pada dinding papan kayu, menatap pendar pias sinar matahari pagi yang menembus kaca jendela.
 
@@ -3266,15 +3266,15 @@ Maya menyadari betul bahwa dirinya bukanlah seorang perempuan lugu yang tidak ta
 
 Ia menikmati perasaan dibutuhkan, membiarkan batas-batas moralnya kabur, dan tega ikut melukai Sarah murni demi memberi makan egonya sendiri.
 
-Hubungan mereka pada bulan Juli dan Agustus lalu bukanlah sebuah kisah cinta sejati yang terhalang takdir. Itu murni sebuah persimpangan egois dari dua manusia yang sedang rapuh: seorang pria yang melarikan diri dari kesunyian pernikahan, dan seorang perempuan yang kehausan akan rasa dipilih.
+Kedekatan yang menguat pada Juli dan Agustus—setelah komunikasi mereka dimulai pada Juni dan sebelum dihentikan pada September—bukanlah sebuah kisah cinta sejati yang terhalang takdir. Itu murni sebuah persimpangan egois dari dua manusia yang sedang rapuh: seorang pria yang melarikan diri dari kesunyian pernikahan, dan seorang perempuan yang kehausan akan rasa dipilih.
 
 Maya memegang kertas catatan tulisan tangan Daniel itu di telapak tangannya.
 
-Rasa kagum yang dahulu membuncah kini telah sepenuhnya luruh, digantikan oleh pemahaman yang realistis. Daniel bukan jawaban atas luka masa lalunya, bukan pula penyelamat yang akan melengkapi kehidupannya. Menggantungkan rasa berharga pada perhatian pria beristri adalah sebuah kesalahan besar yang tidak akan pernah ia ulangi lagi.
+Rasa kagum yang dahulu membuncah tidak lagi menutupi penilaiannya. Ia mulai melihat Daniel sebagai manusia yang memiliki kompetensi sekaligus kelemahan dan tanggung jawab. Daniel bukan jawaban atas luka masa lalunya, bukan pula penyelamat yang akan melengkapi kehidupannya. Menggantungkan rasa berharga pada perhatian pria beristri adalah sebuah kesalahan besar yang tidak akan pernah ia ulangi lagi.
 
 Maya merapikan lembar catatan itu, memasukkannya kembali ke dalam bundel arsip yayasan di dalam lemari kerja.
 
-Tidak ada air mata yang menetes di pipinya, tidak ada amarah yang membakar, dan tidak ada lagi penyesalan meluap-luap. Yang tersisa di dalam dada Maya hanyalah rasa lega yang teramat dalam dan jernih. Ia telah memaafkan kekhilafan dirinya tanpa membenarkan kesalahannya, membebaskan batinnya dari bayang-bayang sosok penyelamat semu, dan bersiap melangkah tegap menyongsong masa depan atas pijakan kakinya sendiri.
+Maya tidak menangis saat itu, tetapi bukan berarti semua perasaannya selesai. Ia masih menyimpan penyesalan atas pilihannya sendiri. Bedanya, kini ia dapat mengakui kesalahan itu tanpa menjadikan Daniel sebagai sosok yang harus ia benci atau kagumi. Ia telah memaafkan kekhilafan dirinya tanpa membenarkan kesalahannya, membebaskan batinnya dari bayang-bayang sosok penyelamat semu, dan bersiap melangkah tegap menyongsong masa depan atas pijakan kakinya sendiri.
 
 # **BAB 67: Masa Lalu Tidak Bisa Diubah**
 
@@ -3314,11 +3314,11 @@ Mbak Melani menghentikan kalimatnya sejenak, memberikan ruang bagi kata-katanya 
 
 "Namun, yang paling penting untuk Mbak Maya terima hari ini adalah kenyataan ini," tegas Mbak Melani: "Mbak Maya tidak bisa memutar waktu kembali ke Juni dua ribu empat untuk mengubah keputusan Bapak. Mbak Maya tidak bisa mengubah lima tahun kebohongan Arman, dan Mbak Maya tidak bisa menghapus kenyataan bahwa hubungan bersama Daniel pernah melanggar batas."
 
-Maya menunduk, membiarkan kalimat itu mengendap di dalam dadanya. Tidak ada rasa perih menghimpit, melainkan penerimaan dingin yang amat jujur.
+Maya menunduk. Ada bagian dari dirinya yang masih terasa berat mendengar kenyataan itu, tetapi ia mulai memahami bahwa menerima fakta tidak mengharuskannya menghapus seluruh rasa sedih.
 
 "Masa lalu itu sudah terjadi dan tidak bisa diubah," sambung Mbak Melani menyunggingkan senyum hangat. "Tetapi yang sepenuhnya berada dalam kendali Mbak Maya hari ini adalah bagaimana Mbak Maya memperlakukan diri Mbak Maya sendiri mulai sekarang. Mbak Maya tidak perlu lagi menghukum diri sendiri atas kesalahan orang lain, dan Mbak Maya tidak perlu lagi mengorbankan harga diri demi membuktikan bahwa Mbak Maya layak dipilih."
 
-Air mata hangat menetes pelan di pipi Maya—bukan air mata duka atau penyesalan, melainkan air mata pelepasan atas beban puluhan tahun yang akhirnya luruh sepenuhnya.
+Air mata hangat menetes pelan di pipi Maya. Ia tidak tahu apakah tangis itu berasal dari sedih, lega, atau keduanya sekaligus. Untuk saat ini, ia membiarkan dirinya merasakannya tanpa buru-buru memberi nama.
 
 "Saya paham sekarang, Mbak Melani," bisik Maya dengan suara tegap. "Saya tidak bisa mengubah keputusan Bapak dulu, tapi saya bisa berhenti memperlakukan diri saya sebagai korban yang terus menunggu."
 
@@ -3348,7 +3348,7 @@ Ia teringat bagaimana di tahun-tahun sebelumnya, setiap kali membayangkan masa d
 
 Selama lima tahun bersama Arman, seluruh rencana finansial dan karier Maya selalu disesuaikan dengan linimasa Arman. Ia menunda menabung untuk kepemilikan rumah pribadi karena berharap akan tinggal di rumah yang disediakan Arman di kawasan kaveling Arunika Properti. Ia menahan diri mengambil program sertifikasi komunikasi tingkat lanjut karena takut jadwal kuliah malamnya akan mengganggu waktu luang Arman di akhir pekan. Seluruh proyeksi kehidupannya diletakkan di atas fondasi penantian yang tak pasti.
 
-Bahkan ketika kedekatannya bersama Dokter Daniel menguat pertengahan tahun lalu, pikiran Maya sempat terjebak dalam angan-angan pasif tentang kehidupan seperti apa yang bisa mereka bangun jika keadaan berpihak pada mereka.
+Bahkan ketika komunikasi dengan Dokter Daniel yang dimulai pada Juni menguat menjadi kedekatan personal pada Juli dan Agustus, pikiran Maya sempat terjebak dalam angan-angan pasif tentang kehidupan seperti apa yang bisa mereka bangun jika keadaan berpihak pada mereka.
 
 Malam ini, di bawah lampu meja Antapani yang tenang, Maya menyadari betapa banyaknya waktu yang telah ia lewatkan hanya untuk menunggu aba-aba dari orang lain.
 
@@ -3366,7 +3366,7 @@ Poin ketiga: Kesejahteraan Batin dan Ruang Pribadi. Maya menjadwalkan konseling 
 
 Maya memandangi baris-baris tulisan di atas kertas agenda tersebut.
 
-Tidak ada satu pun poin dalam rencana tiga tahun itu yang membutuhkan persetujuan, validasi, atau keberadaan seorang pria. Rencana itu tersusun murni dari aspirasi, kemampuan, dan kerja kerasnya sendiri.
+Rencana tiga tahun itu tidak lagi bergantung pada keputusan seorang pria. Isinya disusun dari aspirasi, kemampuan, dan kerja keras Maya sendiri.
 
 Pukul sepuluh malam, Maya menutup buku agendanya. Ia berjalan melangkah menuju teras kecil kontrakan, membuka jendela kaca lebar-lebar. Udara malam bulan Januari yang dingin dan segar langsung menyapa kulit wajahnya.
 
@@ -3502,7 +3502,7 @@ Di dalam ruangan ber-AC sejuk itu, Pak Frans duduk di balik meja kayunya bersama
 
 "Mari masuk, Maya, Mbak Dewi," sambut Pak Frans, mengisyaratkan mereka untuk duduk. "Ini Pak Gunawan dari perwakilan konsorsium mitra. Beliau baru saja menyampaikan bahwa ada perubahan agenda dari pusat. Mereka ingin kita memajukan peluncuran kampanye edukasi gizi di tiga wilayah baru ke pertengahan Februari—dua minggu lebih cepat dari jadwal semula."
 
-Pak Gunawan menyunggingkan senyum diplomatis. "Kami sangat berharap Yayasan Lentera Sehat bisa memimpin materi komunikasi ini secara penuh, Mbak Maya. Materi harus siap cetak akhir minggu depan, sekaligus penambahan sepuluh jenis pamflet khusus."
+Pak Gunawan menyunggingkan senyum diplomatis. "Kami sangat berharap Yayasan Lentera Sehat bisa memimpin materi komunikasi ini secara penuh, Mbak Maya. Materi harus siap cetak akhir minggu depan, sekaligus penambahan sepuluh materi komunikasi khusus."
 
 Mbak Dewi di sebelah Maya tampak menahan napas. Penambahan beban kerja seberat itu dengan tenggat waktu yang dimajukan dua minggu berarti seluruh tim komunikasi harus bekerja lembur setiap malam, mengesampingkan proyek utama yang sedang berjalan.
 
@@ -3528,7 +3528,7 @@ Maya menyampaikan argumen itu tanpa emosi yang meluap-luap, tanpa pidato panjang
 
 "Lalu, apa usulanmu, Maya?" tanya Pak Frans, memandangnya dengan rasa ingin tahu dan hormat.
 
-"Saya menawarkan dua pilihan solusi," sahut Maya tegap. "Opsi pertama, peluncuran kampanye gizi tetap dilakukan pertengahan Februari, tetapi fokus materi dibatasi pada tiga jenis modul utama yang sudah siap, sementara tujuh pamflet tambahan diluncurkan pada tahap kedua di bulan Maret. Opsi kedua, jika seluruh sepuluh pamflet wajib keluar bersamaan, jadwal peluncuran tetap berada di minggu pertama Maret sesuai perencanaan awal."
+"Saya menawarkan dua pilihan solusi," sahut Maya tegap. "Opsi pertama, peluncuran kampanye gizi tetap dilakukan pertengahan Februari, tetapi fokus materi dibatasi pada tiga jenis modul utama yang sudah siap, sementara tujuh pamflet tambahan diluncurkan pada tahap kedua di bulan Maret. Opsi kedua, jika seluruh sepuluh materi wajib keluar bersamaan, jadwal peluncuran tetap berada di minggu pertama Maret sesuai perencanaan awal."
 
 Ruang kerja pimpinan hening sejenak. Pak Gunawan saling memandang dengan Pak Frans, sebelum akhirnya perwakilan mitra itu menganggukkan kepala perlahan.
 

@@ -2290,7 +2290,7 @@ Rabu malam, lima November dua ribu dua puluh lima, gerimis mengguyur kawasan Ant
 
 Maya mendudukkan diri di tepi kasur busa, memegang cangkir enamel berisi teh melati hangat yang baru diseduhnya.
 
-Sepanjang Oktober lalu, kehidupan Maya berjalan dalam ritme yang tenang dan teratur. Pekerjaannya di Yayasan Lentera Sehat kawasan Jalan RE Martadinata menuntut fokus penuh pada penyusunan modul publikasi akhir tahun. Sepenuhnya terputusnya komunikasi pribadi dengan Dokter Daniel sejak akhir September tak lagi menyisakan rasa perih yang menghimpit. Keheningan malam yang dahulu terasa menakutkan kini telah menjelma menjadi ruang istirahat yang menenteramkan.
+Sepanjang Oktober lalu, kehidupan Maya berjalan dalam ritme yang tenang dan teratur. Pekerjaannya di Yayasan Lentera Sehat kawasan Jalan RE Martadinata menuntut fokus penuh pada penyusunan modul publikasi akhir tahun. Sepenuhnya terputusnya komunikasi pribadi dengan Dokter Daniel sejak akhir September rasa perih itu masih sesekali muncul, tetapi tidak lagi menguasai kesehariannya. Keheningan malam yang dahulu terasa menakutkan kini telah menjelma menjadi ruang istirahat yang menenteramkan.
 
 Maya menyapu pandangannya pada meja kerja kecil di sudut kamar. Buku catatan keuangan, tumpukan berkas draf yayasan, dan sekeranjang buah jeruk berdiri rapi di bawah pendar kuning lampu meja. Ia telah belajar membangun kehidupannya kembali tanpa bergantung pada sapaan atau validasi orang lain.
 
@@ -2346,7 +2346,7 @@ Maya menyunggingkan senyum tipis yang sopan. Matanya menatap Arman lurus-lurus, 
 
 Arman menarik napas panjang, menunduk menatap permukaan meja yang memantulkan pendar lampu temaram. Pria itu menyapu jemarinya di atas cangkir, menyusun keberanian yang telah ia simpan selama sepuluh bulan.
 
-"Aku tahu tidak ada kata-kata yang bisa menghapus apa yang sudah aku lakukan di akhir tahun lalu, May," ujar Arman pelan, suaranya bergetar tipis oleh penyesalan yang jujur. "Selama sebelas bulan ini, setiap hari aku dibayangi oleh rasa bersalah karena membiarkanmu pergi dengan cara yang sangat jahat."
+"Aku tahu tidak ada kata-kata yang bisa menghapus apa yang sudah aku lakukan di akhir tahun lalu, May," ujar Arman pelan, suaranya bergetar tipis oleh penyesalan yang jujur. "Selama sepuluh bulan ini, aku terus dibayangi rasa bersalah karena membiarkanmu pergi dengan cara yang sangat jahat."
 
 Maya diam mendengarkan, membiarkan Arman melanjutkan tanpa menyela.
 
@@ -2394,7 +2394,7 @@ Pikirannya melayang kembali pada percakapannya dengan Arman di kafe kawasan Dago
 
 Pengakuan Arman bahwa ia takut kehilangan kenyamanan, takut kariernya terhambat, dan memilih memelihara dua hubungan sekaligus demi mengamankan posisi hidupnya, terus berputar di benak Maya. Sepanjang lima tahun bersama pria itu, Maya sering kali menyalahkan dirinya sendiri tiap kali Arman bersikap dingin atau menunda kepastian. Ia pernah mengira bahwa dirinyalah yang kurang mengerti, kurang sabar, atau kurang menarik hingga tidak layak untuk dipilih.
 
-Kini, setelah mendengar kejujuran Arman yang tanpa topeng, Maya menyadari bahwa keraguan Arman sama sekali tidak ada hubungannya dengan kekurangan dirinya. Keberadaan Celine dan kebohongan lima bulan lalu murni bersumber dari ketakutan serta ketidakberanian Arman untuk bersikap jujur pada keputusannya sendiri.
+Kini, setelah mendengar kejujuran Arman yang tanpa topeng, Maya menyadari bahwa keraguan Arman sama sekali tidak ada hubungannya dengan kekurangan dirinya. Keberadaan Celine dan kebohongan yang terungkap pada Januari lalu bersumber dari pilihan serta ketidakberanian Arman untuk bersikap jujur pada keputusannya sendiri.
 
 Namun, memahami alasan seseorang ternyata tidak secara otomatis mengubah rasa sakit yang ditinggalkannya.
 
@@ -2410,7 +2410,7 @@ Maya menatap baris-baris tulisan itu dengan pijakan emosi yang tenang.
 
 Dahulu, tawaran untuk tetap berhubungan sebagai teman mungkin akan disenggolnya sebagai peluang halus untuk memperbaiki keadaan. Dahulu, Maya selalu takut memutus hubungan secara total karena cemas akan dianggap jahat atau tidak dewasa oleh mantan pasangannya.
 
-Tetapi sore ini, di balik keremangan ruang kantor yang sepi, Maya melihat tawaran Arman sebagai bentuk pencarian penenang rasa bersalah. Arman ingin tetap terhubung bukan demi kepentingan Maya, melainkan demi meringankan beban batinnya sendiri agar ia merasa tidak sepenuhnya menjadi pihak yang jahat.
+Tetapi sore ini, di balik keremangan ruang kantor yang sepi, Maya melihat tawaran Arman sebagai bentuk pencarian penenang rasa bersalah. Bagi Maya, permintaan itu terasa lebih seperti usaha Arman meringankan beban batinnya sendiri daripada kepedulian terhadap kebutuhan Maya. Ia tidak tahu pasti apa motif Arman, tetapi ia tidak ingin mengambil risiko membuka kembali hubungan yang sudah diakhiri.
 
 Maya mengetik balasan dengan jemari yang mantap.
 
@@ -2441,7 +2441,7 @@ Selasa sore, dua puluh lima November dua ribu dua puluh lima, aroma minyak kayu 
 
 Maya duduk di atas dipan kayu berlapis kasur tipis, memegang cangkir seng berisi teh tawar hangat yang baru dituangkan Ratih.
 
-Sejak menyelesaikan urusan perpisahannya dengan Arman lima hari lalu—menghapus nomor kontak dan menghentikan seluruh bentuk komunikasi—Maya merasakan ruang batinnya perlahan-lahan lengang. Tidak ada lagi ganjalan rahasia yang ia sembunyikan dari Ratih, tidak ada pula penantian cemas akan sapaan ponsel di malam hari. Ia kembali menemukan kenyamanan dalam rutinitas sederhana bersama ibunya.
+Sejak menyelesaikan urusan perpisahannya dengan Arman sepekan lalu—menghapus nomor kontak dan menghentikan seluruh bentuk komunikasi—Maya merasakan ruang batinnya perlahan-lahan lengang. Ia belum menceritakan pertemuan mereka kepada Ratih, tetapi setidaknya untuk sementara ia tidak lagi menunggu pesan Arman atau memikirkan kemungkinan hubungan itu berlanjut. Ia kembali menemukan kenyamanan dalam rutinitas sederhana bersama ibunya.
 
 Ratih menghentikan injakan pedal mesin jahitnya. Perempuan berusia lima puluh tiga tahun itu mematikan lampu sorot kecil di garpu mesin, lalu membalikkan badan menghadap Maya.
 
@@ -2455,7 +2455,7 @@ Ratih menggeleng perlahan. Ia mendudukkan diri di bangku kayu di samping dipan, 
 
 "Tangan Ibu tidak apa-apa," sahut Ratih. Ia menatap mata Maya lurus-lurus, membiarkan keheningan menyela sejenak di antara deru hujan di luar rumah. "Hari Minggu kemarin... tanggal dua puluh tiga... ada telepon masuk ke nomor rumah tua."
 
-Dada Maya berdesir pelan. Nomor telepon rumah di Kiaracondong adalah saluran kabel lama yang sudah jarang berdering, kecuali untuk urusan pesanan jahitan dari tetangga senior di gang depan.
+Dada Maya berdesir pelan. Nomor telepon rumah di Kiaracondong adalah sambungan kabel lama yang masih dipertahankan Ratih. Nomornya tidak pernah berubah sejak mereka tinggal di sana, meski kini jarang berdering kecuali untuk urusan pesanan jahitan dari tetangga senior di gang depan.
 
 "Telepon dari siapa, Bu? Dari penjahit grosir?" tanya Maya.
 
@@ -2481,7 +2481,7 @@ Ratih mengusap bahu putrinya dengan sentuhan hangat. Tidak ada amarah atau denda
 
 Maya menundukkan kepala, menatap lantai semen yang berselimut tikar pandan.
 
-Pikirannya melayang pada deretan peristiwa beberapa bulan terakhir. Dari pengkhianatan Arman, kedekatan terlarangnya dengan Daniel, konfrontasinya dengan Sarah, hingga keputusannya menolak Arman minggu lalu. Selama ini, Maya selalu menyadari ada benang merah yang mengikat seluruh pilihan buruknya dalam berelasi: ketakutan mendalam untuk tidak pernah dianggap cukup berharga untuk dipertahankan. Dan akar dari seluruh ketakutan itu bermula dari pria yang menelepon Minggu lalu.
+Pikirannya melayang pada deretan peristiwa beberapa bulan terakhir. Dari pengkhianatan Arman, kedekatan terlarangnya dengan Daniel, konfrontasinya dengan Sarah, hingga keputusannya menolak Arman minggu lalu. Panggilan itu membangkitkan ketakutan lama yang belum pernah benar-benar ia pahami. Maya belum tahu apakah semua pilihan buruknya dalam hubungan memang berawal dari kepergian Bima, tetapi nama ayahnya selalu membuat rasa takut ditinggalkan itu terasa dekat kembali.
 
 Ratih memegang tangan Maya yang dingin, meremasnya lembut.
 

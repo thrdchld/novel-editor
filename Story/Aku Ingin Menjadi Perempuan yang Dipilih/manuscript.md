@@ -2566,7 +2566,7 @@ Bima tersenyum tipis, sebuah senyum pasrah yang menghargai ketegasan putrinya. "
 
 Ketika pertemuan itu berakhir dan Bima melangkah pergi menyusuri Jalan Lengkong Besar, Maya tetap duduk sendirian di meja sudut. Di luar jendela, rintik gerimis telah sepenuhnya reda, menyisakan pendar sinar matahari sore yang menembus celah dedaunan.
 
-Maya merapikan tas tangannya, memegang dada kirinya yang terasa hangat dan lega. Untuk pertama kalinya dalam hidupnya, Maya menyadari bahwa luka masa kecilnya tak lagi mengendalikan langkah kakinya. Ia telah berhadapan dengan sumber luka utamanya, melihatnya secara utuh, dan memilih untuk melangkah maju tanpa lagi menjadi perempuan yang meratapi rasa ditinggalkan.
+Maya merapikan tas tangannya, memegang dada kirinya yang terasa hangat dan lega. Untuk pertama kalinya setelah sekian lama, Maya merasa mampu menatap Bima tanpa kembali menjadi anak kecil yang hanya menunggu. Luka itu belum hilang, tetapi pertemuan tadi memberinya kesempatan melihat ayahnya sebagai manusia yang pernah mengambil keputusan buruk—dan dirinya sebagai orang dewasa yang kini dapat menentukan jarak.
 
 # **BAB 54: Kebenaran yang Disimpan**
 
@@ -2652,13 +2652,13 @@ Menatap tiga nama itu berjejer di atas kertas, Maya merasakan desiran dingin men
 
 Untuk pertama kalinya dalam hidupnya, Maya melihat benang merah psikologis yang mengikat ketiga sosok pria tersebut secara utuh dan telanjang.
 
-Bima adalah sumber luka pertamanya. Kepergian sang ayah pada Juni dua ribu empat—saat Maya baru berusia tujuh tahun—telah menanamkan keyakinan bawah sadar bahwa orang yang paling ia cintai pada akhirnya akan melangkah pergi. Kebohongan manis yang diciptakan Ratih selama puluhan tahun bahwa Bima pergi karena terpaksa oleh keadaan, tanpa disadari telah melatih Maya kecil untuk menjadi seseorang yang selalu memaklumi ketidakberadaan dan terus menunggu penantian yang tak pasti.
+Kepergian Bima pada Juni dua ribu empat—saat Maya baru berusia tujuh tahun—merupakan pengalaman kehilangan pertama yang masih membekas. Maya menduga pengalaman itu ikut membentuk keyakinan bahwa orang yang paling ia cintai pada akhirnya akan pergi. Kebohongan manis yang diciptakan Ratih selama puluhan tahun bahwa Bima pergi karena terpaksa oleh keadaan, tanpa disadari telah melatih Maya kecil untuk menjadi seseorang yang selalu memaklumi ketidakberadaan dan terus menunggu penantian yang tak pasti.
 
-Pola itu kemudian berulang dengan sempurna dalam hubungannya bersama Arman selama lima tahun.
+Maya melihat kemiripan pola itu dalam hubungannya bersama Arman selama lima tahun.
 
 Ketika Arman berulang kali menunda pembicaraan pernikahan dengan alasan karier dan keuangan di Arunika Properti, Maya tidak pernah menuntut batas waktu. Ia menoleransi ketidakjelasan, memaklumi sikap dingin Arman, dan membiarkan dirinya digantung karena rasa takut yang sama seperti saat ia berusia tujuh tahun: takut dianggap menuntut, takut ditinggalkan, dan takut tidak dipilih. Maya bertahan bukan murni karena ketulusan, melainkan karena harapan mendalam bahwa kesabarannya suatu hari akan membuat Arman menjadikannya prioritas utama.
 
-Dan ketika Arman akhirnya bertunangan dengan Celine, kehancuran rasa percaya diri Maya mendorongnya masuk ke dalam perangkap ketiga bersama Dokter Daniel.
+Ketika Arman akhirnya bertunangan dengan Celine, kehancuran rasa percaya diri Maya ikut mendorongnya mencari pengakuan melalui kedekatan yang keliru dengan Dokter Daniel.
 
 Maya mengingat kembali percakapan-percakapan malamnya bersama Daniel di kamar Antapani pada bulan Juli dan Agustus lalu. Daniel hadir membawa ketenangan, kehangatan, dan perhatian personal yang tak pernah ia dapatkan dari Arman. Di dekat Daniel, Maya merasa didengarkan dan dianggap penting.
 
@@ -2668,9 +2668,9 @@ Maya meletakkan pulpennya di atas meja, menyandarkan punggungnya pada kursi kayu
 
 Kesadaran itu menghantam batinnya bukan sebagai pembenaran atas kesalahannya, melainkan sebagai penerimaan pahit yang membongkar ilusi dirinya selama ini.
 
-Maya menyadari bahwa selama dua puluh delapan tahun hidupnya, ia terjebak dalam siklus mengulang luka yang sama. Ia membenci kepergian ayahnya, ia membenci pengkhianatan Arman, dan ia menyesali keterlibatannya dalam rumah tangga Daniel. Namun di balik ketiga hubungan itu, Maya harus mengakui satu kebenaran yang paling menyakitkan: ia sendiri yang berkali-kali memilih untuk bertahan dalam situasi yang menyakitkan hanya demi mengejar pengakuan dari orang lain.
+Maya mulai melihat bahwa sejak masa kanak-kanak hingga usianya kini dua puluh delapan tahun, beberapa hubungannya memperlihatkan pola yang serupa. Ia membenci kepergian ayahnya, ia membenci pengkhianatan Arman, dan ia menyesali keterlibatannya dalam rumah tangga Daniel. Namun di balik ketiga hubungan itu, Maya harus mengakui satu kebenaran yang paling menyakitkan: ia sendiri yang berkali-kali memilih untuk bertahan dalam situasi yang menyakitkan hanya demi mengejar pengakuan dari orang lain.
 
-Ia takut tidak dipilih oleh orang lain, tetapi dalam proses mengejar pilihan orang lain itu, Maya telah berkali-kali meninggalkan dan mengabaikan dirinya sendiri.
+Ia takut tidak dipilih oleh orang lain, tetapi dalam proses mengejar pengakuan itu, Maya beberapa kali mengabaikan kebutuhan dan batas dirinya sendiri.
 
 Maya menarik napas panjang, mengembuskannya perlahan ke udara ruang kerja yang dingin.
 
@@ -2738,7 +2738,7 @@ Maya mengakhiri panggilan telepon tersebut, lalu meletakkan ponselnya kembali di
 
 Maya berjalan melangkah ke arah jendela teras, membuka katup kayunya lebar-lebar. Angin sore kota Bandung berembus masuk membawa aroma tanah basah dan kesegaran dedaunan mahoni.
 
-Maya memejamkan mata sejenak, menghirup udara dingin itu dalam-dalam. Tidak ada penyesalan di dalam dadanya, tidak pula ada rasa bersalah yang mengganggu. Yang tertinggal hanyalah rasa lega yang teramat jujur dan menenteramkan.
+Maya memejamkan mata sejenak, menghirup udara dingin itu dalam-dalam. Maya tidak ingin menarik kembali batas yang baru saja ia sampaikan. Meski masih ada sedih dan ragu yang belum dapat ia uraikan, ia merasa sedikit lega karena kali ini ia tidak memaksakan diri menyetujui sesuatu yang belum siap dijalaninya.
 
 Menetapkan batas ternyata tidak membunuh siapa pun. Menolak keinginan orang lain tidak membuatnya menjadi manusia yang jahat. Di bawah naungan langit Antapani yang perlahan menggelap sore itu, Maya menyadari bahwa ia baru saja mengambil langkah terbesar dalam hidupnya: berhenti mengorbankan kedamaian batinnya sendiri hanya demi diprioritaskan oleh orang lain.
 
@@ -2884,7 +2884,7 @@ Daniel mendengarkan dengan saksama, menatap Maya tanpa menyela.
 
 "Dulu... sepanjang bulan Juli dan Agustus tahun lalu," tutur Maya dengan suara yang tenang tanpa getaran emosional, "di balik rasa lega karena ada yang mendengarkan saya, ada bagian dari batin saya yang jujur berharap... berharap Dokter akan memilih saya."
 
-Daniel terpaku di tempatnya duduk, mendengarkan kejujuran murni dari wanita di hadapannya.
+Daniel terdiam beberapa detik setelah Maya selesai berbicara.
 
 "Saya haus akan pengakuan bahwa ada seorang pria yang bersedia menjadikan saya prioritas," lanjut Maya. "Dan perhatian Dokter waktu itu membuat saya sempat menutup mata dari fakta bahwa Dokter sudah beristri. Saya menikmati perasaan diinginkan itu, sampai tega melanggar batas emosional dan melukai Mbak Sarah."
 
@@ -2892,13 +2892,13 @@ Maya menghela napas pendek, menyunggingkan senyum jernih yang membebaskan.
 
 "Tapi sekarang saya tahu... harapan itu lahir dari rasa takut saya sendiri," tegas Maya. "Saya tidak lagi berada di titik itu. Saya tidak ingin menjadi bagian dari keputusan rumah tangga Dokter dan Mbak Sarah, dan saya tidak lagi butuh dibuktikan sebagai perempuan yang dipilih."
 
-Daniel menatap Maya selama beberapa detik. Ada rasa hormat mendalam yang terpancar dari mata pria itu saat menyaksikan perkembangan batin Maya yang kini berdiri begitu tegap di hadapannya.
+Daniel menatap Maya selama beberapa detik, lalu mengangguk kecil. Maya tidak tahu persis apa yang sedang dipikirkannya, tetapi pria itu tidak mengalihkan pandangan.
 
 "Terima kasih atas kejujuranmu, May," sahut Daniel dengan suara serak yang tulus. "Saya juga harus minta maaf sekali lagi. Saya pria beristri yang waktu itu melarikan diri dari masalah rumah tangga, lalu memanfaatkan kehangatanmu untuk kenyamanan saya sendiri. Itu tindakan egois yang tidak pantas."
 
 "Kita berdua sama-sama membuat kesalahan waktu itu, Dok," balas Maya santai. "Yang terpenting sekarang kita tidak lagi mengulangnya."
 
-Daniel menyunggingkan senyum lega. "Iya, May. Kita tidak akan mengulangnya."
+Senyum Daniel tampak lebih ringan. "Iya, May. Kita tidak akan mengulangnya."
 
 Sore itu di kedai kopi Jalan Riau, percakapan mereka berlangsung selama empat puluh menit. Tidak ada janji untuk saling menunggu, tidak ada kalimat berandai-andai tentang masa depan, dan tidak ada lagi rencana untuk bertemu di luar koordinasi resmi pekerjaan yayasan jika memang diperlukan.
 
@@ -3410,7 +3410,7 @@ Bima berhenti sejenak, mengumpulkan ketetapan hatinya.
 
 "Tapi kalau kamu mengizinkan," lanjut Bima dengan intonasi yang rendah, "Bapak ingin minta izin untuk tetap bisa berkirim kabar sekadarnya. Mungkin sebulan sekali, atau saat ada hari-hari penting. Bapak tidak menuntut kamu harus selalu membalas atau mengajak bertemu. Bapak cuma ingin memastikan pintu komunikasi itu tidak sepenuhnya tertutup rapat, agar Bapak bisa terus mendoakan dan mengetahui kabarmu dari jauh."
 
-Mendengar permohonan yang disampaikan Bima dengan nada yang tulus—tanpa ada manipulasi emosional atau dorongan untuk memaksakan pengampunan—dada Maya berdesir pelan.
+Mendengar permohonan Bima yang disampaikan dengan hati-hati, dada Maya berdesir pelan. Ia belum dapat memastikan apakah sikap itu akan bertahan, tetapi kali ini ia bisa menjawab tanpa tergesa-gesa.
 
 Maya memandangi pendar sinar matahari sore yang membias di atas kaca jendela Antapani.
 
@@ -3574,7 +3574,7 @@ Selama puluhan tahun, seluruh keputusan hidup Maya digerakkan oleh satu frasa bi
 
 Ia ingin dipilih oleh ayahnya agar merasa berharga. Ia ingin dipilih oleh Arman agar merasa kesabarannya terbayar. Dan ia ingin dipilih oleh Daniel agar merasa dirinya diinginkan di tengah kehancuran hatinya.
 
-Namun pagi ini, di bawah pendar hangat matahari akhir Januari, kacamata kerinduan semu itu luruh sepenuhnya.
+Namun pagi ini, di bawah pendar hangat matahari akhir Januari, Maya mulai melihat kembali harapan-harapan lamanya dengan lebih jernih.
 
 Melalui sesi konseling bersama Mbak Melani, kejujuran Ratih di Kiaracondong, serta keberaniannya menegaskan batas kepada Bima dan Arman, Maya akhirnya merengkuh sebuah kebenaran paling mendasar dalam hidupnya.
 

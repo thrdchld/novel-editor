@@ -466,7 +466,7 @@ Tangan Arman yang baru saja hendak memasang sabuk pengaman mendadak terhenti di 
 
 Arman mengembuskan napas pendek, mengusap wajahnya dengan telapak tangan kanan. Jemarinya gemetaran tipis saat melepas kacamata bingkai hitamnya, meletakkannya di atas dasbor.
 
-"May, dengarkan aku dulu," Arman memutar tubuhnya menghadap Maya, suaranya dipenuhi nada memohon. "Ini tidak se-sederhana yang kamu lihat di foto itu."
+"May, dengarkan aku dulu," Arman memutar tubuhnya menghadap Maya, suaranya dipenuhi nada memohon. "Ini tidak sesederhana yang kamu lihat di foto itu."
 
 "Apanya yang tidak sederhana, Mas?" Maya menatap Arman lurus-lurus. "Wajahmu di foto itu sangat jelas. Kemeja batik yang kamu pakai itu kemeja yang kita beli sama-sama di Jalan Riau. Jam tangan di pergelanganmu itu hadiah dari aku."
 
@@ -640,7 +640,7 @@ Layar laptop kantor tempatnya bekerja selama tiga tahun terakhir sudah dalam pos
 
 "May, ini ada titipan dari anak-anak divisi kreatif," Nita melangkah mendekati kubikelnya sambil meletakkan sebuah kotak kue berpita biru di atas meja.
 
-Maya mendongak, menyunggingkan senyum tipis. "Kenapa repot-repot, Nit? Aku justru yang harus berterima kasih karena sudah banyak dibantu selama bekerja di sini."
+Maya mendongak dan tersenyum tipis. "Kenapa repot-repot, Nit? Aku justru yang harus berterima kasih karena sudah banyak dibantu selama bekerja di sini."
 
 Nita tidak tertawa. Matanya menatap Maya dengan mata berkaca-kaca. "Kamu itu staf paling sabar di divisi ini, May. Kalau tidak ada kamu yang bantu merapikan draf kampanye Pak Rian, tim kreatif sudah diamuk direksi dari tahun lalu."
 
@@ -2758,7 +2758,7 @@ Maya menunduk, air mata hangat menetes pelan menyusuri pipinya. Hantaman kebenar
 
 Maya mengusap air matanya dengan tisu yang disediakan di meja. "Lalu... apa yang harus saya lakukan sekarang, Mbak?"
 
-"Konseling ini bukan keajaiban instan yang bisa menghapus luka dua puluh satu tahun dalam satu jam, Mbak Maya," sahut Mbak Melani menyunggingkan senyum menguatkan. "Proses ini akan menuntut Mbak Maya untuk mengenali rasa takut itu setiap kali ia datang, belajar menghentikan dorongan untuk memaklumi ketidakjelasan, dan memaafkan diri sendiri atas kesalahan masa lalu. Kita akan mengerjakannya bertahap."
+"Konseling ini bukan keajaiban instan yang bisa menghapus luka dua puluh satu tahun dalam satu jam, Mbak Maya," sahut Mbak Melani tersenyum memberi semangat. "Proses ini akan menuntut Mbak Maya untuk mengenali rasa takut itu setiap kali ia datang, belajar menghentikan dorongan untuk memaklumi ketidakjelasan, dan memaafkan diri sendiri atas kesalahan masa lalu. Kita akan mengerjakannya bertahap."
 
 Ketika sesi lima puluh menit itu berakhir dan Maya melangkah keluar dari bangunan cagar budaya di Jalan Ganesha, udara siang kota Bandung terasa lebih segar menyapa paru-parunya.
 
@@ -2806,7 +2806,7 @@ Maya memejamkan mata sejenak, mengembuskan napas untuk meredakan impitan di ulu 
 
 "Sama sekali tidak perlu," sahut Mbak Melani tegap. "Indikator keberhasilan pemulihan Mbak Maya bukan diukur dari hilangnya rasa sedih secara instan, melainkan dari bagaimana Mbak Maya menyikapi rasa sedih itu. Dulu, saat merasa sepi atau terluka, Mbak Maya akan mencari perhatian orang lain atau bertahan dalam hubungan yang salah. Sekarang, Mbak Maya tetap merasakan sedih itu, tetapi memilih untuk tidak merusak batas diri lagi."
 
-Mbak Melani menyunggingkan senyum menguatkan. "Itu bisa menjadi salah satu tanda bahwa Mbak Maya sedang belajar merespons rasa sedih dengan cara berbeda. Berikan ruang dan kesabaran untuk diri sendiri. Jangan menuntut proses pemulihan berjalan lebih cepat daripada yang bisa ditanggung oleh batinmu."
+Mbak Melani tersenyum memberi semangat. "Itu bisa menjadi salah satu tanda bahwa Mbak Maya sedang belajar merespons rasa sedih dengan cara berbeda. Berikan ruang dan kesabaran untuk diri sendiri. Jangan menuntut proses pemulihan berjalan lebih cepat daripada yang bisa ditanggung oleh batinmu."
 
 Ketika sesi lima puluh menit itu usai, Maya melangkah keluar dari bangunan di Jalan Ganesha. Udara malam bulan Desember menyapu lembut kulit wajahnya saat rintik hujan perlahan mulai mereda.
 
@@ -2962,7 +2962,7 @@ Pukul sepuluh pagi, Mbak Dewi menghampiri meja Maya sambil mengetuk tepian sekat
 
 "Mbak Maya, dipanggil Pak Frans di ruang pimpinan sekarang," ujar Mbak Dewi ramah, menyunggingkan senyum hangat. "Sekalian bawa berkas usulan strategi media dua ribu dua puluh enam yang kemarin diselesaikan."
 
-Maya mendongak, menyunggingkan senyum tipis. "Baik, Mbak Dewi. Terima kasih informasinya."
+Maya mendongak dan tersenyum tipis. "Baik, Mbak Dewi. Terima kasih informasinya."
 
 Maya merapikan map jepit berwarna biru yang berisi dokumen evaluasi dan draf strategi baru, lalu berdiri membenahi kemeja katun krem polosnya. Ia melangkah menyusuri koridor karpet pendek menuju ruang kerja Direktur Pelaksana Yayasan Lentera Sehat.
 
@@ -3130,7 +3130,7 @@ Mbak Dewi melintas membawa dua cangkir teh hangat, meletakkan satu di samping la
 
 "Diminum dulu tehnya, Mbak Maya," sapa Mbak Dewi ramah. "Supaya tidak tegang memindai angka-angka anggaran."
 
-Maya mendongak, menyunggingkan senyum hangat. "Terima kasih banyak, Mbak Dewi. Kebetulan sekali, baru selesai memeriksa bab modul Batununggal."
+Maya mendongak dan tersenyum hangat. "Terima kasih banyak, Mbak Dewi. Kebetulan sekali, baru selesai memeriksa bab modul Batununggal."
 
 Mbak Dewi mendudukkan diri di kursi samping meja Maya. "O ya, Mbak Maya. Untuk jadwal penyuluhan hipertensi di posyandu kecamatan minggu depan, materi peraga dari tim medis RS Cakrawala sudah dikirim via surel resmi tadi pagi oleh suster kepala."
 

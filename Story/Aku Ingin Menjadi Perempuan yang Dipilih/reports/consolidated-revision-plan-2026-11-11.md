@@ -275,3 +275,54 @@ Tidak ada dasar untuk melakukan rewrite total atau mengubah fondasi cerita. Prio
 Revisi harus dilakukan per kelompok yang saling bergantung, bukan per empat bab secara terisolasi. Setiap perubahan yang memengaruhi tanggal, motivasi, pengetahuan, atau relasi wajib diperiksa pada seluruh bab dependensinya.
 
 Target akhir adalah naskah yang utuh, logis, konsisten, dan nyaman dibaca—bukan naskah yang terus ditahan demi kesempurnaan.
+
+
+---
+
+## Log revisi tersinkron — 11 November 2026
+
+**Status: IN PROGRESS.** Revisi sudah diterapkan pada manuskrip dan outline, tetapi belum merupakan revisi akhir dan belum menjadi pernyataan siap terbit.
+
+### Perubahan yang sudah diterapkan
+
+1. **Kronologi dan transisi waktu**
+   - Bab 12 diberi jangkar tanggal 10 Januari 2025.
+   - Bab 17–20 diselaraskan pada 2, 3, 4, dan 7 Februari 2025; peran dokter penyakit dalam dan ortopedi diperjelas.
+   - Bab 26 dipindahkan ke akhir April; Bab 29 dan 30 diberi jangkar 2 dan 13 Juni.
+   - Bab 32 ditetapkan pada 27 Juni 2025; Bab 33 tetap pada 1–10 Juli.
+   - Bab 35, 36, 37, 41, dan 48 diberi jangkar tanggal yang selaras dengan outline. Bab 48 ditetapkan pada 30 Oktober 2025.
+   - Durasi penyesalan Arman, kebohongan yang terungkap pada Januari 2025, dan jarak waktu Bab 51–52 diperbaiki.
+
+2. **Kontinuitas peristiwa dan detail**
+   - Surat pengurangan tenaga kerja pada Bab 15 kini menggunakan masa pemberitahuan tujuh hari kalender sampai 31 Januari.
+   - Perpindahan formulir di Bab 5, sumber foto di Bab 1, detail kopi Bab 10, kunci cadangan Bab 13, dan pengarsipan percakapan Bab 14 diperjelas.
+   - Pemulihan gips Ratih pada Bab 29 diselaraskan dengan Bab 24 dan 28; saran Daniel dibatasi sesuai spesialisasinya.
+   - Bab 71 memperjelas kapasitas produksi: tiga modul inti yang telah melalui validasi awal dan tujuh pamflet tambahan yang dapat ditunda.
+
+3. **Sudut pandang dan pengetahuan tokoh**
+   - Bab 26 kini menandai pergantian POV per adegan; adegan apartemen mengikuti Daniel dan tidak lagi memasuki pikiran Sarah.
+   - Kebocoran POV pada penutup Bab 36 dan adegan pesan Bab 37 diperbaiki dengan mempertahankan satu pusat persepsi yang jelas.
+   - Penilaian Maya tentang motif Arman dan Bima dibingkai sebagai tafsiran, bukan fakta yang tidak dapat ia ketahui.
+   - Dialog konseling Bab 57 dan 67 tidak lagi mengklaim psikolog mengetahui motif batin Bima tanpa pernah mengevaluasinya.
+
+4. **Karakter dan penutupan konflik**
+   - Bab 56 mempersempit klaim “pertama kali” pada konteks hubungan Maya dengan Bima.
+   - Bab 59 diselaraskan dengan kesepakatan penghentian komunikasi pribadi pada Bab 43; pertemuan Januari menjadi pengakuan terbatas, bukan pembukaan hubungan kembali.
+   - Bab 69 tidak lagi menyatakan satu percakapan sebagai bukti bahwa Bima telah berubah.
+   - Bab 66–72 mempertahankan kemajuan Maya tanpa menyatakan seluruh rasa kehilangan atau kecemasan telah hilang.
+
+### Pemeriksaan teknis setelah perubahan
+
+- Manuskrip tetap memuat **72 bab berurutan**, tanpa nomor bab yang hilang.
+- Outline dan manuskrip telah diselaraskan pada perubahan kronologi dan POV yang disebut di atas.
+- Perubahan disimpan langsung pada dua berkas kanonis; laporan audit lama tetap dipertahankan sebagai catatan temuan historis.
+
+### Pekerjaan yang masih harus dilakukan
+
+1. Audit ulang dampak revisi pada seluruh bab yang berhubungan, bukan hanya bab yang kalimatnya diubah.
+2. Lanjutkan pemeriksaan kontinuitas pada Bab 21–25, 27–28, 31, 38, 42–47, 60–64, dan 70.
+3. Telusuri ulang POV, pengetahuan tokoh, dan moral framing di seluruh 72 bab.
+4. Lakukan satu lintasan penyuntingan repetisi dan ritme setelah masalah objektif selesai.
+5. Uji ulang seluruh tanggal, usia, durasi hubungan, pekerjaan, pemulihan medis, dan batas komunikasi dari awal sampai akhir.
+
+**Catatan:** jangan menganggap revisi ini final. Setiap perubahan berikutnya tetap harus diperiksa terhadap outline, bab sebelum dan sesudahnya, serta konsekuensi yang muncul di bagian akhir novel.

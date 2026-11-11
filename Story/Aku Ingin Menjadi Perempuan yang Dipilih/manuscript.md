@@ -362,7 +362,7 @@ Tiga tahun telah terlewati dalam lingkaran janji yang terus bergeser. Maya perca
 
 # **BAB 9: Sesuatu yang Berubah**
 
-Menjelang akhir 2024, bilah layar ponsel Maya menampilkan baris pesan bertuliskan *sedang mengetik...* yang mendadak hilang, berganti dengan pemberitahuan singkat dari Arman: "May, maaf banget malam ini aku tidak bisa mampir ke Antapani. Ada pertemuan mendadak sama tim direksi Arunika Properti sampai malam."
+Pada awal November 2024, bilah layar ponsel Maya menampilkan baris pesan bertuliskan *sedang mengetik...* yang mendadak hilang, berganti dengan pemberitahuan singkat dari Arman: "May, maaf banget malam ini aku tidak bisa mampir ke Antapani. Ada pertemuan mendadak sama tim direksi Arunika Properti sampai malam."
 
 Maya memandang layar ponsel itu di atas meja makan kontrakan sederhananya. Di depannya, dua porsi nasi tim ayam hangat yang baru saja ia beli dari kedai langganan Arman di kawasan Jalan Solo masih mengepulkan uap tipis.
 

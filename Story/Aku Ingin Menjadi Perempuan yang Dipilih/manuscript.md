@@ -2718,7 +2718,7 @@ Bima terdiam di ujung telepon, mendengarkan dengan saksama.
 
 Pernyataan itu meluncur dari bibir Maya tanpa nada kebencian, tanpa hardikan emosional, dan tanpa celaan atas masa lalu Bima. Itu adalah sebuah penegakan batas yang murni dan bermartabat.
 
-Di seberang telepon, keheningan panjang menggantung selama beberapa detik. Bima menghela napas berat di seberang telepon.
+Di seberang telepon, keheningan panjang menggantung selama beberapa detik. Maya mendengar napas Bima yang berat di seberang telepon.
 
 "Maya tidak membenci Bapak," sambung Maya, memberikan kepastian agar penolakannya tidak ditafsirkan sebagai rasa dendam. "Maya juga tidak melarang Bapak untuk sesekali menanyakan kabar. Tapi Maya butuh waktu dan ruang. Maya ingin komunikasi kita berlangsung perlahan, terbatas, dan tidak dipaksakan."
 
@@ -3262,7 +3262,7 @@ Dengan kejujuran batin yang diperolehnya dari sesi konseling bersama Mbak Melani
 
 Dokter Daniel Aditya bukanlah seorang pahlawan penyelamat.
 
-Daniel adalah seorang pria dewasa berusia tiga puluh enam tahun yang kompeten di rumah sakit, tetapi sangat penakut dalam menghadapi konflik rumah tangganya sendiri. Alih-alih membicarakan kejenuhan dan ketegangan komunikasinya bersama Sarah Putri Wicaksana secara jujur, Daniel memilih melarikan diri. Pria itu menyembunyikan masalahnya di balik ruang percakapan malam bersama Maya, memanfaatkan kehangatan dan rasa kagum Maya untuk memuaskan kebutuhan emosionalnya sendiri tanpa perlu menanggung risiko perpisahan.
+Dalam pandangan Maya, Daniel adalah pria dewasa berusia tiga puluh enam tahun yang kompeten di rumah sakit, tetapi berulang kali menghindari konflik rumah tangganya sendiri. Alih-alih membicarakan kejenuhan dan ketegangan komunikasinya bersama Sarah Putri Wicaksana secara jujur, Daniel memilih melarikan diri. Pria itu menyembunyikan masalahnya di balik ruang percakapan malam bersama Maya, memanfaatkan kehangatan dan rasa kagum Maya untuk memuaskan kebutuhan emosionalnya sendiri tanpa perlu menanggung risiko perpisahan.
 
 Dan Maya tidak lagi menutupi perannya sendiri di balik jubah korban.
 
@@ -3274,7 +3274,7 @@ Kedekatan yang menguat pada Juli dan Agustus—setelah komunikasi mereka dimulai
 
 Maya memegang kertas catatan tulisan tangan Daniel itu di telapak tangannya.
 
-Rasa kagum yang dahulu membuncah tidak lagi menutupi penilaiannya. Ia mulai melihat Daniel sebagai manusia yang memiliki kompetensi sekaligus kelemahan dan tanggung jawab. Daniel bukan jawaban atas luka masa lalunya, bukan pula penyelamat yang akan melengkapi kehidupannya. Menggantungkan rasa berharga pada perhatian pria beristri adalah sebuah kesalahan besar yang tidak akan pernah ia ulangi lagi.
+Rasa kagum yang dahulu membuncah tidak lagi menutupi penilaiannya. Ia mulai melihat Daniel sebagai manusia yang memiliki kompetensi sekaligus kelemahan dan tanggung jawab. Daniel bukan jawaban atas luka masa lalunya, bukan pula penyelamat yang akan melengkapi kehidupannya. Menggantungkan rasa berharga pada perhatian pria beristri adalah kesalahan yang kini ia pahami dan tidak ingin ia ulangi.
 
 Maya merapikan lembar catatan itu, memasukkannya kembali ke dalam bundel arsip yayasan di dalam lemari kerja.
 
@@ -3584,7 +3584,7 @@ Maya menyunggingkan senyum tipis. Untuk pagi itu, ia merasa cukup dengan langkah
 
 Ia tidak mendapatkan Daniel sebagai pasangan di akhir cerita. Ia tidak kembali ke pelukan Arman. Ia belum berdamai secara instan bersama Bima. Dan ia tidak menyambut kehadiran pria baru sebagai hadiah atas pemulihan batinnya. Maya mengakhiri perjalanan panjang ini tanpa pahlawan penolong, tanpa kemenangan romantis, dan tanpa janji-janji manis masa depan.
 
-Tetapi ia telah mendapatkan sesuatu yang jauh lebih berharga daripada semua itu: ia telah kembali mendapatkan dirinya sendiri.
+Tetapi ia mulai mendapatkan sesuatu yang selama ini kerap ia abaikan: keberanian untuk kembali mengenali dan memilih dirinya sendiri.
 
 Maya mengenakan jaket katun krem polosnya, meraih tas tangan di meja, lalu mengunci pintu kontrakan Antapani.
 

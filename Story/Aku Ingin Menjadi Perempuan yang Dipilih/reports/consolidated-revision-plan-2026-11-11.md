@@ -401,7 +401,7 @@ Pemeriksaan setelah revisi sebelumnya menemukan beberapa dependensi yang perlu d
 - Master outline: **72 bab berurutan**, sekitar **5.809 kata**.
 - Blob SHA manuskrip: `4ad3a66241b0d727988a4fc6728c6fde08b13c78`.
 - Blob SHA outline: `ce117703ce795b71c98574b3bb606a0be936146a`.
-- Perubahan sejak snapshot sebelumnya mengurangi sekitar 465 kata, terutama melalui penghapusan pengulangan memori dan simpulan moral yang telah ditunjukkan oleh adegan.
+- Perubahan sejak snapshot sebelumnya mengurangi sekitar 469 kata, terutama melalui penghapusan pengulangan memori dan simpulan moral yang telah ditunjukkan oleh adegan.
 - Pemeriksaan otomatis memastikan urutan nomor bab pada manuskrip dan outline lengkap dari 1 sampai 72; pemeriksaan ini tidak menggantikan pembacaan editorial.
 
 Rujukan pemeriksaan masa pemberitahuan PHK: PP No. 35 Tahun 2021, Pasal 37, melalui [JDIH Kementerian Ketenagakerjaan](https://jdih.kemnaker.go.id/peraturan/detail/1723/peraturan-pemerintah-nomor-35-tahun-2021).

@@ -2844,7 +2844,7 @@ Sabtu sore, sepuluh Januari dua ribu dua puluh enam, rintik gerimis tipis membas
 
 Lima hari lalu, pada lima Januari, Maya memutuskan mengirim satu baris pesan formal kepada Dokter Daniel. Ia meminta waktu bertemu sejenak di tempat umum untuk sebuah percakapan penutup.
 
-Sejak pertemuan pada 13 September tahun lalu, Maya dan Daniel memang telah sepakat menghentikan komunikasi pribadi. Namun, ada satu hal yang belum pernah Maya akui secara terbuka: bahwa saat kedekatan itu berlangsung, ia sempat berharap Daniel akan memilihnya. Setelah menjalani konseling bersama Mbak Melani dan menata kembali batas-batas dalam hidupnya, Maya ingin mengakui harapan itu tanpa meminta apa pun sebagai balasan. Ia mengirim pesan formal pada 5 Januari dan meminta satu pertemuan di tempat umum. Daniel menyetujuinya setelah memastikan Sarah mengetahui rencana tersebut.
+Sejak pertemuan pada 13 September tahun lalu, Maya dan Daniel memang telah sepakat menghentikan komunikasi pribadi. Namun, ada satu hal yang belum pernah Maya akui secara terbuka: bahwa saat kedekatan itu berlangsung, ia sempat berharap Daniel akan memilihnya. Setelah menjalani konseling bersama Mbak Melani dan menata kembali batas-batas dalam hidupnya, Maya ingin mengakui harapan itu tanpa meminta apa pun sebagai balasan. Daniel menyetujuinya setelah memastikan Sarah mengetahui rencana tersebut.
 
 Langkah kaki yang teratur terdengar mendekat. Maya mendongak saat siluet tegap Daniel melangkah menghampiri meja sudut.
 
@@ -2908,7 +2908,7 @@ Daniel ikut berdiri, menganggukkan kepala penuh hormat dari seberang meja. "Jaga
 
 Maya membalikkan badan, melangkah keluar dari pintu kedai kopi menyusuri trotoar Jalan Riau yang basah oleh sisa gerimis. Angin malam bulan Januari berembus dingin menyapu wajahnya, membawa aroma tanah dan kesegaran udara pegunungan.
 
-Maya memejamkan mata sejenak, menghirup udara dingin itu dalam-dalam. Ia masih dapat merasakan sisa kehilangan, tetapi tidak lagi merasa harus mengejarnya atau mengubah keputusan yang telah dibuat. Maya merasakan sebuah kebebasan sejati di dalam dadanya: babak percakapan terlarang itu kini telah resmi ditutup dengan bermartabat, meninggalkannya berjalan tegap menyongsong hari-hari baru di atas pijakan kakinya sendiri.
+Maya memejamkan mata sejenak, menghirup udara dingin itu dalam-dalam. Ia masih dapat merasakan sisa kehilangan, tetapi tidak lagi merasa harus mengejarnya atau mengubah keputusan yang telah dibuat. Ada kelegaan karena ia akhirnya mengatakan hal yang selama ini perlu ia akui, meski ia tahu pertemuan itu tidak menghapus seluruh jejak perasaannya.
 
 # **BAB 60: Memperbaiki yang Masih Bisa Diperbaiki**
 
@@ -3226,17 +3226,17 @@ Mengharapkan Arman memberikan penjelasan yang menenangkan hati Maya sama saja de
 
 Maya menggerakkan kursor laptopnya ke atas folder Arsip 2020-2024.
 
-Tanpa ragu, tanpa desakan amarah yang bergejolak, dan tanpa air mata penyesalan, Maya menekan tombol hapus secara permanen. Layar monitor memunculkan kotak konfirmasi pendek, dan Maya mengkliknya dengan jemari yang tenang dan mantap.
+Maya membaca nama folder itu beberapa detik. Ada dorongan untuk membukanya sekali lagi, tetapi ia tahu tidak ada jawaban baru yang akan ia temukan di sana. Ia menekan tombol hapus. Layar monitor memunculkan kotak konfirmasi, dan setelah menarik napas pendek, Maya mengkliknya.
 
-Sekali tekan, ratusan memori digital yang pernah menyita ruang pikirannya hilang tanpa sisa.
+Folder arsip itu terhapus dari perangkatnya. Foto dan percakapan tersebut mungkin masih tersimpan di tempat lain, tetapi Maya tidak lagi ingin menjadikannya bahan untuk mengulang pertanyaan yang sama.
 
 Maya menyandarkan punggungnya pada kursi kayu, memandang jendela teras yang berembun.
 
-Ia tidak perlu lagi memeriksa akun media sosial teman-teman Arman untuk mencari tahu apakah Arman bahagia bersama Celine. Ia tidak perlu lagi menebak-nebak apakah Arman menyimpan penyesalan mendalam di malam hari. Kabar Arman, kebahagiaan Arman, atau penderitaan Arman tak lagi memiliki daya sedikit pun untuk memengaruhi jalan hidupnya.
+Ia tidak perlu lagi memeriksa akun media sosial teman-teman Arman untuk mencari tahu apakah Arman bahagia bersama Celine. Ia tidak perlu lagi menebak-nebak apakah Arman menyimpan penyesalan mendalam di malam hari. Kabar tentang Arman mungkin masih sesekali mengusik pikirannya, tetapi Maya tidak ingin lagi menjadikannya penentu langkah hidupnya.
 
 Maya melepaskan kebutuhan untuk mendapatkan jawaban dari Arman. Ia menutup buku masa lalunya bukan karena Arman telah membayar kesalahannya, melainkan karena Maya telah memilih untuk tidak lagi menagih apa pun dari orang yang tak pernah benar-benar menghargainya.
 
-Ia berdiri perlahan, meminum tegukan terakhir teh melatinya yang hangat suam-suam kuku, lalu bersiap melangkah keluar menuju kantor dengan hati yang sepenuhnya jernih dan bebas.
+Ia berdiri perlahan, meminum tegukan terakhir teh melatinya yang hangat suam-suam kuku, lalu bersiap melangkah keluar menuju kantor dengan pikiran yang sedikit lebih ringan, meski ia tahu prosesnya belum selesai.
 
 # **BAB 66: Daniel Bukan Jawaban**
 
@@ -3278,7 +3278,7 @@ Rasa kagum yang dahulu membuncah tidak lagi menutupi penilaiannya. Ia mulai meli
 
 Maya merapikan lembar catatan itu, memasukkannya kembali ke dalam bundel arsip yayasan di dalam lemari kerja.
 
-Maya tidak menangis saat itu, tetapi bukan berarti semua perasaannya selesai. Ia masih menyimpan penyesalan atas pilihannya sendiri. Bedanya, kini ia dapat mengakui kesalahan itu tanpa menjadikan Daniel sebagai sosok yang harus ia benci atau kagumi. Ia telah memaafkan kekhilafan dirinya tanpa membenarkan kesalahannya, membebaskan batinnya dari bayang-bayang sosok penyelamat semu, dan bersiap melangkah tegap menyongsong masa depan atas pijakan kakinya sendiri.
+Maya tidak menangis saat itu, tetapi bukan berarti semua perasaannya selesai. Ia masih menyimpan penyesalan atas pilihannya sendiri. Bedanya, kini ia dapat mengakui kesalahan itu tanpa menjadikan Daniel sebagai sosok yang harus ia benci atau kagumi. Ia mulai belajar memaafkan kekhilafan dirinya tanpa membenarkan kesalahannya. Bayangan tentang Daniel mungkin belum hilang sepenuhnya, tetapi Maya tidak lagi ingin menjadikannya sosok penyelamat. Ia bersiap melangkah dengan keputusan yang kini lebih ia pahami.
 
 # **BAB 67: Masa Lalu Tidak Bisa Diubah**
 

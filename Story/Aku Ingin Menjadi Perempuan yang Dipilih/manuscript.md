@@ -297,8 +297,7 @@ Maya menahan napas sejenak. Kata rumah selalu terasa berat sekaligus asing di da
 "Aku tahu kita berdua sama-sama sibuk membangun karier," lanjut Arman, suaranya merendah penuh ketulusan. "Tapi aku tidak mau hubungan kita cuma mengambang tanpa arah. Aku mau kamu tahu kalau aku serius."
 
 Arman mengambil kalung itu dari kotaknya, lalu berdiri pelan untuk memakaikannya ke leher Maya. Sentuhan jemari Arman yang hangat di tengkuknya membuat dada Maya berdesir pelan.
-"Mulai hari ini, sepuluh Januari, kamu mau kan resmi jalan sama aku?" bisik Arman di dekat telinganya sebelum kembali duduk. "Aku janji, May. Aku tidak akan ke mana-mana. Aku bakal terus ada di sini buat kamu."
-Janji itu diucapkan dengan begitu mudah dan yakin.
+"Mulai hari ini, sepuluh Januari, kamu mau kan resmi jalan sama aku?" bisik Arman di dekat telinganya sebelum kembali duduk. "Aku janji, May. Aku tidak akan ke mana-mana. Aku bakal terus ada di sini buat kamu."Janji itu diucapkan dengan begitu mudah dan yakin.
 
 Bagi Maya yang sejak kecil tumbuh dengan rasa takut akan penolakan, kalimat *aku tidak akan ke mana-mana* adalah kalimat paling indah yang pernah ia dengar. Kalimat itu meluluhkan seluruh pertahanan emosional yang selama ini ia bangun di depan orang lain. Maya menunduk, mengusap liontin lingkaran di dadanya dengan ibu jari, merasakan dinginnya logam perak yang perlahan menyerap hangat tubuhnya.
 
@@ -597,7 +596,6 @@ Dada Maya terasa mengencang, tetapi wajahnya tetap tenang. Pelajaran hidup yang 
 "Rincian hak akibat PHK dan surat rekomendasi kerja sudah disiapkan tim HRD di lembar belakang, May. Pembayaran hak akhirnya akan diproses setelah tanggal efektif PHK," kata Pak Rian lagi, memperhatikan ekspresi Maya yang tidak bergeming. "Kalau kamu butuh izin tidak masuk beberapa hari ke depan untuk mencari peluang baru, saya siap berikan akses."
 Maya merapikan surat itu kembali ke dalam amplop cokelat, menyusunnya sejajar dengan pulpen di atas meja.
 "Terima kasih atas keterusterangannya, Pak Rian," sahut Maya pelan. Suaranya terdengar stabil. "Saya akan menuntaskan semua sisa serah terima dokumen dan laporan evaluasi bulanan sebelum tanggal tiga puluh satu."
-
 Pak Rian menatapnya dengan tatapan heran sekaligus segan. "Kamu yakin tidak apa-apa, May? Kalau kamu butuh waktu istirahat sore ini..."
 
 "Saya tidak apa-apa, Pak. Saya tuntaskan pekerjaan saya dulu."
@@ -670,7 +668,7 @@ Di antara lalu lintas sore Jalan Riau yang padat dan deru mesin kendaraan yang b
 
 # **BAB 17: Jatuh**
 
-Dua hari setelah terakhir kali hadir di kantor, pada Minggu sore, 2 Februari 2025, langkah kaki Maya bergema cepat di atas lantai keramik dingin selasar Unit Gawat Darurat Rumah Sakit Cakrawala. Bau antiseptik yang menyengat bercampur aroma obat menyergap indra penciumannya, membuat dadanya semakin sesak.
+Pada Minggu sore, 2 Februari 2025, dua hari setelah hari terakhirnya di kantor, Maya bergegas menyusuri selasar Unit Gawat Darurat Rumah Sakit Cakrawala. Bau antiseptik yang menyengat bercampur aroma obat menyergap indra penciumannya, membuat dadanya semakin sesak.
 
 "Mbak Maya!"
 
@@ -704,7 +702,7 @@ Seorang dokter muda berpakaian jaga serba hijau melangkah mendekati ranjang memb
 
 Maya menelan ludah. "Penyebab pingsannya karena apa, Dok? Ibu tidak punya riwayat penyakit berat sebelumnya."
 
-"Hasil pengukuran tekanan darah saat tiba di UGD memang sangat rendah, ditambah indikasi dehidrasi," jawab sang dokter. "Tapi untuk memastikan apakah ada gangguan organ dalam atau pemicu sistemik lainnya, kami sudah mendaftarkan konsul ke dokter spesialis penyakit dalam. Dokter spesialisnya akan mengevaluasi kondisi keseluruhan begitu pasien dipindahkan ke ruang rawat inap."
+"Hasil pengukuran tekanan darah saat tiba di UGD memang sangat rendah, ditambah indikasi dehidrasi," jawab sang dokter. "Tapi untuk memastikan apakah ada gangguan organ dalam atau pemicu sistemik lainnya, kami sudah mendaftarkan konsul ke dokter spesialis penyakit dalam. Dokter spesialis penyakit dalam akan mengevaluasi kondisi Ratih setelah ia dipindahkan ke ruang rawat inap."
 
 Maya menatap ibunya yang kembali memejamkan mata karena pengaruh obat anti-nyeri. Tangan kanan Ratih yang biasa lincah memandu kain di bawah jarum mesin jahit kini terbaring tak berdaya. Bagi Ratih, tangan itu adalah alat penyambung hidup selama puluhan tahun.
 
@@ -720,7 +718,7 @@ Seorang perawat melangkah masuk memindahkan tiang infus Ratih untuk persiapan pi
 
 "Mbak Maya, berkas rawat inapnya sudah siap. Nanti di ruang perawatan, Dokter Daniel yang akan visit untuk evaluasi penyakit dalamnya," ujar perawat tersebut ramah.
 
-Maya mengangguk pelan, berdiri merapatkan selimut kain rumah sakit ke tubuh ibunya. Ia belum pernah mendengar nama dokter itu sebelumnya, dan ia tidak tahu bahwa pertemuan di ruang perawatan RS Cakrawala hari ini akan menjadi awal dari babak baru dalam perjalanan kehidupannya.
+Maya mengangguk pelan, berdiri merapatkan selimut kain rumah sakit ke tubuh ibunya. Ia belum pernah mendengar nama dokter itu sebelumnya. Ia juga belum tahu bahwa pertemuan di ruang perawatan RS Cakrawala hari itu akan menjadi awal dari babak baru dalam hidupnya.
 
 # **BAB 18: Dokter yang Bertugas**
 
@@ -742,9 +740,9 @@ Papan nama dari akrilik hitam berukir huruf perak tergantung rapi di saku dada k
 
 Maya mengangguk cepat. "Lalu soal pingsannya bagaimana, Dok? Apakah ada gangguan jantung atau pembuluh darah?"
 
-Daniel membalik lembaran hasil rekam jantung dan tes darah di papan jepitnya.
+Daniel membalik lembar hasil rekam jantung dan tes darah pada papan jepitnya.
 
-"Dari pemeriksaan awal, termasuk rekam jantung, pemeriksaan neurologis, dan tes darah, belum tampak tanda yang mengarah pada serangan jantung atau gangguan saraf akut," jelas Daniel dengan nada bicara yang runut, menjelaskan istilah medis kompleks menjadi kalimat yang mudah dipahami. "Tekanan darahnya saat tiba di UGD memang sangat rendah, delapan puluh per lima puluh. Ditambah asupan cairan dan makanan yang sangat minim selama dua hari terakhir, tubuhnya kesulitan mempertahankan tekanan darah saat berdiri dari posisi duduk di samping mesin jahit."
+"Dari pemeriksaan awal, termasuk rekam jantung, pemeriksaan neurologis, dan tes darah, belum tampak tanda yang mengarah pada serangan jantung atau gangguan saraf akut," jelas Daniel dengan runtut, menerjemahkan istilah medis yang rumit ke dalam kalimat yang mudah dipahami. "Tekanan darahnya saat tiba di UGD memang sangat rendah, delapan puluh per lima puluh. Ditambah asupan cairan dan makanan yang sangat minim selama dua hari terakhir, tubuhnya kesulitan mempertahankan tekanan darah saat berdiri dari posisi duduk di samping mesin jahit."
 
 Ratih yang terbaring di atas ranjang membuka matanya pelan. Suara ibunya keluar sangat serak. "Dokter... saya boleh pulang malam ini? Jahitan tetangga saya belum selesai..."
 
@@ -768,7 +766,7 @@ Maya memperhatikan siluet dokter spesialis penyakit dalam itu hingga menghilang 
 
 Selasa malam, 4 Februari 2025, aroma karbol tipis dan desing pendingin udara di selasar lantai tiga Rumah Sakit Cakrawala menusuk pori-pori kulit Maya. Di tangannya, selembar kertas rincian deposit awal rawat inap berstempel kasir terlipat dua, berdampingan dengan tiga lembar kuitansi tebus obat dari apotek rumah sakit.
 
-Maya mengusap wajahnya yang lelah, lalu membuka aplikasi perbankan di layar ponselnya.
+Maya mengusap wajah yang lelah, lalu membuka aplikasi perbankan di ponselnya.
 
 Angka saldo di rekeningnya menipis dengan cepat. Dana darurat dan tabungan yang semula diniatkan sebagai penyambung hidup selama mencari pekerjaan kini sudah terpotong hampir sepertiga dalam dua hari untuk biaya jaminan rumah sakit dan obat Ratih.
 
@@ -782,9 +780,9 @@ Ponsel di genggamannya bergetar. Nama Pak Dudung tertera di layar. Maya segera m
 
 "Aduh, May, tidak usah terburu-buru begitu. Pak RT bilang itu bantuan dari kas warga untuk musibah," tanggap Pak Dudung segan. "Kamu fokus saja dulu mengurus biaya rumah sakit sama pemulihan Bu Ratih."
 
-"Jangan begitu, Pak. Maya malah tidak enak kalau bikin kerepotan warga Kiaracondong lebih banyak lagi," sahut Maya halus. "Tolong kirimkan nomor rekening Pak RT ya, Pak. Biar dada Maya tenang."
+"Jangan begitu, Pak. Maya malah tidak enak kalau bikin kerepotan warga Kiaracondong lebih banyak lagi," sahut Maya halus. "Tolong kirimkan nomor rekening Pak RT ya, Pak. Biar Maya lebih tenang."
 
-Setelah menutup telepon dan memindahkan sejumlah uang untuk kas warga, Maya menarik napas panjang. Sikap tidak ingin merepotkan yang ia pelajari sejak kecil kembali bekerja secara otomatis. Bagi Maya, menanggung beban sendiri jauh lebih menenangkan daripada hidup di bawah bayang-bayang utang budi kepada orang lain.
+Setelah menutup telepon dan memindahkan sejumlah uang untuk kas warga, Maya menarik napas panjang. Kebiasaan untuk tidak merepotkan orang lain, yang ia pelajari sejak kecil, kembali muncul secara otomatis. Bagi Maya, menanggung beban sendiri jauh lebih menenangkan daripada hidup di bawah bayang-bayang utang budi kepada orang lain.
 
 Ia menyibak pintu geser kamar rawat inap kelas tiga. Ruangan berpendingin udara itu berisi empat ranjang yang dipisahkan oleh tirai kain biru tipis. Di ranjang sudut dekat jendela, Ratih sedang tertidur lelap. Napas ibunya terdengar teratur, meski pergelangan tangan kanannya yang terbebat kaku diganjal bantal kecil agar tidak tertekan.
 
@@ -818,11 +816,11 @@ Daniel mengangguk hormat, lalu melangkah keluar kamar bersama perawat untuk mela
 
 Maya kembali duduk di kursi lipat di samping tempat tidur Ratih. Ia menatap punggung tangan ibunya yang tertancap jarum infus, lalu memandang keluar jendela kaca yang memperlihatkan kerlap-kerlip lampu kota Bandung di bawah naungan malam.
 
-Ketakutan akan pekerjaan yang hilang dan saldo tabungan yang mengikis masih ada di sana, menunggu di luar pintu rumah sakit. Namun malam ini, di dalam ruang tunggu yang tenang itu, penjelasan jujur dan sikap tenang Dokter Daniel telah memberi Maya sedikit ruang untuk bernapas lega.
+Ketakutan akan kehilangan pekerjaan dan menipisnya saldo tabungan masih ada, menunggu di luar pintu rumah sakit. Namun malam ini, di dalam ruang tunggu yang tenang itu, penjelasan jujur dan sikap tenang Dokter Daniel telah memberi Maya sedikit ruang untuk bernapas lega.
 
 # **BAB 20: Pulang dengan Perban**
 
-Jumat, 7 Februari 2025. Setelah kondisi Ratih stabil dan dokter mengizinkan rawat jalan, Maya mengantarnya pulang ke rumah Kiaracondong. Aroma uap minyak kayu putih mendadak kalah oleh bau debu kain katun saat pintu kayu rumah Kiaracondong digeser separuh. Langkah Ratih terhenti tepat di ambang teras, matanya tertuju lurus pada tumpukan bahan kebaya merah muda yang masih tersangkut di bawah jarum mesin jahit.
+Jumat, 7 Februari 2025. Setelah kondisi Ratih stabil dan dokter mengizinkan rawat jalan, Maya mengantarnya pulang ke rumah Kiaracondong. Aroma uap minyak kayu putih mendadak kalah oleh debu kain katun saat pintu kayu rumah Kiaracondong digeser separuh. Langkah Ratih terhenti tepat di ambang teras, matanya tertuju lurus pada tumpukan bahan kebaya merah muda yang masih tersangkut di bawah jarum mesin jahit.
 
 Tangan kiri Ratih yang tidak terbebat refleks terulur, seolah ingin meraih gulungan benang di atas meja.
 
@@ -832,13 +830,13 @@ Ratih menghela napas panjang, merosotkan tubuhnya pelan ke atas kasur tipis berl
 
 "Itu kebaya hajatan Bu Yanti, May," kata Ratih dengan suara serak. Matanya menatap tumpukan kain itu dengan gurat cemas. "Harusnya besok Sabtu sudah masuk tahap pasang kancing. Kalau ditunda, Bu Yanti bisa bingung cari penjahit pengganti."
 
-Maya mendudukkan diri di samping ibunya, merapikan bantal penyangga di belakang punggung Ratih.
+Maya duduk di samping ibunya, lalu merapikan bantal penyangga di belakang punggung Ratih.
 
 "Sebelum Ibu pulang, dokter ortopedi sudah mengingatkan," ujar Maya sambil menatap mata ibunya lurus-lurus. "Tangan kanan Ibu tidak boleh dipakai mengangkat beban atau menarik kain setidaknya empat minggu. Kalau dipaksakan, tulangnya bisa bergeser lagi."
 
 Ratih terdiam, menunduk menatap gips tebal di tangannya. Kehilangan fungsi tangan kanan bagi seorang penjahit tunggal seperti Ratih bukan sekadar soal rasa sakit fisik, melainkan terhentinya satu-satunya roda penggerak dapur rumah mereka selama dua puluh tahun terakhir.
 
-Maya meraih tas kain berisi berkas resep obat dan lembar instruksi kontrol dari RS Cakrawala. Di dalam amplop rumah sakit itu, terselip pula lembar informasi kontrol rawat jalan rumah sakit yang memuat nomor layanan resmi untuk membuat janji pemeriksaan.
+Maya meraih tas kain berisi berkas resep obat dan lembar instruksi kontrol dari RS Cakrawala. Di dalam amplop rumah sakit itu terselip lembar informasi kontrol rawat jalan yang memuat nomor layanan resmi untuk membuat janji pemeriksaan.
 
 "Soal pesanan kain Bu Yanti dan tetangga lain, biar Maya yang urus sore ini," lanjut Maya tenang. "Nanti Maya datang ke rumah Bu Yanti, minta maaf baik-baik, dan kembalikan bahan kainnya beserta uang mukanya."
 
@@ -858,7 +856,7 @@ Maya menarik napas panjang, mengembuskannya perlahan.
 
 Ia memasukkan tumpukan kain pesanan itu ke dalam dua kantong plastik bersih. Hari ini, ia tidak lagi memiliki pekerjaan kantor untuk dikejar, tidak lagi memiliki pesan manis Arman untuk ditunggu, dan saldo tabungannya menipis ke batas terendah.
 
-Namun saat melangkah keluar menuju rumah Bu Yanti di ujung gang Kiaracondong dengan dua kantong plastik di tangannya, Maya merasakan ketegangan di dadanya perlahan terurai. Ia memang belum tahu bagaimana cara membayar biaya kontrakan bulan depan atau di mana ia akan bekerja esok hari, tetapi untuk pertama kalinya setelah sekian lama, Maya tahu persis apa yang harus ia lakukan: menjaga rumah ini tetap berdiri dengan tangannya sendiri.
+Namun saat melangkah keluar menuju rumah Bu Yanti di ujung gang Kiaracondong dengan dua kantong plastik di tangannya, Maya merasakan ketegangan di dadanya perlahan terurai. Ia memang belum tahu bagaimana membayar kontrakan bulan depan atau di mana ia akan bekerja setelah ini. Namun, untuk pertama kalinya setelah sekian lama, Maya tahu apa yang harus ia lakukan: menjaga rumah ini tetap berdiri dengan tangannya sendiri.
 
 # **BAB 21: Pekerjaan yang Hilang**
 
@@ -890,14 +888,14 @@ Saat memasuki rumah kontrakan Kiaracondong, ia mendapati Ratih sedang duduk di k
 
 Maya tersenyum paling tenang yang bisa ia tampilkan, merapikan bahu celemek Ratih dengan lembut.
 
-"Sudah ada beberapa berkas yang masuk tahap penyaringan, Bu," jawab Maya halus. Alasan itu ia susun rapi agar Ratih tidak perlu memikirkan saldo rekeningnya yang makin menipis. "Biasanya proses di perusahaan swasta butuh waktu satu dua minggu. Ibu fokus pemulihan tangan saja, tidak usah memikirkan biaya."
+"Sudah ada beberapa berkas yang masuk tahap penyaringan, Bu," jawab Maya halus. Jawaban itu ia susun agar Ratih tidak perlu memikirkan saldo rekeningnya yang makin menipis. "Biasanya proses di perusahaan swasta butuh waktu satu atau dua minggu. Ibu fokus pemulihan tangan saja, tidak usah memikirkan biaya."
 
 Ratih menatap putrinya lama, lalu menghela napas panjang. "Maaf ya, May. Gara-gara tangan Ibu patah kemarin, tabunganmu jadi terpakai banyak."
 "Sama sekali tidak apa-apa, Bu," pangkas Maya tegas namun lembut. Ia menggenggam jemari kiri Ratih. "Uang bisa dicari lagi. Yang penting Ibu sehat dan tangannya sembuh sempurna."
 
 Ratih tersenyum tipis, mengusap punggung tangan Maya.
-Malam harinya saat kembali ke rumah kontrakan Antapani, Maya kembali duduk di depan layar laptopnya hingga pukul sebelas malam. Ia menekan tombol *kirim* pada berkas lamaran kelimabelas untuk minggu ini.
 
+Malam harinya saat kembali ke rumah kontrakan Antapani, Maya kembali duduk di depan layar laptopnya hingga pukul sebelas malam. Ia menekan tombol *kirim* pada berkas lamaran kelimabelas untuk minggu ini.
 Di dalam ruangan yang sunyi itu, Maya menatap pantulan wajahnya di kaca jendela yang gelap. Ketakutan akan penolakan dan bayangan rekening yang mengering masih membayangi. Ia membuka buku catatan, menuliskan nama lima belas perusahaan yang telah dikirimi lamaran minggu itu, lalu memberi tanda pada dua lowongan yang perlu ia tindak lanjuti esok hari.
 
 # **BAB 22: Yayasan Lentera Sehat**
@@ -940,7 +938,7 @@ Maya menyandarkan punggungnya ke sandaran kursi kayu, menatap layar monitor yang
 
 Kamis pagi, 6 Maret 2025. Langkah kaki Maya bergema pelan di atas selasar berubin abu-abu gedung **Yayasan Lentera Sehat** di kawasan Jalan RE Martadinata. Suasana kantor nirlaba itu terasa jauh berbeda dibanding agensi komersial tempatnya bekerja dulu. Tidak ada dinding kaca tinggi berpendingin udara dingin yang kaku, melainkan deretan papan pengumuman kayu berisi foto-foto kegiatan penyuluhan desa dan senyum ramah dua staf penerima tamu yang sedang merapikan brosur kesehatan.
 
-Maya mendudukkan diri di kursi kayu ruang tunggu, merapikan letak blazer hitam yang melapisi kemeja putihnya. Di dalam tas kulitnya, salinan portofolio kampanye publikasi dan dokumen pengalaman kerjanya sudah tersusun rapi.
+Maya duduk di kursi kayu ruang tunggu, merapikan letak blazer hitam yang melapisi kemeja putihnya. Di dalam tas kulitnya, salinan portofolio kampanye publikasi dan dokumen pengalaman kerjanya sudah tersusun rapi.
 
 "Mbak Maya Pramesti?" sapa seorang wanita berkerudung biru navy yang melangkah keluar dari ruang wawancara membawa map hijau.
 
@@ -948,13 +946,13 @@ Maya segera berdiri dan menyunggingkan senyum profesional. "Iya, Mbak."
 
 "Saya Dewi, Kepala Divisi Komunikasi Yayasan Lentera Sehat. Mari masuk, Mbak Maya," ajaknya hangat.
 
-Wawancara berlangsung selama empat puluh lima menit. Di dalam ruangan beraroma kertas baru dan teh melati itu, Mbak Dewi bersama staf HRD menanyakan dengan cermat perihal pengalaman Maya menyusun naskah penyuluhan, strategi media sosial, hingga ketelitiannya menyusun laporan evaluasi bulanan. Tidak ada pertanyaan menjebak atau formalitas gengsi. Maya menjelaskan latar belakang kualifikasinya dengan lugas, tenang, dan jujur tanpa melebih-lebihkan.
+Wawancara berlangsung selama empat puluh lima menit. Di dalam ruangan beraroma kertas baru dan teh melati itu, Mbak Dewi bersama staf HRD menanyakan pengalaman Maya dengan cermat menyusun naskah penyuluhan, strategi media sosial, hingga ketelitiannya menyusun laporan evaluasi bulanan. Tidak ada pertanyaan menjebak atau formalitas gengsi. Maya menjelaskan latar belakang kualifikasinya dengan lugas, tenang, dan jujur tanpa melebih-lebihkan.
 
 Mbak Dewi menutup map portofolio Maya sambil mengangguk-angguk puas. "Pengalaman Mbak Maya mengolah data laporan di kantor lama sangat cocok dengan yang kami butuhkan. Di sini kami tidak cuma butuh narasi yang bagus, tapi juga ketepatan data evaluasi program edukasi untuk mitra rumah sakit dan dinas."
 
 "Saya siap menyesuaikan ritme kerja dan mempelajari fokus program kesehatan yayasan, Mbak," sahut Maya yakin.
 
-Empat hari kemudian, pada **sepuluh Maret**, dering telepon di meja kontrakan Antapani memutus keheningan pagi Maya.
+Empat hari kemudian, pada **10 Maret 2025**, dering telepon di meja kontrakan Antapani memutus keheningan pagi Maya.
 
 "Selamat pagi, Mbak Maya. Kami dari HRD Yayasan Lentera Sehat ingin mengonfirmasi bahwa berdasarkan hasil wawancara minggu lalu, **Mbak Maya dinyatakan diterima untuk posisi Staf Komunikasi dan Publikasi**," suara staf HRD dari ujung telepon terdengar melegakan.
 
@@ -962,17 +960,17 @@ Maya menahan napas sejenak, meremas pinggiran meja kayu. Rasa hangat menyeruak m
 
 "Surat penawaran kerja resmi dan rincian hak gaji sudah kami kirimkan via surel ya, Mbak. Hari pertama masuk dijadwalkan tanggal **tujuh belas Maret**."
 
-Setelah menutup telepon, Maya terduduk di tepi ranjang. Ia memejamkan mata erat-erat, mengembuskan napas panjang yang selama berminggu-minggu tertahan di dadanya. Rasa cemas akan saldo tabungan yang menipis dan ketakutan akan kehilangan arah perlahan terangkat. Kesempatan baru ini datang berkat usaha, ketekunan, dan kompetensi yang ia perjuangkan sendiri, tanpa uluran tangan atau campur tangan dari siapa pun.
+Setelah menutup telepon, Maya terduduk di tepi ranjang. Ia memejamkan mata erat-erat, mengembuskan napas panjang yang selama berminggu-minggu tertahan di dadanya. Rasa cemas akan saldo tabungan yang menipis dan ketakutan akan kehilangan arah perlahan terangkat. Kesempatan baru ini datang berkat usaha, ketekunan, dan kompetensinya sendiri.
 
 Ia segera menghubungi Kiaracondong untuk mengabarkan berita gembira itu pada Ratih. Suara ibunya dari ujung telepon terdengar begitu lega dan penuh syukur, membuat Maya terharu hingga matanya berkaca-kaca.
 
-Pada **tujuh belas Maret**, Maya melangkahkan kaki memasuki pintu utama Yayasan Lentera Sehat sebagai karyawan resmi.
+Pada **17 Maret 2025**, Maya melangkahkan kaki memasuki pintu utama Yayasan Lentera Sehat sebagai karyawan resmi.
 
-Mbak Dewi menyambutnya di sudut ruangan kerja divisi komunikasi, menyerahkan sebuah kartu identitas baru berselendang pita biru dan mengenalkannya pada tiga rekan timnya. Meja kerjanya terletak di dekat jendela yang menghadap ke halaman samping yang hijau. Di atas papan kayu meja itu, sebuah laptop inventaris dan tumpukan dokumen panduan program edukasi kesehatan masyarakat sudah tertata rapi.
+Mbak Dewi menyambutnya di ruang kerja divisi komunikasi, menyerahkan kartu identitas dengan tali biru, lalu mengenalkannya kepada tiga rekan satu tim. Meja kerjanya terletak di dekat jendela yang menghadap ke halaman samping yang hijau. Di atas papan kayu meja itu, sebuah laptop inventaris dan tumpukan dokumen panduan program edukasi kesehatan masyarakat sudah tertata rapi.
 
-Maya mendudukkan diri di kursinya, memasang kartu identitas kerja di kerah kemejanya, lalu menyalakan layar komputer.
+Maya duduk, memasang kartu identitas di kerah kemejanya, lalu menyalakan komputer.
 
-Saat jemarinya mulai mengetikkan baris pertama draf rencana publikasi program kesehatan bulan April, Maya tersenyum tipis. Ia telah mengarungi gelombang kehilangan yang merobek hidupnya sejak awal tahun. Kini, di atas meja kerja yang baru ini, Maya kembali berdiri tegak, siap mengukir lembar kehidupannya atas pilihannya sendiri.
+Saat jemarinya mulai mengetikkan baris pertama draf rencana publikasi program kesehatan bulan April, Maya tersenyum tipis. Sejak awal tahun, ia telah melewati serangkaian kehilangan. Kini, di meja kerja barunya, Maya kembali menata hidup dengan pilihannya sendiri.
 
 # **BAB 24: Nama yang Dikenal**
 
@@ -984,7 +982,7 @@ Ini hari Sabtu pertamanya bertugas memimpin dokumentasi dan publikasi kegiatan l
 
 Maya mengarahkan lensa kamera, mengambil beberapa foto suasana seminar.
 
-Di balik bidikan lensa, raut wajah Daniel tidak banyak berubah dibanding malam di ruang perawatan lantai tiga bulan Februari lalu. Sorot matanya tetap jernih dan berwibawa, dengan pembawaan yang tenang yang membuat para peserta, yang sebagian besar terdiri dari kaum ibu dan lansia, menyimak penjelasannya tanpa canggung.
+Di balik bidikan lensa, raut wajah Daniel tidak banyak berubah dibanding malam di ruang perawatan lantai tiga bulan Februari lalu. Sorot matanya tetap jernih dan berwibawa, dengan pembawaan tenang yang membuat para peserta, yang sebagian besar terdiri dari kaum ibu dan lansia, menyimak penjelasannya tanpa canggung.
 
 "Kunci utama perawatan tekanan darah bukan cuma minum obat saat pusing," ujar Daniel sambil menggeser slide presentasi di layar proyektor. "Tapi membangun rutinitas asupan cairan dan istirahat yang konsisten setiap hari."
 
@@ -1198,7 +1196,6 @@ Maya memeluk kedua lututnya, menatap ke arah langit malam yang bertabur sedikit 
 Dalam empat bulan terakhir, kehidupannya telah berguncang hebat. Ia kehilangan pria yang menjadi pusat gravitasinya selama lima tahun, kehilangan pekerjaan lama yang memberinya rasa aman, dan menghadapi musibah kesehatan ibunya. Namun malam ini, di balik semua rasa sakit yang pernah menimpanya, Maya menyadari bahwa ia telah berhasil melewati titik-titik terendah itu satu demi satu.
 
 Ia telah memiliki pekerjaan baru yang menghargainya secara profesional, ibunya berangsur pulih, dan ia tidak lagi harus berpura-pura mengalah demi menyenangkan hati pria yang tak pernah memberi kepastian.
-
 Meski demikian, Maya tidak membohongi dirinya sendiri. Rasa pulih itu belum sepenuhnya tuntas. Masih ada sisa-sisa kesedihan yang singgah saat ia teringat bagaimana lima tahun hidupnya menguap begitu saja. Ada rasa sepi yang sesekali merayap di malam hari, mengingatkannya bahwa ia belum sepenuhnya menyembuhkan luka akibat tidak pernah dipilih.
 
 Maya menarik napas panjang, mengembuskannya perlahan ke udara malam.
@@ -1498,7 +1495,6 @@ Maya menggenggam ponselnya di atas meja, menatap layar kaca yang gelap. Ia membi
 Ingatan itu masih menyisakan perih, tetapi tidak lagi mendorong Maya untuk menuntut keadilan atau meminta penjelasan ulang. Ia mulai bisa membiarkan kenangan itu lewat tanpa merasa harus melakukan sesuatu terhadap Arman.
 
 Maya meletakkan ponselnya telungkup di papan kayu meja, lalu kembali memfokuskan pandangannya pada draf naskah publikasi di layar laptop.
-
 Mengingat seseorang tidak berarti harus mengundangnya kembali ke dalam hidup. Maya menerima kenyataan bahwa lima tahun bersama Arman adalah bagian dari riwayat hidupnya yang telah membentuk ketahanannya hari ini. Namun, sejarah itu telah selesai, dan ia tidak perlu mengulang kesalahan yang sama demi memuaskan rasa rindu pada kenangan yang sudah mati.
 
 Pukul delapan malam di rumah kontrakan Antapani, keheningan kamar diputus oleh getaran pendek ponsel Maya.
@@ -1798,7 +1794,6 @@ Suara gesekan cangkir keramik di atas meja kaca apartemen Ciumbuleuit terdengar 
 Daniel baru saja hendak beranjak menuju kamar kerja membawa laptop kerjanya ketika suara Sarah menghentikan langkahnya.
 
 "Niel, bisa duduk sebentar? Ada hal penting yang perlu kita bicarakan," kata Sarah pelan.
-
 Suara Sarah tidak meninggi, tidak pula terdengar bergetar emosional. Namun, ada ketegasan jernih dalam intonasinya yang membuat Daniel tak sanggup mengabaikan ajakan itu.
 
 Daniel memindahkan laptopnya ke tepi sofa, lalu mendudukkan diri di kursi kayu seberang meja makan. Ia menatap istrinya, berusaha mempertahankan raut wajahnya yang biasa tenang. "Ada apa, Sar? Soal draf suntingan bukumu atau jadwal kontrol autoimun minggu depan?"
@@ -2098,7 +2093,6 @@ Suara ketikan kibor, deru mesin cetak di sudut ruangan, dan kesibukan staf lapan
 Di layar monitor, saat matanya melewati baris nama dr. Daniel Aditya, Sp.PD pada daftar narasumber medis terlampir, dada Maya berdesir tipis. Namun, getaran itu kini tak lagi membawa rasa hangat atau debar penantian. Yang tertinggal hanyalah rasa malu yang teramat dingin.
 
 Mbak Dewi melintas di samping meja Maya membawa dua map arsip. "Mbak Maya, draf revisi penyuluhan Batununggal yang dari tim medis RS Cakrawala sudah dimasukkan ke folder cetak?"
-
 Maya mendongak, menyunggingkan senyum profesional yang teratur. "Sudah, Mbak Dewi. Tadi pagi sudah saya periksa ulang format angkanya dan sudah siap kirim ke percetakan."
 
 "Bagus kalau begitu. Terima kasih ya, cekatan sekali," puji Mbak Dewi ramah sebelum melangkah menuju ruang pimpinan.
@@ -2398,7 +2392,6 @@ Tidak ada ledakan amarah, tidak ada makian pahit, dan tidak ada air mata penyesa
 Dengung halus angin malam membias di celah jendela. Maya duduk di meja kerjanya, membuka buku catatan keuangan harian. Ia merencanakan jadwal kontrol rutin Ratih di RS Cakrawala untuk awal bulan depan dan mencatat estimasi biaya penyuntingan berkas yayasan.
 
 Ia memandang bayangan dirinya pada pendar kaca jendela yang temaram.
-
 Maya menyadari sebuah pelajaran penting dalam hidupnya. Selama ini, ia selalu menganggap bahwa pintu maaf harus dibuka selebar-lebarnya setiap kali seseorang datang membawa penyesalan. Ia mengira bahwa bersikap dewasa berarti harus selalu mengalah dan memaklumi kesalahan orang lain.
 
 Namun malam ini, di bawah naungan malam kota Bandung yang tenang, Maya mengerti bahwa kedewasaan batin justru terletak pada keberanian menetapkan batas. Mengetahui alasan seseorang menyakitinya tidak berarti ia harus membiarkan orang tersebut kembali ke dalam hidupnya. Penjelasan Arman telah memberikan jawaban atas pertanyaan masa lalunya, tetapi masa depannya kini sepenuhnya menjadi miliknya untuk ditentukan sendiri.
@@ -2697,7 +2690,6 @@ Maya berjalan melangkah ke arah jendela teras, membuka katup kayunya lebar-lebar
 Maya memejamkan mata sejenak, menghirup udara dingin itu dalam-dalam. Maya tidak ingin menarik kembali batas yang baru saja ia sampaikan. Meski masih ada sedih dan ragu yang belum dapat ia uraikan, ia merasa sedikit lega karena kali ini ia tidak memaksakan diri menyetujui sesuatu yang belum siap dijalaninya.
 
 Maya kembali ke meja dan menuliskan tanggal percakapan itu di buku catatannya. Ia belum tahu bagaimana hubungan mereka akan berkembang, tetapi setidaknya kali ini ia tidak menyetujui sesuatu yang belum siap dijalaninya.
-
 # **BAB 57: Memulai Konseling**
 
 Senin pagi, delapan Desember dua ribu dua puluh lima, udara sejuk menyelimuti pelataran sebuah bangunan cagar budaya berarsitektur kolonial di kawasan Jalan Ganesha. Dinding bata merah yang tertutup merambatnya tanaman ivy dan pepohonan rimbun di halaman memberikan suasana tenang, jauh dari bising lalu lintas kota Bandung.
@@ -2997,7 +2989,6 @@ Pekerjaan ini, pencapaian ini, dan rasa bangga yang memenuhi dadanya adalah mili
 Jumat sore, enam belas Januari dua ribu dua puluh enam, rintik hujan mengguyur atap seng rumah sederhana di kawasan Kiaracondong. Aroma minyak kayu putih beradu halus dengan uap hangat dari dua cangkir teh melati dan piring berisi pisang goreng renyah yang baru diangkat Ratih dari penggorengan.
 
 Maya duduk di dipan kayu ruang tengah, merapikan bungkusan kue bolu kukus yang dibelinya di perlintasan jalan stasiun usai pulang kantor.
-
 Dua hari setelah menerima surat keputusan pengangkatan sebagai Koordinator Utama Komunikasi dan Publikasi di Yayasan Lentera Sehat pada empat belas Januari lalu, Maya memutuskan menghabiskan akhir pekannya di Kiaracondong. Senyum bangga dan usapan haru Ratih saat mendengar kabar pengangkatan jabatan Maya tadi sore menghadirkan kehangatan yang melapangkan dada.
 
 Ratih melepas celemek kainnya, mendudukkan diri di sebelah Maya pada dipan kayu.
@@ -3297,7 +3288,6 @@ Maya berhenti sejenak, memikirkan berapa banyak keputusan yang selama ini ia tun
 Poin pertama: Kemandirian Finansial dan Tabungan Masa Depan. Maya menghitung cermat alokasi kenaikan gajinya. Ia membagi anggarannya ke dalam tiga pos utama: dana darurat enam bulan untuk kesehatan Ratih, tabungan kepemilikan hunian mandiri—sebuah rumah kecil tipe tiga puluh enam di kawasan Bandung Timur yang ingin ia beli atas namanya sendiri dalam tiga tahun ke depan—serta pos investasi berkala.
 
 Poin kedua: Pengembangan Profesional dan Kompetensi. Maya mencatat tenggat pendaftaran program pelatihan Public Health Communication Masterclass yang diselenggarakan oleh konsorsium komunikasi kesehatan nasional pada bulan Maret mendatang. Ia juga merencanakan penyusunan modul edukasi mandiri yang ingin ia publikasikan secara independen.
-
 Poin ketiga: Kesejahteraan Batin dan Ruang Pribadi. Maya menjadwalkan konseling psikologis rutin dua minggu sekali bersama Mbak Melani, mengalokasikan waktu akhir pekan untuk berjalan kaki di taman-taman kota Bandung, serta menyisihkan waktu khusus untuk kembali menikmati hobinya membaca buku sastra tanpa diburu rasa cemas.
 
 Maya memandangi baris-baris tulisan di atas kertas agenda tersebut.

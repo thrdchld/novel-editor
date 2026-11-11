@@ -298,7 +298,6 @@ Maya menahan napas sejenak. Kata rumah selalu terasa berat sekaligus asing di da
 
 Arman mengambil kalung itu dari kotaknya, lalu berdiri pelan untuk memakaikannya ke leher Maya. Sentuhan jemari Arman yang hangat di tengkuknya membuat dada Maya berdesir pelan.
 "Mulai hari ini, sepuluh Januari, kamu mau kan resmi jalan sama aku?" bisik Arman di dekat telinganya sebelum kembali duduk. "Aku janji, May. Aku tidak akan ke mana-mana. Aku bakal terus ada di sini buat kamu."Janji itu diucapkan dengan begitu mudah dan yakin.Bagi Maya yang sejak kecil tumbuh dengan rasa takut akan penolakan, kalimat *aku tidak akan ke mana-mana* adalah kalimat paling indah yang pernah ia dengar. Kalimat itu meluluhkan seluruh pertahanan emosional yang selama ini ia bangun di depan orang lain. Maya menunduk, mengusap liontin lingkaran di dadanya dengan ibu jari, merasakan dinginnya logam perak yang perlahan menyerap hangat tubuhnya."Aku juga mau, Mas," sahut Maya pelan. Senyum tipis mengukir bibirnya, sebuah senyuman tulus tanpa beban kekhawatiran.
-
 Malam itu, di bawah rinai hujan Ciumbuleuit pada sepuluh Januari lima tahun lalu, Maya percaya sepenuhnya bahwa masa-masa menunggunya telah usai. Ia meyakini bahwa Arman adalah jawaban atas segala ketakutannya, pria yang secara sadar memilihnya dan tidak akan pernah meninggalkannya seperti yang dilakukan ayahnya.
 
 Maya tidak tahu bahwa lima tahun kemudian, ia akan mengingat janji itu ketika menemukan foto pertunangan Arman dan Celine.
@@ -481,7 +480,7 @@ Bulan November. Dua bulan lalu. Bulan yang sama saat Arman masih tidur di sofa k
 
 "Karena aku tidak bisa melepas kamu, May!" potong Arman cepat, suaranya meninggi penuh desakan emosional. Ia meraih kedua tangan Maya, menggenggamnya erat-erat meski Maya mencoba menariknya mundur. "Aku butuh kamu. Bersama Celine itu urusan posisi dan masa depan karierku, tapi kenyamanan dan rumahku itu cuma kamu. Aku belum siap kehilangan kamu, May."
 
-Maya menatap pria di hadapannya. Tidak ada lagi sosok pria dewasa, bertanggung jawab, dan pelindung yang selama lima tahun ini ia kagumi. Yang duduk di sampingnya saat ini hanyalah seorang pria egois yang mementingkan kenyamanannya sendiri, pria yang dengan sadar memanipulasi dua perempuan sekaligus demi tidak kehilangan apa pun.
+Maya menatap Bima. Tidak ada lagi sosok pria dewasa, bertanggung jawab, dan pelindung yang selama lima tahun ini ia kagumi. Yang duduk di sampingnya saat ini hanyalah seorang pria egois yang mementingkan kenyamanannya sendiri, pria yang dengan sadar memanipulasi dua perempuan sekaligus demi tidak kehilangan apa pun.
 
 Arman tidak sedang terjebak keadaan. Arman merancang kebohongan ini dengan sadar.
 
@@ -597,7 +596,6 @@ Pak Rian menatapnya dengan tatapan heran sekaligus segan. "Kamu yakin tidak apa-
 Maya berdiri dan membawa amplop cokelat itu kembali ke kubikelnya.
 Saat melewati deretan meja rekan kerjanya, Maya melihat Nita sedang berdiri di dekat mesin pencetak dokumen. Nita melihat amplop di tangan Maya dan ekspresi sahabatnya yang mendadak kaku. Nita segera melangkah mengikuti Maya hingga ke kubikelnya.
 "May, ada apa? Pak Rian panggil kamu soal apa tadi?" tanya Nita setengah berbisik, bersandar di sekat kayu kubikel.
-
 Maya meletakkan amplop cokelat itu di dalam laci meja kerja yang paling bawah, lalu memutarnya dengan kunci.
 
 "Pengurangan tenaga kerja, Nit. Efisiensi divisi," jawab Maya singkat.
@@ -897,7 +895,6 @@ Setelah rentetan surel penolakan dari beberapa agensi komersial sepanjang bulan 
 
 Maya menggeser kursor ke bawah, membaca lembar kualifikasi yang tertera di sana. Yayasan itu bergerak di bidang edukasi kesehatan masyarakat, pendampingan pasien kurang mampu, serta penyelenggaraan program pelayanan kesehatan berkala di wilayah Jawa Barat. Mereka membutuhkan seseorang yang sanggup menyusun materi penyuluhan publik, mengelola media sosial lembaga, serta merancang laporan evaluasi program edukasi lapangan.
 Tidak ada persyaratan khusus mengenai batasan usia atau pengalaman di perusahaan multinasional. Syarat utamanya adalah pengalaman minimal dua tahun di bidang komunikasi publik, kemampuan menyusun narasi edukatif, serta kerapian pengolahan data kampanye.
-
 Maya mengusap pelipisnya yang sedikit pegal. Pengalaman tiga tahunnya di kantor lama dalam mengelola laporan evaluasi kampanye media sosial terasa sangat relevan dengan apa yang dicari lembaga ini.
 
 Ia membuka folder dokumen lamarannya, lalu mulai merombak surat pengantar kerja. Maya tidak lagi menggunakan template formal yang kaku. Ia menyesuaikan setiap kalimatnya agar mencerminkan fokus yayasan: menerjemahkan istilah medis dan program kesehatan yang rumit menjadi naskah edukasi yang hangat, mudah dipahami masyarakat awam, dan tepat sasaran.
@@ -1197,7 +1194,6 @@ Rapat koordinasi persiapan program edukasi posyandu gabungan bersama tim RS Cakr
 Maya mengambil ponselnya dari dalam saku tas, berniat memeriksa jadwal bus angkutan kota untuk perjalanan pulang ke Antapani.
 
 Sebuah notifikasi pesan masuk muncul di layar. Nama kontak yang tertera di sana bukan dari grup panitia gabungan, melainkan nomor pribadi Dokter Daniel yang biasanya hanya ia lihat di dalam daftar anggota grup resmi.
-
 Mbak Maya, maaf mengganggu jam pulangnya. Ini Daniel.
 
 Dada Maya berdesir tipis. Ia menatap baris pesan itu sejenak sebelum ibu jarinya membalas.
@@ -1497,7 +1493,6 @@ Terima kasih banyak, Dokter Daniel. Berarti besok pagi bisa langsung saya serahk
 Sama-sama, May. Terima kasih juga sudah selalu teliti merapikan materi medis kami, balasan Daniel menyusul cepat, disusul pertanyaan ringan seputar kegiatannya sore tadi.
 
 Maya memeluk bantal kecilnya, membalas pesan Daniel dengan perasaan yang tenang. Malam dua belas Agustus tahun ini berlalu tanpa kue tart atau ucapan tengah malam untuk Arman. Namun, pesan Daniel yang datang menjelang tidur mengingatkan Maya bahwa meski satu bagian dari masa lalunya mulai terasa lebih jauh, kedekatan baru sedang tumbuh di ruang yang belum sepenuhnya ia pahami.
-
 # **BAB 35: Perhatian yang Berbeda**
 
 Jumat sore, 15 Agustus 2025. Sinar matahari mulai meredup di balik deretan pohon mahoni Jalan RE Martadinata. Di dalam ruang kerja kantor Yayasan Lentera Sehat yang mulai sepi, Maya masih menatap layar laptopnya yang menampilkan draf penyuluhan kesehatan lansia untuk kecamatan Batununggal.
@@ -1797,7 +1792,6 @@ Refleks pertahanan diri Daniel bekerja seketika. Pria itu memperbaiki posisi dud
 Daniel mengepalkan jemarinya di bawah tepi meja. Bayangan raut wajah Maya, pesan-pesan malam di kamar Antapani, dan pengakuan pengandaian waktu di pelataran Pasteur seketika melintas cepat di kepalanya.
 
 "Kalau yang kamu maksud Mbak Maya dari Yayasan Lentera Sehat," ujar Daniel, menyusun kebohongan parsial dengan nada rasional, "hubungan kami murni profesional. Dia staf publikasi yang mengurus pamflet dan draf edukasi kesehatan warga. Kami berkomunikasi karena ada program posyandu gabungan yang harus diselesaikan."
-
 Sarah menatap suaminya dengan kecewa. Ia mendengar jawaban itu, tetapi ia tidak membeli pengalihan isu yang disusun suaminya.
 
 "Rapat koordinasi dan urusan pamflet tidak butuh notifikasi pesan setiap malam pukul sembilan, Niel," balas Sarah datar. "Kerja sama profesional tidak membuat seorang suami refleks menyembunyikan ponselnya setiap kali istrinya melintas di ruang tengah. Dan urusan dinas tidak pernah membuat mata seseorang berbinar hanya karena melihat pesan masuk pada malam ulang tahunnya."
@@ -2098,7 +2092,6 @@ Ia mengingat kembali perjalanan hidupnya sepanjang tahun ini. Ketika Arman bertu
 Ia pernah disakiti oleh kebohongan orang lain, tetapi ia juga telah ikut menjadi bagian dari kebohongan yang melukai perempuan lain.
 
 Maya menarik napas panjang, mengembuskannya pelan ke dalam kegelapan kamar. Mengakui kesalahan diri sendiri ternyata jauh lebih menyakitkan daripada meratapi rasa sakit akibat perlakuan orang lain. Namun, di balik perihnya penyesalan itu, ada kejelasan baru yang mulai menetap di dada Maya.
-
 Maya menutup aplikasi percakapan, meletakkan ponselnya di laci, lalu membuka kembali daftar pekerjaan untuk esok pagi. Rasa bersalah itu belum selesai, tetapi ia tidak ingin membiarkannya menjadi alasan untuk mengabaikan tanggung jawab hari ini.
 
 # **BAB 46: Jarak**
@@ -2397,8 +2390,7 @@ Ada kecanggungan yang tak biasa pada raut wajah Ratih sore itu. Jemari tangannya
 
 Maya meletakkan cangkir sengnya di atas meja kecil. Ia menatap ibunya dengan kening sedikit berkerut. "Iya, Bu? Ada apa? Tangan Ibu kaku lagi saat menjahit?"
 Ratih menggeleng perlahan. Ia mendudukkan diri di bangku kayu di samping dipan, menangkupkan kedua telapak tangannya di atas paha.
-
-"Tangan Ibu tidak apa-apa," sahut Ratih. Ia menatap mata Maya lurus-lurus, membiarkan keheningan menyela sejenak di antara deru hujan di luar rumah. "Hari Minggu kemarin... tanggal dua puluh tiga... ada telepon masuk ke nomor rumah tua."
+"Tangan Ibu tidak apa-apa," sahut Ratih. Ia menatap mata Maya lurus-lurus, membiarkan keheningan menyela sejenak di antara deru hujan di luar rumah. "Hari Minggu kemarin, tanggal 23, ada telepon masuk ke nomor rumah."
 
 Maya terdiam. Nomor telepon rumah di Kiaracondong adalah sambungan kabel lama yang masih dipertahankan Ratih. Nomornya tidak pernah berubah sejak mereka tinggal di sana, meski kini jarang berdering kecuali untuk urusan pesanan jahitan dari tetangga senior di gang depan.
 
@@ -2408,15 +2400,15 @@ Ratih menelan ludah, menghela napas pendek.
 
 "Bapakmu, May," bisik Ratih jujur.
 
-Kata bapakmu yang meluncur dari bibir Ratih seketika memotong arus udara di dalam ruangan. Maya terpaku di tempatnya duduk, pandangan matanya membeku pada wajah ibunya.
+Kata *bapakmu* yang meluncur dari bibir Ratih seketika membuat ruangan terasa hening. Maya terpaku, menatap wajah ibunya.
 
-Dua puluh satu tahun telah berlalu sejak Juni dua ribu empat, saat Bima melangkah keluar dari pintu rumah ini dan tak pernah kembali. Selama dua dekade lebih, nama itu seolah menjelma menjadi kata terlarang yang jarang diucapkan di dalam rumah Kiaracondong. Maya tumbuh dewasa dengan ingatan samar tentang sesosok pria tinggi yang meninggalkannya saat ia baru berusia tujuh tahun, meninggalkan luka tak kasatmata yang kelak membentuk ketakutan terbesarnya akan penolakan dan rasa tidak dipilih.
+Dua puluh satu tahun telah berlalu sejak Juni 2004, saat Bima melangkah keluar dari pintu rumah ini dan tak pernah kembali. Selama dua dekade lebih, nama itu seolah menjelma menjadi kata terlarang yang jarang diucapkan di dalam rumah Kiaracondong. Maya tumbuh dewasa dengan ingatan samar tentang sesosok pria tinggi yang meninggalkannya saat ia baru berusia tujuh tahun, meninggalkan luka tak kasatmata yang kelak membentuk ketakutan terbesarnya akan penolakan dan rasa tidak dipilih.
 
 "Bapak... menghubungi Ibu?" tutur Maya dengan suara bergetar tipis, seolah meragukan pendengarannya sendiri.
 
 "Iya, May," jawab Ratih tenang. "Dia masih menyimpan nomor rumah lama ini. Minggu siang dua hari lalu dia menelepon, bicaranya sebentar sekali. Dia menanyakan kabar Ibu, lalu menanyakan kabarmu."
 
-Maya meremas jemarinya di atas pangkuan. Dingin yang tiba-tiba menyerang ulu hatinya bukan berasal dari hawa hujan di luar, melainkan dari sisa-sisa memori masa kecil yang mendadak bangkit kembali.
+Maya meremas jemarinya di pangkuan. Dingin yang tiba-tiba menyerang ulu hatinya bukan berasal dari hawa hujan di luar, melainkan dari sisa-sisa memori masa kecil yang mendadak bangkit kembali.
 
 "Untuk apa Bapak menelepon setelah dua puluh satu tahun?" gumam Maya pelan, ada nada ketidakpercayaan yang samar dalam intonasinya.
 
@@ -2424,7 +2416,7 @@ Ratih mengusap bahu putrinya dengan sentuhan hangat. Tidak ada amarah atau denda
 
 "Dia bilang dia menyesal, May," kata Ratih menyampaikan pesan itu tanpa hiasan atau godaan emosional. "Dia tahu dia tidak punya hak untuk menuntut apa pun dari kita. Tapi dia minta kesempatan untuk bisa bertemu denganmu sekali saja. Dia ingin bicara langsung sama kamu."
 
-Maya menundukkan kepala, menatap lantai semen yang berselimut tikar pandan.
+Maya menunduk, menatap tikar pandan yang menutupi lantai semen.
 
 Pikirannya melayang pada deretan peristiwa beberapa bulan terakhir. Dari pengkhianatan Arman, kedekatan terlarangnya dengan Daniel, konfrontasinya dengan Sarah, hingga keputusannya menolak Arman minggu lalu. Panggilan itu membangkitkan ketakutan lama yang belum pernah benar-benar ia pahami. Maya belum tahu apakah semua pilihan buruknya dalam hubungan memang berawal dari kepergian Bima, tetapi nama ayahnya selalu membuat rasa takut ditinggalkan itu terasa dekat kembali.
 
@@ -2432,17 +2424,17 @@ Ratih memegang tangan Maya yang dingin, meremasnya lembut.
 
 "Ibu cuma menyampaikan pesan ini ke kamu, May," tegas Ratih dengan suara penuh ketulusan. "Ibu tidak melarangmu kalau kamu mau bertemu, dan Ibu juga tidak akan marah kalau kamu memilih untuk tidak menemuinya. Keputusannya sepenuhnya ada di tanganmu. Kamu yang berhak menentukan apa yang terbaik untuk batinmu sendiri."
 
-Maya mendongak menatap ibunya. Ia menangkap ketulusan di mata Ratih—seorang ibu yang kini tak lagi berusaha menyembunyikan kenyataan atau mendikte langkah anaknya, melainkan menghormati otonomi Maya sebagai wanita dewasa.
+Maya mendongak. Ia menangkap ketulusan di mata Ratih—seorang ibu yang kini tak lagi berusaha menyembunyikan kenyataan atau mendikte langkah anaknya, melainkan menghormati otonomi Maya sebagai wanita dewasa.
 
 "Terima kasih sudah memberitahu Maya ya, Bu," bisik Maya halus.
 
 "Sama-sama, Nung," sahut Ratih menyebut nama kesayangan masa kecil Maya. "Dipikirkan baik-baik. Tidak usah terburu-buru."
 
-Sore itu, di balik deru hujan yang membasahi atap Kiaracondong, Maya duduk dalam keheningan yang panjang. Pesan dari masa lalu kembali mengetuk pintunya—bukan lagi dari mantan kekasih yang pernah mendua, melainkan dari sosok ayah yang pertama kali mengajarinya arti dari rasa ditinggalkan. Maya menyadari bahwa untuk benar-benar menyembuhkan dirinya, ia harus bersiap menghadapi sumber luka pertamanya dengan pijakan kaki yang baru.
+Sore itu, di balik deru hujan yang membasahi atap Kiaracondong, Maya duduk dalam keheningan yang panjang. Pesan dari masa lalu kembali mengetuk pintunya—bukan lagi dari mantan kekasih yang pernah mendua, melainkan dari sosok ayah yang pertama kali mengajarinya arti dari rasa ditinggalkan. Maya menyadari bahwa untuk memahami lukanya, ia perlu menghadapi sumber luka pertamanya dengan cara pandang yang baru.
 
 # **BAB 53: Pertemuan dengan Bima**
 
-Sabtu siang, dua puluh sembilan November dua ribu dua puluh lima, gerimis tipis menyisakan kabut lembap di sepanjang Jalan Lengkong Besar. Di sudut sebuah rumah makan Sunda tradisional berarsitektur kayu jati yang tenang, Maya duduk di samping jendela kaca yang mengembun.
+Sabtu siang, 29 November 2025, gerimis tipis menyisakan kabut lembap di sepanjang Jalan Lengkong Besar. Di sebuah rumah makan Sunda bergaya tradisional di kawasan Lengkong Besar, Maya duduk di samping jendela kaca yang mengembun.
 
 Empat hari telah berlalu sejak Ratih menyampaikan kabar bahwa Bima menelepon ke rumah tua Kiaracondong. Maya memanfaatkan empat hari tersebut untuk merapikan seluruh gejolak emosinya. Ia ingin memastikan bahwa langkah yang diambilnya hari ini lahir dari keberanian seorang wanita dewasa, bukan dari ketergesaan anak kecil berusia tujuh tahun yang merindukan sosok ayah.
 
@@ -2454,13 +2446,13 @@ Maya menatap sosok itu lurus-lurus dari meja sudut.
 
 Meskipun dua puluh satu tahun telah berlalu sejak Juni dua ribu empat, Maya masih mengenali garis rahang dan bentuk alis pria tersebut. Itu adalah Bima—pria berusia lima puluh enam tahun yang pernah menjadi pusat dunia masa kecilnya sebelum melangkah keluar dari pintu rumah dan tak pernah kembali.
 
-Bima mengedarkan pandangan ke sekeliling ruangan, lalu matanya tertambat pada Maya. Ada bisikan ketidakpercayaan yang memancar tipis di tatapannya saat menyadari putri kecil yang ditinggalkannya kini telah tumbuh menjadi seorang perempuan dewasa yang tegap.
+Bima mengedarkan pandangan ke sekeliling ruangan, lalu matanya tertambat pada Maya. Ada ketidakpercayaan di wajahnya saat menyadari putri kecil yang ditinggalkannya kini telah tumbuh menjadi seorang perempuan dewasa yang tegap.
 
 "Maya..." panggil Bima dengan suara pelan yang bergetar tipis.
 
 Maya berdiri perlahan, menyunggingkan senyum tipis yang sopan. "Selamat siang, Bapak. Silakan duduk."
 
-Bima mendudukkan diri di kursi kayu yang berhadapan dengan Maya. Pria itu meletakkan kacamata bacanya di atas meja, melipat kedua telapak tangannya yang mulai keriput. Ada canggung yang tebal menggantung di antara mereka, beradu dengan suara gemericik air mancur kecil di teras luar.
+Bima duduk di kursi kayu yang berhadapan dengan Maya. Pria itu meletakkan kacamata bacanya di atas meja, melipat kedua telapak tangannya yang mulai keriput. Ada canggung yang tebal menggantung di antara mereka, beradu dengan suara gemericik air mancur kecil di teras luar.
 
 "Terima kasih sudah mau menemui Bapak, May," tutur Bima, matanya tak lepas memandangi raut wajah putrinya. "Bapak... Bapak hampir tidak mengenali kamu. Kamu sudah besar sekali."
 
@@ -2470,7 +2462,7 @@ Kalimat itu meluncur tanpa nada menghujat, namun kebenaran di balik deretan angk
 
 "Bapak tahu, May," kata Bima pelan. "Bapak tahu tidak ada alasan apa pun di dunia ini yang bisa membenarkan tindakan Bapak dua puluh satu tahun lalu."
 
-Maya mengatupkan jemarinya di atas meja kayu. "Ibu bilang minggu lalu Bapak minta kesempatan untuk bicara."
+Maya merapatkan jemarinya di atas meja kayu. "Ibu bilang minggu lalu Bapak minta kesempatan untuk bicara."
 
 Bima mendongak, menatap mata Maya dengan tatapan penuh penyesalan.
 
@@ -2490,11 +2482,11 @@ Namun siang ini, melihat Bima secara langsung di rumah makan Lengkong Besar, sos
 
 "Terima kasih sudah jujur, Pak," kata Maya halus namun mantap. "Memahami alasan Bapak memang membuat Maya paham apa yang sebenarnya terjadi. Tapi kejujuran itu tidak otomatis menghapus rasa kehilangan dua puluh satu tahun."
 
-Bima mengangguk tegap, menyapu sudut matanya yang mengembun.
+Bima mengangguk, menyeka sudut matanya yang basah.
 
 "Bapak sadar betul akan hal itu, May," jawab Bima jujur. "Bapak tidak datang ke sini untuk menuntut agar kamu langsung memaafkan Bapak, apalagi meminta kamu menerima Bapak kembali sebagai ayah instan. Bapak cuma ingin kamu mendengar permintaan maaf yang seharusnya Bapak ucapkan sejak dulu."
 
-Maya menarik napas panjang, menghirup aroma uap teh hangat yang terhidang di atas meja.
+Maya menarik napas panjang, lalu menyesap teh hangat di atas meja.
 
 "Maya mendengar permintaan maaf Bapak," sahut Maya tegap. "Tetapi untuk membangun komunikasi atau hubungan yang baru, Maya butuh waktu. Maya tidak ingin terburu-buru."
 
@@ -2504,13 +2496,13 @@ Sebelum berpisah, Bima menawarkan nomor ponselnya. Maya memberikan nomor yang bi
 
 Ketika pertemuan itu berakhir dan Bima melangkah pergi menyusuri Jalan Lengkong Besar, Maya tetap duduk sendirian di meja sudut. Di luar jendela, rintik gerimis telah sepenuhnya reda, menyisakan pendar sinar matahari sore yang menembus celah dedaunan.
 
-Maya merapikan tas tangannya, memegang dada kirinya yang terasa hangat dan lega. Untuk pertama kalinya setelah sekian lama, Maya merasa mampu menatap Bima tanpa kembali menjadi anak kecil yang hanya menunggu. Luka itu belum hilang, tetapi pertemuan tadi memberinya kesempatan melihat ayahnya sebagai manusia yang pernah mengambil keputusan buruk—dan dirinya sebagai orang dewasa yang kini dapat menentukan jarak.
+Maya merapikan tas tangannya, memegang dada kirinya yang terasa hangat dan lega. Untuk pertama kalinya setelah sekian lama, Maya merasa mampu berhadapan dengan Bima tanpa kembali menjadi anak kecil yang hanya menunggu. Luka itu belum hilang, tetapi pertemuan tadi memberinya kesempatan melihat ayahnya sebagai manusia yang pernah mengambil keputusan buruk—dan dirinya sebagai orang dewasa yang kini dapat menentukan jarak.
 
 # **BAB 54: Kebenaran yang Disimpan**
 
-Minggu siang, tiga puluh November dua ribu dua puluh lima, aroma rebusan pisang dan uap teh melati hangat memenuhi ruang tengah rumah sederhana di kawasan Kiaracondong. Udara sejuk sisa gerimis pagi masih mengendap di balik dinding papan kayu, beradu dengan desir halus angin yang menggerakkan tirai katun di jendela depan.
+Minggu siang, 30 November 2025, aroma rebusan pisang dan uap teh melati hangat memenuhi ruang tengah rumah sederhana di kawasan Kiaracondong. Udara sejuk sisa gerimis pagi masih mengendap di balik dinding papan kayu, beradu dengan desir halus angin yang menggerakkan tirai katun di jendela depan.
 
-Maya duduk di atas tikar pandan yang terbentang di lantai semen, menyandarkan punggungnya pada kaki dipan kayu.
+Maya duduk di atas tikar pandan di lantai semen, menyandarkan punggungnya pada kaki dipan kayu.
 
 Sehari telah berlalu sejak pertemuannya dengan Bima di rumah makan tradisional kawasan Lengkong Besar. Rasa cemas dan getaran asing yang sempat menyita pikirannya sepanjang minggu lalu kini telah sepenuhnya reda. Di hadapan cangkir teh seng yang mengepulkan uap tipis, Maya merasa batinnya berada dalam kedamaian yang jujur.
 
@@ -2518,15 +2510,15 @@ Ratih melangkah dari arah dapur membawa piring seng berisi pisang rebus hangat, 
 
 "Bagaimana pertemuan kemarin, May?" tanya Ratih pelan. Suaranya terdengar lembut dan tenang, tanpa ada desakan atau ketegangan emosional.
 
-Maya menyunggingkan senyum tipis, merapikan cangkir teh di hadapannya. "Lancar, Bu. Kami bicara sekitar satu jam di Lengkong Besar."
+Maya tersenyum tipis, lalu merapikan cangkir teh di hadapannya. "Lancar, Bu. Kami bicara sekitar satu jam di Lengkong Besar."
 
 Ratih mengangguk perlahan, mengambil sepotong pisang rebus dan mengupas kulitnya. "Bapakmu bilang apa saja?"
 
 "Bapak minta maaf," sahut Maya jujur, menatap mata ibunya lurus-lurus. "Bapak bilang dia menyesal karena sudah pergi dua puluh satu tahun lalu dan memilih hubungan dengan perempuan lain. Dia mengakui kalau dia pergi karena egois dan tidak berani bertanggung jawab."
 
-Ratih terdiam sejenak. Jemari tangannya yang kapalan mengusap pinggiran piring seng, pandangan matanya menerawang menembus celah jendela depan yang terbuka separuh. Keheningan menggantung lembut di antara mereka selama beberapa detik.
+Ratih terdiam sejenak. Jemarinya yang kapalan mengusap pinggiran piring seng. Pandangannya menerawang ke luar jendela yang terbuka separuh. Keheningan menggantung lembut di antara mereka selama beberapa detik.
 
-"Bapakmu memang jujur soal hal itu," bisik Ratih pelan, ia menghela napas berat.
+"Bapakmu memang jujur soal hal itu," bisik Ratih pelan sambil menghela napas berat.
 
 Maya menatap raut wajah ibunya yang dihiasi garis-garis halus di sekitar mata. "Ibu tidak kaget?"
 
@@ -2542,7 +2534,7 @@ Ratih menatap putrinya dengan mata yang mengembun tipis oleh rasa bersalah yang 
 
 Memori masa kecil Maya seketika berputar kembali. Ia teringat bagaimana di masa sekolah dasar dahulu, ia selalu memegang kalimat ibunya itu rapat-rapat. Ia tumbuh dengan meyakini bahwa ayahnya adalah sosok yang terpaksa pergi demi keadaan, seorang ayah yang suatu hari nanti akan kembali membawakan oleh-oleh setelah urusannya selesai. Narasi itulah yang membuat Maya kecil terus menunggu di dekat jendela rumah Kiaracondong setiap sore.
 
-"Ibu bohong soal itu, May," aku Ratih jujur, tak lagi mencoba menutup-nutupi kesalahan masa lalunya. "Bapakmu tidak pernah berkirim uang sejak bulan pertama dia melangkah keluar dari rumah ini. Dia tidak sedang berjuang di luar kota untuk kita. Dia pergi karena secara sadar memilih kehidupan baru bersama perempuan itu. Ibu tidak tahu pasti apa yang ada di pikirannya ketika memutus kontak, May. Tapi sejak bulan pertama dia pergi, dia tidak pernah mengirim uang atau menanyakan kebutuhanmu. Dari sikapnya selama itu, Ibu merasa dia memang tidak mau lagi memikul tanggung jawab sebagai ayah."
+"Ibu bohong soal itu, May," kata Ratih terus terang, tak lagi mencoba menutup-nutupi kesalahan masa lalunya. "Bapakmu tidak pernah berkirim uang sejak bulan pertama dia melangkah keluar dari rumah ini. Dia tidak sedang berjuang di luar kota untuk kita. Dia pergi karena secara sadar memilih kehidupan baru bersama perempuan itu. Ibu tidak tahu pasti apa yang ada di pikirannya ketika memutus kontak, May. Tapi sejak bulan pertama dia pergi, dia tidak pernah mengirim uang atau menanyakan kebutuhanmu. Dari sikapnya selama itu, Ibu merasa dia memang tidak mau lagi memikul tanggung jawab sebagai ayah."
 
 Maya terpaku di tempatnya duduk. Kerongkongannya menyempit oleh kejujuran dingin yang baru saja meluncur dari bibir ibunya.
 
@@ -2554,9 +2546,9 @@ Ratih menggenggam kedua telapak tangan Maya yang dingin, meremasnya dengan kehan
 
 "Ibu pikir, dengan memperhalus cerita itu, Ibu bisa melindungi hatimu," lanjut Ratih dengan intonasi yang sarat penyesalan. "Tapi makin kamu dewasa, Ibu baru sadar... kebohongan manis yang Ibu buat justru jadi racun buatmu. Ibu membuat kamu tumbuh jadi anak yang selalu menunggu. Kamu jadi terbiasa memaklumi laki-laki yang memberi alasan gantung, karena dari kecil Ibu sudah mengajarimu untuk memaklumi kepergian Bapakmu."
 
-Kata-kata Ratih menghantam batin Maya dengan dampak yang amat tebal.
+Kata-kata Ratih menghantam batin Maya.
 
-Maya mulai melihat hubungan antara beberapa pengalaman itu, meski ia tahu masih banyak hal yang belum ia pahami sepenuhnya. Kebiasaan Ratih menyederhanakan fakta demi melindungi perasaannya telah menanamkan keyakinan bahwa pria yang pergi atau mengabaikannya selalu memiliki alasan yang patut dimaklumi. Itulah alasan mengapa Maya sanggup bertahan selama lima tahun menunggu janji-janji palsu Arman, dan itulah alasan mengapa ia sempat terbuai oleh perhatian hangat Daniel di ruang remang yang salah.
+Maya mulai melihat hubungan di antara pengalaman-pengalaman itu, meski masih banyak hal yang belum ia pahami sepenuhnya. Kebiasaan Ratih menyederhanakan fakta demi melindungi perasaannya telah menanamkan keyakinan bahwa pria yang pergi atau mengabaikannya selalu memiliki alasan yang patut dimaklumi. Itulah alasan mengapa Maya sanggup bertahan selama lima tahun menunggu janji-janji palsu Arman, dan itulah alasan mengapa ia sempat terbuai oleh perhatian hangat Daniel di ruang remang yang salah.
 
 Selama ini, Maya mengira ia sedang belajar menjadi perempuan yang sabar. Kini ia mulai mempertanyakan apakah sebagian kesabarannya justru membuatnya terus menunggu dan memaklumi orang yang tidak memberi kepastian.
 
@@ -2564,21 +2556,21 @@ Maya menarik napas panjang, lalu mengembuskannya perlahan.
 
 Ia tidak merasa marah kepada Ratih. Di hadapan mata ibunya yang basah, Maya melihat seorang perempuan tunggal berusia tiga puluh dua tahun pada tahun dua ribu empat yang sedang ketakutan, kebingungan, dan berusaha sejuta cara untuk melindungi putri tunggalnya dari kekejaman dunia luar. Ratih membuat keputusan yang tidak sempurna, tetapi keputusan itu lahir dari kasih sayang seorang ibu yang terbatas.
 
-Maya meremas balik tangan Ratih yang gemetar, mengusap air mata di pipi ibunya dengan jemarinya.
+Maya membalas remasan tangan Ratih, lalu mengusap air mata di pipi ibunya.
 
 "Maya tidak marah sama Ibu," kata Maya tegap dan lembut. Suaranya memancarkan kedewasaan batin yang jernih. "Maya paham kenapa Ibu melakukannya dulu. Terima kasih karena sudah jujur hari ini, Bu."
 
 Ratih mengangguk pelan, menyunggingkan senyum haru yang lega di balik usapan tangannya.
 
-Malam harinya saat kembali ke rumah kontrakan Antapani, Maya duduk di tepi kasur busanya. Di luar jendela, langit malam kota Bandung membiru gelap tanpa rintik hujan.
+Malam harinya saat kembali ke rumah kontrakan Antapani, Maya duduk di tepi kasur. Di luar jendela, langit malam kota Bandung membiru gelap tanpa rintik hujan.
 
 Kebenaran yang disembunyikan selama dua puluh satu tahun kini telah terbuka sepenuhnya. Dongeng manis tentang ayah yang terpaksa pergi telah hancur tanpa sisa, menggantikannya dengan fakta dingin yang jujur. Namun, di balik keruntuhan dongeng itu, Maya merasakan sebuah kebebasan baru yang menenteramkan. Ia tak lagi harus menunggu siapa pun, tak lagi harus memaklumi ketidakjelasan pria mana pun, dan tak lagi harus mengorbankan harga dirinya demi sebuah pengakuan yang semu.
 
 # **BAB 55: Pola yang Berulang**
 
-Minggu pertama di bulan Desember dua ribu dua puluh lima dibuka oleh hujan deras yang membasahi aspal Jalan RE Martadinata sejak pagi hari. Di dalam ruang kerja Yayasan Lentera Sehat, aroma uap kopi hangat dan kelembapan kain payung yang dikeringkan di dekat pintu memenuhi ruangan.
+Minggu pertama Desember 2025 dibuka oleh hujan deras yang membasahi aspal Jalan RE Martadinata sejak pagi hari. Di dalam ruang kerja Yayasan Lentera Sehat, aroma uap kopi hangat dan kelembapan kain payung yang dikeringkan di dekat pintu memenuhi ruangan.
 
-Maya duduk di meja kerjanya, menatap baris-baris angka anggaran publikasi kesehatan untuk kegiatan kuartal pertama tahun depan.
+Maya duduk di meja kerjanya, menatap angka-angka anggaran publikasi kesehatan untuk kegiatan kuartal pertama tahun depan.
 
 Namun, fokus matanya berulang kali terlepas dari layar monitor. Sejak pengakuan Ratih di Kiaracondong pada penghujung November lalu—saat ibunya akhirnya membuka kebenaran bahwa Bima pergi secara sadar demi wanita lain tanpa pernah berkirim uang—sebuah konstruksi besar di dalam batin Maya telah runtuh.
 
@@ -2590,7 +2582,7 @@ Menatap tiga nama itu berjejer di atas kertas, Maya merasakan desiran dingin men
 
 Maya mulai melihat kemungkinan benang merah yang menghubungkan pengalamannya dengan ketiga pria itu, meski ia belum yakin apakah satu pola dapat menjelaskan semuanya.
 
-Kepergian Bima pada Juni dua ribu empat—saat Maya baru berusia tujuh tahun—merupakan pengalaman kehilangan pertama yang masih membekas. Maya menduga pengalaman itu ikut membentuk keyakinan bahwa orang yang paling ia cintai pada akhirnya akan pergi. Kebohongan manis yang diciptakan Ratih selama puluhan tahun bahwa Bima pergi karena terpaksa oleh keadaan, tanpa disadari telah melatih Maya kecil untuk menjadi seseorang yang selalu memaklumi ketidakberadaan dan terus menunggu penantian yang tak pasti.
+Kepergian Bima pada Juni dua ribu empat—saat Maya baru berusia tujuh tahun—merupakan pengalaman kehilangan pertama yang masih membekas. Maya menduga pengalaman itu ikut membentuk keyakinan bahwa orang yang paling ia cintai pada akhirnya akan pergi. Kebohongan manis Ratih selama puluhan tahun—bahwa Bima pergi karena keadaan memaksanya—tanpa disadari melatih Maya kecil untuk memaklumi ketidakhadiran dan terus menunggu.
 
 Maya melihat kemiripan pola itu dalam hubungannya bersama Arman selama lima tahun.
 
@@ -2602,7 +2594,7 @@ Maya mengingat kembali percakapan-percakapan malamnya bersama Daniel di kamar An
 
 Namun, rasa butuh untuk diakui itu telah membuat Maya membutakan matanya sendiri dari fakta paling mendasar: Daniel adalah suami dari Sarah Putri Wicaksana. Maya melanggar batas emosional dan melukai wanita lain karena ia haus akan validasi bahwa ada seorang pria yang bersedia menginginkannya.
 
-Maya meletakkan pulpennya di atas meja, menyandarkan punggungnya pada kursi kayu kantor.
+Maya meletakkan pulpen, lalu bersandar di kursi kayu kantor.
 
 Kesadaran itu menghantam batinnya bukan sebagai pembenaran atas kesalahannya, melainkan sebagai penerimaan pahit yang membongkar ilusi dirinya selama ini.
 
@@ -2612,15 +2604,15 @@ Maya menutup buku catatan abu-abunya, memasukkannya kembali ke dalam laci meja, 
 
 # **BAB 56: Batas dengan Bima**
 
-Minggu sore, tujuh Desember dua ribu dua puluh lima, rintik hujan gerimis menyisakan hawa dingin yang mengendap di sepanjang jalan gang kontrakan Antapani. Suara tetesan air yang jatuh dari lis seng teras beradu pelan dengan desir angin sore kota Bandung.
+Minggu sore, 7 Desember 2025, rintik hujan gerimis menyisakan hawa dingin yang mengendap di sepanjang jalan gang kontrakan Antapani. Suara tetesan air yang jatuh dari lis seng teras beradu pelan dengan desir angin sore kota Bandung.
 
-Maya duduk di tepi kasur busa kamarnya, memegangi cangkir keramik berisi teh melati hangat.
+Maya duduk di tepi kasur, memegang cangkir keramik berisi teh melati hangat.
 
 Buku catatan kecil bersampul abu-abu yang ia isi sepanjang minggu itu masih tergeletak terbuka di atas meja kerja. Catatan tersebut belum memberinya jawaban lengkap, tetapi cukup membuat Maya ingin mencoba berbicara kepada Bima tanpa mengabaikan batas yang ia butuhkan.
 
 Pukul lima sore lewat sepuluh menit, ponsel yang tergeletak di samping buku catatan bergetar dua kali di atas meja kayu.
 
-Maya mengulurkan tangan, meraih benda tersebut. Di layar kaca, nama kontak Bima—nomor yang baru disimpannya usai pertemuan di Lengkong Besar akhir November lalu—muncul pada notifikasi.
+Maya meraih ponsel itu. Di layar kaca, nama kontak Bima—nomor yang baru disimpannya usai pertemuan di Lengkong Besar akhir November lalu—muncul pada notifikasi.
 
 Maya menarik napas panjang, mengembuskannya perlahan untuk menenangkan denyut dadanya. Ia mematikan kompor kecil tempat memanaskan air, menggeser tombol hijau, lalu menempelkan ponsel di telinganya.
 
@@ -2638,7 +2630,7 @@ Dahulu, rasa takut dianggap sebagai anak yang durhaka mungkin akan membuat Maya 
 
 Namun sore ini, di dalam kamar Antapani yang tenang, Maya mendengarkan ajakan itu dari ruang batin yang telah berubah.
 
-Maya mengatupkan jemarinya pada gagang cangkir teh yang mulai hangat suam-suam kuku. Ia menyadari bahwa membangun kembali hubungan yang hancur selama dua puluh satu tahun tidak bisa dilakukan secara instan hanya demi menghapus rasa bersalah seseorang.
+Maya menggenggam cangkir teh yang mulai suam-suam kuku. Ia menyadari bahwa membangun kembali hubungan yang hancur selama dua puluh satu tahun tidak bisa dilakukan secara instan hanya demi menghapus rasa bersalah seseorang.
 
 "Bapak," panggil Maya pelan. Suaranya lembut, tetapi sikapnya tegas.
 
@@ -2648,11 +2640,11 @@ Maya mengatupkan jemarinya pada gagang cangkir teh yang mulai hangat suam-suam k
 
 Bima terdiam di ujung telepon, mendengarkan dengan saksama.
 
-"Maya menghargai kejujuran Bapak dan permintaan maaf Bapak waktu kita bertemu di Lengkong Besar," lanjut Maya. tatapannya menatap lurus ke arah jendela kamar. "Tetapi untuk saat ini... Maya belum siap untuk membangun kembali hubungan seperti ayah dan anak pada umumnya. Maya belum bisa berpura-pura bahwa dua puluh satu tahun itu tidak pernah terjadi."
+"Maya menghargai kejujuran Bapak dan permintaan maaf Bapak waktu kita bertemu di Lengkong Besar," lanjut Maya. tatapannya menatap lurus ke arah jendela kamar. "Tetapi untuk saat ini... Maya belum siap membangun kembali hubungan seperti hubungan ayah dan anak pada umumnya. Maya belum bisa berpura-pura bahwa dua puluh satu tahun itu tidak pernah terjadi."
 
 Pernyataan itu meluncur dari bibir Maya tanpa nada kebencian, tanpa hardikan emosional, dan tanpa celaan atas masa lalu Bima. Itu adalah sebuah penegakan batas yang tegas dan bermartabat.
 
-Di seberang telepon, keheningan panjang menggantung selama beberapa detik. Maya mendengar napas Bima yang berat di seberang telepon.
+Di seberang telepon, keheningan panjang menggantung selama beberapa detik. Maya mendengar napas Bima yang berat di ujung telepon.
 
 "Maya tidak membenci Bapak," sambung Maya, memberikan kepastian agar penolakannya tidak ditafsirkan sebagai rasa dendam. "Maya juga tidak melarang Bapak untuk sesekali menanyakan kabar. Tapi Maya butuh waktu dan ruang. Maya ingin komunikasi kita berlangsung perlahan, terbatas, dan tidak dipaksakan."
 Untuk pertama kalinya dalam hubungannya dengan Bima, Maya menyatakan dengan jelas seberapa jauh ia bersedia membuka ruang bagi ayahnya. Kali ini ia tidak langsung mengalah atau menyetujui ajakan yang belum siap dijalaninya. Ia menyampaikan batas dengan jelas, meski masih harus belajar mempertahankannya dalam hubungan mereka ke depan.
@@ -2666,19 +2658,19 @@ Di ujung saluran telepon, Bima menyapu tenggorokannya yang terasa kering. Nada s
 "Terima kasih, May. Kamu juga jaga kesehatan ya."
 Maya mengakhiri panggilan telepon tersebut, lalu meletakkan ponselnya kembali di atas meja kerja.
 
-Maya berjalan melangkah ke arah jendela teras, membuka katup kayunya lebar-lebar. Angin sore kota Bandung berembus masuk membawa aroma tanah basah dan kesegaran dedaunan mahoni.
+Maya melangkah ke jendela teras, lalu membuka daun jendelanya lebar-lebar. Angin sore kota Bandung berembus masuk membawa aroma tanah basah dan kesegaran dedaunan mahoni.
 
 Maya memejamkan mata sejenak, menghirup udara dingin itu dalam-dalam. Maya tidak ingin menarik kembali batas yang baru saja ia sampaikan. Meski masih ada sedih dan ragu yang belum dapat ia uraikan, ia merasa sedikit lega karena kali ini ia tidak memaksakan diri menyetujui sesuatu yang belum siap dijalaninya.
 
-Maya kembali ke meja dan menuliskan tanggal percakapan itu di buku catatannya. Ia belum tahu bagaimana hubungan mereka akan berkembang, tetapi setidaknya kali ini ia tidak menyetujui sesuatu yang belum siap dijalaninya.
+Maya kembali ke meja dan mencatat tanggal percakapan itu di buku catatannya. Ia belum tahu bagaimana hubungan mereka akan berkembang, tetapi setidaknya kali ini ia tidak menyetujui sesuatu yang belum siap dijalaninya.
 # **BAB 57: Memulai Konseling**
 
-Senin pagi, delapan Desember dua ribu dua puluh lima, udara sejuk menyelimuti pelataran sebuah bangunan cagar budaya berarsitektur kolonial di kawasan Jalan Ganesha. Dinding bata merah yang tertutup merambatnya tanaman ivy dan pepohonan rimbun di halaman memberikan suasana tenang, jauh dari bising lalu lintas kota Bandung.
+Senin pagi, 8 Desember 2025, udara sejuk menyelimuti pelataran sebuah bangunan cagar budaya berarsitektur kolonial di kawasan Jalan Ganesha. Dinding bata merah yang tertutup merambatnya tanaman ivy dan pepohonan rimbun di halaman memberikan suasana tenang, jauh dari bising lalu lintas kota Bandung.
 
 Maya duduk di atas sofa kain berwarna krem dalam ruang praktik psikologi lantai dua.
 
 Di seberangnya, terpisah oleh meja kayu kecil dengan vas berisi bunga krisan segar, duduk Mbak Melani—seorang psikolog klinis berusia awal empat puluhan dengan pembawaan yang tenang, kacamata berbingkai tipis, dan senyum yang tidak menghakimi.
-Sejak menegakkan batas pertamanya kepada Bima melalui sambungan telepon kemarin sore, Maya menyadari bahwa mengenali pola buruk saja belum cukup. Ia butuh bantuan profesional untuk mengurai benang kusut yang telah mengikat batinnya selama lebih dari dua dekade.
+Sejak menetapkan batas pertamanya kepada Bima melalui sambungan telepon kemarin sore, Maya menyadari bahwa mengenali pola buruk saja belum cukup. Ia butuh bantuan profesional untuk mengurai benang kusut yang telah mengikat batinnya selama lebih dari dua dekade.
 
 "Terima kasih sudah datang tepat waktu, Mbak Maya," sapa Mbak Melani dengan suara rendah dan hangat. "Di formulir pendaftaran awal, Mbak Maya menuliskan ingin memahami pola berulang dalam hubungan emosional. Bisa diceritakan dari mana Mbak Maya ingin memulainya?"
 
@@ -2687,7 +2679,7 @@ Maya menarik napas panjang, mengembuskannya perlahan. Jemari tangannya yang sali
 
 Mbak Melani mengangguk pelan, memberikan ruang bagi Maya untuk melanjutkan tanpa menyela.
 
-Maya mengurai kisahnya secara bertahap. Ia menceritakan kepergian Bima pada Juni dua ribu empat saat ia baru berusia tujuh tahun, dan bagaimana Ratih menyembunyikan kenyataan itu dengan alasan-alasan manis yang melatih Maya kecil untuk terus menunggu. Ia menjelaskan hubungannya bersama Arman selama lima tahun—bagaimana ia bertahun-tahun memaklumi ketidakjelasan janji pernikahan hingga akhirnya ditinggalkan demi wanita lain.
+Maya mengurai kisahnya secara bertahap. Ia menceritakan kepergian Bima pada Juni 2004, saat ia baru berusia tujuh tahun, serta cara Ratih menyembunyikan kenyataan itu dengan alasan-alasan yang membuat Maya kecil terus menunggu. Ia juga menceritakan hubungannya dengan Arman selama lima tahun—bagaimana ia memaklumi ketidakjelasan janji pernikahan hingga akhirnya ditinggalkan demi perempuan lain.
 Dan dengan kejujuran yang pahit tanpa pembelaan diri, Maya menceritakan keterlibatannya bersama Dokter Daniel.
 
 "Saya tahu Dokter Daniel sudah beristri," aku Maya, menatap vas bunga di atas meja. Rasa malu sempat mencubit dadanya saat menyampaikan hal tersebut, namun ia menolak untuk berlindung di balik kebohongan. "Saya tahu kedekatan emosional itu salah dan melukai istrinya, Sarah. Tapi waktu itu... perhatian dan rasa dibutuhkan yang diberikan Daniel membuat saya merasa berharga. Saya begitu haus akan pengakuan sampai tega mengabaikan moral saya sendiri."
@@ -2695,10 +2687,9 @@ Dan dengan kejujuran yang pahit tanpa pembelaan diri, Maya menceritakan keterlib
 Ruang praktik itu hening sejenak usai Maya menuntaskan penjelasannya.
 
 Mbak Melani menggeser posisi duduknya, lalu melipat tangan dengan lembut di atas pangkuan. "Mbak Maya, terima kasih atas keberanian dan kejujuran yang luar biasa ini. Mengakui peran diri sendiri dalam situasi yang salah adalah langkah yang sangat berat."
-Mbak Melani menatap Maya lurus-lurus dengan tatapan empati.
+Mbak Melani menatap Maya dengan empati.
 
 "Dari cerita Mbak Maya sejauh ini," lanjut Mbak Melani, "mungkin ada pola perlindungan diri yang mulai terbentuk sejak usia tujuh tahun. Ketika seorang anak mengalami kehilangan tanpa penjelasan yang jujur, ada kemungkinan ia menyimpulkan bahwa dirinya kurang berharga. Sebagian orang kemudian berusaha mencegah kehilangan berikutnya dengan lebih sering memaklumi, mengalah, atau menyenangkan orang lain. Namun, kita perlu melihat apakah pola itu benar-benar sesuai dengan pengalaman Mbak Maya."
-
 Kata-kata Mbak Melani meresap ke dalam batin Maya.
 
 "Bisa jadi, kebiasaan memaklumi dan mengalah bersama Arman—juga kebutuhan untuk diakui saat dekat dengan Daniel—pernah menjadi cara Mbak Maya melindungi diri dari kemungkinan ditinggalkan," ujar Mbak Melani. "Tapi ini masih dugaan awal dari cerita yang Mbak Maya sampaikan hari ini. Kita perlu mengeksplorasinya bersama, termasuk melihat apakah penjelasan ini terasa sesuai dengan pengalaman Mbak Maya."
@@ -2709,7 +2700,7 @@ Maya menunduk, air mata hangat menetes pelan menyusuri pipinya. Hantaman kebenar
 
 Maya mengusap air matanya dengan tisu yang disediakan di meja. "Lalu... apa yang harus saya lakukan sekarang, Mbak?"
 
-"Konseling ini bukan keajaiban instan yang bisa menghapus luka dua puluh satu tahun dalam satu jam, Mbak Maya," sahut Mbak Melani tersenyum memberi semangat. "Proses ini akan menuntut Mbak Maya untuk mengenali rasa takut itu setiap kali ia datang, belajar menghentikan dorongan untuk memaklumi ketidakjelasan, dan memaafkan diri sendiri atas kesalahan masa lalu. Kita akan mengerjakannya bertahap."
+"Konseling ini bukan keajaiban instan yang bisa menghapus luka dua puluh satu tahun dalam satu jam, Mbak Maya," kata Mbak Melani sambil tersenyum. "Proses ini akan menuntut Mbak Maya untuk mengenali rasa takut itu setiap kali ia datang, belajar menghentikan dorongan untuk memaklumi ketidakjelasan, dan memaafkan diri sendiri atas kesalahan masa lalu. Kita akan mengerjakannya bertahap."
 
 Ketika sesi lima puluh menit itu berakhir dan Maya melangkah keluar dari bangunan cagar budaya di Jalan Ganesha, udara siang kota Bandung terasa lebih segar menyapa paru-parunya.
 
@@ -2717,7 +2708,7 @@ Maya berdiri di trotoar, membiarkan angin sejuk menyapu wajahnya. Luka-lukanya b
 
 # **BAB 58: Tidak Semua Luka Selesai dalam Satu Sesi**
 
-Senin sore, dua puluh dua Desember dua ribu dua puluh lima, rintik hujan akhir tahun membasahi dedaunan rimbun di halaman gedung cagar budaya kawasan Jalan Ganesha. Pendar lampu jalan bertutup kaca kekuningan mulai menyala satu per satu, membiaskan bayangan temaram di atas permukaan aspal yang basah.
+Senin sore, 22 Desember 2025, rintik hujan akhir tahun membasahi dedaunan rimbun di halaman gedung cagar budaya kawasan Jalan Ganesha. Pendar lampu jalan bertutup kaca kekuningan mulai menyala satu per satu, membiaskan bayangan temaram di atas permukaan aspal yang basah.
 
 Maya duduk di atas sofa krem ruang praktik psikologi lantai dua, memegang cangkir keramik berisi teh hangat yang mengepulkan uap tipis.
 
@@ -2725,7 +2716,7 @@ Dua minggu telah berlalu sejak sesi konseling pertamanya bersama Mbak Melani. Se
 
 Namun, di balik seluruh keputusan tegas yang ia ambil, ada kegelisahan tersembunyi yang membuat Maya kembali mendatangi ruangan ini sore ini.
 
-Mbak Melani mendudukkan diri di sofa seberang meja kayu kecil, menyesuaikan kacamata berbingkai tipisnya. "Bagaimana harimu dua minggu terakhir ini, Mbak Maya? Ada hal tertentu yang paling menyita perhatianmu?"
+Mbak Melani duduk di sofa seberang meja kayu kecil, menyesuaikan kacamata berbingkai tipisnya. "Bagaimana harimu dua minggu terakhir ini, Mbak Maya? Ada hal tertentu yang paling menyita perhatianmu?"
 
 Maya menarik napas panjang, mengembuskannya perlahan. Jemari tangannya meremas halus permukaan cangkir keramik.
 
@@ -2735,15 +2726,15 @@ Maya menarik napas panjang, mengembuskannya perlahan. Jemari tangannya meremas h
 
 Maya menunduk, menatap pantulan uap teh di hadapannya. "Iya, Mbak. Tiga hari lalu, waktu saya jalan pulang dari kantor lewat gerobak martabak langganan di Riau, tempat yang dulu sering saya datangi sama Arman... tiba-tiba dada saya rasanya sesak sekali. Air mata saya menetes begitu saja di trotoar."
 
-Maya mengadah, menatap psikolog di hadapannya dengan raut bingung sekaligus kecewa pada dirinya sendiri.
+Maya mendongak, menatap psikolog di hadapannya dengan raut bingung sekaligus kecewa pada dirinya sendiri.
 
 "Saya heran sama diri saya sendiri, Mbak Melani," lanjut Maya dengan intonasi bergetar. "Saya pikir setelah sadar pola lama dan memulai konseling, saya akan langsung merasa tenang dan tidak lagi terpengaruh masa lalu. Kenapa rasa sedih dan sepi itu masih sering datang mendadak? Apakah artinya pemulihan saya gagal dan saya kembali ke titik nol?"
 
-Mbak Melani mendengarkan seluruh curahan hati itu dengan tenang. Senyum tipis yang hangat dan tak menghakimi terulas di wajahnya.
+Mbak Melani mendengarkan seluruh curahan hati itu dengan tenang. Senyum hangat yang tak menghakimi tersungging di wajahnya.
 
 "Mbak Maya," sapa Mbak Melani dengan nada suara yang menenteramkan. "Perasaan kecewa pada diri sendiri itu sangat wajar. Banyak orang mengira bahwa proses pemulihan batin atau healing adalah sebuah garis lurus yang menanjak ke atas—hari ini sadar, besok langsung bahagia dan tidak pernah sedih lagi."
 
-Mbak Melani membetulkan posisi duduknya, menatap Maya lurus-lurus dengan kedalaman empati.
+Mbak Melani membetulkan posisi duduk, lalu menatap Maya dengan empati.
 
 "Padahal kenyataannya tidak seperti itu," tegas Mbak Melani. "Pemulihan emosional itu bentuknya seperti gelombang. Akan ada hari-hari di mana Mbak Maya merasa sangat kuat dan tegap, tetapi akan ada juga hari-hari di mana ingatan lama mendadak hadir dan membuat Mbak Maya merasa rapuh kembali."
 
@@ -2997,7 +2988,6 @@ Ratih menundukkan kepala, memandangi permukaan air teh yang bergelombang tipis.
 Kata-kata Maya meluncur tanpa kepura-puraan. Ia tidak lagi menuduh kebohongan masa lalu Ratih sebagai kejahatan, dan ia tidak lagi membenarkan sikap tertutupnya sendiri sebagai bentuk kesopanan anak.
 
 Ratih menghela napas pendek dari dasar dadanya. Air mata hangat perlahan menetes di pipinya yang keriput.
-
 "Ibu... Ibu cuma tidak mau melihat kamu sedih, May," bisik Ratih dengan suara bergetar. "Ibu pikir kalau Ibu menanggung semuanya sendiri, kamu bisa tumbuh dengan tenang."
 
 "Maya tahu, Bu. Maya paham betul kalau niat Ibu dulu lahir dari rasa sayang," sahut Maya tegap dan lembut. Ia merangkul bahu ibunya, mengusap lengan Ratih dengan kehangatan yang tulus. "Tapi akibat dari kebiasaan kita menyembunyikan kesedihan itu, kita jadi membangun tembok di antara kita sendiri. Kita berada di dalam satu rumah, tapi saling menyimpan luka masing-masing."
@@ -3298,7 +3288,6 @@ Bima menghela napas pelan, menyusun kata-katanya dengan jujur dan pasrah.
 Bima berhenti sejenak, mengumpulkan ketetapan hatinya.
 
 "Tapi kalau kamu mengizinkan," lanjut Bima dengan intonasi yang rendah, "Bapak ingin minta izin untuk tetap bisa berkirim kabar sekadarnya. Mungkin sebulan sekali, atau saat ada hari-hari penting. Bapak tidak menuntut kamu harus selalu membalas atau mengajak bertemu. Bapak cuma ingin memastikan pintu komunikasi itu tidak sepenuhnya tertutup rapat, agar Bapak bisa terus mendoakan dan mengetahui kabarmu dari jauh."
-
 Mendengar permohonan Bima yang disampaikan dengan hati-hati, Maya merasakan getaran kecil di dadanya. Ia belum dapat memastikan apakah sikap itu akan bertahan, tetapi kali ini ia bisa menjawab tanpa tergesa-gesa.
 
 Maya memandangi pendar sinar matahari sore yang membias di atas kaca jendela Antapani.

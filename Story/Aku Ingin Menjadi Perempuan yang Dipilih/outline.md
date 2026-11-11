@@ -459,7 +459,7 @@ Sarah melihat notifikasi pesan dari Maya di ponsel Daniel. Daniel menjelaskan ba
 
 Bab 32 — Hal yang Tidak Diceritakan
 
-Waktu: Juli 2025
+Tanggal: 27 Juni 2025
 
 Daniel mulai menceritakan ketegangan rumah tangganya kepada Maya. Maya mendengarkan dan memberi dukungan. Tanpa disadari, ia mulai menempati posisi sebagai tempat Daniel mencari kenyamanan emosional.
 
@@ -639,7 +639,7 @@ Bab 59 — Percakapan Terakhir
 
 Tanggal: 10 Januari 2026
 
-Maya bertemu Daniel di kafe kawasan Riau. Maya menghubungi Daniel pada 5 Januari untuk meminta percakapan penutup. Daniel menyetujui karena mereka belum pernah membicarakan secara langsung keputusan menghentikan hubungan pribadi.
+Maya bertemu Daniel di kafe kawasan Riau setelah mengirim pesan formal pada 5 Januari. Sejak pertemuan 13 September 2025, mereka sudah sepakat menghentikan komunikasi pribadi. Maya meminta satu pertemuan terbatas untuk mengakui bahwa dahulu ia sempat berharap Daniel akan memilihnya. Daniel menyetujui setelah memastikan Sarah mengetahui rencana tersebut. Pertemuan itu tidak membuka kembali hubungan atau komunikasi pribadi.
 
 Daniel mengabarkan bahwa ia dan Sarah telah memutuskan mencoba memperbaiki pernikahan melalui konseling. Maya mengakui bahwa ia pernah berharap Daniel memilihnya, tetapi sekarang tidak ingin menjadi bagian dari keputusan rumah tangga mereka. Mereka berpisah tanpa janji untuk bertemu lagi.
 

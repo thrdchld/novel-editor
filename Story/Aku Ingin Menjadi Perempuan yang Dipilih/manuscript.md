@@ -588,7 +588,7 @@ Maya menatap amplop cokelat tersebut. Kata kerahasiaan tercetak tebal di sudut k
 
 "Hasil evaluasi kerja kamu sangat bagus, May," lanjut Pak Rian cepat, seolah takut Maya salah mengartikan alasannya. "Laporan kampanye media sosial bulan lalu yang kamu susun bahkan dipuji manajemen puncak. Keputusan ini murni karena efisiensi anggaran divisi, bukan karena kinerja atau kesalahan pribadi kamu."
 
-Maya menarik amplop itu mendekat, memutar posisinya, lalu membukanya perlahan. Lembar kertas putih berlogo resmi perusahaan di dalamnya memuat deretan paragraf formal. Mata Maya langsung tertuju pada satu kalimat di bagian tengah: *Hari terakhir Maya wajib hadir dan menyelesaikan pekerjaan di kantor ditetapkan pada 31 Januari 2025. Mulai 1 Februari, ia dibebaskan dari kewajiban hadir selama sisa masa pemberitahuan. Hubungan kerjanya efektif berakhir pada 14 Februari 2025, setelah pemberitahuan disampaikan dengan masa 14 hari kerja.*
+Maya menarik amplop itu mendekat, memutar posisinya, lalu membukanya perlahan. Lembar kertas putih berlogo resmi perusahaan di dalamnya memuat deretan paragraf formal. Mata Maya langsung tertuju pada satu kalimat di bagian tengah: *Hari terakhir Maya wajib hadir dan menyelesaikan pekerjaan di kantor ditetapkan pada 31 Januari 2025. Mulai 1 Februari, ia dibebaskan dari kewajiban hadir selama sisa masa pemberitahuan. Hubungan kerjanya efektif berakhir pada 14 Februari 2025 setelah masa pemberitahuan berakhir.*
 
 Tujuh hari lagi.
 
@@ -1175,7 +1175,7 @@ Maya mematikan layar laptopnya, menyunggingkan senyum tipis. Ia menikmati dinami
 
 # **BAB 28: Ulang Tahun**
 
-Aroma gurih kunyit dan serai merebak dari atas meja kayu rumah Kiaracondong saat Ratih meletakkan sepiring nasi kuning hangat berhias iris telur dadar dan sambal goreng tempe. Di usianya yang ke-53, pergelangan tangan kanan Ratih yang baru sebulan bebas dari gips masih bergerak sedikit lambat, tetapi jemarinya sudah kembali lincah memegang gagang sendok.
+Aroma gurih kunyit dan serai merebak dari atas meja kayu rumah Kiaracondong saat Ratih meletakkan sepiring nasi kuning hangat berhias iris telur dadar dan sambal goreng tempe. Di usianya yang ke-53, pergelangan tangan kanan Ratih yang sudah beberapa minggu bebas dari gips masih bergerak sedikit lambat, tetapi jemarinya sudah kembali lincah memegang gagang sendok.
 
 "Makan selagi hangat, May," ujar Ratih pelan, mendudukkan diri di bangku kayu seberang meja.
 
@@ -2225,7 +2225,7 @@ Kamis malam, 30 Oktober 2025. Angin malam kawasan Ciumbuleuit menyapu permukaan 
 
 Daniel baru saja meletakkan cangkir teh kamomil hangat di atas meja kaca. Di sebelahnya, Sarah sedang memeriksa draf suntingan naskah terjemahan di layar laptop, jemarinya menari teratur di atas papan ketik.
 
-Sebulan telah berlalu sejak akhir September, saat Daniel secara penuh menghentikan seluruh komunikasi pribadi dengan Maya dan mematuhi batas yang ia janjikan kepada istrinya. Sejak hari itu, tidak ada lagi pesan tersembunyi di malam hari, tidak ada lagi ponsel yang dibalikkan di meja makan, dan tidak ada lagi ruang emosional yang ia bagikan kepada orang luar. Segala koordinasi program edukasi kesehatan bersama Yayasan Lentera Sehat berjalan murni melalui surel dinas dan grup panitia resmi RS Cakrawala.
+Lebih dari sebulan telah berlalu sejak pertengahan September, saat Daniel dan Maya sepakat menghentikan seluruh komunikasi pribadi dan Daniel mulai mematuhi batas yang ia janjikan kepada istrinya. Sejak hari itu, tidak ada lagi pesan tersembunyi di malam hari, tidak ada lagi ponsel yang dibalikkan di meja makan, dan tidak ada lagi ruang emosional yang ia bagikan kepada orang luar. Segala koordinasi program edukasi kesehatan bersama Yayasan Lentera Sehat berjalan murni melalui surel dinas dan grup panitia resmi RS Cakrawala.
 
 Namun, Daniel menyadari bahwa kejujuran baru dan penghentian kesalahan tidak serta-merta mengembalikan rumah tangganya ke kondisi semula.
 
@@ -2428,7 +2428,7 @@ Selasa sore, dua puluh lima November dua ribu dua puluh lima, aroma minyak kayu 
 
 Maya duduk di atas dipan kayu berlapis kasur tipis, memegang cangkir seng berisi teh tawar hangat yang baru dituangkan Ratih.
 
-Sejak menyelesaikan urusan perpisahannya dengan Arman sepekan lalu—menghapus nomor kontak dan menghentikan seluruh bentuk komunikasi—Maya merasakan ruang batinnya perlahan-lahan lengang. Ia belum menceritakan pertemuan mereka kepada Ratih, tetapi setidaknya untuk sementara ia tidak lagi menunggu pesan Arman atau memikirkan kemungkinan hubungan itu berlanjut. Ia kembali menemukan kenyamanan dalam rutinitas sederhana bersama ibunya.
+Sejak menegaskan kembali batasnya kepada Arman sepekan lalu, menghapus nomor kontak dan menghentikan seluruh bentuk komunikasi, Maya merasakan ruang batinnya perlahan-lahan lengang. Ia belum menceritakan pertemuan mereka kepada Ratih, tetapi setidaknya untuk sementara ia tidak lagi menunggu pesan Arman atau memikirkan kemungkinan hubungan itu berlanjut. Ia kembali menemukan kenyamanan dalam rutinitas sederhana bersama ibunya.
 
 Ratih menghentikan injakan pedal mesin jahitnya. Perempuan berusia lima puluh tiga tahun itu mematikan lampu sorot kecil di garpu mesin, lalu membalikkan badan menghadap Maya.
 
@@ -2541,6 +2541,8 @@ Maya menarik napas panjang, menghirup aroma uap teh hangat yang terhidang di ata
 "Maya mendengar permintaan maaf Bapak," sahut Maya tegap. "Tetapi untuk membangun komunikasi atau hubungan yang baru, Maya butuh waktu. Maya tidak ingin terburu-buru."
 
 Bima tersenyum tipis, sebuah senyum pasrah yang menghargai ketegasan putrinya. "Bapak mengerti, May. Bapak akan hormati apa pun batas yang kamu tetapkan."
+
+Sebelum berpisah, Bima menawarkan nomor ponselnya. Maya memberikan nomor yang biasa ia gunakan, lalu menyimpan nomor Bima setelah mereka bertukar kontak. Tidak ada janji untuk segera bertemu lagi; mereka hanya membuka kemungkinan untuk saling menghubungi jika Maya sudah siap.
 
 Ketika pertemuan itu berakhir dan Bima melangkah pergi menyusuri Jalan Lengkong Besar, Maya tetap duduk sendirian di meja sudut. Di luar jendela, rintik gerimis telah sepenuhnya reda, menyisakan pendar sinar matahari sore yang menembus celah dedaunan.
 
@@ -3020,7 +3022,7 @@ Dua hari setelah menerima surat keputusan pengangkatan sebagai Koordinator Utama
 
 Ratih melepas celemek kainnya, mendudukkan diri di sebelah Maya pada dipan kayu.
 
-"Ibu masih tidak menyangka, May," tutur Ratih dengan suara lembut yang bergetar haru, memandangi wajah putrinya. "Dulu waktu kamu di-PHK bulan Januari tahun lalu, Ibu sempat khawatir sekali. Tapi melihat kamu sekarang makin tegap di kantor baru murni karena hasil kerjamu sendiri... Ibu merasa bersyukur sekali."
+"Ibu masih tidak menyangka, May," tutur Ratih dengan suara lembut yang bergetar haru, memandangi wajah putrinya. "Waktu akhirnya Ibu tahu kamu kehilangan pekerjaan di kantor lama, Ibu sempat khawatir sekali. Tapi melihat kamu sekarang makin tegap di kantor baru murni karena hasil kerjamu sendiri... Ibu merasa bersyukur sekali."
 
 Maya menyunggingkan senyum tipis, menggenggam telapak tangan ibunya yang kapalan. "Semua ini berkat doa Ibu juga."
 

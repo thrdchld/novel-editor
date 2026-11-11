@@ -1737,6 +1737,8 @@ May, draf evaluasi Batununggal sudah disetujui tim medis RS Cakrawala. Kalau sud
 
 Semoga perjalanan pulangmu lancar sore ini.
 
+Informasi persetujuan draf sebenarnya bisa disampaikan melalui grup panitia. Pertanyaan tentang perjalanan pulangnya membuat pesan itu terasa lebih personal daripada yang Maya inginkan.
+
 Menatap dua baris kalimat sederhana yang memancarkan kepedulian tulus itu, niat Maya untuk mengabaikannya runtuh sepenuhnya. Ketidakkonsistenan itu membuat Maya merasa malu pada dirinya sendiri, tetapi rasa lega yang menyeruak saat membalas pesan Daniel jauh lebih kuat daripada rasa bersalah yang mengintai di sudut batin.
 
 Jemari Maya menari di atas layar sentuh, membalas dengan nada yang diusahakannya tetap ramah dan tenang.

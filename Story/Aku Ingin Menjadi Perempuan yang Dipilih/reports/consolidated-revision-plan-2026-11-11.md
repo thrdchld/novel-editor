@@ -1,0 +1,277 @@
+# Konsolidasi Audit dan Rencana Revisi Sinkron
+## Aku Ingin Menjadi Perempuan yang Dipilih
+Tanggal: 11 November 2026
+
+## Status pekerjaan
+
+Konsolidasi read-only berdasarkan:
+- 17 laporan Reader-Experience Audit yang mencakup Bab 1–72;
+- laporan Audit Kesesuaian Manuskrip dengan Master Outline;
+- laporan Perbaikan Teknis;
+- pembacaan ulang manuskrip dan Master Outline Final v4.0.
+
+Versi yang diperiksa:
+- Manuskrip SHA: `c235875ff0f569088936c5c4dea76207b99ff774`
+- Outline SHA: `965ccd92a0b7a5327267fc2d619e1753d48c65a3`
+
+**Tidak ada perubahan pada `manuscript.md` atau `outline.md` dalam pekerjaan konsolidasi ini.**
+
+Kesimpulan umum: novel tidak membutuhkan rewrite total. Fondasi premis, arah karakter, struktur 72 bab, dan akhir cerita sudah bekerja. Pekerjaan yang diperlukan adalah revisi terarah, sinkronisasi outline-manuskrip, serta verifikasi ulang lintas bab.
+
+---
+
+## 1. Daftar revisi terprioritas
+
+### P0 — Wajib ditutup sebelum naskah dapat dinilai layak terbit
+
+#### P0.1 Sinkronisasi kronologi Bab 17–20
+- Bab 17: kejadian Ratih jatuh pada 2 Februari 2025.
+- Bab 18: outline menetapkan 3 Februari, tetapi manuskrip masih memberi kesan Daniel mengevaluasi Ratih di UGD, padahal Bab 17 menyatakan pasien akan dipindahkan ke ruang rawat inap sebelum Daniel melakukan evaluasi.
+- Bab 19: rentang 4–6 Februari perlu dibaca konsisten dengan rujukan “kemarin”, “48 jam”, dan perkembangan kondisi.
+- Bab 20: kepulangan ditetapkan 7 Februari. Durasi rawat dan frasa “tiga hari” harus cocok dengan tanggal tersebut.
+- Tindakan: kunci satu timeline: 2 Feb UGD, 3 Feb evaluasi Daniel di ruang rawat, 4–6 Feb pemantauan, 7 Feb pulang. Perbaiki lokasi adegan, jangkar tanggal, dan semua penanda durasi tanpa mengubah fakta medis yang sudah ditetapkan.
+
+#### P0.2 Sinkronisasi tanggal Bab 32–33
+- Bab 32 menyebut Jumat sore di pertengahan Juli 2025.
+- Bab 33 menyatakan kebiasaan komunikasi berkembang sepanjang minggu pertama Juli 2025.
+- Urutan manuskrip membuat Bab 33 terjadi setelah Bab 32, tetapi tanggal internalnya justru lebih awal.
+- Rekomendasi minimum: tempatkan adegan Bab 32 pada Jumat, 27 Juni 2025 (atau penanda akhir Juni yang konsisten), lalu pertahankan Bab 33 pada 1–10 Juli. Perbarui outline Bab 32 agar sesuai.
+- Periksa pula hubungan kronologis Bab 29–31: pesan pertama 2 Juni, notifikasi Sarah 23 Juni, lalu pengungkapan masalah rumah tangga pada Bab 32.
+
+#### P0.3 Perbaikan masa pemberitahuan kerja Bab 15 dan dampaknya
+- Surat menyebut hari terakhir bekerja di kantor 31 Januari 2025 sekaligus hubungan kerja berakhir setelah 14 hari kerja.
+- Kedua hal itu harus dibedakan secara eksplisit: hari terakhir hadir/bekerja di kantor tidak otomatis sama dengan tanggal efektif berakhirnya hubungan kerja.
+- Bab 17 menyebut pesangon sudah cair dua hari sebelum 2 Februari. Pembayaran ini perlu diselaraskan dengan tanggal efektif dan proses administrasi yang akhirnya dipilih.
+- Pertahankan 31 Januari sebagai hari terakhir bekerja di kantor jika itu tetap menjadi kanon; tetapkan tanggal administratif yang benar setelah memeriksa ketentuan dan kebijakan perusahaan. Sinkronkan surat, dialog, status kerja, pembayaran hak, dan narasi Bab 17. Jangan menyelesaikan hanya dengan mengganti satu angka.
+
+#### P0.4 Konflik Bab 43 dan Bab 59
+- Bab 43 memperlihatkan Maya dan Daniel bertemu langsung pada 13 September 2025, mengakui pelanggaran batas, dan secara eksplisit sepakat menghentikan komunikasi pribadi.
+- Bab 59 menyatakan mereka belum pernah membicarakan perpisahan secara langsung dan bahwa keputusan September diambil terburu-buru tanpa percakapan dewasa.
+- Ini kontradiksi faktual, bukan sekadar perbedaan penekanan.
+- Rekomendasi: pertahankan peristiwa Bab 43 karena adegannya eksplisit dan sesuai outline Bab 43. Revisi alasan pertemuan Bab 59: bukan untuk melakukan percakapan penghentian kontak yang belum pernah terjadi, melainkan untuk mengakui secara jujur harapan Maya dahulu, mengambil tanggung jawab atas bagiannya, dan menutup sisa romantisasi setelah proses refleksi/konseling. Pertemuan tetap satu kali, transparan kepada Sarah, tanpa membuka kembali komunikasi pribadi.
+- Perbarui deskripsi Bab 59 di outline dan teks manuskrip. Periksa Bab 60 agar keputusan konseling Daniel–Sarah tidak bergantung pada informasi yang berubah.
+
+#### P0.5 Audit POV terbatas menyeluruh
+- Master Outline menetapkan orang ketiga terbatas, dominan Maya; perpindahan ke Daniel atau Sarah harus ditandai jelas dan tidak boleh berpindah pikiran di tengah adegan.
+- Temuan berulang: Bab 26, 30, 32, 36, 37, serta beberapa penilaian pada Bab 39, 40–42, dan 48.
+- Beberapa bab sudah memiliki penanda POV alternatif, tetapi penanda tidak otomatis membenarkan akses ke pikiran tokoh lain dalam adegan yang sama.
+- Tindakan: buat satu peta POV per adegan untuk seluruh 72 bab. Pertahankan POV Maya jika informasi dapat disampaikan melalui pengamatan, dialog, dan bukti yang ia ketahui. Jika suatu adegan memang harus memakai POV Daniel/Sarah, tandai sejak awal adegan dan jaga konsisten sampai pemisah adegan berikutnya. Periksa khusus Bab 26, 30, 32, 36, 37, 39–42, dan 48.
+
+#### P0.6 Kesalahan kontinuitas objektif dan logika benda/dialog
+Perbaiki sebagai satu pass teknis:
+- Bab 4: sumber bunyi yang membangunkan Maya tidak jelas; frasa jam berdetik tiga kali tidak memiliki fungsi temporal yang masuk akal.
+- Bab 5: formulir bimbingan belajar berpindah dari tas ke saku tanpa tindakan; dialog Dion “merasa enak” kehilangan negasi dan harus menjadi “merasa nggak enak”.
+- Bab 10: kopi dalam termos berubah menjadi teh herbal dalam dialog.
+- Bab 13: perjelas kunci cadangan yang dikembalikan; tentukan apakah percakapan “kemarin” dengan Arman benar terjadi atau dialog harus merujuk pada pertemuan sebelumnya.
+- Bab 14: yang diarsipkan adalah percakapan/chat, bukan kontak.
+- Bab 16: masa kerja disebut tiga tahun dan lima tahun; samakan menjadi tiga tahun sesuai bukti yang sudah ada. Dialog “cuma pindah rumah” tidak sesuai dengan konteks hari terakhir bekerja dan harus diganti tanpa menyiratkan Maya sudah mendapat pekerjaan baru.
+- Bab 18–20: rapikan lokasi, hari, durasi rawat, dan istilah medis sesuai timeline yang dikunci.
+- Bab 52: jelaskan secara singkat mengapa nomor telepon rumah lama masih aktif/dimiliki Bima, tanpa menambahkan subplot.
+
+### P1 — Wajib diselesaikan dalam revisi sinkron
+
+#### P1.1 Perkembangan hubungan dan penundaan konflik pembuka
+- Bab 2 menjanjikan konfrontasi dengan Arman, tetapi Bab 3–10 menahan payoff selama delapan bab.
+- Flashback tetap memiliki fungsi dan tidak perlu dibuang. Namun, Bab 8–9 mengulang pola penundaan, Maya mengalah, dan Arman memanfaatkan kelonggaran.
+- Bab 6–7 juga melompat enam bulan dari pertemuan pertama ke hubungan resmi tanpa cukup contoh perkembangan kedekatan.
+- Tindakan: pertahankan urutan besar, tambahkan satu atau dua bukti spesifik perkembangan hubungan di Bab 6–7, bedakan fungsi Bab 8 dan 9, padatkan repetisi, lalu pastikan Bab 11–12 segera membayar pertanyaan dari Bab 2. Jangan memperpanjang flashback secara artifisial.
+
+#### P1.2 Sinkronisasi detail usia, durasi, dan tanggal
+- Bab 8 perlu jangkar waktu yang lebih jelas untuk adegan utama dalam rentang 2021–2023.
+- Bab 10 perlu menyebut November 2024 secara eksplisit.
+- Bab 12 perlu menandai kembali ke 10 Januari 2025 setelah sepuluh bab flashback.
+- Bab 17–20 mengikuti timeline P0.1.
+- Bab 22 perlu jangkar 3 Maret; Bab 23 tanggal wawancara 6 Maret; Bab 24 tanggal 12 April.
+- Bab 26 perlu mengatasi penanda “pertengahan April” yang bertentangan dengan akhir April.
+- Bab 29 perlu diselaraskan dengan riwayat pelepasan gips Ratih yang disebut pada Bab 24 dan 28.
+- Bab 37 perlu tanggal 22 Agustus; Bab 35 tanggal 15 Agustus; Bab 36 tanggal 19 Agustus.
+- Bab 41 perlu tanggal 10 September.
+- Bab 48 harus berada pada 20–31 Oktober 2025, bukan pertengahan Oktober jika durasi “sebulan sejak akhir September” tetap dipakai.
+- Bab 51: rujukan “kebohongan lima bulan lalu” tidak cocok dengan peristiwa November/Desember 2024; sebut peristiwa atau bulan yang benar, bukan angka relatif yang salah.
+- Bab 52: “lima hari lalu” tidak cocok dengan keputusan/pesan terakhir Arman; gunakan tanggal atau rentang yang benar (misalnya sejak 18 November/sepekan sebelumnya).
+- Bab 57: ketakutan Maya tidak berlangsung sejak lahir atau selama 28 tahun; akarnya mulai saat ia berusia tujuh tahun pada 2004. Gunakan durasi sekitar 21 tahun sesuai konteks adegan.
+- Bab 58: perjelas “luka lima tahun” agar pembaca tahu apakah merujuk pada hubungan dengan Arman atau luka lain.
+- Bab 66: jelaskan komunikasi Maya–Daniel dimulai Juni, menjadi lebih personal pada Juli–Agustus, dan dihentikan September; jangan mereduksi seluruh rentang menjadi hanya Juli–Agustus.
+
+#### P1.3 Perbaiki klaim yang melampaui pengetahuan tokoh
+- Bab 30/32 dan bab-bab berikutnya kadang mengubah persepsi Maya atau penjelasan Daniel menjadi kebenaran objektif narator.
+- Bab 51 menafsirkan motif Arman meminta kontak seolah fakta yang sudah terbukti. Jadikan itu tafsiran Maya.
+- Bab 54 menyebut Bima sengaja memutus kontak untuk menghindari kewajiban membiayai anak, tetapi sumber pengetahuan ini belum jelas. Jika tidak ada pengakuan langsung Bima, bingkai sebagai dugaan Ratih berdasarkan perilaku dan tidak adanya kiriman uang.
+- Bab 57 membuat psikolog terlalu pasti tentang motif dan karakter Bima, padahal ia tidak hadir dalam sesi. Ubah menjadi hipotesis klinis yang dieksplorasi bersama Maya, bukan diagnosis atau kepastian tentang orang ketiga.
+- Bab 69 menyimpulkan Bima telah matang/permanen berubah setelah satu percakapan. Ganti dengan pengamatan terbatas: ia menerima batas pada percakapan itu; konsistensi perilaku baru dapat dinilai seiring waktu.
+
+#### P1.4 Konsistensi batas Maya dan perkembangan karakter
+- Bab 13, 43, 46, dan 51 sudah menunjukkan Maya menetapkan batas kepada Arman/Daniel.
+- Bab 56 tidak boleh mengklaim bahwa ini pertama kalinya Maya menetapkan batas kepada seorang pria secara umum. Perjelas bahwa ini adalah batas pertama yang ia tetapkan kepada Bima atau bentuk batas baru dalam hubungan ayah-anak.
+- Bab 59 harus tetap menjadi satu pertemuan pengecualian untuk pengakuan dan akuntabilitas, bukan pembukaan kembali relasi.
+- Bab 63–69: komunikasi terbatas dengan Bima bukan pengampunan atau rekonsiliasi. Jangan membuat hubungan ayah-anak pulih hanya karena Bima menghormati satu permintaan.
+- Bab 69: outline menyebut Bima meminta kesempatan bertemu, sedangkan manuskrip menunjukkan ia meminta izin berkirim kabar berkala (sekitar sebulan sekali). Pertahankan bentuk permintaan dalam manuskrip jika itu memang perkembangan yang dimaksud; perbarui outline agar sesuai. Ini lebih konsisten sebagai langkah lanjutan setelah batas yang sudah ditetapkan pada Bab 56 dan komunikasi singkat Bab 63.
+
+#### P1.5 Akurasi profesional dan operasional
+- Bab 18–20: Daniel hanya menangani evaluasi penyakit dalam; ortopedi menangani patah tulang. Pertahankan pembagian tersebut.
+- Bab 29–32: alasan komunikasi pribadi, sumber nomor kontak, dan batas profesional harus tetap jelas.
+- Bab 71: pembaca belum tahu apakah tiga modul utama benar-benar siap, apa status modul lansia yang masih memiliki tenggat 5 Februari, dan bagaimana tim mampu menerima opsi pertama. Tambahkan detail minimum bahwa materi utama sudah disiapkan/divalidasi atau hanya membutuhkan penyesuaian ringan, lalu jelaskan bahwa tujuh pamflet tambahan ditunda ke tahap kedua. Pastikan pembagian kapasitas dan tenggat tidak saling bertentangan.
+
+### P2 — Penyuntingan pengalaman baca lintas bab
+
+#### P2.1 Kurangi repetisi penjelasan emosional dan moral
+Pola berulang ditemukan di:
+- Bab 3–5 dan 6–10: penutup yang menjelaskan “pelajaran” setelah adegan sudah memperlihatkannya.
+- Bab 21, 23–25, 28–32: simpulan emosional berdekatan dan pengulangan batas profesional.
+- Bab 33–48: narator berulang kali mengesahkan kejujuran, ketulusan, kedewasaan, dan penyesalan.
+- Bab 49–52: refleksi batas dan penutupan Arman terlalu lengkap sebelum adegan selesai.
+- Bab 57–72: pernyataan pemulihan total, kebebasan batin, ketenangan mutlak, dan tidak adanya kecemasan berulang.
+Tindakan: lakukan satu pass terintegrasi. Pertahankan refleksi yang memberi makna baru; pangkas kalimat yang hanya mengulang informasi dialog/tindakan. Variasikan penutup bab dengan tindakan, benda, respons, atau pertanyaan yang mendorong pembaca lanjut. Jangan menghapus tema dan jangan membuat prosa menjadi kering.
+
+#### P2.2 Pemulihan Maya harus bertahap, bukan absolut
+- Bab 49 terlalu cepat menyatakan Maya tidak lagi merasakan perih atas komunikasi Daniel.
+- Bab 57–58 tidak boleh menyimpulkan perubahan besar dari satu sesi.
+- Bab 63–68 beberapa kali menyatakan tidak ada lagi rasa bersalah, kecemasan, atau gejolak.
+- Bab 65 menghapus arsip digital sebagai simbol penutupan yang terlalu mutlak.
+- Bab 66 mengubah romantisasi Daniel menjadi penilaian yang terlalu total.
+- Bab 69–72 menyebut ketenangan/pemulihan secara absolut.
+Tindakan: pertahankan bukti perubahan melalui perilaku, tetapi izinkan sisa rasa sedih, ingatan, kecemasan, atau ambivalensi yang wajar. Hapus klaim “sepenuhnya pulih/bebas/tenang” jika tidak didukung adegan. Penutup tetap optimistis tanpa menyatakan bahwa semua luka selesai.
+
+#### P2.3 Pertahankan agensi semua tokoh
+- Sarah tetap manusia dengan batas dan kehidupan sendiri, bukan penghalang romantis.
+- Daniel bertanggung jawab atas pilihannya; pengakuan dan penghentian komunikasi bukan penebusan otomatis.
+- Arman boleh menyesal tanpa memperoleh akses kembali kepada Maya.
+- Bima boleh menunjukkan niat baik tanpa memperoleh pengampunan atau kedekatan otomatis.
+- Ratih memiliki keterbatasan dan tanggung jawab atas kebohongan masa lalu, tetapi bukan penyebab tunggal pola Maya.
+Tindakan: saat memangkas narasi moral, jangan menggeser kesalahan Maya sepenuhnya kepada pria lain dan jangan menghapus tanggung jawab Daniel/Arman/Bima.
+
+### P3 — Polish akhir dan keputusan non-blokir
+- Bab 1: jelaskan secara singkat sumber foto di laptop (misalnya WhatsApp Web) dan bedakan layar ponsel dari layar laptop.
+- Bab 8: putuskan apakah cincin berukir nama Maya perlu konteks atau lebih baik dihapus.
+- Bab 10: rapikan frasa “dokumen bermahkota logo” dan ungkapan abstrak yang terlalu melodramatis.
+- Bab 14 dan 16: rapikan konstruksi bahasa dan istilah dokumen HR.
+- Bab 19: gunakan “retak tertutup” atau istilah medis yang tepat secara konsisten; hindari campuran istilah.
+- Bab 20: pastikan lama rawat dan tanggal pulang sinkron.
+- Bab 26: jika adegan privat Daniel–Sarah dipertahankan, tentukan satu POV dan jelaskan kondisi lupus Sarah secara akurat tanpa menjadikannya penyebab tunggal konflik.
+- Bab 72: frasa “berdiri di tempat yang sama” membingungkan karena Bab 72 menempatkan Maya di rumah Antapani, sedangkan Bab 72 membandingkannya dengan hari terakhir di kantor lama. Ganti menjadi “di kota yang sama” atau rujukan tempat yang benar.
+- Bab 7, 9, 11, 12, 14, dan 16 berada di bawah rentang kata yang disarankan pada laporan panjang bab. Jangan menambah kata demi angka. Tambahkan hanya jika ada kebutuhan dramatik atau orientasi pembaca yang nyata.
+
+---
+
+## 2. Temuan duplikat dan akar masalah bersama
+
+Temuan-temuan berikut jangan dikerjakan sebagai revisi terpisah:
+
+1. **POV terbatas:** Bab 26, 30, 32, 36, 37 dan beberapa adegan Daniel/Sarah lainnya merupakan satu masalah sistemik. Selesaikan melalui peta POV seluruh novel.
+2. **Pemulihan terlalu cepat/absolut:** Bab 49, 57–58, 63–69, dan 72 adalah satu masalah progresi karakter dan pilihan bahasa. Susun kurva pemulihan Maya terlebih dahulu, lalu revisi semua bab sesuai tahapnya.
+3. **Penjelasan moral berulang:** Bab 3–10, 21–48, 49–52, dan 57–72 memiliki pola narator menjelaskan kesimpulan setelah dialog/tindakan. Lakukan satu pass editorial konsisten.
+4. **Batas dan rekonsiliasi Bima:** Bab 53–56, 63, dan 69 harus dibaca sebagai satu rangkaian. Batas kepada Bima bukan hal pertama yang pernah Maya lakukan dalam seluruh hidupnya, dan komunikasi terbatas bukan rekonsiliasi.
+5. **Durasi/kronologi:** Bab 17–20, 24/28/29, 32/33, 48, 51/52, dan 59 harus diselaraskan melalui satu timeline kanonis, bukan koreksi angka terpisah.
+6. **Moral framing Daniel–Maya–Sarah:** Bab 30–48, 59–60, dan 66 harus konsisten membedakan fakta, persepsi, pengakuan, tanggung jawab, serta penebusan.
+
+---
+
+## 3. Konflik antartemuan dan keputusan editorial
+
+| Konflik | Keputusan konsolidasi |
+|---|---|
+| Bab 2 menjanjikan konfrontasi, flashback berlangsung sampai Bab 10 | Pertahankan flashback; padatkan pengulangan dan bayar konfrontasi di Bab 12. |
+| Bab 32 pertengahan Juli vs Bab 33 minggu pertama Juli | Geser Bab 32 ke akhir Juni (opsi 27 Juni) dan sinkronkan outline. |
+| Bab 43 sudah menutup komunikasi langsung vs Bab 59 menyebut belum pernah ada percakapan langsung | Pertahankan adegan Bab 43; ubah alasan dan fungsi pertemuan Bab 59 serta outline. |
+| Bab 56 menyebut “batas pertama” vs batas kepada Arman/Daniel sudah terjadi | Batasi makna “pertama” pada hubungan dengan Bima. |
+| Bab 69 outline meminta pertemuan, manuskrip meminta izin berkirim kabar | Pertahankan versi manuskrip dan revisi outline jika tidak ada bukti kanon lain yang lebih kuat. |
+| Ratih menyatakan motif finansial Bima sebagai fakta vs sumbernya tidak jelas | Jadikan inferensi Ratih kecuali ada pengakuan eksplisit Bima. |
+| Bab 15 hari terakhir kantor vs 14 hari kerja pemberitahuan | Bedakan hari terakhir hadir dan tanggal efektif hubungan kerja; sinkronkan pembayaran hak. |
+| Bab 71 menerima opsi pertama vs kesiapan materi belum jelas | Tambahkan satu detail status materi dan pembagian kapasitas; jangan mengubah hasil rapat. |
+
+---
+
+## 4. Rencana revisi sinkron
+
+### Pass 1 — Kunci dokumen acuan dan timeline
+1. Bekukan salinan versi manuskrip dan outline yang sedang direvisi.
+2. Buat timeline kerja per tanggal: peristiwa, lokasi, tokoh, kondisi hubungan, dan informasi yang diketahui.
+3. Putuskan tanggal administratif PHK dan pembayaran hak.
+4. Kunci urutan Bab 17–20, 24/28/29, 32/33, 48, 51/52, dan 59.
+5. Perbarui outline hanya pada bagian yang terbukti tidak sesuai dengan peristiwa manuskrip dan keputusan kanon.
+
+### Pass 2 — Perbaiki konflik P0
+1. Bab 15–17: pemberitahuan kerja, tanggal efektif, pembayaran hak, dan transisi ke kecelakaan Ratih.
+2. Bab 17–20: tanggal, lokasi, durasi rawat, dan pembagian peran medis.
+3. Bab 32–33: tanggal percakapan pribadi.
+4. Seluruh POV: petakan dan perbaiki akses pikiran tokoh.
+5. Bab 43/59: selaraskan riwayat penghentian komunikasi dan percakapan penutup.
+6. Perbaiki kesalahan properti/dialog objektif Bab 4, 5, 10, 13, 14, dan 16.
+
+### Pass 3 — Perbaiki sebab-akibat dan karakter
+1. Tambahkan bukti perkembangan hubungan Maya–Arman pada Bab 6–7.
+2. Bedakan fungsi Bab 8 dan 9.
+3. Pastikan Maya menyadari status Daniel dan batas moralnya sesuai tahap cerita.
+4. Bedakan persepsi Maya, penjelasan Daniel, dan fakta yang benar-benar diketahui narator.
+5. Perjelas sumber informasi Ratih tentang Bima.
+6. Jadikan formulasi konseling sebagai proses eksplorasi, bukan kepastian psikologis.
+7. Sinkronkan batas Maya kepada Bima dari Bab 53 sampai 69.
+
+### Pass 4 — Revisi penyajian dan ritme
+1. Kurangi repetisi penutup dan simpulan moral.
+2. Lunakkan klaim pemulihan absolut.
+3. Pertahankan ambivalensi dan sisa emosi yang wajar.
+4. Perjelas operasi kerja Bab 71.
+5. Perbaiki rujukan lokasi Bab 72.
+6. Lakukan line polish terbatas pada frasa yang mengganggu pemahaman.
+
+### Pass 5 — Verifikasi lintas bab
+Setelah revisi, lakukan pemeriksaan ulang:
+- baca seluruh novel berurutan sebagai pembaca;
+- cek semua tanggal, hari, durasi, usia, lokasi, perpindahan, dan kondisi fisik;
+- cek sumber pengetahuan setiap tokoh;
+- cek POV per adegan;
+- cek setup/payoff;
+- cek sebab → interpretasi → keputusan → tindakan → reaksi → konsekuensi;
+- cek konsistensi karakter dan batas hubungan;
+- cek format, heading, nomor bab, serta catatan editorial;
+- nilai kembali apakah setiap bab memberi perubahan atau informasi yang diperlukan.
+
+---
+
+## 5. Peta dependensi lintas bab
+
+| Perubahan | Bab yang harus dibaca ulang |
+|---|---|
+| Flashback dan payoff konfrontasi Arman | 1–16 |
+| Masa pemberitahuan kerja dan transisi Ratih | 15–21 |
+| Durasi rawat Ratih dan pemulihan tangan | 17–20, 24, 28–29 |
+| Komunikasi awal Maya–Daniel | 29–33 |
+| POV Daniel/Sarah dan eskalasi kedekatan | 26–48 |
+| Penghentian komunikasi pribadi | 41–48, 59–60, 66 |
+| Batas dan riwayat Arman | 49–52 |
+| Bima, pengakuan Ratih, dan batas Maya | 52–56, 63, 69–70 |
+| Konseling dan kurva pemulihan | 57–68, 70, 72 |
+| Kompetensi profesional dan batas kerja | 61, 68, 71–72 |
+| Akhir cerita dan rujukan waktu/lokasi | 67–72 |
+
+---
+
+## 6. Kriteria penutupan revisi
+
+Novel dapat dinilai **LAYAK DIBACA DAN LAYAK TERBIT** jika:
+
+1. Tidak ada kontradiksi kronologi, usia, lokasi, kondisi, atau durasi yang mengganggu pemahaman.
+2. Tidak ada pelanggaran POV yang membuat pembaca menerima informasi yang tidak mungkin diketahui tokoh.
+3. Semua keputusan penting memiliki motivasi dan sebab-akibat yang dapat diikuti.
+4. Tidak ada properti, dialog, atau tindakan yang bertentangan secara objektif.
+5. Batas hubungan dan status pernikahan konsisten.
+6. Perkembangan Maya terasa bertahap dan dibuktikan tindakan, bukan hanya deklarasi narator.
+7. Daniel, Sarah, Arman, Bima, dan Ratih tetap memiliki agensi serta tanggung jawab masing-masing.
+8. Tidak ada repetisi atau penjelasan berlebihan yang secara nyata merusak ritme.
+9. Tidak ada catatan internal/editorial atau kerusakan format yang tertinggal.
+10. Pembaca dapat memahami cerita tanpa harus membaca outline atau laporan editor.
+
+**Tidak disyaratkan:** semua bab harus sama panjang, semua luka harus sembuh sempurna, semua tokoh harus memperoleh akhir bahagia, atau setiap kalimat harus dipoles sampai sempurna.
+
+---
+
+## Putusan konsolidasi
+
+**Status: READY FOR SYNCHRONIZED REVISION — NOT YET READY TO PUBLISH.**
+
+Tidak ada dasar untuk melakukan rewrite total atau mengubah fondasi cerita. Prioritasnya adalah menyelesaikan konflik objektif, menyinkronkan outline dengan manuskrip, memperbaiki POV, dan menjaga perkembangan karakter tetap masuk akal.
+
+Revisi harus dilakukan per kelompok yang saling bergantung, bukan per empat bab secara terisolasi. Setiap perubahan yang memengaruhi tanggal, motivasi, pengetahuan, atau relasi wajib diperiksa pada seluruh bab dependensinya.
+
+Target akhir adalah naskah yang utuh, logis, konsisten, dan nyaman dibaca—bukan naskah yang terus ditahan demi kesempurnaan.

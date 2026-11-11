@@ -437,3 +437,23 @@ Perubahan tersebut belum membuktikan seluruh dependensi lintas bab telah bersih.
 4. satu pass copyedit penuh untuk ejaan, tanda baca, diksi, dan konsistensi istilah.
 
 **Status publikasi tetap: NOT YET READY TO PUBLISH.** Jangan menaikkan status menjadi siap terbit sebelum audit ulang pascarevisi dan copyedit selesai.
+
+
+---
+
+## Hasil pembacaan ulang pascarevisi — 11 November 2026
+
+**Status: POST-REVISION CONTINUOUS READ COMPLETED; COPYEDIT REMAINS.**
+
+Pembacaan Bab 1–72 secara berurutan telah dilakukan pada manuskrip pascarevisi. Enam koreksi kontinuitas diterapkan pada manuskrip:
+
+1. Bab 15: menghapus hitungan “14 hari kerja” yang tidak cocok secara pasti dengan rentang tanggal dalam surat; hari terakhir hadir dan tanggal efektif PHK tetap dibedakan.
+2. Bab 24/28: menyelaraskan keterangan pelepasan gips Ratih dengan melunakkan durasi pada Bab 28 menjadi “beberapa minggu”.
+3. Bab 48: memindahkan rujukan penghentian komunikasi Maya–Daniel dari “akhir September” ke “pertengahan September”, sesuai pertemuan 13 September.
+4. Bab 52: memperjelas bahwa yang terjadi sepekan sebelum 25 November adalah penegasan batas terakhir kepada Arman, bukan perpisahan baru.
+5. Bab 53: menambahkan pertukaran nomor telepon Bima dan Maya agar kontak yang digunakan pada Bab 56 memiliki setup.
+6. Bab 62: menyelaraskan pengetahuan Ratih tentang PHK dengan Bab 21; Ratih baru mengetahui kehilangan pekerjaan Maya setelah Maya mendapat pekerjaan baru.
+
+Pembacaan ulang tidak menemukan alasan untuk mengubah struktur 72 bab atau akhir cerita. Risiko pacing yang tersisa adalah jarak antara hook Bab 1–2 dan konfrontasi Bab 12 karena kilas balik Bab 3–11; struktur masih dapat dipertahankan, tetapi kelancaran bagian ini perlu dinilai lagi saat copyedit. Beberapa refleksi tematik juga masih perlu diperiksa agar tidak mengulang makna adegan.
+
+**Putusan kerja:** tidak perlu rewrite total. Lanjutkan ke copyedit menyeluruh—ejaan, tanda baca, diksi, konsistensi istilah, kalimat yang terlalu padat, variasi ritme, dan format—lalu lakukan verifikasi akhir. Status publikasi tetap **NOT YET READY TO PUBLISH** sampai pass tersebut selesai.

@@ -717,7 +717,7 @@ Bab 71 — Perempuan yang Memilih
 
 Tanggal: 30 Januari 2026
 
-Maya menghadapi situasi di tempat kerja ketika ia diminta menerima tanggung jawab tambahan tanpa batas yang jelas. Kali ini ia menyampaikan kapasitas dan batas waktunya secara tegas. Perubahan karakter diperlihatkan melalui tindakan sehari-hari, bukan pidato panjang.
+Maya menghadapi permintaan memajukan kampanye gizi ke pertengahan Februari sekaligus menambah sepuluh materi komunikasi. Ia menjelaskan bahwa modul kesehatan lansia tetap harus selesai untuk tenggat 5 Februari; tiga modul inti kampanye gizi yang telah melalui validasi awal dapat disiapkan untuk cetak paling lambat 6 Februari, sedangkan tujuh materi tambahan dipindahkan ke tahap kedua pada Maret. Maya menyampaikan kapasitas dan batas waktu tim secara tegas. Perubahan karakter diperlihatkan melalui keputusan kerja yang operasional, bukan pidato panjang.
 
 Bab 72 — Aku Ingin Menjadi Perempuan yang Dipilih
 

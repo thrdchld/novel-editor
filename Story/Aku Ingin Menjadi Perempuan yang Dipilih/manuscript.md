@@ -238,7 +238,7 @@ Maya belum menyadari bahwa kebiasaan mengalah yang dipelajarinya sejak remaja it
 
 # **BAB 6: Pertemuan dengan Arman**
 
-Pada 2019, menjelang akhir masa kuliahnya, gelak tawa dari meja sudut kafe di kawasan Burangrang mendadak reda saat sebuah cangkir es kopi kelapa tersenggol lengan baju seseorang, menumpahkan cairan manis beraroma vanila ke atas lembar kertas draf proposal milik Maya.
+Pada suatu sore di Juli 2019, menjelang akhir masa kuliahnya, gelak tawa dari meja sudut kafe di kawasan Burangrang mendadak reda saat sebuah cangkir es kopi kelapa tersenggol lengan baju seseorang, menumpahkan cairan manis beraroma vanila ke atas lembar kertas draf proposal milik Maya.
 
 Maya refleks berdiri, menarik mundur beberapa berkas penting sebelum noda cokelat itu meresap makin jauh. Di tengah suasana riuh restoran yang dipadati rombongan teman-temannya sesama lulusan kampus, beberapa orang buru-buru menyodorkan tisu seadanya.
 
@@ -288,6 +288,8 @@ Maya tersenyum menatap layar ponselnya. Ia belum tahu bahwa kehangatan sederhana
 
 Lilin kecil beraroma vanila di tengah meja kayu itu membiaskan pendar kuning lembut, memantulkan bayangan dua cangkir cokelat panas yang mulai berkurang uapnya. Suasana kedai kecil di kawasan Ciumbuleuit malam itu sepi, hanya diisi alunan musik instrumen pelan dan rinai hujan gerimis di luar jendela kaca.
 
+Enam bulan sejak pertemuan di kafe Burangrang, kedekatan mereka tumbuh lewat hal-hal kecil. Pada Agustus, Arman menunggu di depan kampus setelah Maya menyelesaikan presentasi akhir. Ia membawa dua gelas teh tawar hangat karena ingat Maya tidak menyukai minuman terlalu manis. Mereka duduk di bangku halaman kampus, membicarakan rencana kerja Maya dan pekerjaan baru Arman di Bandung. Pada Oktober, ketika hujan deras membuat Maya terlambat pulang dari tempat magang, Arman menjemputnya dan menunggu sampai ia masuk ke gang Kiaracondong. Menjelang Desember, Arman datang makan malam sederhana bersama Ratih dan mendengarkan cerita perempuan itu tentang pesanan jahitannya. Perhatian-perhatian kecil itu tidak selalu besar, tetapi cukup konsisten untuk membuat Maya percaya bahwa mereka sedang saling mengenal.
+
 Arman merengkuh kotak beludru merah berukuran kecil dari dalam saku jaketnya, lalu menggesernya perlahan melintasi meja menuju hadapan Maya.
 
 "Buka deh, May," ujar Arman lembut. Matanya menatap Maya dengan binar hangat yang sungguh-sungguh.
@@ -320,7 +322,7 @@ Maya tidak pernah menduga bahwa tepat lima tahun setelah malam hangat itu, di ta
 
 # **BAB 8: Tahun-Tahun yang Terlewat**
 
-Arman memutar cincin perak berukir nama Maya yang dipakainya di jari kelingking, lalu membalik brosur perumahan komersial di atas meja kaca kedai kopi. Di seberangnya, Maya baru saja selesai melihat foto-foto pernikahan sepupunya di layar ponsel.
+Penghujung 2023. Arman memutar cincin perak berukir nama Maya yang dipakainya di jari kelingking, lalu membalik brosur perumahan komersial di atas meja kaca kedai kopi. Di seberangnya, Maya baru saja selesai melihat foto-foto pernikahan sepupunya di layar ponsel.
 
 "Kawasan mana lagi yang kamu lihat, Mas?" tanya Maya pelan, mencoba menangkap binar antusiasme di mata pria itu.
 
@@ -360,7 +362,7 @@ Tiga tahun telah terlewati dalam lingkaran janji yang terus bergeser. Maya perca
 
 # **BAB 9: Sesuatu yang Berubah**
 
-Bilah layar ponsel Maya menampilkan baris pesan bertuliskan *sedang mengetik...* yang mendadak hilang, berganti dengan pemberitahuan singkat dari Arman: "May, maaf banget malam ini aku tidak bisa mampir ke Antapani. Ada pertemuan mendadak sama tim direksi Arunika Properti sampai malam."
+Menjelang akhir 2024, bilah layar ponsel Maya menampilkan baris pesan bertuliskan *sedang mengetik...* yang mendadak hilang, berganti dengan pemberitahuan singkat dari Arman: "May, maaf banget malam ini aku tidak bisa mampir ke Antapani. Ada pertemuan mendadak sama tim direksi Arunika Properti sampai malam."
 
 Maya memandang layar ponsel itu di atas meja makan kontrakan sederhananya. Di depannya, dua porsi nasi tim ayam hangat yang baru saja ia beli dari kedai langganan Arman di kawasan Jalan Solo masih mengepulkan uap tipis.
 
@@ -378,17 +380,13 @@ Perubahan itu tidak terjadi secara drastis dalam satu malam. Pergeseran itu berl
 
 Arman yang dahulu selalu menyempatkan diri mengabari di sela jam makan siang kini lebih sering mengabaikan pesan hingga larut malam. Ponsel pria itu yang biasanya diletakkan sembarangan di atas meja saat mereka jalan bersama kini lebih sering berposisi telungkup atau tetap tersimpan rapi di dalam saku jasnya. Setiap kali Maya mencoba memancing pembicaraan tentang perkembangan tabungan atau rencana masa depan mereka, Arman akan menjawab singkat dengan nada suara yang perlahan menegang, lalu mengalihkan topik ke beban target penjualan divisi propertinya yang makin menumpuk.
 
-Sebagai wanita yang sejak kecil dididik untuk selalu mengerti dan tidak pernah menjadi beban orang lain, Maya memilih menelan seluruh kecemasannya sendiri. Ia berusaha keras meyakinkan dirinya bahwa Arman sedang berada di puncak tekanan kariernya sebagai manajer pemasaran.
-
-Maya menasihati hatinya sendiri bahwa pria yang sedang berjuang keras demi masa depan membutuhkan dukungan, bukan tuntutan emosional yang membebani.
-
-Maya pun berusaha menjadi pasangan yang lebih toleran. Ia sengaja mengurangi frekuensi menelepon di malam hari, tidak lagi menanyakan kapan Arman akan menemui ibunya di Kiaracondong, dan selalu menyambut suara lelah Arman di telepon dengan kehangatan paling sabar yang bisa ia berikan. Maya percaya bahwa dengan memberikan ruang dan kenyamanan penuh tanpa rengekan, Arman akan merasa dihargai dan perlahan kembali terbuka seperti dulu.
+Sebagai perempuan yang sejak kecil dididik untuk tidak menjadi beban orang lain, Maya kembali menelan pertanyaan-pertanyaan itu. Ia meyakinkan diri bahwa Arman sedang berada di puncak tekanan karier dan membutuhkan dukungan, bukan tuntutan emosional. Karena itu, ia mengurangi frekuensi menelepon, tidak lagi menanyakan kapan Arman akan menemui ibunya di Kiaracondong, dan menyambut suara lelah pria itu dengan pengertian. Maya berharap ruang yang diberikannya akan membuat Arman kembali terbuka seperti dulu.
 
 Maya tidak pernah menyadari bahwa ruang bebas yang ia berikan dengan ketulusan dan pengorbanan itu justru dimanfaatkan Arman untuk melapangkan jalan bagi kehadiran orang lain dalam hidupnya.
 
 # **BAB 10: Perempuan yang Tidak Dikenalkan**
 
-Aroma uap kopi hitam hangat merebak dari termos kecil yang dipegang Maya. Sore itu, sekitar pertengahan November, Maya sengaja menyempatkan diri mampir ke pelataran lobi kantor Arunika Properti di kawasan Jalan Sumatra. Ia hanya ingin mengejutkan Arman yang selama dua minggu terakhir mengeluhkan kondisi fisiknya yang menurun akibat lembur.
+Aroma uap kopi hitam hangat merebak dari termos kecil yang dipegang Maya. Sore itu, sekitar pertengahan November 2024, Maya sengaja menyempatkan diri mampir ke pelataran lobi kantor Arunika Properti di kawasan Jalan Sumatra. Ia hanya ingin mengejutkan Arman yang selama dua minggu terakhir mengeluhkan kondisi fisiknya yang menurun akibat lembur.
 
 Maya berdiri di tepi selasar berkaca bening, menunggu lift menuruni lantai empat tempat divisi pemasaran berada.
 

@@ -1523,7 +1523,7 @@ Terima kasih banyak, Dokter Daniel. Berarti besok pagi bisa langsung saya serahk
 
 Sama-sama, May. Terima kasih juga sudah selalu teliti merapikan materi medis kami, balasan Daniel menyusul cepat, disusul pertanyaan ringan seputar kegiatannya sore tadi.
 
-Maya memeluk bantal kecilnya, membalas pesan Daniel dengan perasaan yang tenang. Malam dua belas Agustus tahun ini berlalu tanpa ada kue tart, tanpa ada ucapan tengah malam, dan tanpa ada air mata penyesalan. Di bawah naungan malam kota Bandung, Maya menyadari satu hal penting: ia telah berhasil melangkah melewati bayang-bayang masa lalunya, meski kini ia sedang berjalan menuju ruang baru yang tak kalah rumitnya.
+Maya memeluk bantal kecilnya, membalas pesan Daniel dengan perasaan yang tenang. Malam dua belas Agustus tahun ini berlalu tanpa kue tart atau ucapan tengah malam untuk Arman. Namun, pesan Daniel yang datang menjelang tidur mengingatkan Maya bahwa meski satu bagian dari masa lalunya mulai terasa lebih jauh, kedekatan baru sedang tumbuh di ruang yang belum sepenuhnya ia pahami.
 
 # **BAB 35: Perhatian yang Berbeda**
 
@@ -2349,7 +2349,7 @@ Arman menelan ludah yang terasa pahit di kerongkongan, mengakui ketidakjujuranny
 
 "Jadi kamu memilih berbohong kepada kami berdua?" potong Maya tegas namun tenang.
 
-Arman memejamkan matanya sejenak, mengembuskan napas berat. "Iya. Pada bulan November tahun lalu, aku bilang ke Celine bahwa hubungan lamaku denganku sudah sepenuhnya selesai sejak lama. Dan di depanmu, aku tetap berpura-pura bahwa segalanya baik-baik saja sampai pertunangan tanggal dua puluh satu Desember itu terjadi."
+Arman memejamkan matanya sejenak, mengembuskan napas berat. "Iya. Pada bulan November tahun lalu, aku bilang ke Celine bahwa hubunganku denganmu sudah sepenuhnya selesai sejak lama. Dan di depanmu, aku tetap berpura-pura bahwa segalanya baik-baik saja sampai pertunangan tanggal dua puluh satu Desember itu terjadi."
 
 Pengakuan jujur itu meluncur tanpa pembelaan dari bibir Arman. Pria itu membeberkan betapa rasa takut akan kerentanan dan ketakutannya kehilangan kenyamanan telah membuatnya bertindak sebagai pembohong yang memelihara dua hubungan sekaligus demi kepentingannya sendiri.
 
@@ -2656,7 +2656,7 @@ Pemahaman psikologis itu tidak seketika menghapus rasa perih atau mengubah masa 
 
 Maya menutup buku catatan abu-abunya, memasukkannya kembali ke dalam laci meja, lalu menegakkan posisi duduknya untuk kembali menyelesaikan draf publikasi yayasan dengan pikiran yang jauh lebih jernih.
 
-# **BAB 56: Batas Pertama**
+# **BAB 56: Batas dengan Bima**
 
 Minggu sore, tujuh Desember dua ribu dua puluh lima, rintik hujan gerimis menyisakan hawa dingin yang mengendap di sepanjang jalan gang kontrakan Antapani. Suara tetesan air yang jatuh dari lis seng teras beradu pelan dengan desir angin sore kota Bandung.
 
@@ -2728,7 +2728,7 @@ Maya duduk di atas sofa kain berwarna krem dalam ruang praktik psikologi lantai 
 
 Di seberangnya, terpisah oleh meja kayu kecil dengan vas berisi bunga krisan segar, duduk Mbak Melani—seorang psikolog klinis berusia awal empat puluhan dengan pembawaan yang tenang, kacamata berbingkai tipis, dan senyum yang tidak menghakimi.
 
-Sejak menegakkan batas pertamanya kepada Bima melalui sambungan telepon kemarin sore, Maya menyadari bahwa menyadari pola buruk saja tidak cukup. Ia butuh bantuan profesional untuk mengurai benang kusut yang telah mengikat batinnya selama lebih dari dua dekade.
+Sejak menegakkan batas pertamanya kepada Bima melalui sambungan telepon kemarin sore, Maya menyadari bahwa mengenali pola buruk saja belum cukup. Ia butuh bantuan profesional untuk mengurai benang kusut yang telah mengikat batinnya selama lebih dari dua dekade.
 
 "Terima kasih sudah datang tepat waktu, Mbak Maya," sapa Mbak Melani dengan suara rendah dan hangat. "Di formulir pendaftaran awal, Mbak Maya menuliskan ingin memahami pola berulang dalam hubungan emosional. Bisa diceritakan dari mana Mbak Maya ingin memulainya?"
 
@@ -3072,7 +3072,7 @@ Ratih menganggukkan kepalanya pelan, menyapu air mata di pipinya dengan ujung ce
 
 "Maya juga minta maaf ya, Bu," balas Maya halus.
 
-Malam itu, di rumah sederhana Kiaracondong di tengah gerimis kota Bandung yang mereda, tidak ada pertengkaran, tidak ada rasa saling menyalahkan, dan tidak ada lagi rahasia yang mengganjal di antara mereka. Maya dan Ratih duduk berdampingan, menikmati teh melati dan pisang goreng dalam keheningan yang kini terasa hangat, jujur, dan menenteramkan.
+Malam itu, di rumah sederhana Kiaracondong di tengah gerimis kota Bandung yang mereda, tidak ada pertengkaran atau saling menyalahkan. Untuk pertama kalinya setelah sekian lama, mereka mulai membicarakan hal-hal yang sebelumnya disimpan sendiri. Maya dan Ratih duduk berdampingan, menikmati teh melati dan pisang goreng dalam keheningan yang kini terasa hangat, jujur, dan menenteramkan.
 
 Untuk pertama kalinya dalam hidupnya, Maya menyadari bahwa rumah tempat ia pulang bukan lagi ruang penuh kepura-puraan, melainkan tempat di mana ia bisa menjadi dirinya sendiri secara utuh tanpa takut diabaikan.
 
@@ -3220,13 +3220,11 @@ Sabtu pagi, dua puluh empat Januari dua ribu dua puluh enam, kabut tipis menyeli
 
 Maya mendudukkan diri di tepi kasur busa kamarnya, memangku sebuah map jepit berisi bundel materi edukasi kesehatan lansia dari kegiatan awal Yayasan Lentera Sehat pertengahan tahun lalu.
 
-Dua hari setelah memusnahkan folder arsip digital kenangan bersama Arman—melepaskan dahaga akan penjelasan yang tak pernah memuaskan—ruang batin Maya terasa semakin lengang. Pagi ini, saat jemarinya memilah lembar-lembar kertas materi peraga di pangkuannya, matanya tertambat pada selembar catatan kecil bertuliskan tangan.
+Dua hari setelah memusnahkan folder arsip digital kenangan bersama Arman—melepaskan dahaga akan penjelasan yang tak pernah memuaskan—ruang batin Maya terasa semakin lengang. Pagi ini, saat jemarinya memilah lembar-lembar materi peraga di pangkuannya, Maya teringat pada pesan-pesan koreksi teknis yang pernah dikirim Daniel melalui grup koordinasi kegiatan pada pertengahan Juli dua ribu dua puluh lima. Saat itu, masukan kerja yang sederhana pun kerap terasa istimewa baginya karena datang dari Daniel.
 
-Itu adalah catatan garis besar alur rujukan pasien degeneratif yang dituliskan Dokter Daniel dengan tinta hitam presisi pada pertengahan Juli dua ribu dua puluh lima.
+Maya mengambil ponsel dari sisi kasur dan membuka kembali grup koordinasi tersebut. Percakapan lama itu masih tersimpan di antara pesan-pesan kerja lainnya.
 
-Maya memandangi deretan tulisan tangan itu lurus-lurus.
-
-Dahulu, ketika komunikasi yang bermula pada Juni semakin personal pada Juli dan Agustus, selembar catatan kecil atau pesan singkat dari Daniel memiliki daya sihir yang sanggup melambungkan perasaannya sepanjang hari. Di tengah kehancuran hatinya akibat pengkhianatan Arman dan kehilangan pekerjaan lamanya, kehadiran Daniel terasa bagaikan oase yang menyelamatkan harga dirinya.
+Dahulu, ketika komunikasi yang bermula pada Juni semakin personal pada Juli dan Agustus, pesan koreksi atau catatan singkat dari Daniel memiliki daya sihir yang sanggup melambungkan perasaannya sepanjang hari. Di tengah kehancuran hatinya akibat pengkhianatan Arman dan kehilangan pekerjaan lamanya, kehadiran Daniel terasa bagaikan oase yang menyelamatkan harga dirinya.
 
 Selama berbulan-bulan—bahkan ketika komunikasi pribadi mereka telah dihentikan secara resmi pada akhir September—ada sebuah narasi manis yang tanpa sadar dipelihara Maya di dalam dadanya. Ia sering menganggap Daniel sebagai sosok pria ideal yang hadir di waktu yang salah. Maya memandang perpisahan mereka sebagai sebuah tragedi romantis antara dua insan yang saling memahami namun terhalang oleh takdir dan ikatan pernikahan.
 
@@ -3248,11 +3246,11 @@ Ia menikmati perasaan dibutuhkan, membiarkan batas-batas moralnya kabur, dan teg
 
 Kedekatan yang menguat pada Juli dan Agustus—setelah komunikasi mereka dimulai pada Juni dan sebelum dihentikan pada September—bukanlah sebuah kisah cinta sejati yang terhalang takdir. Itu murni sebuah persimpangan egois dari dua manusia yang sedang rapuh: seorang pria yang melarikan diri dari kesunyian pernikahan, dan seorang perempuan yang kehausan akan rasa dipilih.
 
-Maya memegang kertas catatan tulisan tangan Daniel itu di telapak tangannya.
+Maya menatap layar ponselnya beberapa saat sebelum mematikannya.
 
 Rasa kagum yang dahulu membuncah tidak lagi menutupi penilaiannya. Ia mulai melihat Daniel sebagai manusia yang memiliki kompetensi sekaligus kelemahan dan tanggung jawab. Daniel bukan jawaban atas luka masa lalunya, bukan pula penyelamat yang akan melengkapi kehidupannya. Menggantungkan rasa berharga pada perhatian pria beristri adalah kesalahan yang kini ia pahami dan tidak ingin ia ulangi.
 
-Maya merapikan lembar catatan itu, memasukkannya kembali ke dalam bundel arsip yayasan di dalam lemari kerja.
+Ia meletakkan ponsel di samping map jepit, lalu kembali merapikan bundel materi edukasi itu.
 
 Maya tidak menangis saat itu, tetapi bukan berarti semua perasaannya selesai. Ia masih menyimpan penyesalan atas pilihannya sendiri. Bedanya, kini ia dapat mengakui kesalahan itu tanpa menjadikan Daniel sebagai sosok yang harus ia benci atau kagumi. Ia mulai belajar memaafkan kekhilafan dirinya tanpa membenarkan kesalahannya. Bayangan tentang Daniel mungkin belum hilang sepenuhnya, tetapi Maya tidak lagi ingin menjadikannya sosok penyelamat. Ia bersiap melangkah dengan keputusan yang kini lebih ia pahami.
 

@@ -858,7 +858,7 @@ Ratih mendongak, matanya melebar tipis. "Uang mukanya kan sudah Ibu pakai buat b
 
 "Maya ada simpanan untuk ganti uang mukanya, Bu," potong Maya cepat dengan senyum menenangkan.
 
-Alasan itu meluncur lancar dari mulut Maya. Kenyataannya, sisa uang pesangon di rekeningnya kini berada di angka kritis setelah dipotong biaya jaminan perawatan Ratih selama beberapa hari di rumah sakit. Namun, melihat raut cemas di wajah ibunya yang masih pucat, Maya tidak ingin menambah beban pikiran Ratih sedikit pun.
+Alasan itu meluncur lancar dari mulut Maya. Kenyataannya, sisa tabungan di rekeningnya kini berada di angka kritis setelah dipotong biaya jaminan perawatan Ratih selama beberapa hari di rumah sakit. Namun, melihat raut cemas di wajah ibunya yang masih pucat, Maya tidak ingin menambah beban pikiran Ratih sedikit pun.
 
 Maya berdiri, melangkah menuju meja jahit tua di sudut ruangan. Ia merapikan potongan benang yang berserakan, melipat kain-kain pesanan tetangga satu per satu dengan cermat, lalu mencatat nama pemilik bahan di selembar kertas kecil.
 
@@ -878,7 +878,7 @@ Senin pagi, 17 Februari 2025. Kalimat kedua dari surel di layar laptop itu langs
 
 Maya menggeser kursor, memindahkan pesan dari agensi komunikasi di kawasan Pasteur itu ke dalam folder bertuliskan *Lamaran 2025*. Itu surel penolakan kelima yang masuk ke kotak masuknya sepanjang pertengahan Februari.
 
-Ia menutup bilah surel, lalu membuka lembar kerja spreadsheet di layar. Di sana, deretan angka sisa tabungan pesangon tercetak tebal.
+Ia menutup bilah surel, lalu membuka lembar kerja spreadsheet di layar. Di sana, deretan angka sisa pesangon yang baru diterimanya setelah hubungan kerja resmi berakhir pada 14 Februari tercetak tebal.
 
 Setelah dipotong biaya jaminan rawat inap Ratih di Rumah Sakit Cakrawala, biaya obat rawat jalan, serta biaya pengembalian uang muka kebaya tetangga minggu lalu, angka di rekeningnya kini menyusut drastis. Jika dipotong biaya kontrakan Antapani untuk bulan depan dan belanja bahan makanan pokok Kiaracondong, sisa dana yang dimilikinya hanya sanggup bertahan hingga pertengahan Maret.
 

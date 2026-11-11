@@ -3520,7 +3520,7 @@ Maya tidak terburu-buru merespons. Ia membuka buku catatan agendanya, memindai k
 
 Ia menatap Pak Gunawan dan Pak Frans secara bergantian tanpa raut cemas atau rasa bersalah.
 
-"Namun, saya perlu menyampaikan kapasitas tim komunikasi secara terbuka," lanjut Maya. "Saat ini, tim kami sedang memfinalisasi modul kesehatan lansia yang memegang tenggat cetak tanggal lima Februari. Tiga modul inti kampanye gizi sudah memiliki draf lengkap dan telah melalui validasi awal; tim hanya perlu melakukan penyesuaian akhir sebelum masuk proses cetak. Jika kita memajukan kampanye edukasi gizi ke pertengahan Februari dan menambah sepuluh jenis pamflet baru tanpa penyesuaian jadwal, ada dua konsekuensi nyata."
+"Namun, saya perlu menyampaikan kapasitas tim komunikasi secara terbuka," lanjut Maya. "Saat ini, tim kami sedang memfinalisasi modul kesehatan lansia yang memegang tenggat cetak tanggal lima Februari. Tiga modul inti kampanye gizi sudah memiliki draf lengkap dan telah melalui validasi awal; tim hanya perlu melakukan penyesuaian akhir sebelum masuk proses cetak. Dengan mempertahankan tenggat modul lansia, tim dapat menuntaskan tiga modul inti kampanye untuk siap cetak paling lambat enam Februari. Tujuh materi tambahan perlu disiapkan pada tahap kedua agar pemeriksaan tidak dilakukan terburu-buru. Jika kita tetap meminta seluruh sepuluh materi selesai dalam tenggat yang sama, ada dua konsekuensi nyata."
 
 Pak Frans dan Pak Gunawan mendengarkan dengan saksama.
 

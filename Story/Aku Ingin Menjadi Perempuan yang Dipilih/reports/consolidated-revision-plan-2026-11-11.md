@@ -478,4 +478,7 @@ Verifikasi teknis terbaru menunjukkan 72 bab berurutan, sekitar 49.441 kata, dan
 
 **Status publikasi: NOT YET READY TO PUBLISH.** Lanjutkan dengan proofread akhir menyeluruh sebelum penilaian kelayakan terbit.
 
-Blob SHA manuskrip setelah pass ini: `4b20b5051118f69ec12d487b4d9497bb5fe60ffa`.
+Blob SHA manuskrip setelah pass ini: `c6a0ba5c12a95a26c91eaea908eea512e6372c44`.
+
+
+Pembaruan verifikasi 12 November 2026: pemindaian ulang menggunakan potongan baris yang lebih kecil mengonfirmasi 72 heading bab berurutan (Bab 1–72), sekitar 49.433 kata, tanpa tanda baca ber-escape dan tanpa temuan pada daftar typo/konstruksi terpilih. Ini pemeriksaan teknis terarah, bukan bukti bahwa seluruh manuskrip sudah bebas typo. Proofread manusia/akhir tetap diperlukan. Blob SHA terkini: `c6a0ba5c12a95a26c91eaea908eea512e6372c44`.

@@ -2223,8 +2223,6 @@ Maya memilih tidak menceritakan pergulatan emosional yang sempat melibatkannya d
 
 Ia menyusun buku catatan keuangan pribadi, mencatat rincian alokasi gaji bulanan dari yayasan, serta merencanakan tabungan kecil untuk perbaikan atap dapur Kiaracondong bulan depan. Maya tidak lagi menyusun rencana masa depannya mengitari kepastian yang digantungkan oleh pria lain.
 
-Ia berdiri di dekat jendela kamar, membiarkan angin malam kota Bandung mengusap lembut kulit wajahnya.
-
 Maya menutup buku catatan keuangannya setelah memastikan alokasi untuk perbaikan atap dapur bulan depan cukup. Ia mematikan lampu ruang tengah, lalu memeriksa sekali lagi apakah pintu rumah telah terkunci.
 
 # **BAB 48: Hal yang Harus Ditanggung**

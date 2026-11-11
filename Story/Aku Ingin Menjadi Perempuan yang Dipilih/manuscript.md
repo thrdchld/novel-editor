@@ -1074,7 +1074,7 @@ Daniel tertawa kecil, melirik istrinya dengan binar mata lembut. "Sarah ini edit
 
 "Jangan begitu, nanti Mbak Maya sungkan," senyum Sarah mengembang manis, memukul pelan lengan jas Daniel dengan lipatan brosur acara yang dipegangnya. Interaksi kecil di antara mereka terlihat sangat wajar, terbiasa, dan matang.
 
-Maya mengamati pasangan di hadapannya. Tidak ada kecanggungan yang kentara di antara mereka. Daniel dan Sarah tampak seperti pasangan suami istri yang telah saling mengenal luar dalam, membangun ruang hidup bersama yang tertata dan stabil.
+Maya mengamati interaksi mereka. Daniel dan Sarah tampak akrab dan terbiasa satu sama lain. Dari percakapan singkat itu, Maya hanya melihat sisi yang mereka perlihatkan di depan umum; ia tidak tahu bagaimana kehidupan mereka ketika tidak sedang bersama tamu acara.
 
 Saat seorang perawat senior dari panitia medis memanggil nama Daniel untuk mengonfirmasi urutan tempat duduk pembicara di panggung, Daniel berpamitan pelan.
 
@@ -1098,7 +1098,7 @@ Pandangannya secara tidak sengaja tertuju pada barisan depan. Daniel duduk berda
 
 Di dalam dada Maya, ada perasaan tenang sekaligus kejelasan tebal yang mengendap. Maya menyadari bahwa Dokter Daniel yang selalu bersikap tenang dan perhatian itu bukanlah pria yang berdiri sendirian di dunia ini. Pria itu memiliki sebuah kehidupan utuh, sebuah rumah tangga yang telah mereka bangun selama hampir delapan tahun, dan seorang istri yang begitu anggun dan berharga di sampingnya.
 
-Maya merapikan kertas presensi di papan jepitnya, lalu menarik napas panjang. Ia berada di sana murni untuk bekerja, membangun kembali pijakan hidupnya yang sempat runtuh, dan ia bersyukur telah melihat batas itu secara nyata sejak awal.
+Maya merapikan kertas presensi di papan jepitnya, lalu kembali ke meja registrasi. Ia menyambut tamu berikutnya dan memastikan alur acara berjalan sesuai jadwal.
 
 # **BAB 26: Dua Kehidupan**
 
@@ -1219,7 +1219,7 @@ Meski demikian, Maya tidak membohongi dirinya sendiri. Rasa pulih itu belum sepe
 
 Maya menarik napas panjang, mengembuskannya perlahan ke udara malam.
 
-Dua puluh delapan tahun bukan akhir dari segalanya, melainkan titik mula di mana ia belajar menggenggam takdirnya sendiri. Di atas bangku kayu teras Kiaracondong, Maya tersenyum tipis, berjanji pada hatinya sendiri untuk terus melangkah maju tanpa perlu menoleh ke belakang lagi.
+Maya menyimpan ponselnya, lalu masuk ke rumah untuk membantu Ratih membereskan meja makan. Ulang tahun kali ini tidak sesuai dengan bayangan lamanya, tetapi ia masih bisa menikmati nasi kuning buatan ibunya dan pesan-pesan dari orang-orang yang hadir dalam hidupnya sekarang.
 
 # **BAB 29: Pesan Pertama**
 
@@ -1301,7 +1301,7 @@ Dari jeda balasan dan cerita yang dibagikan Daniel, Maya menangkap bahwa percaka
 
 Sementara bagi Maya, pesan-pesan dari Daniel datang seperti embun sejuk di tengah tanah gersang. Setelah lima tahun terkikis oleh ketidakpastian Arman yang menuntutnya untuk selalu mengalah, lalu disusul badai pemutusan kerja dan musibah ibunya, perhatian kecil yang konsisten dari Daniel membuat Maya merasa diakui dan diingat.
 
-"Ibu Ratih bagaimana kondisinya hari ini?" tanyalah Daniel dalam satu baris pesan berikutnya. "Latihan tekuk jarinya masih rutin?"
+"Ibu Ratih bagaimana kondisinya hari ini?" tanya Daniel dalam satu baris pesan berikutnya. "Latihan tekuk jarinya masih rutin?"
 
 Maya tersenyum, mengusap layar ponselnya hangat. Rutin sekali, Dok. Malah tadi pagi Ibu sudah mulai nekat mau memotong bahan kain tipis di Kiaracondong, tapi langsung saya tegur.
 
@@ -1310,8 +1310,6 @@ Bagus kalau ditegur, jawab Daniel ditambah simbol senyum sederhana di ujung kali
 Pesan-pesan mereka tetap memakai bahasa yang sopan. Tidak ada rayuan terang-terangan atau janji romantis. Maya menjadikan kesopanan itu alasan untuk menganggap komunikasi tersebut tidak bermasalah, meskipun frekuensi dan topiknya telah bergerak keluar dari urusan kerja. Ia tahu ada batas yang mulai kabur, tetapi belum ingin mengakuinya.
 
 Maya tahu betul bahwa Daniel adalah pria beristri. Bayangan keanggunan Sarah Putri Wicaksana dalam balutan gaun hijau sage di Hotel Papandayan dua bulan lalu masih terekam jelas di ingatannya. Namun, karena percakapan mereka murni seputar keseharian dan kehangatan rasa saling menghormati, Maya membenarkan tindakan tersebut dalam hatinya, menganggapnya tak lebih dari hubungan pertemanan yang saling mendukung.
-
-Ia tidak menyadari bahwa kebiasaan menunggu getaran ponsel setiap malam telah menumbuhkan ketergantungan emosional yang baru.
 
 Pukul sembilan malam lewat sepuluh menit, Daniel mengirimkan pesan penutup: Saya jalan pulang dulu ya, Mbak Maya. Selamat istirahat.
 
@@ -2089,11 +2087,7 @@ Sarah mengangguk singkat. Ia membenahi letak tas tangannya, berdiri perlahan dar
 
 "Terima kasih atas kejujuran dan kesediaan Mbak Maya untuk bertemu hari ini," ujar Sarah tenang. Ia mengangguk hormat sekali lagi, membalikkan badan, lalu melangkah keluar dari kedai teh dengan langkah kaki yang tegap dan anggun.
 
-Maya tetap duduk terpaku di meja sudut.
-
-Di luar jendela kedai, angin sore menyapu dedaunan pohon di sepanjang Jalan Riau. Maya menatap gelas air mineral di hadapannya yang tak tersentuh. Untuk pertama kalinya dalam hidupnya, Maya tidak lagi bisa memposisikan dirinya sebagai korban yang malang. Ia memang pernah disakiti oleh kebohongan Arman dan ditinggalkan oleh ayahnya, tetapi sore ini, di hadapan keanggunan Sarah yang terluka, Maya harus menerima kenyataan pahit bahwa ia pun telah menjadi pelaku yang melukai orang lain.
-
-Maya meremas jemarinya yang dingin, membiarkan rasa bersalah itu mengendap tebal di dasar jiwanya—sebuah harga mahal dari keputusan egois yang kini harus ia tanggung sepenuhnya.
+Maya tetap duduk beberapa saat setelah Sarah meninggalkan kedai. Ia meraih gelas air mineral dan meminum seteguk, lalu mengambil tasnya. Sebelum keluar, ia membayar minuman yang tak sempat disentuh Sarah. Di trotoar Jalan Riau, Maya berhenti sejenak, membiarkan udara sore menyentuh wajahnya, kemudian berjalan pulang tanpa mengirim pesan susulan.
 
 # **BAB 45: Tidak Bisa Menyebut Diri Tidak Bersalah**
 
@@ -2115,7 +2109,7 @@ Maya tidak bisa lagi membohongi dirinya sendiri. Tidak ada yang memaksa jemariny
 
 Maya memilih untuk membalas. Maya memilih untuk mendengarkan. Dan Maya memilih untuk menikmati perasaan diinginkan, dibutuhkan, serta dianggap penting oleh pria tersebut.
 
-Kebutuhan mendalam untuk merasa diprioritaskan usai lima tahun diabaikan oleh Arman telah membuatnya menutup mata terhadap fakta bahwa perhatian yang ia nikmati itu dipetik dari ruang milik wanita lain.
+
 
 ---
 
@@ -2133,7 +2127,7 @@ Maya mendongak, menyunggingkan senyum profesional yang teratur. "Sudah, Mbak Dew
 
 Maya menatap layar laptopnya kembali. Ia mengamati bagaimana kerjanya tetap diapresiasi murni karena kompetensinya. Keberadaannya di yayasan ini adalah hasil dari usahanya sendiri melamar dan melewati proses wawancara secara sah, tanpa ada campur tangan Daniel sedikit pun.
 
-Menyadari hal itu, rasa bersalah Maya terasa semakin tajam. Ia memiliki pekerjaan yang menghargainya dan memiliki kehidupan baru yang mulai tertata, tetapi ia hampir saja merusaknya hanya demi mengejar dahaga emosional yang semu.
+Maya kembali menatap laporan di layar. Ia masih harus bertanggung jawab atas pekerjaannya, sekalipun rasa bersalah itu belum reda.
 
 ---
 
@@ -2151,7 +2145,7 @@ Ia pernah disakiti oleh kebohongan orang lain, tetapi ia juga telah ikut menjadi
 
 Maya menarik napas panjang, mengembuskannya pelan ke dalam kegelapan kamar. Mengakui kesalahan diri sendiri ternyata jauh lebih menyakitkan daripada meratapi rasa sakit akibat perlakuan orang lain. Namun, di balik perihnya penyesalan itu, ada kejelasan baru yang mulai menetap di dada Maya.
 
-Ia berhenti menyalahkan keadaan, berhenti menyalahkan Daniel, dan berhenti membenarkan tindakannya sendiri. Maya menerima penuh bahwa ia telah mengambil keputusan yang salah. Dan menerima kesalahan itu tanpa mencari pembelaan adalah langkah pertama yang harus ia tempuh jika ia benar-benar ingin menyembuhkan dirinya tanpa melukai siapa pun lagi.
+Maya menutup aplikasi percakapan, meletakkan ponselnya di laci, lalu membuka kembali daftar pekerjaan untuk esok pagi. Rasa bersalah itu belum selesai, tetapi ia tidak ingin membiarkannya menjadi alasan untuk mengabaikan tanggung jawab hari ini.
 
 # **BAB 46: Jarak**
 
@@ -2173,7 +2167,7 @@ Maya memosisikan pandangannya pada berkas di meja, menarik napas panjang yang te
 
 "Selamat pagi, Mbak Maya," balas Daniel pendek. Suaranya terdengar tegap, formal, dan berada murni dalam intonasi seorang rekan kerja profesional.
 
-Tidak ada keraguan verbal, tidak ada tatapan mata yang tertahan terlalu lama, dan tidak ada usaha untuk menyinggung hal-hal pribadi. Daniel mendudukkan diri di kursi seberang meja rapat, membeberkan catatan medis teknis di hadapannya.
+Tidak ada sapaan pribadi atau tatapan yang tertahan terlalu lama. Daniel mendudukkan diri di kursi seberang meja rapat dan membuka catatan medis di hadapannya.
 
 Rapat koordinasi bulanan itu berlangsung selama satu jam setengah. Sepanjang pembahasan agenda, dinamika kerja di antara mereka berjalan sangat lugas.
 
@@ -2192,8 +2186,6 @@ Maya berdiri di dekat meja rapat, memperhatikan siluet Daniel yang menghilang di
 Ada rasa nyeri perih yang sempat mencubit dasar dadanya saat menyaksikan jarak nyata yang kini membentang rapat di antara mereka. Kehangatan percakapan malam dan perasaan dibutuhkan yang pernah mengisi harinya kini telah menguap sepenuhnya.
 
 Namun, di atas rasa kehilangan itu, Maya merasakan sebuah arus kelegaan yang jujur dan menenteramkan.
-
-Maya menyadari bahwa inilah jarak yang seharusnya ada sejak awal. Jarak ini bukan diciptakan atas dasar dendam atau amarah, melainkan atas dasar penegakan harga diri, kejujuran emosional, dan penghormatan terhadap batas moral yang tak boleh dilanggar. Dengan berdirinya jarak ini, Maya tidak lagi harus berbohong pada nuraninya sendiri atau bermain di ruang remang yang melukai perempuan lain.
 
 Maya merapatkan folder arsipnya, menyunggingkan senyum tipis ke arah Suster Dewi yang sedang mengemas alat peraga, lalu melangkah kembali ke meja kerjanya dengan pijakan kaki yang terasa jauh lebih mantap.
 
@@ -2233,7 +2225,7 @@ Ia menyusun buku catatan keuangan pribadi, mencatat rincian alokasi gaji bulanan
 
 Ia berdiri di dekat jendela kamar, membiarkan angin malam kota Bandung mengusap lembut kulit wajahnya.
 
-Kehidupan ternyata tidak berhenti hanya karena sebuah keterikatan emosional telah usai. Maya tidak mendapatkan akhir cerita yang megah, tidak pula menemukan sosok penyelamat yang secara ajaib menghapus luka masa lalunya. Namun malam ini, di bawah naungan langit Antapani yang tenang, Maya menyadari satu hal penting: ia telah kembali memegang kendali atas kehidupannya sendiri, melangkah maju hari demi hari dengan pijakan yang kian tegap dan mantap.
+Maya menutup buku catatan keuangannya setelah memastikan alokasi untuk perbaikan atap dapur bulan depan cukup. Ia mematikan lampu ruang tengah, lalu memeriksa sekali lagi apakah pintu rumah telah terkunci.
 
 # **BAB 48: Hal yang Harus Ditanggung**
 
@@ -2287,7 +2279,7 @@ Daniel mengangguk tegap, menatap istrinya dengan rasa hormat dan penyesalan yang
 
 Sarah tidak membalas lagi, hanya menyunggingkan senyum tipis yang jujur sebelum melangkah menuju kamar tidur.
 
-Daniel tetap duduk sendirian di meja makan apartemen Ciumbuleuit. Udara malam yang berembus di luar jendela tetap dingin, tetapi ganjalan tebal di dadanya perlahan terangkat. Daniel menyadari bahwa proses memulihkan rumah tangganya akan menjadi jalan panjang yang melelahkan. Namun untuk pertama kalinya setelah bertahun-tahun melarikan diri, Daniel siap berdiri tegak, menghadapi konsekuensi dari kesalahannya, dan membuktikan komitmennya lewat tindakan nyata.
+Daniel tetap duduk sendirian di meja makan apartemen Ciumbuleuit. Ia tahu satu percakapan tidak akan mengembalikan kepercayaan Sarah. Ia menatap cangkir teh yang mulai dingin, lalu bangkit untuk membereskan meja. Jika perubahan memang terjadi, Sarah harus dapat melihatnya dalam tindakan sehari-hari, bukan hanya mendengar janji malam ini.
 
 # **BAB 49: Pesan dari Masa Lalu**
 

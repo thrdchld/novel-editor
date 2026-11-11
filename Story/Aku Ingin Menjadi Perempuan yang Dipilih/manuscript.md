@@ -3114,7 +3114,7 @@ Selamat sore, Maya. Semoga harimu menyenangkan di kantor. Bapak cuma ingin menan
 
 Maya membaca deretan kalimat itu dengan binar mata yang jernih.
 
-Pesan dari Bima tersusun dengan sangat santun, penuh kehati-hatian, dan tanpa ada desakan emosional untuk meminta perhatian lebih. Pria berusia lima puluh enam tahun itu kini sepenuhnya mematuhi batas yang telah ditetapkan Maya dalam pertemuan mereka di Lengkong Besar dan sambungan telepon awal Desember lalu.
+Pesan dari Bima tersusun dengan santun dan tidak meminta pertemuan atau jawaban cepat. Maya belum tahu apakah Bima akan konsisten menjaga batas tersebut, tetapi untuk saat ini ia memilih menanggapi isi pesannya saja.
 
 Maya menyandarkan punggungnya pada kursi kayu, memandang pendar lampu meja yang temaram.
 

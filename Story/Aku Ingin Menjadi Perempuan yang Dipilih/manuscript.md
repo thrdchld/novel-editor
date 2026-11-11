@@ -1873,15 +1873,13 @@ Rabu malam, 10 September 2025. Pukul sembilan malam lewat dua puluh menit, dengu
 
 Daniel sedang berada di dapur, membilas cangkir kopi bekas pakai di bawah kucuran air keran.
 
-Sarah, yang baru saja selesai merapikan berkas naskah terjemahan di meja sebelah, melangkah mendekati meja tengah untuk mengambil kacamata bacanya yang tertinggal. Mata Sarah secara tak sengaja tertambat pada layar tablet yang belum terkunci. Aplikasi pesan singkat yang tersinkronisasi dengan nomor ponsel Daniel terbuka penuh, menampilkan utas percakapan panjang dengan nama kontak Maya \- Lentera Sehat.
-
-Sarah tidak segera bergerak ketika Daniel mendekat. Di layar tablet, dua baris pesan dari pertengahan Agustus masih terlihat di bagian tengah percakapan.
+Ketika Daniel kembali dari dapur sambil mengeringkan tangan dengan serbet, ia melihat Sarah berdiri di dekat meja tengah dengan kacamata baca di tangan. Tablet Daniel masih terbuka pada aplikasi pesan yang tersinkronisasi dengan ponselnya. Sarah menatap layar. Dua baris pesan dari pertengahan Agustus masih terlihat di bagian tengah percakapan:
 
 Kadang saya berpikir, seandainya waktu bisa diputar kembali, seandainya kita bertemu beberapa tahun lebih awal... mungkin segalanya akan terasa jauh berbeda.
 
 Di bawahnya, baris balasan dari Maya tercetak jelas: Tapi kita tidak bertemu lebih awal, Dokter Daniel. Kita baru bertemu tahun ini, dalam situasi yang sudah seperti sekarang.
 
-Sarah menggeser percakapan ke atas. Saat Daniel mendekat, layar menampilkan pesan-pesan lain sepanjang Juli hingga September: curahan kelelahan Daniel tentang rumah tangga mereka, keluhan tentang keheningan Ciumbuleuit, perhatian Maya tentang jadwal makan Daniel, hingga ucapan ulang tahun sepekan sebelumnya.
+Sarah menggeser percakapan ke atas. Daniel sempat melihat beberapa pesan lain sepanjang Juli hingga September: curahan kelelahan tentang rumah tangga mereka, keluhan tentang keheningan Ciumbuleuit, perhatian Maya tentang jadwal makannya, hingga ucapan ulang tahun sepekan sebelumnya.
 
 Daniel meletakkan serbet di tepi konter. Begitu melihat Sarah berdiri kaku di depan tablet, raut wajahnya seketika berubah pucat pasi.
 

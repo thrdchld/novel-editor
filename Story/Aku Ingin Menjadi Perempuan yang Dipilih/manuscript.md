@@ -878,7 +878,7 @@ Namun saat melangkah keluar menuju rumah Bu Yanti di ujung gang Kiaracondong den
 
 # **BAB 21: Pekerjaan yang Hilang**
 
-Kalimat kedua dari surel di layar laptop itu langsung Maya baca tanpa perlu menuntaskan seluruh paragraf: *Saat ini kami memutuskan untuk melanjutkan proses rekrutmen bersama kandidat lain yang kualifikasinya lebih sesuai.*
+Senin pagi, 17 Februari 2025. Kalimat kedua dari surel di layar laptop itu langsung Maya baca tanpa perlu menuntaskan seluruh paragraf: *Saat ini kami memutuskan untuk melanjutkan proses rekrutmen bersama kandidat lain yang kualifikasinya lebih sesuai.*
 
 Maya menggeser kursor, memindahkan pesan dari agensi komunikasi di kawasan Pasteur itu ke dalam folder bertuliskan *Lamaran 2025*. Itu surel penolakan kelima yang masuk ke kotak masuknya sepanjang pertengahan Februari.
 

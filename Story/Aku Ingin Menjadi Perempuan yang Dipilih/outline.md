@@ -553,7 +553,7 @@ Bab 46 — Jarak
 
 Tanggal: 30 September 2025
 
-Maya dan Daniel menghentikan komunikasi pribadi. Urusan pekerjaan yang masih diperlukan dilakukan melalui saluran resmi atau grup kegiatan.
+Sepuluh hari setelah pertemuan Maya dengan Sarah, Maya dan Daniel kembali berada dalam satu rapat kerja. Mereka mempertahankan kesepakatan penghentian komunikasi pribadi yang dibuat pada 13 September. Koordinasi yang masih diperlukan berlangsung melalui saluran resmi atau grup kegiatan; interaksi langsung tetap terbatas pada urusan profesional.
 
 Bab 47 — Kehidupan yang Tidak Berhenti
 

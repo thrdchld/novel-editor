@@ -3194,9 +3194,7 @@ Folder arsip itu terhapus dari perangkatnya. Foto dan percakapan tersebut mungki
 
 Maya menyandarkan punggungnya pada kursi kayu, memandang jendela teras yang berembun.
 
-Ia tidak perlu lagi memeriksa akun media sosial teman-teman Arman untuk mencari tahu apakah Arman bahagia bersama Celine. Ia tidak perlu lagi menebak-nebak apakah Arman menyimpan penyesalan mendalam di malam hari. Kabar tentang Arman mungkin masih sesekali mengusik pikirannya, tetapi Maya tidak ingin lagi menjadikannya penentu langkah hidupnya.
-
-Maya melepaskan kebutuhan untuk mendapatkan jawaban dari Arman. Ia menutup buku masa lalunya bukan karena Arman telah membayar kesalahannya, melainkan karena Maya telah memilih untuk tidak lagi menagih apa pun dari orang yang tak pernah benar-benar menghargainya.
+Kabar tentang Arman mungkin masih sesekali mengusik pikirannya. Namun, Maya tidak ingin lagi memeriksa hidup pria itu atau menjadikan penyesalannya sebagai ukuran bagi pemulihan dirinya.
 
 Ia berdiri perlahan, meminum tegukan terakhir teh melatinya yang hangat suam-suam kuku, lalu bersiap melangkah keluar menuju kantor dengan pikiran yang sedikit lebih ringan, meski ia tahu prosesnya belum selesai.
 

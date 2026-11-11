@@ -464,7 +464,9 @@ Maya tidak membantah. Ia hanya tersenyum tipis dan mengangguk pelan, kembali mem
 
 Ia tidak pernah menduga bahwa peninjauan lapangan di Garut pada tanggal 21 Desember yang diucapkan Arman dengan begitu tenang malam itu, sebenarnya adalah tanggal pertunangan pria itu dengan Celine di sebuah hotel di pusat kota Bandung.
 
-Malam 10 Januari 2025.  Penjelasan yang Tidak Menyelamatkan**
+# **BAB 12: Penjelasan yang Tidak Menyelamatkan**
+
+Malam 10 Januari 2025.
 
 Foto pertunangan di layar ponsel Maya menghadap tepat ke arah Arman, menyingkap senyum pria itu di samping Celine di bawah pendar lampu kabin sedan yang redup.
 

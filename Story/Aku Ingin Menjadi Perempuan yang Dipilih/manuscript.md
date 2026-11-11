@@ -1881,7 +1881,7 @@ Di bawahnya, baris balasan dari Maya tercetak jelas: Tapi kita tidak bertemu leb
 
 Sarah menggeser percakapan ke atas. Daniel sempat melihat beberapa pesan lain sepanjang Juli hingga September: curahan kelelahan tentang rumah tangga mereka, keluhan tentang keheningan Ciumbuleuit, perhatian Maya tentang jadwal makannya, hingga ucapan ulang tahun sepekan sebelumnya.
 
-Daniel meletakkan serbet di tepi konter. Begitu melihat Sarah berdiri kaku di depan tablet, raut wajahnya seketika berubah pucat pasi.
+Begitu melihat Sarah berdiri kaku di depan tablet, raut wajah Daniel seketika berubah pucat pasi.
 
 Daniel mempercepat langkahnya, meraih tablet itu dari genggaman Sarah dengan gerakan refleks yang panik.
 
@@ -2888,9 +2888,9 @@ Daniel terdiam beberapa detik setelah Maya selesai berbicara.
 
 "Saya haus akan pengakuan bahwa ada seorang pria yang bersedia menjadikan saya prioritas," lanjut Maya. "Dan perhatian Dokter waktu itu membuat saya sempat menutup mata dari fakta bahwa Dokter sudah beristri. Saya menikmati perasaan diinginkan itu, sampai tega melanggar batas emosional dan melukai Mbak Sarah."
 
-Maya menghela napas pendek, menyunggingkan senyum jernih yang membebaskan.
+Maya menghela napas pendek. Pengakuan itu tidak membuatnya bebas dari semua perasaan, tetapi setidaknya ia tidak lagi menyembunyikan apa yang pernah ia harapkan.
 
-"Tapi sekarang saya tahu... harapan itu lahir dari rasa takut saya sendiri," tegas Maya. "Saya tidak lagi berada di titik itu. Saya tidak ingin menjadi bagian dari keputusan rumah tangga Dokter dan Mbak Sarah, dan saya tidak lagi butuh dibuktikan sebagai perempuan yang dipilih."
+"Tapi sekarang saya tahu... harapan itu lahir dari rasa takut saya sendiri," kata Maya. "Saya tidak ingin menjadi bagian dari keputusan rumah tangga Dokter dan Mbak Sarah. Saya juga tidak lagi membutuhkan Dokter untuk membuktikan bahwa saya layak dipilih."
 
 Daniel menatap Maya selama beberapa detik, lalu mengangguk kecil. Maya tidak tahu persis apa yang sedang dipikirkannya, tetapi pria itu tidak mengalihkan pandangan.
 
@@ -3156,9 +3156,7 @@ Di atas meja kayu, ponselnya tergeletak tenang tanpa getaran. Debar cemas itu ti
 
 Maya menyesap teh hangatnya perlahan, membiarkan uap melati yang lembut menyapu kerongkongannya.
 
-Dahulu, pagi hari bagi Maya selalu diwarnai oleh riak emosi yang melelahkan. Selama lima tahun bersama Arman, ia akan terbangun dengan kebiasaan memeriksa ponsel, memastikan apakah Arman mengirim pesan sebelum berangkat kerja ke Arunika Properti atau apakah pria itu bersikap dingin. Dan di pertengahan tahun lalu, saat keterikatannya bersama Daniel menguat, pagi Maya dipenuhi oleh penantian akan kalimat-kalimat hangat yang seharusnya tak pernah ia terima.
-
-Pagi ini, keheningan di kamar kontrakan Antapani terasa murni. Maya menyadari bahwa kedamaian batin tidak hadir saat seseorang akhirnya memilih untuk tinggal, melainkan saat ia berhenti menjadikan kehadiran orang lain sebagai syarat untuk merasa tenang.
+Dahulu, pagi hari bagi Maya sering dimulai dengan memeriksa ponsel dan menebak suasana hati Arman. Pada pertengahan tahun lalu, kebiasaan menunggu pesan Daniel sempat mengambil tempat yang sama. Pagi ini ia masih ingat kebiasaan itu, tetapi tidak merasa perlu memeriksa layar berulang kali. Ia menyelesaikan tehnya, lalu membuka berkas pekerjaan yang perlu diperiksa.
 
 Maya duduk di meja kerjanya yang baru, memoles draf panduan komunikasi publikasi kesehatan lansia untuk kuartal pertama. Sebagai Koordinator Utama Komunikasi dan Publikasi, tanggung jawabnya kini mencakup penyusunan strategi sebaran media di tiga wilayah Jawa Barat.
 
@@ -3194,7 +3192,7 @@ Ponsel di sudut meja sempat bergetar sekali—sebuah notifikasi pesan singkat da
 
 Maya melangkah menuju tempat tidur busanya, mematikan lampu utama ruangan dan membiarkan pendar kuning temaram lampu meja menemani keheningan malam.
 
-Ia menarik selimut katunnya hingga dada, memejamkan mata dengan napas yang teratur dan tenang. Hari ini adalah hari yang biasa—tanpa kejutan dramatis, tanpa konfrontasi tegang, dan tanpa kata-kata manis yang membual. Namun justru di dalam keberadaan hari-hari biasa inilah, Maya menemukan jawaban yang selama ini ia cari: ia telah kembali menjadi pemilik utuh atas kehidupannya sendiri.
+Ia menarik selimut katunnya hingga dada dan memejamkan mata. Besok pagi ia harus kembali ke kantor untuk memeriksa materi kampanye. Untuk malam ini, ia membiarkan buku yang baru dibacanya tergeletak terbuka di meja.
 
 # **BAB 65: Tidak Lagi Mencari Jawaban dari Arman**
 
@@ -3220,9 +3218,7 @@ Sebab, selama ini Maya berharap mendapatkan sebuah penjelasan ideal—sebuah pen
 
 Pagi ini, di bawah pendar temaram lampu meja Antapani, Maya akhirnya memahami sebuah kenyataan yang membebaskan batinnya.
 
-Tidak ada penjelasan dari seorang pembohong yang akan pernah terasa cukup memuaskan.
-
-Mencari jawaban yang sempurna dari Arman adalah usaha sia-sia, karena alasan apa pun yang diberikan Arman murni bersumber dari ketakutan dan kelemahan Arman sendiri, bukan dari kekurangan diri Maya. Arman memilih berbohong bukan karena Maya kurang sabar, kurang cantik, atau kurang bernilai, melainkan karena Arman memang seorang pria yang memilih melarikan diri dari tanggung jawab demi kenyamanannya sendiri.
+Tidak ada jaminan bahwa penjelasan Arman akan pernah terasa cukup memuaskan. Maya juga tidak dapat memastikan seluruh motif di balik keputusan pria itu. Namun, Arman telah mengakui bahwa ia takut kehilangan kenyamanan dan memilih berbohong kepada dua perempuan sekaligus. Pilihan tersebut adalah tanggung jawab Arman, bukan bukti bahwa Maya kurang sabar, kurang menarik, atau kurang bernilai.
 
 Mengharapkan Arman memberikan penjelasan yang menenangkan hati Maya sama saja dengan menyerahkan kunci kedamaian batinnya kembali ke tangan pria yang pernah merusaknya.
 

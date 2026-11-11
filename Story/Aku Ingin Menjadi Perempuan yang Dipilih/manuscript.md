@@ -1661,7 +1661,7 @@ Dokter Daniel langsung pulang ke Ciumbuleuit kan? Jangan dipaksakan menyetir kal
 
 Ini sedang berhenti sebentar di pelataran parkir minimarket dekat Pasteur, May. Cari udara segar, balasan Daniel menyusul beberapa detik kemudian.
 
-Percakapan di antara mereka mengalir pelan, tenang, namun mengusung kedekatan yang semakin pekat. Sepanjang tiga minggu di bulan Agustus, setelah pertengahan bulan lalu Daniel menceritakan kelelahan emosional rumah tangganya dan memberikan perhatian personal yang tak pernah Maya dapatkan sebelumnya, ritme percakapan mereka telah bergeser ke wilayah yang kian intim.
+Percakapan di antara mereka mengalir pelan, tenang, namun terasa semakin personal. Sejak pertengahan Agustus, perhatian Daniel mulai menyentuh hal-hal di luar urusan kerja dan pesan-pesan mereka semakin sering berlanjut pada malam hari.
 
 Dari pesan-pesan yang mereka tukarkan, Maya menangkap sisi Daniel yang jarang ia lihat saat pria itu berada di rumah sakit: lelah, ragu, dan sesekali membutuhkan seseorang untuk mendengarkan. Perhatian itu terasa menenteramkan bagi Maya, yang selama ini merindukan sosok yang benar-benar melihat dan menghargainya.
 
@@ -1773,9 +1773,15 @@ Namun, tidak sampai lima menit kemudian, getaran panjang terasa di papan kayu me
 
 Terima kasih banyak, May. Ucapanmu hangat sekali. Jujur, hari ini jadwal tindakan dari pagi padat sekali, jadi membaca pesanmu rasanya seperti dapat hembusan udara segar di tengah kelelahan.
 
-Dada Maya berdesir pelan. Kalimat balasan itu melunturkan benteng pertahanan yang susah payah ia bangun selama seminggu terakhir. Percakapan yang tadinya diniatkan sebatas formalitas dengan cepat bergeser kembali ke koridor personal. Daniel bercerita bahwa di usianya yang ke-36 ini, hari ulang tahun tak pernah lagi terasa istimewa. Hari-harinya diisi oleh rutinitas rumah sakit yang melelahkan dan keheningan di Ciumbuleuit.
+Daniel: Dulu saya suka merayakan ulang tahun. Sekarang rasanya seperti hari kerja biasa. Pulang pun sering sudah terlalu lelah untuk melakukan apa-apa.
 
-Maya membalas setiap kalimat itu dengan kehangatan yang mengalir alami, memberikan perhatian tulus yang sangat dibutuhkan Daniel. Sekali lagi, logika Maya kalah oleh rasa nyaman karena merasa dibutuhkan oleh pria tersebut.
+Maya: Semoga Dokter tetap menyisihkan waktu untuk hal-hal yang disukai. Jangan sampai pekerjaan mengambil semuanya.
+
+Daniel: Kadang saya sendiri lupa apa yang saya sukai belakangan ini.
+
+Dada Maya berdesir pelan. Kalimat-kalimat itu membawa percakapan mereka menjauh dari ucapan ulang tahun formal. Maya tahu ia sedang diberi ruang untuk mendengar persoalan pribadi Daniel, dan bagian dirinya yang ingin merasa dibutuhkan menyambut kesempatan itu.
+
+Maya membalas dengan beberapa kalimat penguat. Ia menikmati perasaan dibutuhkan itu, meski tahu percakapan mereka telah bergerak keluar dari batas yang semestinya.
 
 ---
 
@@ -1803,9 +1809,9 @@ Sarah memperhatikan setiap gestur kecil suaminya tanpa bersuara.
 
 Ia melihat bagaimana mata Daniel terpaku pada layar ponsel dengan pendar binar yang tidak pernah ia lihat saat mereka sedang berbincang berdua. Kebiasaan memeriksa ponsel yang semakin intensif sejak pertengahan Juni lalu kini mencapai puncaknya di malam ulang tahun ini.
 
-Dada Sarah terasa sesak oleh kepastian dingin yang merayap perlahan.
+Dada Sarah terasa sesak oleh kecurigaan yang belum bisa ia pastikan.
 
-Sarah mengusap pinggiran piringnya, membatalkan niat untuk menambah potongan kue. Ia tidak marah atau meledak emosi di meja makan, tetapi sorot matanya menajam oleh kecurigaan yang tak bisa lagi diabaikan. Ia tampak yakin ada orang lain yang telah menyita perhatian dan ruang emosional suaminya.
+Sarah mengusap pinggiran piringnya, membatalkan niat untuk menambah potongan kue. Ia tidak marah atau meledak emosi di meja makan. Namun, frekuensi Daniel memeriksa ponsel dan perubahan ekspresinya membuat Sarah bertanya-tanya apakah ada orang lain yang telah menyita perhatian suaminya. Ia belum tahu siapa orang itu atau apa isi percakapan mereka.
 
 Daniel yang menyadari perubahan raut wajah Sarah segera mematikan layar ponselnya dan memasukkannya ke dalam saku celana. Namun, kecanggungan tebal telah kembali memenuhi ruang makan apartemen Ciumbuleuit, menyisakan keheningan dingin di antara dua orang yang kini berdiri di ambang krisis.
 

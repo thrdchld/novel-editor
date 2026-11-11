@@ -1225,7 +1225,7 @@ Dua puluh delapan tahun bukan akhir dari segalanya, melainkan titik mula di mana
 
 # **BAB 29: Pesan Pertama**
 
-Layar laptop di atas meja kerja Maya memperlihatkan pendar biru samar dari berkas persetujuan materi penyuluhan gizi lansia yang baru saja selesai disunting. Jam dinding di ruang komunikasi Yayasan Lentera Sehat sudah menunjukkan pukul lima sore lewat sepuluh menit. Suasana kantor di kawasan Jalan RE Martadinata mulai lengang setelah para staf lapangan berpamitan pulang satu per satu.
+Senin sore, 2 Juni 2025. Layar laptop di atas meja kerja Maya memperlihatkan pendar biru samar dari berkas persetujuan materi penyuluhan gizi lansia yang baru saja selesai disunting. Jam dinding di ruang komunikasi Yayasan Lentera Sehat sudah menunjukkan pukul lima sore lewat sepuluh menit. Suasana kantor di kawasan Jalan RE Martadinata mulai lengang setelah para staf lapangan berpamitan pulang satu per satu.
 
 Maya merapikan tumpukan salinan pamflet di sudut meja, lalu menggeser tetikus untuk menutup dokumen kerja.
 
@@ -1261,9 +1261,9 @@ Maya menyandarkan punggungnya ke sandaran kursi kayu kantor yang sepi. Ada kehan
 
 Maya mengetikkan balasan dengan nada ramah dan teratur.
 
-Alhamdulillah semakin membaik, Dokter. Minggu kemarin gipsnya sudah sepenuhnya lepas. Sekarang Ibu sudah mulai bisa melipat kain-kain ringan, meskipun saya masih melarangnya memegang bahan tebal.
+Alhamdulillah semakin membaik, Dokter. Gipsnya sudah dilepas sejak pertengahan April. Sekarang Ibu sudah mulai bisa melipat kain-kain ringan, meskipun saya masih melarangnya memegang bahan tebal.
 
-Syukurlah kalau begitu, balasan Daniel muncul tak lama kemudian. Kunci pemulihan tendonnya memang ada di kesabaran. Jangan biarkan Bu Ratih terlalu memaksakan diri dulu. Kalau ada keluhan nyeri atau kaku yang mengganggu saat latihan di rumah, Mbak Maya bisa beri tahu saya.
+Syukurlah kalau begitu, balasan Daniel muncul tak lama kemudian. Tetap ikuti jadwal kontrol dan latihan yang diberikan dokter ortopedi atau fisioterapis yang menangani, ya. Jangan biarkan Bu Ratih memaksakan gerakan. Kalau muncul pusing atau lemas seperti saat pertama kali dibawa ke rumah sakit, segera periksakan kembali. Untuk nyeri atau kaku pada pergelangan tangannya, sebaiknya konsultasikan langsung kepada tim ortopedi.
 
 Baik, Dokter Daniel. Terima kasih banyak atas perhatian dan sarannya. Nanti saya sampaikan ke Ibu, jawab Maya sopan.
 
@@ -1279,7 +1279,7 @@ Maya mematikan lampu meja kerjanya, merapatkan tali tas di bahu, lalu melangkah 
 
 # **BAB 30: Percakapan yang Bertambah Panjang**
 
-Layar ponsel Maya berpendar pendek di atas meja kayu kamar Antapani pada pukul delapan malam lewat dua puluh menit. Sinar birunya memantul samar di dinding, memutus keheningan setelah dentang hujan gerimis menyapu genteng rumah.
+Jumat malam, 13 Juni 2025. Layar ponsel Maya berpendar pendek di atas meja kayu kamar Antapani pada pukul delapan malam lewat dua puluh menit. Sinar birunya memantul samar di dinding, memutus keheningan setelah dentang hujan gerimis menyapu genteng rumah.
 
 Maya yang sedang melipat kemeja kerja katunnya menoleh. Ia mengusap jemarinya pada kain celana sebelum meraih ponsel tersebut.
 
@@ -1309,7 +1309,7 @@ Maya tersenyum, mengusap layar ponselnya hangat. Rutin sekali, Dok. Malah tadi p
 
 Bagus kalau ditegur, jawab Daniel ditambah simbol senyum sederhana di ujung kalimatnya. Pasien seperti Bu Ratih memang butuh pengawasan ketat dari putrinya yang cekatan.
 
-Kalimat-kalimat yang dipertukarkan di antara mereka selalu berada dalam koridor bahasa yang sopan dan santun. Tidak ada kata-kata mesra yang vulgar, tidak ada rayuan yang melewati batas etika, dan tidak ada janji-janji yang dilanggar. Namun, intensitas serta frekuensi percakapan yang kian memanjang saban malam memperlihatkan bahwa batas emosional di antara mereka perlahan-lahan mulai mengabur.
+Pesan-pesan mereka tetap memakai bahasa yang sopan. Tidak ada rayuan terang-terangan atau janji romantis. Maya menjadikan kesopanan itu alasan untuk menganggap komunikasi tersebut tidak bermasalah, meskipun frekuensi dan topiknya telah bergerak keluar dari urusan kerja. Ia tahu ada batas yang mulai kabur, tetapi belum ingin mengakuinya.
 
 Maya tahu betul bahwa Daniel adalah pria beristri. Bayangan keanggunan Sarah Putri Wicaksana dalam balutan gaun hijau sage di Hotel Papandayan dua bulan lalu masih terekam jelas di ingatannya. Namun, karena percakapan mereka murni seputar keseharian dan kehangatan rasa saling menghormati, Maya membenarkan tindakan tersebut dalam hatinya, menganggapnya tak lebih dari hubungan pertemanan yang saling mendukung.
 
@@ -1539,7 +1539,7 @@ Maya memeluk bantal kecilnya, membalas pesan Daniel dengan perasaan yang tenang.
 
 # **BAB 35: Perhatian yang Berbeda**
 
-Sinar matahari pertengahan Agustus mulai meredup di balik deretan pohon mahoni Jalan RE Martadinata. Di dalam ruang kerja kantor Yayasan Lentera Sehat yang mulai sepi, Maya masih menatap layar laptopnya yang menampilkan draf penyuluhan kesehatan lansia untuk kecamatan Batununggal.
+Jumat sore, 15 Agustus 2025. Sinar matahari mulai meredup di balik deretan pohon mahoni Jalan RE Martadinata. Di dalam ruang kerja kantor Yayasan Lentera Sehat yang mulai sepi, Maya masih menatap layar laptopnya yang menampilkan draf penyuluhan kesehatan lansia untuk kecamatan Batununggal.
 
 Sebotol air mineral yang tinggal seperempat berdiri di samping kibor, berdampingan dengan tumpukan salinan pamflet yang baru selesai diperiksa. Maya memejamkan matanya sejenak, mengusap kedua pelipisnya yang terasa sedikit pening setelah lima jam menatap angka-angka evaluasi dan tata letak grafis.
 
@@ -1861,7 +1861,7 @@ Daniel menyandarkan kepalanya pada sandaran kursi, memejamkan mata erat-erat. Ke
 
 _(Sudut Pandang: Daniel)_
 
-Pukul sembilan malam lewat dua puluh menit, dengung halus mesin pendingin udara di ruang tengah apartemen Ciumbuleuit menjadi satu-satunya suara yang mengisi ruangan. Lampu gantung minimalis membiaskan cahaya kuning temaram ke atas meja kerja kayu, tempat sebuah tablet pintar milik Daniel tergeletak dalam kondisi layar masih berpendar.
+Rabu malam, 10 September 2025. Pukul sembilan malam lewat dua puluh menit, dengung halus mesin pendingin udara di ruang tengah apartemen Ciumbuleuit menjadi satu-satunya suara yang mengisi ruangan. Lampu gantung minimalis membiaskan cahaya kuning temaram ke atas meja kerja kayu, tempat sebuah tablet pintar milik Daniel tergeletak dalam kondisi layar masih berpendar.
 
 Daniel sedang berada di dapur, membilas cangkir kopi bekas pakai di bawah kucuran air keran.
 
@@ -2237,7 +2237,7 @@ Kehidupan ternyata tidak berhenti hanya karena sebuah keterikatan emosional tela
 
 _(Sudut Pandang: Daniel)_
 
-Angin malam kawasan Ciumbuleuit menyapu permukaan kaca jendela balkon, mengembuskan hawa dingin pegunungan akhir Oktober dua ribu dua puluh lima. Di ruang tengah apartemen, suara berdenting pelan dari mesin pendingin udara dan rintik gerimis yang membasahi lantai teras menjadi penanda keheningan yang menyelimuti dua penghuninya.
+Kamis malam, 30 Oktober 2025. Angin malam kawasan Ciumbuleuit menyapu permukaan kaca jendela balkon, mengembuskan hawa dingin pegunungan akhir Oktober dua ribu dua puluh lima. Di ruang tengah apartemen, suara berdenting pelan dari mesin pendingin udara dan rintik gerimis yang membasahi lantai teras menjadi penanda keheningan yang menyelimuti dua penghuninya.
 
 Daniel baru saja meletakkan cangkir teh kamomil hangat di atas meja kaca. Di sebelahnya, Sarah sedang memeriksa draf suntingan naskah terjemahan di layar laptop, jemarinya menari teratur di atas papan ketik.
 

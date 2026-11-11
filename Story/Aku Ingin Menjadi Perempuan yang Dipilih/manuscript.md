@@ -62,11 +62,7 @@ Deretan pesan hari Sabtu tiga minggu lalu bermunculan di layar. Maya membaca ula
 
 Pesan itu dikirim Arman pukul sebelas siang. Maya menelusuri percakapan lebih jauh ke bawah. Pukul tujuh malam pada hari yang sama, Arman kembali mengirim pesan singkat: "Masih rapat sama orang lapangan. Kamu jangan lupa makan malam ya, Sayang. Maaf banget belum bisa telepon lama."
 
-Maya memejamkan mata sejenak. Ingatannya membawa kembali suasana Sabtu itu. Ia ingat betul bagaimana ia rela naik angkutan umum dari rumah kontrakannya di Antapani menuju rumah kontrakan Arman di kawasan Tubagus Ismail. Ia menghabiskan sisa siang hingga sore dengan merapikan tumpukan kemeja Arman, mencuci piring di dapur, serta menyetok kulkas pria itu dengan telur, buah, dan bahan masakan untuk seminggu.
-
-Waktu itu, Maya merasa menjadi pasangan yang pengertian. Ia bahkan sempat merasa bersalah karena tidak bisa mendampingi Arman yang harus bekerja keras di luar kota pada akhir pekan.
-
-Ternyata, pada jam yang sama saat Maya membersihkan dapur Tubagus Ismail, Arman sedang berdiri di ruang perjamuan hotel Jalan Jawa, memamerkan senyum lebarnya di samping perempuan bernama Celine.
+Maya memejamkan mata. Ia ingat Arman mengirim lokasi proyek Garut pada siang itu dan menulis bahwa sinyal di perkebunan buruk. Saat pesan kedua datang pukul tujuh malam, ia tidak mempertanyakannya. Kini foto pertunangan itu menunjukkan bahwa pada waktu yang sama Arman berada di hotel Jalan Jawa bersama Celine. Dua pesan yang dulu ia baca sebagai kabar biasa kini menjadi bagian dari kebohongan yang sama.
 
 Dua kebohongan tersusun rapi. Kebohongan yang tidak dibuat secara spontan, melainkan dirancang dengan terukur.
 
@@ -84,7 +80,7 @@ Maya membalikkan layar ponselnya menghadap meja kayu abu-abu kantor. Jam dinding
 
 Ia merapikan tas kerja, memasukkan dompet, dan mencabut kabel pengisi daya ponselnya.
 
-Ketika lift kantor membawanya turun menuju lantai dasar, Maya mengatur napasnya yang terasa sesak. Di luar pintu kaca lobi gedung, sebuah mobil sedan hitam yang sangat dikenalnya baru saja menepi di pinggir jalan.
+Ketika lift kantor membawanya turun menuju lantai dasar, Maya mengatur napasnya yang terasa sesak. Di luar pintu kaca lobi gedung, sebuah mobil sedan hitam yang sangat dikenalnya baru saja menepi di pinggir jalan. Maya tahu percakapan yang selama ini ia hindari tak bisa ditunda lagi. Namun sebelum malam itu tiba, pikirannya terseret pada ingatan lama tentang seseorang yang juga pernah berjanji akan pulang.
 
 # **BAB 3: Tujuh Tahun**
 
@@ -126,7 +122,7 @@ Sore-sore berikutnya sepanjang bulan Juni, Maya masih sering mencuri waktu untuk
 
 Namun hari berganti bulan, dan bulan berganti tahun. Pintu kayu Kiaracondong tidak pernah lagi dibuka oleh ketukan tangan Bima.
 
-Maya tumbuh dengan ingatan yang membeku di ambang pintu tersebut. Ingatan bahwa pria yang paling ia cintai bisa berpamitan dengan senyuman, mengusap kepalanya dengan lembut, memberi janji manis tentang es krim, lalu menghilang tanpa pernah berpaling lagi.
+Hari-hari berikutnya, Maya tetap duduk di ambang pintu setiap sore. Lama-kelamaan ia berhenti menanyakan kapan ayahnya pulang, tetapi setiap suara sepeda motor yang melintas masih membuatnya menoleh.
 
 # **BAB 4: Rumah yang Tetap Berjalan**
 
@@ -166,7 +162,7 @@ Ratih menghela napas pelan, mengusap puncak kepala Maya dengan jemarinya yang te
 
 Maya tersenyum kecil, lalu beranjak kembali ke dalam kamar. Di atas kasurnya, Maya berbaring menatap langit-langit papan yang lapuk. Di luar kamar, suara genjot mesin jahit kembali terdengar, berderit teratur membelah sepi malam.
 
-Malam itu, Maya belajar satu pelajaran penting tentang bertahan hidup di rumah mereka. Ia belajar bahwa setiap keinginan kecil yang ia minta adalah beban tambahan di bahu ibunya yang sudah lelah. Maya berjanji pada dirinya sendiri untuk menjadi anak yang tidak banyak menuntut, anak yang selalu bisa menyelesaikan masalahnya sendiri tanpa pernah kerepotan meminta tolong.
+Maya kembali ke kamar dan menarik selimut hingga dagu. Dari ruang depan, bunyi mesin jahit kembali berderit. Ia memejamkan mata sambil menyimpan permintaan tentang sepatu yang tidak jadi ia ucapkan.
 
 # **BAB 5: Tidak Ingin Merepotkan**
 
@@ -234,7 +230,7 @@ Maya berjalan menuju kamarnya. Ia mengeluarkan formulir berhologram biru dari sa
 
 Di kamar yang remang itu, Maya duduk sendirian di tepi ranjang. Kebiasaan untuk selalu mengalah, menyembunyikan keinginan, dan berpura-pura baik-baik saja kembali mengakar lebih dalam. Maya merasa bahwa selama ia tidak menuntut, selama ia tidak menjadi beban, dan selama ia bisa membuat orang lain nyaman, maka tempatnya di dunia ini akan tetap aman.
 
-Maya belum menyadari bahwa kebiasaan mengalah yang dipelajarinya sejak remaja itu kelak akan menjadi rantai halus yang mengikatnya dalam hubungan dewasa, membuatnya rela bertahan dalam ketidakpastian dan rasa sakit hanya demi tidak ditinggalkan.
+Maya menatap buku kumpulan soal bekas yang tergeletak di samping bantal, lalu mematikan lampu. Besok ia akan kembali belajar sendiri sebelum berangkat sekolah.
 
 # **BAB 6: Pertemuan dengan Arman**
 
@@ -390,7 +386,7 @@ Aroma uap kopi hitam hangat merebak dari termos kecil yang dipegang Maya. Sore i
 
 Maya berdiri di tepi selasar berkaca bening, menunggu lift menuruni lantai empat tempat divisi pemasaran berada.
 
-Pintu lift berdenting pelan, membuka lebar. Arman melangkah keluar dari dalam kabin bersama seorang perempuan bergaun simpel berwarna cokelat susu. Pria itu tertawa lepas, jenis tawa riang yang sudah jarang sekali Maya dengar dalam beberapa bulan terakhir. Perempuan di sampingnya memiliki potongan rambut sebahu yang rapi, memegang dokumen bermahkota logo investor besar, dan memancarkan keanggunan seorang profesional kelas atas.
+Pintu lift berdenting pelan, membuka lebar. Arman melangkah keluar dari dalam kabin bersama seorang perempuan bergaun simpel berwarna cokelat susu. Pria itu tertawa lepas, jenis tawa riang yang sudah jarang sekali Maya dengar dalam beberapa bulan terakhir. Perempuan di sampingnya memiliki potongan rambut sebahu yang rapi dan memegang dokumen dengan logo investor besar di bagian atas. Penampilannya rapi dan percaya diri.
 
 Maya sempat terpaku di posisinya. Langkah Arman mendadak terhenti saat pandangannya bertumbukan dengan Maya yang berdiri beberapa meter di depan pintu kaca lobi.
 
@@ -430,7 +426,7 @@ Maya menelan pahit di tenggorokannya, memaksakan senyum tipis di bibirnya.
 
 Arman tersenyum lega, mengusap puncak kepala Maya sebelum mengajaknya berjalan menuju tempat parkir.
 
-Maya melangkah di samping Arman tanpa suara. Hari itu, untuk pertama kalinya, Maya membiarkan dirinya diturunkan derajatnya menjadi orang asing di depan perempuan lain, tanpa menyadari bahwa itu adalah langkah awal Arman untuk menghapusnya sepenuhnya dari kehidupannya.
+Maya melangkah di samping Arman tanpa suara. Di depan Celine, pria itu telah memperkenalkannya sebagai rekanan, bukan pasangan lima tahun terakhir. Maya menerima penjelasan Arman tanpa protes, meski sapaan itu terasa seperti penghapusan atas hubungan yang selama ini ia jaga.
 
 # **BAB 11: Retakan yang Makin Nyata**
 
@@ -586,7 +582,7 @@ Maya menarik napas panjang, mengembuskannya perlahan. Rasa sakit di dadanya tida
 
 Malam itu, Maya berbaring di atas ranjangnya dengan lampu utama yang dimatikan. Ia mendengarkan gemericik air hujan yang membasahi atap seng rumah-rumah di kawasan Antapani. Untuk pertama kalinya dalam lima tahun, Maya harus belajar tidur tanpa menunggu pesan ucapan selamat malam dari siapa pun.
 
-Rumah ini memang sepi dan hampa, tetapi untuk pertama kalinya, tidak ada lagi prasangka yang harus ia sembunyikan di sudut-sudutnya.
+
 
 # **BAB 15: Surat Pengurangan Tenaga Kerja**
 
@@ -670,9 +666,9 @@ Pukul empat lewat lima puluh menit, Pak Rian keluar dari ruang kerjanya, membawa
 
 Ketika Maya menandatangani lembar serah terima aset dan penutupan tugas di kantor di depan Pak Rian, ada getaran halus di ujung jarinya. Ini bukan sekadar penandatanganan dokumen administrasi. Ini adalah titik akhir dari tiga tahun rutinitas kerja yang selama ini memberinya rasa aman.
 
-Maya mengangkat kardus kecilnya, melangkah menyusuri koridor karpet yang sangat ia hafal legok jalurnya.
+Maya mengangkat kardus kecilnya, melangkah menyusuri koridor berkarpet yang setiap lekuk dan belokannya sudah ia hafal.
 
-Saat pintu lift membawa turun menuju lantai dasar, Maya berdiri menatap deretan nomor lantai yang menyala hijau secara bergantian. Pintu kaca lobi utama membuka lebar, mengembuskan angin sore kota Bandung yang membawa aroma tanah basah sisa hujan gerimis.
+Saat lift mulai turun menuju lantai dasar, Maya berdiri menatap deretan nomor lantai yang menyala hijau secara bergantian. Pintu kaca lobi utama terbuka, membiarkan angin sore kota Bandung yang membawa aroma tanah basah sisa hujan gerimis masuk ke dalam.
 
 Maya melangkah keluar menuju selasar depan. Pandangannya sempat tertahan di pinggir jalan depan lobi gedung, tempat mobil sedan hitam Arman biasanya menepi pada pukul lima sore. Kini, tempat itu diisi oleh barisan sepeda motor yang mengantre keluar dari pintu parkir.
 
@@ -814,7 +810,7 @@ Bunyi ketukan pelan di bingkai pintu membuat Maya menoleh. Dokter Daniel melangk
 
 Daniel melangkah mendekati tiang infus, mengamati laju tetesan cairan bening yang mengalir ke punggung tangan Ratih, lalu melirik layar monitor pengukur tekanan darah portabel di samping ranjang.
 
-"Tekanan darah Ibu Ratih malam ini sudah membaik, seratus sepuluh per tujuh puluh," ujar Daniel sambil mencatat sesuatu di lembar rekam medis. "Gejala pusing dan mualnya juga sudah berkurang drastis dibanding waktu di UGD kemarin."
+"Tekanan darah Ibu Ratih malam ini sudah membaik, seratus sepuluh per tujuh puluh," ujar Daniel sambil mencatat sesuatu di lembar rekam medis. "Gejala pusing dan mualnya juga sudah berkurang drastis dibanding saat pertama kali dibawa ke UGD dua hari lalu."
 
 Maya mengembuskan napas lega. "Berarti tidak ada indikasi bahaya di organ dalamnya ya, Dok?"
 
@@ -822,7 +818,7 @@ Daniel menggeleng pelan, menyunggingkan senyum tipis yang memancarkan ketenangan
 
 Cara Daniel menyampaikan informasi medis begitu tertata dan mudah dipahami, tanpa ada kesan terburu-buru atau nada menggurui. Di tengah situasi krisis yang menguras emosi dan isi tabungannya, penjelasan Daniel terasa seperti pegangan yang kokoh.
 
-"Terima kasih banyak, Dokter," kata Maya tulus. "Saya sempat takut sekali waktu lihat Ibu tergeletak di rumah kemarin."
+"Terima kasih banyak, Dokter," kata Maya tulus. "Saya sempat takut sekali waktu melihat Ibu tergeletak di rumah dua hari lalu."
 
 "Sama-sama, Mbak Maya. Itu memang sudah tugas kami," jawab Daniel ramah. Ia mengembalikan papan jepit ke perawat di sampingnya, lalu menatap Maya sejenak. "Penunggunya juga jangan lupa makan dan istirahat ya. Kalau putrinya ikut sakit, nanti siapa yang menjaga Ibu Ratih?"
 

@@ -1106,7 +1106,7 @@ Maya merapikan kertas presensi di papan jepitnya, lalu menarik napas panjang. Ia
 
 # **BAB 26: Dua Kehidupan**
 
-Di bawah rindangnya pohon mahoni di halaman samping kantor Yayasan Lentera Sehat, angin sore pertengahan April berembus membawa keharuman tanah basah. Maya duduk di bangku kayu dekat taman kecil, menyusun berkas laporan evaluasi publikasi acara sarasehan mingguan ke dalam map plastik bening.
+Di bawah rindangnya pohon mahoni di halaman samping kantor Yayasan Lentera Sehat, angin sore akhir April 2025 berembus membawa keharuman tanah basah. Maya duduk di bangku kayu dekat taman kecil, menyusun berkas laporan evaluasi publikasi acara sarasehan mingguan ke dalam map plastik bening.
 
 Dari balik jendela kaca lantai dasar gedung, ia dapat melihat kesibukan staf yang sedang merapikan bingkisan brosur untuk program penyuluhan kesehatan desa mendatang.
 
@@ -1115,6 +1115,8 @@ Ponsel di atas meja kayu bergetar pelan. Sebuah pesan grup dari panitia gabungan
 Maya teringat kembali pada bayangan dua insan di barisan depan aula Hotel Papandayan pekan lalu.
 
 Dalam ingatan Maya, Daniel dan Sarah tampil sebagai pasangan yang utuh dan tenang. Sikap Sarah yang mandiri, tutur katanya yang teratur saat memuji kerapian naskah brosur, serta cara Daniel memperhatikan istrinya di sela acara memberikan gambaran tentang sebuah rumah tangga yang tertata di atas fondasi kedewasaan yang telah mereka bangun selama hampir delapan tahun. Maya belum mengetahui bahwa di balik ketenangan yang diperlihatkan di depan umum, ada retakan halus yang perlahan merayap di antara mereka.
+
+_(Sudut Pandang: Daniel)_
 
 Di apartemen berlantai delapan kawasan Ciumbuleuit malam itu, suasana ruang tengah sangat sunyi.
 
@@ -1132,9 +1134,14 @@ Ia melangkah ke dapur, memanaskan mangkuk makanan tanpa suara. Tidak ada amarah 
 
 Daniel duduk di meja makan, menyantap supnya sendirian. Tangannya sempat terhenti di udara, menatap Sarah yang masih fokus mengetik baris-baris kalimat suntingan di meja tengah. Daniel ingin bercerita tentang salah satu pasien gagal ginjal muda di RS Cakrawala yang tadi siang membuatnya harus berpikir keras menyusun dosis terapi, tetapi ia ragu. Selama beberapa bulan terakhir, setiap kali ia mencoba membuka cerita tentang kelelahan di rumah sakit, Sarah biasanya mendengarkan sebentar, memberikan tanggapan rasional, lalu kembali pada kesibukan suntingan bukunya.
 
-Sarah, di sisi lain, juga memilih menyimpan kelelahannya sendiri. Gejala pegal di persendian kakinya akibat kambuhnya autoimun tipis dua hari lalu tidak ia ceritakan pada Daniel. Ia tahu suaminya sudah cukup terbeban oleh ritme rumah sakit, dan Sarah terbiasa menyelesaikan pengobatannya sendiri tanpa ingin membuat Daniel khawatir secara berlebihan.
+Sarah tampak beberapa kali mengubah posisi duduk dan meregangkan jemarinya. Daniel sempat ingin menanyakan apakah tubuh istrinya kembali terasa tidak nyaman, tetapi ia urung bertanya. Ia tidak tahu apakah Sarah sedang mengalami gejala lupusnya atau sekadar kelelahan.
 
-Keduanya saling menyayangi dan saling menghormati, tetapi masing-masing telah terbiasa memendam ruang emosionalnya sendiri-sendiri agar tidak menjadi beban bagi yang lain. Kedekatan yang dahulu hangat perlahan bergeser menjadi formalitas dua orang dewasa yang tinggal di bawah satu atap.
+Daniel masih menyayangi Sarah, tetapi ia menyadari bahwa percakapan mereka belakangan lebih sering berhenti pada urusan sehari-hari. Ia tidak tahu bagaimana memulai pembicaraan yang lebih jujur tanpa merasa sedang menambah beban istrinya.
+
+
+---
+
+_(Sudut Pandang: Maya)_
 
 Sementara itu di rumah kontrakan Antapani, Maya baru saja selesai menyeduh teh hangat.
 
@@ -1582,7 +1589,7 @@ Namun, bagi seorang perempuan yang sepanjang hidupnya merasa tidak pernah diprio
 
 _(Sudut Pandang: Daniel)_
 
-Desing pendingin udara di ruang tengah apartemen Ciumbuleuit terdengar lebih nyaring dari biasanya malam itu. Di atas meja kaca, dua cangkir teh poci yang mulai melepaskan uap dingin berdiri berdampingan di dekat tumpukan berkas suntingan Sarah.
+Selasa malam, 19 Agustus 2025. Desing pendingin udara di ruang tengah apartemen Ciumbuleuit terdengar lebih nyaring dari biasanya malam itu. Di atas meja kaca, dua cangkir teh poci yang mulai melepaskan uap dingin berdiri berdampingan di dekat tumpukan berkas suntingan Sarah.
 
 Daniel baru saja meletakkan cangkir keramiknya, bermaksud berdiri dan kembali ke dalam kamar kerja untuk memeriksa ulang statistik jurnal kedokteran.
 
@@ -1636,15 +1643,11 @@ Sarah menatap suaminya yang melangkah mundur. Ada binar kepasrahan yang lirih di
 
 "Lain kali itu kapan, Niel?" gumam Sarah pelan pada ruangan yang mulai kosong, tetapi Daniel sudah melangkah masuk ke dalam kamar kerja dan memutar gagang pintu tanpa menjawab.
 
-Di dalam kamar kerjanya yang sunyi, Daniel menyandarkan punggungnya pada pintu kayu yang tertutup.
-
-Ruangan berpendingin udara itu terasa dingin dan menghimpit. Daniel merosotkan tubuhnya di atas kursi putar meja kerja, mematikan lampu utama dan menyalakan lampu meja yang temaram. Ia mengeluarkan ponsel dari saku celananya, menatap layarnya yang gelap.
-
-Di balik pintu kayu, Sarah masih duduk sendirian di meja makan apartemen Ciumbuleuit, menatap dua cangkir teh yang kini telah sepenuhnya dingin. Sementara di dalam kamar kerja, Daniel menggenggam ponselnya erat-erat, berjuang melawan keinginan untuk mencari pelarian dan kehangatan yang instan di tempat lain.
+Di dalam kamar kerjanya yang sunyi, Daniel menyandarkan punggungnya pada pintu kayu yang tertutup. Ia duduk di kursi putar, mematikan lampu utama, lalu menyalakan lampu meja. Ponsel di tangannya tetap gelap. Dari luar kamar tidak terdengar apa-apa selain dengung pendingin udara. Daniel tahu ia kembali menunda percakapan yang diminta Sarah, tetapi malam itu ia belum menemukan keberanian untuk keluar dan melanjutkannya.
 
 # **BAB 37: Jika Kita Bertemu Lebih Awal**
 
-Lampu meja di sudut kamar Antapani membiaskan cahaya temaram ke atas permukaan kertas catatan Maya. Pukul sembilan malam lewat dua puluh menit, hembusan angin malam kota Bandung membawa udara dingin sisa hujan deras yang baru saja mereda di kawasan timur.
+Jumat malam, 22 Agustus 2025. Lampu meja di sudut kamar Antapani membiaskan cahaya temaram ke atas permukaan kertas catatan Maya. Pukul sembilan malam lewat dua puluh menit, hembusan angin malam kota Bandung membawa udara dingin sisa hujan deras yang baru saja mereda di kawasan timur.
 
 Maya menyandarkan punggungnya pada bantal di tepi kasur busa. Di tangannya, layar ponsel yang berpendar terang menampilkan baris percakapan yang terus bertambah.
 
@@ -1658,7 +1661,7 @@ Ini sedang berhenti sebentar di pelataran parkir minimarket dekat Pasteur, May. 
 
 Percakapan di antara mereka mengalir pelan, tenang, namun mengusung kedekatan yang semakin pekat. Sepanjang tiga minggu di bulan Agustus, setelah pertengahan bulan lalu Daniel menceritakan kelelahan emosional rumah tangganya dan memberikan perhatian personal yang tak pernah Maya dapatkan sebelumnya, ritme percakapan mereka telah bergeser ke wilayah yang kian intim.
 
-Daniel, yang terbiasa bersikap tenang dan formal di depan para dokter RS Cakrawala, di sini membuka ruang-ruang rentan dalam dirinya. Sementara Maya, yang sepanjang hidupnya merindukan sosok yang benar-benar melihat dan menghargainya, menerima sapaan itu sebagai oase yang menenteramkan.
+Dari pesan-pesan yang mereka tukarkan, Maya menangkap sisi Daniel yang jarang ia lihat saat pria itu berada di rumah sakit: lelah, ragu, dan sesekali membutuhkan seseorang untuk mendengarkan. Perhatian itu terasa menenteramkan bagi Maya, yang selama ini merindukan sosok yang benar-benar melihat dan menghargainya.
 
 Namun, malam ini, keheningan di antara jeda pesan terasa berbeda.
 
@@ -1668,15 +1671,15 @@ May, boleh saya bertanya satu hal?
 
 Maya membetulkan posisi duduknya, menahan napas pelan. Boleh, Dok. Ada apa?
 
-Layar ponsel berkedip sebentar. Daniel membalas dengan sebuah paragraf yang meluncur dari ruang batinnya yang paling dalam.
+Layar ponsel berkedip sebentar. Daniel membalas dengan sebuah pesan panjang.
 
 Kadang, kalau sedang duduk sendirian seperti ini, saya sering berpikir. Seandainya waktu bisa diputar kembali, seandainya kita bertemu beberapa tahun lebih awal... mungkin segalanya akan terasa jauh berbeda.
 
 Dada Maya mendadak berdesir hebat. Gerakan jemarinya tertahan kaku di atas papan tombol sentuh.
 
-Kalimat itu tidak mengandung janji manis, tidak pula berisi rencana perceraian atau ungkapan cinta yang vulgar. Namun, pengakuan halus dari Daniel bahwa ia membayangkan sebuah kehidupan di mana Maya ada di sisinya tanpa halangan status dan waktu, menghantam titik paling pekat di hati Maya.
+Kalimat itu tidak mengandung janji manis, tidak pula berisi rencana perceraian atau ungkapan cinta yang vulgar. Bagi Maya, pesan itu terdengar seperti pengakuan bahwa Daniel pernah membayangkan kehidupan lain, ketika mereka bertemu sebelum ia menikah. Tafsiran itu membuat dadanya berdesir, meski ia tahu pesan tersebut tidak mengubah keadaan mereka sekarang.
 
-Selama lima tahun bersama Arman, Maya selalu menjadi perempuan yang disembunyikan, digantung, dan akhirnya ditinggalkan demi perempuan lain. Ia terbiasa dianggap sebagai pilihan kedua yang mudah diabaikan. Dan kini, seorang pria dewasa sekelas Dokter Daniel, yang dihormati banyak orang, secara jujur mengakui bahwa kehadiran Maya adalah sesuatu yang ia harapkan dalam garis kehidupannya.
+Selama lima tahun bersama Arman, Maya selalu menjadi perempuan yang disembunyikan, digantung, dan akhirnya ditinggalkan demi perempuan lain. Ia terbiasa dianggap sebagai pilihan kedua yang mudah diabaikan. Kini, seorang pria yang dihormati seperti Dokter Daniel menulis bahwa ia pernah membayangkan mereka bertemu lebih awal. Maya merasa diinginkan oleh kalimat itu, tetapi ia juga tahu bahwa harapan tersebut tidak membuat kedekatan mereka menjadi benar.
 
 Perasaan diakui dan diinginkan itu menyeruak hangat, menyapu luka-luka lama di dada Maya.
 
@@ -1688,13 +1691,13 @@ Maya mengetikkan balasan dengan jemari yang bergetar tipis.
 
 Tapi kita tidak bertemu lebih awal, Dokter Daniel. Kita baru bertemu tahun ini, dalam situasi yang sudah seperti sekarang.
 
-Di dalam mobilnya di pelataran parkir Pasteur, Daniel menatap balasan Maya. Ia menyandarkan kepalanya pada kemudi, menghela napas panjang. Daniel tahu Maya benar. Ia menyadari sepenuhnya bahwa kalimat pengandaian yang baru saja diucapkannya telah melangkah jauh melampaui batas pertemanan profesional.
+Balasan Daniel tidak langsung datang. Beberapa saat kemudian, layar ponsel Maya kembali menyala.
 
-Iya, May. Kamu benar, balasan Daniel masuk, disusul baris kalimat berikutnya. Maafkan saya. Saya cuma tidak bisa memungkiri kalau berada di dekatmu membuat saya merasa hidup kembali.
+Iya, May. Kamu benar. Maafkan saya. Saya cuma tidak bisa memungkiri kalau berada di dekatmu membuat saya merasa hidup kembali.
 
 Maya memeluk kedua lututnya erat-erat, menempelkan ponsel di dadanya.
 
-Tidak ada kata-kata mesra berlebihan yang terucap setelahnya, tidak ada rencana untuk bertemu secara sembunyi-sembunyi. Namun malam itu, di balik keheningan kota Bandung yang dingin, baik Maya maupun Daniel sama-sama menyadari satu hal dengan sangat jelas: garis batas pertemanan kerja di antara mereka telah terlampaui sepenuhnya, dan mereka telah melangkah masuk ke dalam ruang emosional yang melanggar janji.
+Tidak ada kata-kata mesra berlebihan yang terucap setelahnya, tidak ada rencana untuk bertemu secara sembunyi-sembunyi. Malam itu, Maya menyadari bahwa batas pertemanan kerja mereka telah terlampaui. Ia bisa membaca pengakuan Daniel dalam pesan-pesan itu, tetapi kesadaran tersebut tidak mengubah kenyataan bahwa Daniel masih seorang suami dan ia sendiri ikut memilih melanjutkan kedekatan yang seharusnya dihentikan.
 
 # **BAB 38: Menginginkan yang Tidak Tersedia**
 
@@ -1798,7 +1801,7 @@ Ia melihat bagaimana mata Daniel terpaku pada layar ponsel dengan pendar binar y
 
 Dada Sarah terasa sesak oleh kepastian dingin yang merayap perlahan.
 
-Sarah mengusap pinggiran piringnya, membatalkan niat untuk menambah potongan kue. Ia tidak marah atau meledak emosi di meja makan, tetapi sorot matanya menajam oleh kecurigaan yang tak bisa lagi diabaikan. Sorot mata Sarah menunjukkan kecurigaan yang tak lagi bisa diabaikan. Ia tampak yakin ada orang lain yang telah menyita perhatian dan ruang emosional suaminya.
+Sarah mengusap pinggiran piringnya, membatalkan niat untuk menambah potongan kue. Ia tidak marah atau meledak emosi di meja makan, tetapi sorot matanya menajam oleh kecurigaan yang tak bisa lagi diabaikan. Ia tampak yakin ada orang lain yang telah menyita perhatian dan ruang emosional suaminya.
 
 Daniel yang menyadari perubahan raut wajah Sarah segera mematikan layar ponselnya dan memasukkannya ke dalam saku celana. Namun, kecanggungan tebal telah kembali memenuhi ruang makan apartemen Ciumbuleuit, menyisakan keheningan dingin di antara dua orang yang kini berdiri di ambang krisis.
 
@@ -2264,7 +2267,7 @@ Daniel menunduk menatap cangkir tehnya, mendengarkan tanpa menyela.
 
 "Kamu sudah berhenti menghubungi perempuan itu, dan aku menghargai langkahmu," lanjut Sarah jujur. "Tapi mematuhi batas dasar sebagai suami beristri itu bukan sebuah prestasi yang harus diberi hadiah pengampunan instan. Itu memang kewajibanmu sejak delapan tahun lalu."
 
-Sarah menegakkan posisi duduknya, menatap Daniel dengan binar mata yang memperlihatkan kedewasaan seorang perempuan yang realistis.
+Sarah menegakkan posisi duduknya dan menatap Daniel tanpa mengalihkan pandangan. Nada suaranya tetap tenang, tetapi setiap kalimat disusun dengan tegas.
 
 "Rasa percaya yang luka karena perselingkuhan emosional tidak bisa dipulihkan dalam sebulan atau dua bulan, Niel," tegas Sarah. "Aku tidak bisa langsung pura-pura lupa pada baris-baris pesan yang aku baca di tabletmu. Setiap kali kamu meraih ponsel atau pulang agak terlambat dari rumah sakit, ada bagian dari batinku yang refleks merasa cemas. Dan perasaan tidak tenang itu adalah hal yang harus aku tanggung akibat keputusanmu."
 

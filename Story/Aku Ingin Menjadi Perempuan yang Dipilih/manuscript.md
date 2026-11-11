@@ -684,7 +684,7 @@ Di antara lalu lintas sore Jalan Riau yang padat dan deru mesin kendaraan yang b
 
 # **BAB 17: Jatuh**
 
-Langkah kaki Maya bergema cepat di atas lantai keramik dingin selasar Unit Gawat Darurat Rumah Sakit Cakrawala. Bau antiseptik yang menyengat bercampur aroma obat menyergap indra penciumannya, membuat dadanya semakin sesak.
+Dua hari setelah hari terakhirnya bekerja, pada Minggu sore, 2 Februari 2025, langkah kaki Maya bergema cepat di atas lantai keramik dingin selasar Unit Gawat Darurat Rumah Sakit Cakrawala. Bau antiseptik yang menyengat bercampur aroma obat menyergap indra penciumannya, membuat dadanya semakin sesak.
 
 Kardus berisi berkas lamaran kerja yang baru saja ia rapikan di rumah Antapani ditinggalkan begitu saja di dalam taksi.
 
@@ -740,11 +740,13 @@ Maya mengangguk pelan, berdiri merapatkan selimut kain rumah sakit ke tubuh ibun
 
 # **BAB 18: Dokter yang Bertugas**
 
-"Tekanan darah ibumu turun cukup drastis saat perubahan posisi dari duduk ke berdiri. Ada indikasi dehidrasi sedang yang memperburuk kondisi fisiknya selama beberapa hari terakhir."
+Senin pagi, 3 Februari 2025, Maya duduk di kursi samping ranjang Ratih di ruang rawat inap lantai tiga Rumah Sakit Cakrawala. Setelah melewati malam pertama di rumah sakit, ia baru saja selesai berbicara dengan perawat ketika dokter yang menangani evaluasi penyakit dalam datang.
 
-Suara itu terdengar tenang dan teratur di tengah riuh rendah derit tiang infus dan langkah terburu-buru para perawat UGD. Maya mendongak dari tepi ranjang periksa.
+"Tekanan darah Ibu Ratih turun cukup drastis saat perubahan posisi dari duduk ke berdiri. Ada indikasi dehidrasi sedang yang memperburuk kondisi fisiknya selama beberapa hari terakhir."
 
-Seorang pria berpakaian kemeja biru tua yang terlapisi jas putih dokter berdiri di samping tiang infus Ratih. Stetoskop melingkar santai di lehernya, sementara tangannya dengan lincah menggeser berkas hasil rontgen dan lembar laboratorium di papan jepit medis.
+Suara itu terdengar tenang dan teratur di ruang rawat inap. Maya mendongak dari tepi ranjang.
+
+Seorang pria berpakaian kemeja biru tua yang terlapisi jas putih dokter berdiri di samping ranjang Ratih. Stetoskop melingkar santai di lehernya, sementara tangannya dengan lincah menggeser berkas hasil rontgen dan lembar laboratorium di papan jepit medis.
 
 Pria itu menatap Maya langsung. Tatapan matanya jernih dan fokus, memancarkan wibawa profesional yang mendadak membawa rasa aman di tengah kepanikan Maya sejak siang tadi.
 
@@ -764,13 +766,13 @@ Ratih yang terbaring di atas ranjang membuka matanya pelan. Suara ibunya keluar 
 
 Daniel menoleh ke arah Ratih, sedikit menundukkan tubuhnya agar sejajar dengan pandangan Ratih. Wajahnya sama sekali tidak menunjukkan kekesalan, melainkan keramahan yang menenangkan.
 
-"Ibu Ratih tidak boleh memikirkan mesin jahit dulu ya," tegur Daniel halus namun tegas. "Malam ini Ibu harus dirawat inap dulu di ruang perawatan umum. Kami perlu memantau keseimbangan cairan tubuh dan memastikan gejala pusingnya benar-benar hilang sebelum dipulangkan."
+"Ibu Ratih tidak boleh memikirkan mesin jahit dulu ya," tegur Daniel halus namun tegas. "Ibu perlu tetap dirawat di ruang perawatan umum. Kami perlu memantau keseimbangan cairan tubuh dan memastikan gejala pusingnya benar-benar hilang sebelum dipulangkan."
 
 Ratih menghela napas panjang, akhirnya mengangguk pasrah.
 
 Daniel kembali menatap Maya, menyerahkan selembar formulir pengantar rawat inap yang sudah ditandatanganinya.
 
-"Semua instruksi terapi cairan dan obat anti-mual sudah saya masukkan ke dalam sistem rawat inap," ujar Daniel sambil berdiri. "Nanti perawat lantai tiga yang akan memandu pemindahan ruangan. Kalau ada keluhan mendadak soal kondisi fisiknya sebelum dokter ruangan visit besok pagi, Mbak Maya bisa langsung minta perawat jaga untuk memanggil saya."
+"Instruksi terapi cairan dan obat antimual sudah saya masukkan ke dalam catatan perawatan," ujar Daniel sambil berdiri. "Tim ortopedi akan melanjutkan evaluasi pergelangan tangan Ibu. Untuk kondisi umum dan tekanan darahnya, saya akan memantau perkembangannya. Jika ada keluhan mendadak, sampaikan kepada perawat jaga agar dokter yang bertugas segera memeriksanya."
 
 "Terima kasih banyak, Dokter Daniel," kata Maya tulus.
 
@@ -780,11 +782,11 @@ Maya memperhatikan siluet dokter spesialis penyakit dalam itu hingga menghilang 
 
 # **BAB 19: Ruang Tunggu**
 
-Aroma karbol tipis dan desing pendingin udara di selasar lantai tiga Rumah Sakit Cakrawala menusuk pori-pori kulit Maya. Di tangannya, selembar kertas rincian deposit awal rawat inap berstempel kasir terlipat dua, berdampingan dengan tiga lembar kuitansi tebus obat dari apotek rumah sakit.
+Selasa malam, 4 Februari 2025, aroma karbol tipis dan desing pendingin udara di selasar lantai tiga Rumah Sakit Cakrawala menusuk pori-pori kulit Maya. Di tangannya, selembar kertas rincian deposit awal rawat inap berstempel kasir terlipat dua, berdampingan dengan tiga lembar kuitansi tebus obat dari apotek rumah sakit.
 
 Maya mengusap wajahnya yang lelah, lalu membuka aplikasi perbankan di layar ponselnya.
 
-Angka saldo di rekeningnya menipis dengan cepat. Pesangon yang baru cair akhir Januari lalu dari kantor lama—yang tadinya diniatkan sebagai dana penyambung hidup selama berbulan-bulan mencari kerja—kini sudah terpotong hampir sepertiga hanya dalam waktu empat puluh delapan jam untuk biaya jaminan rumah sakit dan obat Ratih.
+Angka saldo di rekeningnya menipis dengan cepat. Dana kompensasi dan tabungan yang semula diniatkan sebagai penyambung hidup selama mencari pekerjaan kini sudah terpotong hampir sepertiga dalam dua hari untuk biaya jaminan rumah sakit dan obat Ratih.
 
 Ponsel di genggamannya bergetar. Nama Pak Dudung tertera di layar. Maya segera menempelkan ponsel itu ke telinga kanan.
 
@@ -816,7 +818,7 @@ Daniel melangkah mendekati tiang infus, mengamati laju tetesan cairan bening yan
 
 Maya mengembuskan napas lega. "Berarti tidak ada indikasi bahaya di organ dalamnya ya, Dok?"
 
-Daniel menggeleng pelan, menyunggingkan senyum tipis yang memancarkan ketenangan seorang profesional berpengalaman. "Hasil laboratorium darah lengkapnya bersih. Lembar evaluasi dari tim ortopedi tadi sore juga mengonfirmasi kalau patah tulangnya tergolong retak tertutup. Tidak perlu tindakan operasi terbuka, cukup imobilisasi dengan gips selama beberapa minggu dan terapi pemulihan rutin."
+Daniel menggeleng pelan, menyunggingkan senyum tipis yang memancarkan ketenangan seorang profesional berpengalaman. "Hasil laboratorium darah lengkapnya bersih. Lembar evaluasi dari tim ortopedi tadi sore juga mengonfirmasi kalau frakturnya tergolong fraktur tertutup. Tidak perlu tindakan operasi terbuka, cukup imobilisasi dengan gips selama beberapa minggu dan terapi pemulihan rutin."
 
 Cara Daniel menyampaikan informasi medis begitu tertata dan mudah dipahami, tanpa ada kesan terburu-buru atau nada menggurui. Di tengah situasi krisis yang menguras emosi dan isi tabungannya, penjelasan Daniel terasa seperti pegangan yang kokoh.
 
@@ -852,7 +854,7 @@ Maya mendudukkan diri di samping ibunya, merapikan bantal penyangga di belakang 
 
 Ratih terdiam, menunduk menatap gips tebal di tangannya. Kehilangan fungsi tangan kanan bagi seorang penjahit tunggal seperti Ratih bukan sekadar soal rasa sakit fisik, melainkan terhentinya satu-satunya roda penggerak dapur rumah mereka selama dua puluh tahun terakhir.
 
-Maya meraih tas kain berisi berkas resep obat dan lembar instruksi kontrol dari RS Cakrawala. Di dalam amplop rumah sakit itu, terselip pula kartu nama kecil berukir nama dr. Daniel Aditya dengan nomor kontak klinik rawat jalan yang sengaja dilingkari tinta biru.
+Maya meraih tas kain berisi berkas resep obat dan lembar instruksi kontrol dari RS Cakrawala. Di dalam amplop rumah sakit itu, terselip pula lembar informasi kontrol rawat jalan rumah sakit yang memuat nomor layanan resmi untuk membuat janji pemeriksaan.
 
 "Soal pesanan kain Bu Yanti dan tetangga lain, biar Maya yang urus sore ini," lanjut Maya tenang. "Nanti Maya datang ke rumah Bu Yanti, minta maaf baik-baik, dan kembalikan bahan kainnya beserta uang mukanya."
 
@@ -860,7 +862,7 @@ Ratih mendongak, matanya melebar tipis. "Uang mukanya kan sudah Ibu pakai buat b
 
 "Maya ada simpanan untuk ganti uang mukanya, Bu," potong Maya cepat dengan senyum menenangkan.
 
-Alasan itu meluncur lancar dari mulut Maya. Kenyataannya, sisa uang pesangon di rekeningnya kini berada di angka kritis setelah dipotong biaya jaminan rawat inap tiga hari di rumah sakit. Namun, melihat raut cemas di wajah ibunya yang masih pucat, Maya tidak ingin menambah beban pikiran Ratih sedikit pun.
+Alasan itu meluncur lancar dari mulut Maya. Kenyataannya, sisa uang pesangon di rekeningnya kini berada di angka kritis setelah dipotong biaya jaminan perawatan Ratih selama beberapa hari di rumah sakit. Namun, melihat raut cemas di wajah ibunya yang masih pucat, Maya tidak ingin menambah beban pikiran Ratih sedikit pun.
 
 Maya berdiri, melangkah menuju meja jahit tua di sudut ruangan. Ia merapikan potongan benang yang berserakan, melipat kain-kain pesanan tetangga satu per satu dengan cermat, lalu mencatat nama pemilik bahan di selembar kertas kecil.
 
@@ -1372,7 +1374,7 @@ Sarah mengusap pinggiran cangkir tehnya yang mulai dingin, menyandarkan tubuhnya
 
 # **BAB 32: Hal yang Tidak Diceritakan**
 
-Rintik gerimis tipis menyisakan aroma aspal basah di pelataran parkir belakang Yayasan Lentera Sehat pada Jumat sore di pertengahan Juli. Maya baru saja mengunci pintu ruang penyimpanan brosur ketika melihat Dokter Daniel berdiri di dekat mobilnya dengan gagang telepon genggam menempel di telinga.
+Rintik gerimis tipis menyisakan aroma aspal basah di pelataran parkir belakang Yayasan Lentera Sehat pada Jumat sore, 27 Juni 2025. Maya baru saja mengunci pintu ruang penyimpanan brosur ketika melihat Dokter Daniel berdiri di dekat mobilnya dengan gagang telepon genggam menempel di telinga.
 
 Maya memperlambat langkahnya. Dari jarak beberapa meter, ia dapat melihat gurat kelelahan yang tebal di sekitar mata pria itu. Bahu Daniel sedikit membongkok, berbeda dari pembawaannya yang biasa tegap dan berwibawa saat menyampaikan materi medis di panggung.
 
@@ -2835,7 +2837,7 @@ Sabtu sore, sepuluh Januari dua ribu dua puluh enam, rintik gerimis tipis membas
 
 Lima hari lalu, pada lima Januari, Maya memutuskan mengirim satu baris pesan formal kepada Dokter Daniel. Ia meminta waktu bertemu sejenak di tempat umum untuk sebuah percakapan penutup.
 
-Sejak akhir September tahun lalu, ketika seluruh komunikasi pribadi dihentikan pascakonfrontasi bersama Sarah, Maya dan Daniel tidak pernah benar-benar membicarakan perpisahan mereka secara langsung. Keputusan memutus kontak kala itu diambil dalam ketergesaan dan rasa bersalah. Kini, setelah melewati sesi konseling psikologis bersama Mbak Melani serta menyelesaikan urusan masa lalunya bersama Arman dan Bima, Maya merasa butuh menutup babak tersebut secara jernih dan mendewasa.
+Sejak pertemuan pada 13 September tahun lalu, Maya dan Daniel memang telah sepakat menghentikan komunikasi pribadi. Namun, ada satu hal yang belum pernah Maya akui secara terbuka: bahwa saat kedekatan itu berlangsung, ia sempat berharap Daniel akan memilihnya. Setelah menjalani konseling bersama Mbak Melani dan menata kembali batas-batas dalam hidupnya, Maya ingin mengakui harapan itu tanpa meminta apa pun sebagai balasan. Ia mengirim pesan formal pada 5 Januari dan meminta satu pertemuan di tempat umum. Daniel menyetujuinya setelah memastikan Sarah mengetahui rencana tersebut.
 
 Langkah kaki yang teratur terdengar mendekat. Maya mendongak saat siluet tegap Daniel melangkah menghampiri meja sudut.
 
@@ -2849,7 +2851,7 @@ Daniel mendudukkan diri di kursi kayu yang berhadapan dengan Maya. Pria itu mele
 
 "Terima kasih sudah meluangkan waktu sore ini, Dok," ujar Maya membuka percakapan.
 
-Daniel mengangguk pelan. "Saya yang harus terima kasih, May. Waktu kamu mengirim pesan lima hari lalu, saya merasa ajakan bertemu ini sangat perlu. Bulan September lalu kita berhenti bicara karena keadaan yang terdesak, tanpa pernah menyelesaikan percakapan itu secara dewasa."
+Daniel mengangguk pelan. "Saya yang harus berterima kasih, May. Waktu kamu mengirim pesan lima hari lalu, saya memahami bahwa ada hal yang ingin kamu sampaikan. Saya sudah memastikan Sarah mengetahui pertemuan ini. Kita memang sudah sepakat menghentikan komunikasi pribadi pada September, dan saya menghormati batas itu. Saya menganggap pertemuan satu kali ini sebagai kesempatan untuk mendengarkan pengakuanmu, bukan untuk membuka kembali hubungan atau komunikasi pribadi."
 
 Maya menyandarkan punggungnya pada kursi kayu, menarik napas panjang yang terasa melegakan ulu hatinya.
 
@@ -3549,7 +3551,7 @@ Maya menghirup aroma uap teh melati itu dalam-dalam, membiarkan kehangatannya me
 
 Tepat satu tahun telah berlalu sejak tiga puluh satu Januari dua ribu dua puluh lima—hari terakhir Maya melangkah keluar dari kantor lamanya membawa kardus berisi barang-barang pribadi. Ia mengingat betul bagaimana pada hari itu, tiga minggu setelah memergoki pertunangan Arman bersama Celine, ia berjalan menyusuri trotoar dengan batin yang remuk, diliputi kecemasan hebat akan pekerjaan yang hilang dan masa depan yang gelap.
 
-Pagi ini, persis tiga ratus enam puluh lima hari kemudian, Maya berdiri di tempat yang sama dengan raga dan batin yang sepenuhnya berbeda.
+Pagi ini, persis tiga ratus enam puluh lima hari kemudian, Maya berdiri di kota yang sama dengan raga dan batin yang telah banyak berubah.
 
 Maya melangkah masuk ke dalam kamar, meletakkan cangkir tehnya di atas meja kerja. Di balik permukaan kayu yang bersih, buku agenda tebal bersampul abu-abu tua terbentang rapi. Di sana tertera lembar rencana tiga tahun yang telah disusunnya—sebuah peta kemandirian finansial, pengembangan karier di Yayasan Lentera Sehat, dan jadwal konseling psikologis rutin yang ia jalani demi menjaga kesehatan jiwanya.
 

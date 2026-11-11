@@ -886,7 +886,7 @@ Maya menggeser kursor, memindahkan pesan dari agensi komunikasi di kawasan Paste
 
 Ia menutup bilah surel, lalu membuka lembar kerja spreadsheet di layar. Di sana, deretan angka sisa tabungan pesangon tercetak tebal.
 
-Setelah dipotong biaya jaminan rawat inap Ratih di Rumah Sakit Cakrawala, uang tebusan obat rawat jalan, serta biaya pengembalian uang muka kebaya tetangga minggu lalu, angka di rekeningnya kini menyusut drastis. Jika dipotong biaya kontrakan Antapani untuk bulan depan dan belanja bahan makanan pokok Kiaracondong, sisa dana yang dimilikinya hanya sanggup bertahan hingga pertengahan Maret.
+Setelah dipotong biaya jaminan rawat inap Ratih di Rumah Sakit Cakrawala, biaya obat rawat jalan, serta biaya pengembalian uang muka kebaya tetangga minggu lalu, angka di rekeningnya kini menyusut drastis. Jika dipotong biaya kontrakan Antapani untuk bulan depan dan belanja bahan makanan pokok Kiaracondong, sisa dana yang dimilikinya hanya sanggup bertahan hingga pertengahan Maret.
 
 Maya menarik buku catatan bersampul cokelat di samping laptopnya, lalu menuliskan tiga angka target pengeluaran harian. Ia harus memangkas seluruh pengeluaran sekunder. Tidak ada lagi pembelian kopi di kedai, tidak ada penggunaan taksi daring kecuali dalam kondisi darurat medis Ratih, dan belanja dapur harus dihitung hingga rupiah terkecil.
 
@@ -918,7 +918,7 @@ Ratih tersenyum tipis, mengusap punggung tangan Maya.
 
 Malam harinya saat kembali ke rumah kontrakan Antapani, Maya kembali duduk di depan layar laptopnya hingga pukul sebelas malam. Ia menekan tombol *kirim* pada berkas lamaran kelimabelas untuk minggu ini.
 
-Di dalam ruangan yang sunyi itu, Maya menatap pantulan wajahnya di kaca jendela yang gelap. Ketakutan akan penolakan dan bayangan rekening yang mengering terus membayangi, tetapi Maya tahu ia tidak boleh berhenti. Ia harus terus mengayuh langkahnya sendiri, demi rumah Kiaracondong dan demi masa depan yang sedang ia perjuangkan tanpa bergantung pada siapapun.
+Di dalam ruangan yang sunyi itu, Maya menatap pantulan wajahnya di kaca jendela yang gelap. Ketakutan akan penolakan dan bayangan rekening yang mengering masih membayangi. Ia membuka buku catatan, menuliskan nama lima belas perusahaan yang telah dikirimi lamaran minggu itu, lalu memberi tanda pada dua lowongan yang perlu ia tindak lanjuti esok hari.
 
 # **BAB 22: Yayasan Lentera Sehat**
 
@@ -982,7 +982,7 @@ Maya menahan napas sejenak, meremas pinggiran meja kayu. Rasa hangat menyeruak m
 
 "Surat penawaran kerja resmi dan rincian hak gaji sudah kami kirimkan via surel ya, Mbak. Hari pertama masuk dijadwalkan tanggal **tujuh belas Maret**."
 
-Setelah menutup telepon, Maya terduduk di tepi ranjang. Ia memejamkan mata erat-erat, mengembuskan napas panjang yang selama dua bulan terakhir tertahan di dadanya. Rasa cemas akan saldo tabungan yang menipis dan ketakutan akan kehilangan arah perlahan terangkat. Kesempatan baru ini datang murni karena usaha, ketekunan, dan kompetensi yang ia perjuangkan sendiri, tanpa uluran tangan atau campur tangan dari siapa pun.
+Setelah menutup telepon, Maya terduduk di tepi ranjang. Ia memejamkan mata erat-erat, mengembuskan napas panjang yang selama berminggu-minggu tertahan di dadanya. Rasa cemas akan saldo tabungan yang menipis dan ketakutan akan kehilangan arah perlahan terangkat. Kesempatan baru ini datang murni karena usaha, ketekunan, dan kompetensi yang ia perjuangkan sendiri, tanpa uluran tangan atau campur tangan dari siapa pun.
 
 Ia segera menghubungi Kiaracondong untuk mengabarkan berita gembira itu pada Ratih. Suara ibunya dari ujung telepon terdengar begitu lega dan penuh syukur, membuat Maya terharu hingga matanya berkaca-kaca.
 

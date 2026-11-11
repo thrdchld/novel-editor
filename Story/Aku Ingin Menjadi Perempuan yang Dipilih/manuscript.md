@@ -2904,7 +2904,7 @@ Daniel ikut berdiri, menganggukkan kepala penuh hormat dari seberang meja. "Jaga
 
 Maya membalikkan badan, melangkah keluar dari pintu kedai kopi menyusuri trotoar Jalan Riau yang basah oleh sisa gerimis. Angin malam bulan Januari berembus dingin menyapu wajahnya, membawa aroma tanah dan kesegaran udara pegunungan.
 
-Maya memejamkan mata sejenak, menghirup udara dingin itu dalam-dalam. Tidak ada air mata yang menetes, tidak ada rasa perih yang menghimpit. Maya merasakan sebuah kebebasan sejati di dalam dadanya: babak percakapan terlarang itu kini telah resmi ditutup dengan bermartabat, meninggalkannya berjalan tegap menyongsong hari-hari baru di atas pijakan kakinya sendiri.
+Maya memejamkan mata sejenak, menghirup udara dingin itu dalam-dalam. Ia masih dapat merasakan sisa kehilangan, tetapi tidak lagi merasa harus mengejarnya atau mengubah keputusan yang telah dibuat. Maya merasakan sebuah kebebasan sejati di dalam dadanya: babak percakapan terlarang itu kini telah resmi ditutup dengan bermartabat, meninggalkannya berjalan tegap menyongsong hari-hari baru di atas pijakan kakinya sendiri.
 
 # **BAB 60: Memperbaiki yang Masih Bisa Diperbaiki**
 
@@ -3430,7 +3430,7 @@ Di seberang saluran telepon, keheningan mengendap selama beberapa detik. Bima me
 
 Sambungan telepon itu berakhir dengan ketenangan murni. Maya meletakkan ponselnya tertungkup di atas meja.
 
-Tidak ada kekacauan emosi di dadanya, tidak ada rasa bersalah yang mencubit, dan tidak ada lagi kepura-puraan yang membebani. Maya melihat bahwa dalam percakapan itu Bima menerima batas yang ia sampaikan tanpa memaksa. Maya belum tahu apakah sikap tersebut akan bertahan; waktu dan perilaku berikutnya yang akan menjawabnya.
+Tidak ada gejolak besar yang menguasai dirinya, meski Maya tahu percakapan itu masih menyisakan banyak hal untuk dipikirkan. Maya melihat bahwa dalam percakapan itu Bima menerima batas yang ia sampaikan tanpa memaksa. Maya belum tahu apakah sikap tersebut akan bertahan; waktu dan perilaku berikutnya yang akan menjawabnya.
 
 ---
 
@@ -3586,4 +3586,4 @@ Maya mengenakan jaket katun krem polosnya, meraih tas tangan di meja, lalu mengu
 
 Ia melangkah keluar menuju trotoar, menyusuri jalanan kota Bandung di bawah naungan langit pagi yang cerah. Angin sejuk berembus lembut menyapu kulit wajahnya, membawa aroma tanah basah dan kesegaran dedaunan mahoni.
 
-Pijakan kaki Maya terasa amat ringan, tegap, dan penuh rasa percaya diri. Ia tidak tahu apa yang akan dibawa esok hari. Kecemasan mungkin masih datang, tetapi kini ia punya cara untuk menghadapinya tanpa harus meninggalkan dirinya sendiri. Di atas kakinya sendiri, Maya melangkah menyongsong masa depan—bukan lagi sebagai perempuan yang menunggu untuk dipilih, melainkan sebagai perempuan yang telah memilih untuk tidak pernah lagi meninggalkan dirinya sendiri.
+Pijakan kaki Maya terasa amat ringan, tegap, dan penuh rasa percaya diri. Ia tidak tahu apa yang akan dibawa esok hari. Kecemasan mungkin masih datang, tetapi kini ia punya cara untuk menghadapinya tanpa harus meninggalkan dirinya sendiri. Di atas kakinya sendiri, Maya melangkah menyongsong masa depan—bukan lagi hanya sebagai perempuan yang menunggu untuk dipilih, melainkan sebagai perempuan yang sedang belajar untuk tidak meninggalkan dirinya sendiri.

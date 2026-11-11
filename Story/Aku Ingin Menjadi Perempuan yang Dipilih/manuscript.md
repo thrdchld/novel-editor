@@ -1118,6 +1118,8 @@ Maya teringat kembali pada bayangan dua insan di barisan depan aula Hotel Papand
 
 Dalam ingatan Maya, Daniel dan Sarah tampil sebagai pasangan yang utuh dan tenang. Sikap Sarah yang mandiri, tutur katanya yang teratur saat memuji kerapian naskah brosur, serta cara Daniel memperhatikan istrinya di sela acara memberikan gambaran tentang sebuah rumah tangga yang tertata di atas fondasi kedewasaan yang telah mereka bangun selama hampir delapan tahun. Maya belum mengetahui bahwa di balik ketenangan yang diperlihatkan di depan umum, ada retakan halus yang perlahan merayap di antara mereka.
 
+---
+
 _(Sudut Pandang: Daniel)_
 
 Di apartemen berlantai delapan kawasan Ciumbuleuit malam itu, suasana ruang tengah sangat sunyi.

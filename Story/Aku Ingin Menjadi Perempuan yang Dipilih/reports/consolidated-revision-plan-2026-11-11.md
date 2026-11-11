@@ -392,4 +392,16 @@ Pemeriksaan setelah revisi sebelumnya menemukan beberapa dependensi yang perlu d
    - Respons Bima pada Bab 69 tetap dinilai hanya berdasarkan percakapan saat itu, bukan bukti perubahan jangka panjang.
    - Bab 71 kini menjelaskan urutan kerja: modul lansia tetap dituntaskan pada 5 Februari; tiga modul inti kampanye gizi disiapkan untuk cetak paling lambat 6 Februari; tujuh materi tambahan masuk tahap kedua pada Maret. Outline Bab 71 diperbarui sesuai pembagian tersebut.
 
-**Pemeriksaan yang masih perlu dilanjutkan:** audit ulang ritme dan repetisi pada Bab 25, 28–30, 44–48, serta pembacaan ulang menyeluruh untuk memeriksa efek berantai revisi. Perubahan teknis dan kronologi yang disebut dalam log ini sudah diterapkan, tetapi belum menjadi sertifikasi siap terbit.
+**Status lintasan ini:** audit ritme dan repetisi pada Bab 25, 28–30, dan 44–48 telah dilakukan; penutup yang terlalu menjelaskan, pengulangan kesadaran, dan beberapa klaim yang terlalu mutlak dipangkas. Yang masih tersisa adalah pembacaan ulang menyeluruh dari Bab 1 sampai 72 untuk memeriksa efek berantai, konsistensi suara, dan kelancaran pengalaman baca. Pemeriksaan struktur dan perbaikan terarah belum menjadi sertifikasi siap terbit.
+
+
+### Snapshot setelah lintasan revisi silang — 11 November 2026
+
+- Manuskrip: **72 bab berurutan**, sekitar **50.910 kata**.
+- Master outline: **72 bab berurutan**, sekitar **5.809 kata**.
+- Blob SHA manuskrip: `4957ddc483ab35a47ccf0a038e9ba0a3eaa48981`.
+- Blob SHA outline: `ce117703ce795b71c98574b3bb606a0be936146a`.
+- Perubahan sejak snapshot sebelumnya mengurangi sekitar 465 kata, terutama melalui penghapusan pengulangan memori dan simpulan moral yang telah ditunjukkan oleh adegan.
+- Pemeriksaan otomatis memastikan urutan nomor bab pada manuskrip dan outline lengkap dari 1 sampai 72; pemeriksaan ini tidak menggantikan pembacaan editorial.
+
+Rujukan pemeriksaan masa pemberitahuan PHK: PP No. 35 Tahun 2021, Pasal 37, melalui [JDIH Kementerian Ketenagakerjaan](https://jdih.kemnaker.go.id/peraturan/detail/1723/peraturan-pemerintah-nomor-35-tahun-2021).

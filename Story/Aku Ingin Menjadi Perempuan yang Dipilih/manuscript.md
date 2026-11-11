@@ -786,7 +786,7 @@ Selasa malam, 4 Februari 2025, aroma karbol tipis dan desing pendingin udara di 
 
 Maya mengusap wajahnya yang lelah, lalu membuka aplikasi perbankan di layar ponselnya.
 
-Angka saldo di rekeningnya menipis dengan cepat. Dana kompensasi dan tabungan yang semula diniatkan sebagai penyambung hidup selama mencari pekerjaan kini sudah terpotong hampir sepertiga dalam dua hari untuk biaya jaminan rumah sakit dan obat Ratih.
+Angka saldo di rekeningnya menipis dengan cepat. Dana darurat dan tabungan yang semula diniatkan sebagai penyambung hidup selama mencari pekerjaan kini sudah terpotong hampir sepertiga dalam dua hari untuk biaya jaminan rumah sakit dan obat Ratih.
 
 Ponsel di genggamannya bergetar. Nama Pak Dudung tertera di layar. Maya segera menempelkan ponsel itu ke telinga kanan.
 

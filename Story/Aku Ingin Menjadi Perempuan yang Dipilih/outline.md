@@ -613,7 +613,7 @@ Waktu: 1–7 Desember 2025
 
 Maya mulai melihat hubungan antara pengalaman masa kecil, hubungannya dengan Arman, dan kedekatannya dengan Daniel. Ia menyadari bahwa ia sering bertahan dalam situasi yang menyakitkan karena takut tidak dipilih.
 
-Bab 56 — Batas Pertama
+Bab 56 — Batas dengan Bima
 
 Waktu: 7 Desember 2025
 

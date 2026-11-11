@@ -2469,7 +2469,7 @@ Dua puluh satu tahun telah berlalu sejak Juni dua ribu empat, saat Bima melangka
 
 "Bapak... menghubungi Ibu?" tutur Maya dengan suara bergetar tipis, seolah meragukan pendengarannya sendiri.
 
-"Iya, May," jawab Ratih tenang. "Dia masih menyimpan nomor rumah lama ini. Minggu siang kemarin dia menelepon, bicaranya sebentar sekali. Dia menanyakan kabar Ibu, lalu menanyakan kabarmu."
+"Iya, May," jawab Ratih tenang. "Dia masih menyimpan nomor rumah lama ini. Minggu siang dua hari lalu dia menelepon, bicaranya sebentar sekali. Dia menanyakan kabar Ibu, lalu menanyakan kabarmu."
 
 Maya meremas jemarinya di atas pangkuan. Dingin yang tiba-tiba menyerang ulu hatinya bukan berasal dari hawa hujan di luar, melainkan dari sisa-sisa memori masa kecil yang mendadak bangkit kembali.
 
@@ -2595,7 +2595,7 @@ Ratih menatap putrinya dengan mata yang mengembun tipis oleh rasa bersalah yang 
 
 Memori masa kecil Maya seketika berputar kembali. Ia teringat bagaimana di masa sekolah dasar dahulu, ia selalu memegang kalimat ibunya itu rapat-rapat. Ia tumbuh dengan meyakini bahwa ayahnya adalah sosok yang terpaksa pergi demi keadaan, seorang ayah yang suatu hari nanti akan kembali membawakan oleh-oleh setelah urusannya selesai. Narasi itulah yang membuat Maya kecil terus menunggu di dekat jendela rumah Kiaracondong setiap sore.
 
-"Ibu bohong soal itu, May," aku Ratih jujur, tak lagi mencoba menutup-nutupi kesalahan masa lalunya. "Bapakmu tidak pernah berkirim uang sejak bulan pertama dia melangkah keluar dari rumah ini. Dia tidak sedang berjuang di luar kota untuk kita. Dia pergi karena secara sadar memilih kehidupan baru bersama perempuan itu, dan dia sengaja memutuskan semua kontak karena tidak mau diganggu oleh kewajiban membiayai anak."
+"Ibu bohong soal itu, May," aku Ratih jujur, tak lagi mencoba menutup-nutupi kesalahan masa lalunya. "Bapakmu tidak pernah berkirim uang sejak bulan pertama dia melangkah keluar dari rumah ini. Dia tidak sedang berjuang di luar kota untuk kita. Dia pergi karena secara sadar memilih kehidupan baru bersama perempuan itu. Ibu tidak tahu pasti apa yang ada di pikirannya ketika memutus kontak, May. Tapi sejak bulan pertama dia pergi, dia tidak pernah mengirim uang atau menanyakan kebutuhanmu. Dari sikapnya selama itu, Ibu merasa dia memang tidak mau lagi memikul tanggung jawab sebagai ayah."
 
 Maya terpaku di tempatnya duduk. Kerongkongannya menyempit oleh kejujuran dingin yang baru saja meluncur dari bibir ibunya.
 
@@ -3379,7 +3379,7 @@ Maya baru saja merapikan lembar-lembar berkas laporan yayasan di meja kerjanya k
 
 Maya mengulurkan tangan, meraih benda tersebut. Di layar monitor tipis, nama kontak Bima tertera jelas.
 
-Dua hari telah berlalu sejak Maya mulai membicarakan pengalaman masa kecilnya di ruang konseling Mbak Melani, dan semalam ia kembali membuka buku agenda tiga tahunnya—sebuah peta masa depan yang ia susun berdasarkan kebutuhan dan kemampuannya sendiri.
+Dua hari telah berlalu sejak sesi konseling terakhirnya bersama Mbak Melani. Semalam, Maya kembali membuka buku agenda tiga tahunnya—sebuah peta masa depan yang ia susun berdasarkan kebutuhan dan kemampuannya sendiri.
 
 Maya menggeser tombol hijau di layar, lalu menempelkan ponsel itu di telinganya.
 

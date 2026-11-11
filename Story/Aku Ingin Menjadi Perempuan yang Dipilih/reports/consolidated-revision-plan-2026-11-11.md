@@ -457,3 +457,12 @@ Pembacaan Bab 1–72 secara berurutan telah dilakukan pada manuskrip pascarevisi
 Pembacaan ulang tidak menemukan alasan untuk mengubah struktur 72 bab atau akhir cerita. Risiko pacing yang tersisa adalah jarak antara hook Bab 1–2 dan konfrontasi Bab 12 karena kilas balik Bab 3–11; struktur masih dapat dipertahankan, tetapi kelancaran bagian ini perlu dinilai lagi saat copyedit. Beberapa refleksi tematik juga masih perlu diperiksa agar tidak mengulang makna adegan.
 
 **Putusan kerja:** tidak perlu rewrite total. Lanjutkan ke copyedit menyeluruh—ejaan, tanda baca, diksi, konsistensi istilah, kalimat yang terlalu padat, variasi ritme, dan format—lalu lakukan verifikasi akhir. Status publikasi tetap **NOT YET READY TO PUBLISH** sampai pass tersebut selesai.
+
+
+---
+
+## Copyedit — pelaksanaan awal
+
+Penyisiran awal sudah diterapkan pada manuskrip: normalisasi tanda baca yang ter-escape, perbaikan sejumlah istilah antarmuka, penghalusan konstruksi kalimat yang tidak idiomatis, dan pengurangan beberapa repetisi diksi/reaksi emosional. Ini belum merupakan copyedit lengkap.
+
+**Sisa pekerjaan wajib:** pemeriksaan baris demi baris Bab 1–72 untuk ejaan dan typo, tanda baca dialog, konsistensi nama/tempat/sapaan, format angka/tanggal, pilihan kata, repetisi tingkat paragraf, serta kalimat yang terlalu panjang atau ambigu. Status tetap **NOT YET READY TO PUBLISH**.

@@ -326,3 +326,16 @@ Target akhir adalah naskah yang utuh, logis, konsisten, dan nyaman dibaca—buka
 5. Uji ulang seluruh tanggal, usia, durasi hubungan, pekerjaan, pemulihan medis, dan batas komunikasi dari awal sampai akhir.
 
 **Catatan:** jangan menganggap revisi ini final. Setiap perubahan berikutnya tetap harus diperiksa terhadap outline, bab sebelum dan sesudahnya, serta konsekuensi yang muncul di bagian akhir novel.
+
+
+### Pembaruan lanjutan — 11 November 2026
+
+Revisi diperluas ke bagian awal dan tengah novel setelah temuan audit lama diperiksa ulang terhadap naskah terkini.
+
+- **Bab 6–7:** pertemuan pertama diberi jangkar Juli 2019; enam bulan perkembangan hubungan kini memiliki contoh interaksi konkret sebelum Arman mengajak Maya berpacaran pada 10 Januari 2020.
+- **Bab 8–10:** Bab 8 dikunci pada penghujung 2023, Bab 9 pada awal November 2024, dan Bab 10 pada pertengahan November 2024. Penjelasan berulang tentang Maya yang terus mengalah pada Arman dipadatkan agar Bab 8 menekankan penundaan pernikahan, sedangkan Bab 9 menekankan perubahan perilaku Arman.
+- **Bab 21–24:** istilah biaya obat dirapikan; Bab 22, 23, dan 24 diberi jangkar 3 Maret, 6 Maret, dan 12 April 2025. Penutup Bab 21 diganti dengan tindakan konkret agar tidak mengulang simpulan kemandirian Bab 23.
+- **Bab 38–44:** Bab 38 memperjelas bagaimana urusan kerja dipakai untuk membuka komunikasi personal; penyangkalan Daniel pada Bab 40 dibuat lebih spesifik dan defensif; Bab 42 tidak lagi menyatakan Daniel berhenti menggunakan aplikasi selama tiga bulan; Bab 44 menjelaskan sumber nomor pribadi Maya yang digunakan Sarah.
+- **Bab 59–72:** pengakuan satu kali pada Bab 59 tetap dibatasi dan diketahui Sarah; Bab 63 tidak menganggap satu pesan sebagai bukti perubahan Bima; Bab 65–70 mengurangi klaim pemulihan yang terlalu mutlak; Bab 69 dan outline kini sama-sama menetapkan permintaan Bima untuk berkirim kabar secara terbatas, bukan meminta pertemuan.
+
+Pemeriksaan struktur setelah perubahan kembali menunjukkan 72 judul bab berurutan dari Bab 1 sampai Bab 72. Pemeriksaan ini memastikan struktur dan beberapa konflik yang ditargetkan, bukan pengganti pembacaan ulang penuh seluruh naskah.

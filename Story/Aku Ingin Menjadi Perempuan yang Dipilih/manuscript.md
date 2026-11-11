@@ -1355,7 +1355,7 @@ Daniel sempat terdiam sepersekian detik, menghentikan jemarinya yang baru saja h
 
 "Bukan revisi akut," pangkas Daniel cepat. Suaranya terdengar teratur, menyusun penjelasan yang rasional. "Tadi sore di grup panitia ada sedikit diskusi soal angka parameter hipertensi. Dia cuma mengonfirmasi kalau draf finalnya baru dikirim besok jam kerja."
 
-Sarah memperhatikan wajah suaminya. Tidak ada kebohongan verbal pada kalimat Daniel. Maya memang staf publikasi yayasan tempat Daniel menjadi dokter pembicara rujukan, dan acara penyuluhan di kawasan Batununggal memang tercantum dalam agenda kerja suaminya minggu depan.
+Sarah memperhatikan wajah suaminya. Penjelasan itu terdengar masuk akal dan sesuai dengan agenda kerja yang ia ketahui. Namun, ia belum punya alasan untuk memastikan bahwa itulah seluruh cerita Daniel.
 
 "Oh, Mbak Maya yang waktu itu kita temui di Hotel Papandayan ya?" gumam Sarah pelan. Ia mengingat kembali sosok perempuan muda berkemeja blazer abu-abu yang menjabat tangannya dengan sopan di meja registrasi dua bulan lalu.
 
@@ -1809,7 +1809,7 @@ Dada Sarah terasa sesak oleh kecurigaan yang belum bisa ia pastikan.
 
 Sarah mengusap pinggiran piringnya, membatalkan niat untuk menambah potongan kue. Ia tidak marah atau meledak emosi di meja makan. Namun, frekuensi Daniel memeriksa ponsel dan perubahan ekspresinya membuat Sarah bertanya-tanya apakah ada orang lain yang telah menyita perhatian suaminya. Ia belum tahu siapa orang itu atau apa isi percakapan mereka.
 
-Daniel yang menyadari perubahan raut wajah Sarah segera mematikan layar ponselnya dan memasukkannya ke dalam saku celana. Namun, kecanggungan tebal telah kembali memenuhi ruang makan apartemen Ciumbuleuit, menyisakan keheningan dingin di antara dua orang yang kini berdiri di ambang krisis.
+Daniel melirik ke arah Sarah, lalu segera mematikan layar ponselnya dan memasukkannya ke dalam saku celana. Namun, kecanggungan tebal telah kembali memenuhi ruang makan apartemen Ciumbuleuit, menyisakan keheningan dingin di antara dua orang yang kini berdiri di ambang krisis.
 
 # **BAB 40: Pertanyaan Sarah**
 
@@ -3508,7 +3508,7 @@ Dahulu, Maya yang lama akan seketika merespons dengan anggukan cepat.
 
 Dahulu, dorongan alami di dalam batin Maya—ketakutan untuk mengecewakan pimpinan, ketakutan dianggap tidak kompeten, dan kebutuhan mendalam untuk disukai serta dipilih—akan memaksanya mengatakan ya tanpa berpikir panjang. Maya di masa lalu akan mengorbankan waktu istirahatnya, menanggung beban stres sendirian, dan memaklumi ketidakjelasan demi mempertahankan apresiasi orang lain.
 
-Namun pagi ini, duduk tegap di hadapan Pak Frans dan perwakilan mitra, Maya mendengarkan permintaan itu dari ruang batin yang sepenuhnya baru.
+Namun pagi ini, duduk tegap di hadapan Pak Frans dan perwakilan mitra, Maya mendengarkan permintaan itu dengan cara pandang yang mulai berubah.
 
 Maya tidak terburu-buru merespons. Ia membuka buku catatan agendanya, memindai kalender kerja tim komunikasi, lalu menghitung alokasi sumber daya secara rasional.
 
@@ -3522,7 +3522,7 @@ Pak Frans dan Pak Gunawan mendengarkan dengan saksama.
 
 "Pertama, kualitas penyuntingan dan validasi data medis pada modul lansia akan terganggu karena fokus tim terpecah," tegas Maya presisi. "Kedua, risiko kesalahan cetak pada pamflet baru akan sangat tinggi akibat proses pemeriksaan yang terburu-buru. Kami di divisi komunikasi memegang prinsip bahwa materi edukasi masyarakat harus akurat dan berkualitas."
 
-Maya menyampaikan argumen itu tanpa emosi yang meluap-luap, tanpa pidato panjang tentang kelelahan, dan tanpa rasa takut akan ditolak. Itu adalah penegakan batas profesional yang murni.
+Maya menyampaikan argumen itu tanpa emosi yang meluap-luap atau pidato panjang tentang kelelahan. Batas yang ia ajukan berangkat dari kapasitas kerja tim dan tenggat yang sudah berjalan.
 
 "Lalu, apa usulanmu, Maya?" tanya Pak Frans, memandangnya dengan rasa ingin tahu dan hormat.
 

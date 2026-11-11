@@ -408,3 +408,32 @@ Rujukan pemeriksaan masa pemberitahuan PHK: PP No. 35 Tahun 2021, Pasal 37, mela
 
 
 - Tambahan polish setelah snapshot: detail cincin berukir nama Maya pada Bab 8 dihapus karena asal-usulnya tidak pernah dibangun dan tidak memiliki fungsi lanjutan. Blob SHA manuskrip terbaru: `4ad3a66241b0d727988a4fc6728c6fde08b13c78`; panjang sekitar 50.906 kata.
+
+
+---
+
+## Pembaruan pelaksanaan revisi — 11 November 2026
+
+**Status: REVISI TERARAH PUTARAN PERTAMA DAN LINTASAN RITME TELAH DITERAPKAN — AUDIT ULANG MENYELURUH MASIH DIPERLUKAN.**
+
+Manuskrip dan outline kanonis telah diperbarui berdasarkan laporan pembacaan menyeluruh Bab 1–72.
+
+### Perubahan utama yang sudah diterapkan
+- Duplikasi penutup Bab 3–4 dibersihkan.
+- Properti yang tidak memiliki fungsi kontinuitas pada Bab 17 dihapus; istilah ambulans disesuaikan dengan konteks perkotaan.
+- Kronologi hari terakhir hadir di kantor pada Bab 17 diperjelas agar tidak rancu dengan tanggal efektif PHK.
+- Klaim pemulihan Maya pada Bab 34 dilunakkan.
+- Konstruksi kalimat Bab 49–50, 57, dan 62 diperbaiki.
+- Judul Bab 56 diubah menjadi **Batas dengan Bima** dan disinkronkan dengan outline.
+- Pemicu refleksi Bab 66 diganti dengan riwayat pesan kerja yang sudah memiliki dasar di rangkaian komunikasi sebelumnya.
+- Refleksi berulang pada Bab 55–56, 63–65, 67–68, dan 70 dipadatkan.
+- Penutup Bab 72 dipadatkan agar perubahan karakter lebih banyak ditopang tindakan dan pilihan, bukan rangkuman tema.
+
+### Batas status
+Perubahan tersebut belum membuktikan seluruh dependensi lintas bab telah bersih. Manuskrip masih memerlukan:
+1. pembacaan ulang Bab 1–72 secara berurutan setelah revisi;
+2. pemeriksaan transisi dan sebab-akibat pada bab sebelum/sesudah setiap perubahan;
+3. pemeriksaan ulang kurva POV, timeline, pengetahuan tokoh, dan batas hubungan;
+4. satu pass copyedit penuh untuk ejaan, tanda baca, diksi, dan konsistensi istilah.
+
+**Status publikasi tetap: NOT YET READY TO PUBLISH.** Jangan menaikkan status menjadi siap terbit sebelum audit ulang pascarevisi dan copyedit selesai.

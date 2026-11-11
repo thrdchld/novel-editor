@@ -402,4 +402,7 @@ Pemeriksaan teknis terbaru: 72 bab terdeteksi dan berurutan; 49.441 kata perkira
 
 **Batas pekerjaan:** ini merupakan copyedit terarah atas seluruh bab, bukan jaminan bahwa setiap kata telah bebas salah. Masih diperlukan proofread akhir untuk menangkap typo yang luput, konsistensi ejaan nama/tempat dan sapaan, format tanggal/angka, tanda baca dialog, serta pembacaan ulang ritme dan repetisi paragraf. Status tetap **NOT YET READY TO PUBLISH**.
 
-Blob SHA manuskrip setelah pass ini: `4b20b5051118f69ec12d487b4d9497bb5fe60ffa`.
+Blob SHA manuskrip setelah pass ini: `c6a0ba5c12a95a26c91eaea908eea512e6372c44`.
+
+
+Pembaruan verifikasi 12 November 2026: pemindaian ulang menggunakan potongan baris yang lebih kecil mengonfirmasi 72 heading bab berurutan (Bab 1–72), sekitar 49.433 kata, tanpa tanda baca ber-escape dan tanpa temuan pada daftar typo/konstruksi terpilih. Ini pemeriksaan teknis terarah, bukan bukti bahwa seluruh manuskrip sudah bebas typo. Proofread manusia/akhir tetap diperlukan. Blob SHA terkini: `c6a0ba5c12a95a26c91eaea908eea512e6372c44`.

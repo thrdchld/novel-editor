@@ -425,7 +425,7 @@ Bab 26 — Dua Kehidupan
 
 Waktu: Akhir April 2025
 
-Maya melihat Daniel dan Sarah sebagai pasangan yang tampak tenang di depan orang lain. Ia belum mengetahui persoalan rumah tangga mereka. Dalam kehidupan pribadi, Daniel dan Sarah diperlihatkan mulai kehilangan kedekatan, tetapi belum berada dalam kondisi perpisahan.
+Maya melihat Daniel dan Sarah sebagai pasangan yang tampak tenang di depan orang lain. Ia belum mengetahui persoalan rumah tangga mereka. Adegan privat di apartemen menggunakan POV Daniel yang ditandai secara eksplisit; narasi hanya mengikuti pengamatan dan pemahaman Daniel, tidak masuk ke pikiran Sarah. Setelah pemisah adegan, POV kembali ke Maya dan ditandai secara eksplisit.
 
 Bab 27 — Pekerjaan dan Batas
 
@@ -449,7 +449,7 @@ Bab 30 — Percakapan yang Bertambah Panjang
 
 Waktu: 3–20 Juni 2025
 
-Pesan pribadi semakin sering. Mereka mulai membicarakan pekerjaan, rutinitas, dan masalah sehari-hari. Daniel merasa nyaman berbicara dengan Maya. Maya menikmati perhatian yang diberikan Daniel.
+Pesan pribadi semakin sering. Mereka mulai membicarakan pekerjaan, rutinitas, dan masalah sehari-hari. Daniel semakin sering membagikan hal-hal pribadi melalui pesan. Dari isi dan frekuensi percakapan, Maya menangkap bahwa ia mulai menjadi tempat Daniel mencari kenyamanan emosional; Maya sendiri menikmati perhatian yang diberikan.
 
 Bab 31 — Notifikasi
 
@@ -495,7 +495,7 @@ Bab 37 — Jika Kita Bertemu Lebih Awal
 
 Tanggal: 22 Agustus 2025
 
-Dalam percakapan pribadi, Daniel dan Maya membicarakan kemungkinan hidup yang berbeda. Mereka tidak membuat janji atau mengungkapkan rencana untuk menjalin hubungan. Namun, keduanya menyadari percakapan tersebut telah melewati batas pertemanan profesional.
+Dalam percakapan pribadi, Daniel dan Maya membicarakan kemungkinan hidup yang berbeda. Mereka tidak membuat janji atau mengungkapkan rencana untuk menjalin hubungan. Maya menyadari percakapan itu telah melewati batas profesional, sementara pesan Daniel berikutnya mengakui bahwa ia juga menyadari hal tersebut.
 
 Bab 38 — Menginginkan yang Tidak Tersedia
 

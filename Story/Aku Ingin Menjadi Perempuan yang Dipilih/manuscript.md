@@ -278,7 +278,7 @@ Maya mengangguk pelan, lalu mengetikkan deretan angkanya ke layar ponsel Arman.
 
 Malam itu, saat Maya mengunci pintu rumahnya yang sepi, sebuah pesan singkat masuk di ponselnya: *'Terima kasih sudah mau diantar ya, May. Jangan lupa istirahat.'*
 
-Maya tersenyum menatap layar ponselnya. Ia belum tahu bahwa kehangatan sederhana di malam hujan itu adalah awal dari benang panjang lima tahun yang kelak mengikat seluruh kehidupannya.
+Maya membaca pesan itu sekali lagi sebelum menyimpan ponsel di meja kecil dekat tempat tidur. Hujan masih turun di luar, sementara senyum tipis belum juga hilang dari wajahnya.
 
 # **BAB 7: Awal yang Terlihat Sederhana**
 
@@ -314,7 +314,7 @@ Bagi Maya yang sejak kecil tumbuh dengan rasa takut akan penolakan, kalimat *aku
 
 Malam itu, di bawah rinai hujan Ciumbuleuit pada sepuluh Januari lima tahun lalu, Maya percaya sepenuhnya bahwa masa-masa menunggunya telah usai. Ia meyakini bahwa Arman adalah jawaban atas segala ketakutannya, pria yang secara sadar memilihnya dan tidak akan pernah meninggalkannya seperti yang dilakukan ayahnya.
 
-Maya tidak pernah menduga bahwa tepat lima tahun setelah malam hangat itu, di tanggal yang sama, janji *tidak akan ke mana-mana* itu akan berubah menjadi belati yang merobek seluruh hidupnya.
+Maya tidak tahu bahwa lima tahun kemudian, ia akan mengingat janji itu ketika menemukan foto pertunangan Arman dan Celine.
 
 # **BAB 8: Tahun-Tahun yang Terlewat**
 
@@ -354,7 +354,7 @@ Sore itu, saat mereka berjalan meninggalkan kedai kopi menuju tempat parkir, Arm
 
 Maya masuk ke dalam mobil, membiarkan Arman menutup pintu dari luar. Saat memandang siluet Arman yang berjalan mengitari kap mobil sambil mengetikkan sesuatu di ponselnya, ada ruang kosong yang mendadak terasa makin lapang di dada Maya.
 
-Tiga tahun telah terlewati dalam lingkaran janji yang terus bergeser. Maya percaya ia sedang membangun masa depan bersama pria yang tepat, tanpa pernah sadar bahwa ia hanya sedang diajak berputar-putar di tempat yang sama.
+Maya memilih percaya bahwa rencana mereka hanya membutuhkan waktu lebih panjang untuk terwujud.
 
 # **BAB 9: Sesuatu yang Berubah**
 
@@ -378,7 +378,7 @@ Arman yang dahulu selalu menyempatkan diri mengabari di sela jam makan siang kin
 
 Sebagai perempuan yang sejak kecil dididik untuk tidak menjadi beban orang lain, Maya kembali menelan pertanyaan-pertanyaan itu. Ia meyakinkan diri bahwa Arman sedang berada di puncak tekanan karier dan membutuhkan dukungan, bukan tuntutan emosional. Karena itu, ia mengurangi frekuensi menelepon, tidak lagi menanyakan kapan Arman akan menemui ibunya di Kiaracondong, dan menyambut suara lelah pria itu dengan pengertian. Maya berharap ruang yang diberikannya akan membuat Arman kembali terbuka seperti dulu.
 
-Maya tidak pernah menyadari bahwa ruang bebas yang ia berikan dengan ketulusan dan pengorbanan itu justru dimanfaatkan Arman untuk melapangkan jalan bagi kehadiran orang lain dalam hidupnya.
+
 
 # **BAB 10: Perempuan yang Tidak Dikenalkan**
 

@@ -1883,7 +1883,7 @@ Di bawahnya, baris balasan dari Maya tercetak jelas: Tapi kita tidak bertemu leb
 
 Sarah menggeser percakapan ke atas. Saat Daniel mendekat, layar menampilkan pesan-pesan lain sepanjang Juli hingga September: curahan kelelahan Daniel tentang rumah tangga mereka, keluhan tentang keheningan Ciumbuleuit, perhatian Maya tentang jadwal makan Daniel, hingga ucapan ulang tahun sepekan sebelumnya.
 
-Suara langkah kaki Daniel dari arah dapur mendekat. Daniel melangkah masuk sambil mengeringkan tangannya dengan serbet kain. Begitu matanya menangkap sosok Sarah yang berdiri kaku memegang tabletnya, raut wajah Daniel seketika berubah pucat pasi.
+Daniel meletakkan serbet di tepi konter. Begitu melihat Sarah berdiri kaku di depan tablet, raut wajahnya seketika berubah pucat pasi.
 
 Daniel mempercepat langkahnya, meraih tablet itu dari genggaman Sarah dengan gerakan refleks yang panik.
 
@@ -2165,7 +2165,7 @@ Selasa terakhir di bulan September dua ribu dua puluh lima, udara pagi di kawasa
 
 Maya duduk di sisi kiri meja rapat panjang, merapikan tumpukan salinan laporan evaluasi publikasi program edukasi kesehatan lansia kuartal ketiga.
 
-Sepanjang sepuluh hari terakhir, sejak konfrontasi bermartabat bersama Sarah di kedai teh Jalan Riau, layar ponsel Maya tak lagi pernah berpendar oleh notifikasi pesan pribadi dari Dokter Daniel. Tidak ada sapaan malam hari, tidak ada pertanyaan seputar kondisi Ratih, dan tidak ada obrolan seputar kelelahan kerja di rumah sakit. Maya mematuhi janji dan batas yang telah disepakati sepenuhnya.
+Sejak pertemuannya dengan Sarah di kedai teh Jalan Riau pada 20 September, layar ponsel Maya tak lagi berpendar oleh notifikasi pesan pribadi dari Dokter Daniel. Tidak ada sapaan malam hari, tidak ada pertanyaan seputar kondisi Ratih, dan tidak ada obrolan seputar kelelahan kerja di rumah sakit. Maya mematuhi janji dan batas yang telah disepakati sepenuhnya.
 
 Namun hari ini, tanggal tiga puluh September dua ribu dua puluh lima, tugas profesional menuntut mereka berada di dalam satu ruangan yang sama untuk pertama kalinya sejak seluruh komunikasi pribadi dihentikan total.
 

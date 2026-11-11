@@ -371,3 +371,22 @@ Setelah perbaikan temuan objektif, dilakukan revisi terarah pada rangkaian Bab 5
 **POST-REVISION CONTINUOUS READ COMPLETED — TARGETED CONTINUITY FIXES APPLIED — COPYEDIT STILL REQUIRED — NOT YET READY TO PUBLISH.**
 
 Pembacaan ini menyelesaikan lintasan baca menyeluruh pascarevisi dan memperbaiki enam dependensi yang ditemukan. Ini bukan sertifikasi siap terbit. Langkah berikutnya adalah pass copyedit menyeluruh dan pemeriksaan akhir atas format, konsistensi istilah, serta kelancaran kalimat. Tidak ada kebutuhan saat ini untuk rewrite total atau mengubah akhir cerita.
+
+
+---
+
+## Catatan pelaksanaan copyedit — 11 November 2026
+
+**Status: pass penyisiran awal diterapkan; copyedit baris demi baris masih berlangsung.**
+
+Perubahan awal pada manuskrip mencakup:
+- Menghapus 20 karakter escape yang tertinggal sebelum tanda baca sehingga tanda baca tampil normal.
+- Menormalkan sejumlah istilah antarmuka dan benda kerja yang kurang tepat, termasuk penggunaan tetikus, kolom pencarian, riwayat percakapan, notifikasi, dan dokumen kerja.
+- Memperbaiki konstruksi yang janggal seperti “tidak se-sederhana”, “memutar posisi duduk”, “laluan karyawan”, dan “area balik tirai”.
+- Mengganti sejumlah ungkapan abstrak atau tidak idiomatis (misalnya “mengusung nada”, “binar kepasrahan”, dan “binar cemas”) dengan deskripsi yang lebih langsung.
+- Mengurangi pengulangan ungkapan emosi “dada Maya berdesir pelan” dan pemakaian kata “murni” yang tidak diperlukan.
+- Merapikan beberapa konstruksi dialog dan narasi tanpa mengubah informasi, motivasi tokoh, atau hasil adegan.
+
+**Batas pekerjaan:** ini baru penyisiran awal dan koreksi terpilih. Belum dilakukan verifikasi kata demi kata terhadap seluruh 72 bab; ejaan nama/tempat, konsistensi sapaan, angka dan tanggal, tanda baca dialog, serta repetisi pada tingkat paragraf masih perlu diperiksa. Karena itu status publikasi tidak berubah.
+
+Blob SHA manuskrip setelah penyisiran awal: `df6101a3c21d37d76bdb05aaec380cfdda47fbb4`.

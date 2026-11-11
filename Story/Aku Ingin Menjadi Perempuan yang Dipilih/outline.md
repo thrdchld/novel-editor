@@ -351,13 +351,13 @@ Bab 15 — Surat Pengurangan Tenaga Kerja
 
 Tanggal: 24 Januari 2025
 
-Maya menerima pemberitahuan pengurangan tenaga kerja akibat restrukturisasi perusahaan. Keputusan itu tidak berkaitan dengan hubungan pribadinya atau kinerja buruk. Hari terakhir bekerja ditetapkan pada 31 Januari.
+Maya menerima pemberitahuan PHK akibat restrukturisasi perusahaan. Keputusan itu tidak berkaitan dengan hubungan pribadi atau kinerja buruk. Hari terakhir Maya wajib hadir di kantor adalah 31 Januari; ia dibebaskan dari kewajiban hadir mulai 1 Februari, sementara hubungan kerja efektif berakhir 14 Februari setelah masa pemberitahuan 14 hari kerja.
 
 Bab 16 — Hari Terakhir
 
 Tanggal: 31 Januari 2025
 
-Maya menyelesaikan pekerjaan dan berpamitan kepada rekan-rekannya. Ia pulang dengan ketidakpastian mengenai pekerjaan dan kehidupan pribadinya.
+Maya menyelesaikan serah terima dan menjalani hari terakhir hadir di kantor. Ia dibebaskan dari kewajiban hadir selama sisa masa pemberitahuan; hubungan kerjanya baru efektif berakhir pada 14 Februari. Ia pulang dengan ketidakpastian mengenai pekerjaan dan kehidupan pribadinya.
 
 BAGIAN 3 — A NEW BEGINNING
 

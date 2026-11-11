@@ -340,3 +340,34 @@ Setelah perbaikan temuan objektif, dilakukan revisi terarah pada rangkaian Bab 5
 - Pemeriksaan string memastikan istilah “ambulans desa”, detail catatan fisik Bab 66 yang tidak memiliki setup, dan salah rujuk “hubungan lamaku denganku” tidak lagi tersisa.
 
 **Status:** revisi terarah telah diterapkan; pembacaan ulang berkesinambungan atas versi pascarevisi dan copyedit penuh masih harus dilakukan. Status publikasi tetap **NOT YET READY TO PUBLISH**.
+
+
+---
+
+## Pembacaan ulang pascarevisi — 11 November 2026
+
+**Ruang lingkup:** pembacaan berurutan Bab 1–72 pada manuskrip setelah revisi terarah sebelumnya (blob SHA sebelum koreksi silang: `b0e71b953d951356a8e552b38f963d41d017f769`). Pembacaan ini memeriksa kembali alur dari pembukaan sampai penutup, termasuk bab yang tidak mengalami perubahan langsung. Koreksi di bawah kemudian diterapkan pada manuskrip; SHA terbaru setelah koreksi: `766884bafed08bb683050c2fd8124d3c2f098ced`.
+
+### Temuan lintas bab yang ditemukan dan ditangani
+
+1. **Bab 15 — durasi pemberitahuan PHK.** Kalimat “14 hari kerja” tidak cocok secara pasti dengan rentang tanggal yang ditampilkan dalam surat (pemberitahuan 24 Januari dan tanggal efektif 14 Februari). Agar cerita tidak membuat klaim hitungan administratif yang keliru, angka durasi dihapus. Perbedaan hari terakhir wajib hadir (31 Januari) dan tanggal efektif hubungan kerja (14 Februari) tetap dipertahankan.
+2. **Bab 24 dan 28 — pemulihan pergelangan tangan Ratih.** Bab 24 menyebut gips telah dilepas sekitar sepekan sebelum 12 April, sedangkan Bab 28 pada 14 Mei menyebut baru sebulan bebas gips. Bab 28 dilunakkan menjadi “sudah beberapa minggu bebas dari gips”, sehingga kedua keterangan tidak saling mengunci pada rentang yang berbeda.
+3. **Bab 48 — tanggal penghentian komunikasi Maya–Daniel.** Kesepakatan menghentikan komunikasi pribadi terjadi pada 13 September, bukan akhir September. Bab 48 kini merujuk pertengahan September dan menegaskan kesepakatan kedua pihak.
+4. **Bab 52 — urutan hubungan Maya–Arman.** Hubungan mereka telah berakhir pada Januari 2025; peristiwa sepekan sebelum 25 November 2025 adalah penegasan batas terakhir dan pemblokiran kontak setelah pertemuan 15 November. Frasa yang berpotensi menyiratkan perpisahan baru pada November telah diganti.
+5. **Bab 53–56 — pertukaran nomor Bima dan Maya.** Bab 56 menggunakan nomor Bima yang disimpan Maya, tetapi Bab 53 belum memperlihatkan pertukaran kontak. Satu jembatan singkat ditambahkan di akhir pertemuan Bab 53: mereka bertukar nomor tanpa membuat janji kedekatan atau pertemuan lanjutan.
+6. **Bab 62 — pengetahuan Ratih tentang PHK.** Bab 21 menunjukkan Maya menyembunyikan kehilangan pekerjaan dari Ratih sampai ia memperoleh pekerjaan baru, tetapi dialog Bab 62 sebelumnya membuat Ratih seolah sudah mengetahui PHK pada Januari. Dialog diperbaiki agar Ratih menyatakan kekhawatirannya setelah akhirnya mengetahui kehilangan pekerjaan itu.
+
+### Hasil pembacaan keseluruhan
+
+- Rangkaian waktu utama dari 10 Januari 2025 sampai 31 Januari 2026 dapat diikuti. Tanggal-tanggal penting, hari dalam pekan, usia utama, hubungan kerja, status hubungan, dan urutan peristiwa besar pada umumnya saling mendukung.
+- Jalur Maya–Arman, Maya–Daniel, dan Maya–Bima memiliki fungsi berbeda dan hasil berbeda. Ketiganya bertemu pada tema “ingin dipilih”, tetapi tidak berakhir dengan penyelesaian yang sama.
+- Perkembangan Daniel–Sarah tetap memberi ruang bagi Sarah untuk memiliki agensi; pertemuan Maya–Daniel pada Januari 2026 terbatas, diketahui Sarah, dan tidak membatalkan batas yang sudah disepakati.
+- Bab 61–72 kini memiliki payoff konkret melalui pengangkatan jabatan, percakapan terbuka Maya–Ratih, komunikasi terbatas dengan Bima, serta keputusan profesional Maya pada Bab 71. Penutup Bab 72 tidak menjanjikan bahwa semua luka telah selesai.
+- Kilas balik Bab 3–11 masih menunda konfrontasi yang dibangun pada Bab 1–2. Ini tetap merupakan risiko pacing yang perlu dinilai pada pembacaan proofread, tetapi bukan kontradiksi alur dan belum cukup alasan untuk membongkar struktur 72 bab.
+- Beberapa bagian masih memakai refleksi tematik yang berdekatan. Revisi sebelumnya telah memangkas pengulangan utama, tetapi pass copyedit tetap perlu memeriksa kepadatan kalimat, diksi, tanda baca, serta variasi penutup bab.
+
+### Status
+
+**POST-REVISION CONTINUOUS READ COMPLETED — TARGETED CONTINUITY FIXES APPLIED — COPYEDIT STILL REQUIRED — NOT YET READY TO PUBLISH.**
+
+Pembacaan ini menyelesaikan lintasan baca menyeluruh pascarevisi dan memperbaiki enam dependensi yang ditemukan. Ini bukan sertifikasi siap terbit. Langkah berikutnya adalah pass copyedit menyeluruh dan pemeriksaan akhir atas format, konsistensi istilah, serta kelancaran kalimat. Tidak ada kebutuhan saat ini untuk rewrite total atau mengubah akhir cerita.

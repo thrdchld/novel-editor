@@ -2848,7 +2848,7 @@ Sejak pertemuan pada 13 September tahun lalu, Maya dan Daniel memang telah sepak
 
 Langkah kaki yang teratur terdengar mendekat. Maya mendongak saat siluet tegap Daniel melangkah menghampiri meja sudut.
 
-Daniel mengenakan kemeja katun biru tua dengan celana kain gelap. Pria berusia tiga puluh enam tahun itu tampak lebih tenang dibanding empat bulan lalu. Gurat kelelahan di sekitar matanya masih ada, tetapi pembawaannya kini memancarkan kepastian yang tidak lagi dibayangi kebohongan.
+Daniel mengenakan kemeja katun biru tua dengan celana kain gelap. Pria berusia tiga puluh enam tahun itu tampak lebih tenang dibanding empat bulan lalu. Gurat kelelahan di sekitar matanya masih ada. Maya tidak tahu apa yang berlangsung di rumah Daniel selama beberapa bulan terakhir, tetapi ia melihat pria itu kini berbicara tanpa terburu-buru.
 
 "Selamat sore, Maya," sapa Daniel dengan nada suara yang hangat dan penuh hormat.
 
@@ -2868,13 +2868,13 @@ Daniel mengatupkan jemarinya di atas meja. Ia menghela napas pendek, diikuti sen
 
 "Kami sedang berbenah, May," jawab Daniel. Binar matanya memancarkan kesungguhan. "Lusa... tanggal dua belas Januari... saya dan Sarah akan mulai menjalani sesi konseling pernikahan pertama kami."
 
-Dada Maya berdesir pelan, namun getaran itu bukan lagi rasa cemburu atau kehilangan. Itu adalah rasa lega murni seorang manusia yang mendengar kabar baik tentang pemulihan dua orang lain.
+Dada Maya berdesir pelan. Ada rasa lega mendengar mereka mulai mencari bantuan, bercampur sisa getir yang tidak sepenuhnya hilang. Namun, ia tidak lagi ingin membandingkan hidupnya dengan kehidupan Sarah.
 
 "Saya ikut senang mendengarnya, Dok," sahut Maya tegap dan jujur. "Semoga proses konselingnya berjalan lancar dan membawa kebaikan untuk Dokter dan Mbak Sarah."
 
-"Terima kasih banyak, May," balas Daniel penuh rasa hormat. "Sarah juga tahu saya bertemu denganmu hari ini. Saya belajar untuk terbuka sepenuhnya dan tidak ada lagi yang disembunyikan."
+"Terima kasih banyak, May," balas Daniel penuh rasa hormat. "Sarah juga tahu saya bertemu denganmu hari ini. Saya sedang belajar untuk lebih terbuka. Saya tidak ingin ada lagi yang disembunyikan."
 
-Maya mengangguk paham. Ia menggeser cangkir tehnya sedikit, lalu menatap mata Daniel dengan keberanian jernih dari seorang perempuan yang telah selesai dengan masa lalunya.
+Maya mengangguk. Ia menggeser cangkir tehnya sedikit, lalu menatap Daniel. Ada hal yang masih sulit ia ucapkan, tetapi ia tidak ingin lagi menyembunyikannya.
 
 "Dokter Daniel," panggil Maya pelan. "Alasan utama saya mengajak bertemu hari ini adalah karena saya ingin mengakui sesuatu secara jujur kepada diri saya sendiri dan kepada Dokter."
 
@@ -3142,7 +3142,7 @@ Maya menggeser layar ponselnya, meletakkan benda tersebut tertungkup di samping 
 
 Ia berdiri perlahan, melangkah menuju jendela kamar dan membuka katup kayunya. Angin malam kota Bandung berembus masuk membawa hawa sejuk sisa gerimis sore.
 
-Maya memejamkan mata sejenak, menghirup udara dingin itu dalam-dalam. Tidak ada amarah yang tersisa di dalam dadanya, tidak pula ada dorongan dendam yang menyiksa. Yang ada hanyalah rasa lega yang teramat jujur. Maya menyadari bahwa ia telah memegang kendali penuh atas emosinya sendiri—ia berhak menentukan kecepatan pemulihannya, menetapkan batas tanpa rasa bersalah, dan melangkah maju tanpa lagi dibayangi oleh keharusan menyenangkan orang lain.
+Maya memejamkan mata sejenak, menghirup udara dingin itu dalam-dalam. Rasa marah dan sedih tidak sepenuhnya hilang, tetapi ia tidak lagi merasa harus menuntaskannya malam itu juga. Ia mulai memahami bahwa ia dapat menentukan batas dan kecepatan pemulihannya sendiri, tanpa terus-menerus mengukur keputusan berdasarkan keinginan orang lain.
 
 # **BAB 64: Hari-Hari Biasa**
 
@@ -3332,7 +3332,7 @@ Ketika sesi lima puluh menit itu usai, Maya melangkah keluar menyusuri trotoar J
 
 Maya berjalan perlahan di bawah naungan deretan pohon mahoni tua.
 
-Masa lalu tidak bisa diubah. Ayahnya pernah pergi, Arman pernah mendua, dan ia sendiri pernah mengambil keputusan salah bersama Daniel. Namun siang ini, Maya melihat seluruh jejak penderitaan itu bukan lagi sebagai vonis yang mengutuk hidupnya, melainkan sebagai proses pendewasaan yang menempa keteguhan batinnya. Ia tak lagi meratapi apa yang telah hilang, melainkan bersiap melangkah tegap menjaga kehidupannya sendiri dengan rasa hormat yang tak tergoyahkan.
+Masa lalu tidak bisa diubah. Ayahnya pernah pergi, Arman pernah mendua, dan ia sendiri pernah mengambil keputusan salah bersama Daniel. Siang itu, Maya mencoba melihat seluruh pengalaman tersebut tanpa menjadikannya vonis atas nilai dirinya. Ia belum selesai memahami semuanya, tetapi kini ia memiliki cara yang lebih sehat untuk membicarakan masa lalu dan menentukan langkah berikutnya.
 
 # **BAB 68: Hidup yang Tidak Menunggu**
 
@@ -3376,7 +3376,7 @@ Pukul sepuluh malam, Maya menutup buku agendanya. Ia berjalan melangkah menuju t
 
 Di bawah remang sinar lampu jalan Antapani yang memantul di atas permukaan jalan basah, Maya menghirup napas dalam-dalam.
 
-Dahulu, Maya mengira bahwa menjadi perempuan yang dipilih adalah puncak kebahagiaan seorang wanita. Namun malam ini, berdiri tegap di atas pijakan kakinya sendiri, Maya menemukan sebuah kebenaran yang jauh lebih megah: kebahagiaan sejati hadir ketika seorang perempuan memilih untuk mencintai, menghargai, dan membangun kehidupannya sendiri tanpa syarat.
+Dahulu, Maya mengira bahwa menjadi perempuan yang dipilih adalah puncak kebahagiaan seorang wanita. Namun malam ini, berdiri di atas pijakan kakinya sendiri, ia mulai memahami bahwa kebahagiaan juga dapat tumbuh ketika seseorang memilih untuk mencintai, menghargai, dan membangun kehidupannya sendiri.
 
 # **BAB 69: Keputusan Bima**
 
@@ -3424,7 +3424,7 @@ Maya menyela sejenak, membiarkan kalimat penutupnya menggantung di udara dengan 
 
 "Namun Maya juga ingin jujur," lanjut Maya tegap. "Untuk saat ini, Maya belum bersedia untuk membangun kedekatan seperti ayah dan anak pada umumnya. Maya belum bisa berpura-pura bahwa hubungan kita sudah pulih seperti keluarga biasa. Komunikasi kita akan berjalan sangat terbatas dan perlahan."
 
-Di seberang saluran telepon, keheningan mengendap selama beberapa detik. Bima menghela napas lega, seperti pria tua yang akhirnya belajar menerima konsekuensi atas kesalahan masa lalunya.
+Di seberang saluran telepon, keheningan mengendap selama beberapa detik. Maya mendengar Bima mengembuskan napas sebelum menjawab.
 
 "Bapak paham, May," jawab Bima dengan suara bergetar haru namun penuh rasa hormat. "Bapak sangat paham dan berterima kasih. Keputusanmu sudah sangat adil buat Bapak. Bapak akan pegang dan hormati batas itu sebaik-baiknya."
 
@@ -3432,7 +3432,7 @@ Di seberang saluran telepon, keheningan mengendap selama beberapa detik. Bima me
 
 "Terima kasih, Maya. Kamu juga jaga kesehatan ya."
 
-Sambungan telepon itu berakhir dengan ketenangan murni. Maya meletakkan ponselnya tertungkup di atas meja.
+Sambungan telepon itu berakhir tanpa pertengkaran. Maya meletakkan ponselnya tertungkup di atas meja.
 
 Tidak ada gejolak besar yang menguasai dirinya, meski Maya tahu percakapan itu masih menyisakan banyak hal untuk dipikirkan. Maya melihat bahwa dalam percakapan itu Bima menerima batas yang ia sampaikan tanpa memaksa. Maya belum tahu apakah sikap tersebut akan bertahan; waktu dan perilaku berikutnya yang akan menjawabnya.
 
@@ -3488,7 +3488,7 @@ Ratih menyunggingkan senyum tulus yang jujur. "Ibu tahu, May. Dulu Ibu juga bers
 
 Maya mendongak menatap ibunya, menyunggingkan senyum lega yang amat jernih.
 
-Sore itu, di rumah sederhana Kiaracondong di tengah gerimis kota Bandung yang perlahan mereda, Maya merasakan perbedaan mendasar dalam kehidupannya. Rumah ini tak lagi menjadi benteng kepura-puraan tempat dua perempuan saling menyembunyikan luka demi melindungi satu sama lain. Rumah ini telah menjelma menjadi ruang perlindungan yang jujur—sebuah tempat di mana Maya bisa melepaskan seluruh zirah ketegarannya, menjadi manusia biasa yang boleh lelah, dan diterima tanpa syarat.
+Sore itu, di rumah sederhana Kiaracondong di tengah gerimis kota Bandung yang perlahan mereda, Maya merasakan perbedaan mendasar dalam kehidupannya. Rumah ini tak lagi menjadi benteng kepura-puraan tempat dua perempuan saling menyembunyikan luka demi melindungi satu sama lain. Rumah ini mulai menjadi ruang yang lebih jujur—tempat Maya bisa melepaskan sebagian zirah ketegarannya, menjadi manusia biasa yang boleh lelah, dan diterima tanpa harus berpura-pura.
 
 # **BAB 71: Perempuan yang Memilih**
 

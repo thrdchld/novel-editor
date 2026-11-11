@@ -648,9 +648,9 @@ Bunyi petikan klip plastik ID card yang terlepas dari kerah kemeja Maya menggema
 
 Layar laptop kantor tempatnya bekerja selama tiga tahun terakhir sudah dalam posisi mati, menyisakan pantulan bayangan Maya yang mengenakan kemeja katun abu-abu.
 
-"May, ini ada titipan dari anak-anak divisi kreatif," Nita melangkah mendekati kubikelnya sambil meletakkan sebuah kotak kue ber pita biru di atas meja.
+"May, ini ada titipan dari anak-anak divisi kreatif," Nita melangkah mendekati kubikelnya sambil meletakkan sebuah kotak kue berpita biru di atas meja.
 
-Maya mendongak, menyunggingkan senyum tipis. "Kenapa repot-repot, Nit? Kan aku cuma pindah rumah, bukan pindah luar pulau."
+Maya mendongak, menyunggingkan senyum tipis. "Kenapa repot-repot, Nit? Aku justru yang harus berterima kasih karena sudah banyak dibantu selama bekerja di sini."
 
 Nita tidak tertawa. Matanya menatap Maya dengan binar yang menahan keharuan. "Kamu itu staf paling sabar di divisi ini, May. Kalau tidak ada kamu yang bantu merapikan draf kampanye Pak Rian, tim kreatif sudah diamuk direksi dari tahun lalu."
 
@@ -668,7 +668,7 @@ Nita menggenggam tangan Maya erat-erat. "Kalau ada butuh apa-apa, atau cuma mau 
 
 Pukul empat lewat lima puluh menit, Pak Rian keluar dari ruang kerjanya, membawa map hijau berisi dokumen serah terima akhir. Seluruh anggota divisi komunikasi pemasaran berdiri mengelilingi kubikel Maya. Tidak ada pesta perpisahan mewah, hanya ucapan terima kasih singkat, jabat tangan hangat, dan beberapa foto bersama sebagai kenang-kenangan.
 
-Ketika Maya menandatangani lembar pembebasan tugas di depan Pak Rian, ada getaran halus di ujung jarinya. Ini bukan sekadar penandatanganan dokumen administrasi. Ini adalah titik akhir dari masa lima tahun yang bernaung di bawah rasa aman rutinitas kantor perkotaan.
+Ketika Maya menandatangani lembar serah terima aset dan penutupan tugas di kantor di depan Pak Rian, ada getaran halus di ujung jarinya. Ini bukan sekadar penandatanganan dokumen administrasi. Ini adalah titik akhir dari tiga tahun rutinitas kerja yang selama ini memberinya rasa aman.
 
 Maya mengangkat kardus kecilnya, melangkah menyusuri koridor karpet yang sangat ia hafal legok jalurnya.
 
@@ -730,7 +730,7 @@ Rasa haru menyengat dada Maya. Di tengah kepungan ujian yang seolah tak ada habi
 
 "Terima kasih banyak, Pak Dudung. Nanti semua biaya penggantiannya langsung saya selesaikan," kata Maya tulus.
 
-Setelah Pak Dudung berpamitan pulang, Maya duduk di kursi besi dingin di samping ranjang UGD. Ia mengeluarkan dompet dari tasnya, memeriksa sisa saldo rekening tabungan pesangon yang baru cair dua hari lalu. Angka yang awalnya ia rencanakan untuk menyambung hidup selama mencari pekerjaan baru kini harus dialihkan sepenuhnya untuk perawatan Ratih.
+Setelah Pak Dudung berpamitan pulang, Maya duduk di kursi besi dingin di samping ranjang UGD. Ia mengeluarkan dompet dari tasnya, memeriksa sisa saldo rekening tabungan yang sebagian berasal dari pembayaran hak kerja yang masuk dua hari lalu. Angka yang awalnya ia rencanakan untuk menyambung hidup selama mencari pekerjaan baru kini harus dialihkan sepenuhnya untuk perawatan Ratih.
 
 Seorang perawat melangkah masuk memindahkan tiang infus Ratih untuk persiapan pindah kamar.
 
@@ -838,7 +838,7 @@ Ketakutan akan pekerjaan yang hilang dan saldo tabungan yang mengikis masih ada 
 
 # **BAB 20: Pulang dengan Perban**
 
-Aroma uap minyak kayu putih mendadak kalah oleh bau debu kain katun saat pintu kayu rumah Kiaracondong digeser separuh. Langkah Ratih terhenti tepat di ambang teras, matanya tertuju lurus pada tumpukan bahan kebaya merah muda yang masih tersangkut di bawah jarum mesin jahit.
+Jumat, 7 Februari 2025. Setelah kondisi Ratih stabil dan dokter mengizinkan rawat jalan, Maya mengantarnya pulang ke rumah Kiaracondong. Aroma uap minyak kayu putih mendadak kalah oleh bau debu kain katun saat pintu kayu rumah Kiaracondong digeser separuh. Langkah Ratih terhenti tepat di ambang teras, matanya tertuju lurus pada tumpukan bahan kebaya merah muda yang masih tersangkut di bawah jarum mesin jahit.
 
 Tangan kiri Ratih yang tidak terbebat refleks terulur, seolah ingin meraih gulungan benang di atas meja.
 
@@ -850,7 +850,7 @@ Ratih menghela napas panjang, merosotkan tubuhnya pelan ke atas kasur tipis berl
 
 Maya mendudukkan diri di samping ibunya, merapikan bantal penyangga di belakang punggung Ratih.
 
-"Kemarin waktu mengurus administrasi kepulangan, Dokter Daniel sudah pesan berulang kali," ujar Maya sambil menatap mata ibunya lurus-lurus. "Tangan kanan Ibu tidak boleh dipakai memegang beban atau menarik kain minimal empat minggu. Kalau dipaksakan, tulang yang retak bisa bergeser lagi."
+"Sebelum Ibu pulang, dokter ortopedi sudah mengingatkan," ujar Maya sambil menatap mata ibunya lurus-lurus. "Tangan kanan Ibu tidak boleh dipakai mengangkat beban atau menarik kain setidaknya empat minggu. Kalau dipaksakan, tulangnya bisa bergeser lagi."
 
 Ratih terdiam, menunduk menatap gips tebal di tangannya. Kehilangan fungsi tangan kanan bagi seorang penjahit tunggal seperti Ratih bukan sekadar soal rasa sakit fisik, melainkan terhentinya satu-satunya roda penggerak dapur rumah mereka selama dua puluh tahun terakhir.
 
@@ -1292,7 +1292,7 @@ Apa yang bermula pada dua Juni lalu sebagai pesan koreksi teknis mengenai angka 
 
 Secara bertahap, ruang percakapan itu diisi oleh hal-hal kecil di luar jam kerja. Daniel sering menceritakan kelelahan ringannya usai menghadapi jadwal tindakan medis yang padat di rumah sakit, sementara Maya bercerita tentang kehangatan Mbak Dewi dan tim yayasan saat menyusun materi penyuluhan desa.
 
-Bagi Daniel, menatap bilah percakapan dengan Maya menghadirkan rasa nyaman yang luwes dan tanpa beban. Di sana, ia tidak perlu memasang topeng dokter spesialis yang serbapaham atau menghadapi keheningan tebal yang kerap menyelimuti ruang tengah rumah tangganya di Ciumbuleuit. Respons Maya selalu hangat, penuh perhatian, dan menghargai setiap penjelasannya.
+Dari jeda balasan dan cerita yang dibagikan Daniel, Maya menangkap bahwa percakapan mereka menjadi tempat pria itu membicarakan hal-hal yang tampaknya jarang ia ceritakan di tempat lain. Maya tidak tahu bagaimana Daniel menjalani rumah tangganya di luar cerita yang ia sampaikan. Respons Maya selalu hangat, penuh perhatian, dan menghargai setiap penjelasannya.
 
 Sementara bagi Maya, pesan-pesan dari Daniel datang seperti embun sejuk di tengah tanah gersang. Setelah lima tahun terkikis oleh ketidakpastian Arman yang menuntutnya untuk selalu mengalah, lalu disusul badai pemutusan kerja dan musibah ibunya, perhatian kecil yang konsisten dari Daniel membuat Maya merasa diakui dan diingat.
 
@@ -1394,7 +1394,7 @@ Kalimat terakhir itu diucapkan Daniel dengan nada bicara yang lirih, seolah terl
 
 Maya tidak langsung membalas. Ia berdiri tenang di samping mobil, memberikan ruang keheningan yang ramah tanpa menunjukkan desakan untuk bertanya. Selama bertahun-tahun menghadapi kebiasaan menyembunyikan masalah di rumah Kiaracondong, Maya paham kapan seseorang membutuhkan pendengar yang tidak menghakimi.
 
-Daniel melirik Maya, menangkap ekspresi empati di wajah perempuan itu. Sikap Maya yang tenang dan tidak menghujatnya dengan pertanyaan mengusik membuat ketegangan di dada Daniel perlahan melentur.
+Daniel melirik Maya. Perempuan itu tidak mendesaknya dengan pertanyaan, hanya menunggu dengan ekspresi yang sulit dibaca Daniel dari jarak itu.
 
 "Pernah tidak, May, kamu merasa tinggal di satu rumah yang sangat tenang, tapi di dalamnya seperti tidak ada ruangan untuk bernapas?" bisik Daniel akhirnya.
 
@@ -1410,13 +1410,13 @@ Daniel menelan ludah, mengembuskan napas yang beruap tipis.
 
 "Kami tinggal bersama, tapi rasanya seperti dua orang asing yang cuma kebetulan berbagi alamat rumah," lanjut Daniel. "Tidak ada pertengkaran besar, tapi juga tidak ada tempat untuk bersandar."
 
-Pengakuan itu meluncur jujur dari mulut Daniel. Ia tidak menyalahkan Sarah, tidak menyudutkan istrinya sebagai sosok yang buruk, melainkan menceritakan jarak emosional yang telah menyiksa ruang batinnya selama berbulan-bulan.
+Daniel menyampaikan ceritanya tanpa meninggikan suara. Ia menyebut Sarah sebagai perempuan yang baik dan tidak menuduh istrinya sebagai penyebab tunggal masalah mereka. Maya hanya bisa menerima bahwa itulah cara Daniel memandang rumah tangganya; ia tidak mengetahui keseluruhan yang terjadi di antara pasangan itu.
 
 Maya mendengarkan setiap kalimat itu dengan cermat. Pengalaman lima tahun bersama Arman, di mana Maya selalu memendam rasa sakitnya demi menjaga kenyamanan hubungan, membuat Maya memahami betul rasa sepi di tengah hubungan yang tampak utuh di luar.
 
 "Kadang, diam itu memang terasa lebih aman daripada bicara tapi malah memicu jarak yang lebih jauh ya, Dok?" sahut Maya pelan. Suaranya terdengar lembut, memberikan kehangatan yang proporsional.
 
-Daniel menoleh menatap Maya. Binar matanya memancarkan rasa terkejut sekaligus lega yang amat dalam. Pengertian yang diberikan Maya terasa begitu pas, seolah perempuan di hadapannya ini sanggup membaca lipatan kelelahan batin yang selama ini disembunyikannya dari semua orang.
+Daniel menoleh. Untuk sesaat ia tidak langsung menjawab. Maya menangkap perubahan kecil pada raut wajahnya, tetapi tidak tahu apakah ucapannya benar-benar melegakan atau justru membuat Daniel semakin nyaman bercerita kepadanya.
 
 "Terima kasih sudah mau mendengar, May," ujar Daniel tulus. "Jarang sekali ada orang yang bisa diajak bicara seperti ini tanpa perlu membebankan prasangka."
 
@@ -1424,13 +1424,13 @@ Daniel menoleh menatap Maya. Binar matanya memancarkan rasa terkejut sekaligus l
 
 Kalimat itu meluncur dari bibir Maya tanpa tendensi jahat. Namun, begitu kata-kata itu terucap di udara sore, Maya merasakan getaran halus di dalam dadanya.
 
-Malam harinya di rumah Antapani, percakapan itu berlanjut melalui lembaran pesan instan di ponselnya. Daniel menceritakan lebih banyak tentang rutinitas kerjanya yang padat dan bagaimana perhatian kecil dari Maya membuat harinya terasa lebih ringan. Maya membalas setiap pesan itu dengan penuh perhatian, memberikan saran-saran hangat dan kata-kata penguat.
+Malam harinya di rumah Antapani, percakapan itu berlanjut melalui pesan instan. Daniel kembali menceritakan rutinitas kerjanya dan beberapa persoalan di rumah. Maya membalas dengan perhatian serta kata-kata penguat. Dari pesan-pesan itu, ia melihat bahwa Daniel semakin sering membagikan hal-hal pribadi kepadanya.
 
 Di dalam kamar yang temaram, Maya menyandarkan kepalanya di dinding kasur busa.
 
 Ia tahu betul bahwa Daniel adalah suami Sarah. Ia tahu bahwa mendengarkan keluh kesah rumah tangga seorang pria beristri adalah perbuatan yang mengikis garis batas yang seharusnya dijaga rapat. Namun, di balik rasa bersalah yang mengintai tipis, ada kebutuhan emosional besar di dalam diri Maya yang mendadak terpuaskan.
 
-Untuk pertama kalinya setelah lima tahun diabaikan dan tidak pernah diprioritaskan oleh Arman, Maya merasa dibutuhkan. Dokter Daniel, seorang pria dewasa yang dihormati banyak orang, memilih membagikan ruang kerapuhannya kepada Maya, bukan kepada orang lain.
+Setelah lima tahun merasa tidak diprioritaskan oleh Arman, Maya menikmati perasaan dibutuhkan itu. Daniel—dokter yang dihormati banyak orang—kini membagikan persoalan pribadinya kepada Maya. Perhatian tersebut membuatnya sulit menjaga jarak.
 
 Kebutuhan mendalam untuk merasa penting dan terpilih itu menyelimuti pertimbangan logis Maya. Tanpa disadari, Maya mulai melangkah masuk lebih jauh ke dalam ruang emosional yang bukan miliknya, bersiap menghadapi badai yang perlahan-lahan mulai terbentuk di kejauhan.
 
@@ -2747,7 +2747,7 @@ Sejak menegakkan batas pertamanya kepada Bima melalui sambungan telepon kemarin 
 
 Maya menarik napas panjang, mengembuskannya perlahan. Jemari tangannya yang saling bertaut di atas pangkuan meremas pelan.
 
-"Saya rasa... saya baru sadar kalau selama dua puluh delapan tahun ini, saya hidup dalam ketakutan untuk tidak dipilih," kata Maya jujur. Suaranya terdengar jernih, meski ada getaran tipis yang berusaha ditahannya.
+"Saya rasa... sejak Bapak pergi ketika saya berusia tujuh tahun, saya tumbuh dengan ketakutan bahwa orang yang saya sayangi bisa memilih pergi dan tidak kembali," kata Maya jujur. Suaranya terdengar jernih, meski ada getaran tipis yang berusaha ditahannya.
 
 Mbak Melani mengangguk pelan, memberikan ruang bagi Maya untuk melanjutkan tanpa menyela.
 
@@ -2763,11 +2763,11 @@ Mbak Melani menggeser posisi duduknya melipat tangan dengan lembut di atas pangk
 
 Mbak Melani menatap Maya lurus-lurus dengan binar mata empati.
 
-"Dari apa yang Mbak Maya ceritakan," lanjut Mbak Melani, "ada mekanisme pertahanan diri yang terbentuk sejak usia tujuh tahun. Ketika seorang anak mengalami penolakan atau kehilangan tanpa penjelasan yang jujur, anak tersebut sering kali menyimpulkan secara salah bahwa dirinyalah yang kurang berharga. Dan untuk mencegah kehilangan berikutnya, anak itu tumbuh menjadi orang yang selalu berusaha memaklumi, mengalah, dan menyenangkan orang lain."
+"Dari cerita Mbak Maya sejauh ini," lanjut Mbak Melani, "mungkin ada pola perlindungan diri yang mulai terbentuk sejak usia tujuh tahun. Ketika seorang anak mengalami penolakan atau kehilangan tanpa penjelasan yang jujur, anak tersebut sering kali menyimpulkan secara salah bahwa dirinyalah yang kurang berharga. Dan untuk mencegah kehilangan berikutnya, anak itu tumbuh menjadi orang yang selalu berusaha memaklumi, mengalah, dan menyenangkan orang lain."
 
 Kata-kata Mbak Melani meresap dalam ke dalam batin Maya.
 
-"Sikap memaklumi dan bersabar yang Mbak Maya jalani bersama Arman—dan rasa butuh diakui bersama Daniel—sebenarnya bukan murni bentuk ketulusan," tegas Mbak Melani dengan kejelasan yang presisi. "Itu adalah bentuk strategi bertahan hidup agar Mbak Maya tidak ditinggalkan lagi. Mbak Maya merasa jika Mbak Maya cukup mengerti dan tidak menuntut, orang tersebut akan memilih untuk tinggal."
+"Bisa jadi, kebiasaan memaklumi dan mengalah bersama Arman—juga kebutuhan untuk diakui saat dekat dengan Daniel—pernah menjadi cara Mbak Maya melindungi diri dari kemungkinan ditinggalkan," ujar Mbak Melani. "Tapi ini masih dugaan awal dari cerita yang Mbak Maya sampaikan hari ini. Kita perlu mengeksplorasinya bersama, termasuk melihat apakah penjelasan ini terasa sesuai dengan pengalaman Mbak Maya."
 
 Maya menunduk, air mata hangat menetes pelan menyusuri pipinya. Hantaman kebenaran itu terasa menyakitkan, namun di saat yang sama membebaskan.
 
@@ -2815,7 +2815,7 @@ Mbak Melani membetulkan posisi duduknya, menatap Maya lurus-lurus dengan kedalam
 
 Kata-kata Mbak Melani meresap pelan di dalam dada Maya.
 
-"Mengingat masa lalu atau merasa sedih saat melintas di tempat lama bukan tanda bahwa Mbak Maya gagal pulih," lanjut Mbak Melani. "Itu murni respons alami tubuh dan pikiran yang sedang memproses luka lima tahun. Selama bertahun-tahun, Mbak Maya terbiasa menekan rasa sakit dengan cara mencari distraksi atau memaklumi orang lain. Sekarang, ketika Mbak Maya memberi ruang untuk merasakannya tanpa berlari ke mana-mana, rasa sedih itu akhirnya keluar."
+"Mengingat masa lalu atau merasa sedih saat melintas di tempat lama bukan tanda bahwa Mbak Maya gagal pulih," lanjut Mbak Melani. "Itu bisa menjadi respons alami tubuh dan pikiran saat menghadapi kembali pengalaman-pengalaman yang menyakitkan. Selama bertahun-tahun, Mbak Maya terbiasa menekan rasa sakit dengan cara mencari distraksi atau memaklumi orang lain. Sekarang, ketika Mbak Maya memberi ruang untuk merasakannya tanpa berlari ke mana-mana, rasa sedih itu akhirnya keluar."
 
 Maya memejamkan mata sejenak, mengembuskan napas untuk meredakan impitan di ulu hatinya.
 
@@ -2823,13 +2823,13 @@ Maya memejamkan mata sejenak, mengembuskan napas untuk meredakan impitan di ulu 
 
 "Sama sekali tidak perlu," sahut Mbak Melani tegap. "Indikator keberhasilan pemulihan Mbak Maya bukan diukur dari hilangnya rasa sedih secara instan, melainkan dari bagaimana Mbak Maya menyikapi rasa sedih itu. Dulu, saat merasa sepi atau terluka, Mbak Maya akan mencari perhatian orang lain atau bertahan dalam hubungan yang salah. Sekarang, Mbak Maya tetap merasakan sedih itu, tetapi memilih untuk tidak merusak batas diri lagi."
 
-Mbak Melani menyunggingkan senyum menguatkan. "Itu adalah bentuk kemajuan yang sangat besar, Mbak Maya. Berikan kepenuhan kasih sayang dan kesabaran untuk diri sendiri. Jangan menuntut proses pemulihan berjalan lebih cepat daripada yang bisa ditanggung oleh batinmu."
+Mbak Melani menyunggingkan senyum menguatkan. "Itu bisa menjadi salah satu tanda bahwa Mbak Maya sedang belajar merespons rasa sedih dengan cara berbeda. Berikan ruang dan kesabaran untuk diri sendiri. Jangan menuntut proses pemulihan berjalan lebih cepat daripada yang bisa ditanggung oleh batinmu."
 
 Ketika sesi lima puluh menit itu usai, Maya melangkah keluar dari bangunan di Jalan Ganesha. Udara malam bulan Desember menyapu lembut kulit wajahnya saat rintik hujan perlahan mulai mereda.
 
 Maya menyusuri trotoar menuju perhentian angkutan umum Antapani.
 
-Ia membiarkan angin dingin menyusup di sela kemejanya. Ekspektasi tidak realistis yang menuntut dirinya harus selalu kuat dan seketika pulih kini telah luruh. Maya menerima dengan lapang dada bahwa pemulihan batin membutuhkan waktu, ketabahan, dan ketekunan hari demi hari. Ia tidak lagi membenci rasa sedihnya, melainkan belajar mendekap dirinya sendiri di tengah proses panjang yang sedang ia tempuh.
+Ia membiarkan angin dingin menyusup di sela kemejanya. Rasa sedih itu belum hilang, tetapi Maya tidak lagi menganggap kemunculannya sebagai kegagalan. Ia naik ke angkutan umum dan menyimpan ponselnya di dalam tas, memilih pulang tanpa buru-buru mencari seseorang untuk mengalihkan pikirannya.
 
 # **BAB 59: Percakapan Terakhir**
 

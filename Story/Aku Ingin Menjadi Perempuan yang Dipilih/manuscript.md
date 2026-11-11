@@ -674,7 +674,7 @@ Di antara lalu lintas sore Jalan Riau yang padat dan deru mesin kendaraan yang b
 
 # **BAB 17: Jatuh**
 
-Dua hari setelah hari terakhirnya bekerja, pada Minggu sore, 2 Februari 2025, langkah kaki Maya bergema cepat di atas lantai keramik dingin selasar Unit Gawat Darurat Rumah Sakit Cakrawala. Bau antiseptik yang menyengat bercampur aroma obat menyergap indra penciumannya, membuat dadanya semakin sesak.
+Dua hari setelah terakhir kali hadir di kantor, pada Minggu sore, 2 Februari 2025, langkah kaki Maya bergema cepat di atas lantai keramik dingin selasar Unit Gawat Darurat Rumah Sakit Cakrawala. Bau antiseptik yang menyengat bercampur aroma obat menyergap indra penciumannya, membuat dadanya semakin sesak.
 
 "Mbak Maya\!"
 
@@ -2628,7 +2628,7 @@ Ia mengambil buku catatan kecil bersampul abu-abu dari dalam laci meja, membuka 
 
 Menatap tiga nama itu berjejer di atas kertas, Maya merasakan desiran dingin menyapu dadanya.
 
-Untuk pertama kalinya dalam hidupnya, Maya melihat benang merah psikologis yang mengikat ketiga sosok pria tersebut secara utuh dan telanjang.
+Maya mulai melihat kemungkinan benang merah yang menghubungkan pengalamannya dengan ketiga pria itu, meski ia belum yakin apakah satu pola dapat menjelaskan semuanya.
 
 Kepergian Bima pada Juni dua ribu empat—saat Maya baru berusia tujuh tahun—merupakan pengalaman kehilangan pertama yang masih membekas. Maya menduga pengalaman itu ikut membentuk keyakinan bahwa orang yang paling ia cintai pada akhirnya akan pergi. Kebohongan manis yang diciptakan Ratih selama puluhan tahun bahwa Bima pergi karena terpaksa oleh keadaan, tanpa disadari telah melatih Maya kecil untuk menjadi seseorang yang selalu memaklumi ketidakberadaan dan terus menunggu penantian yang tak pasti.
 
@@ -2646,15 +2646,9 @@ Maya meletakkan pulpennya di atas meja, menyandarkan punggungnya pada kursi kayu
 
 Kesadaran itu menghantam batinnya bukan sebagai pembenaran atas kesalahannya, melainkan sebagai penerimaan pahit yang membongkar ilusi dirinya selama ini.
 
-Maya mulai melihat bahwa sejak masa kanak-kanak hingga usianya kini dua puluh delapan tahun, beberapa hubungannya memperlihatkan pola yang serupa. Ia membenci kepergian ayahnya, ia membenci pengkhianatan Arman, dan ia menyesali keterlibatannya dalam rumah tangga Daniel. Namun di balik ketiga hubungan itu, Maya harus mengakui satu kebenaran yang paling menyakitkan: ia sendiri yang berkali-kali memilih untuk bertahan dalam situasi yang menyakitkan hanya demi mengejar pengakuan dari orang lain.
+Maya memandangi tiga nama di halaman itu. Ia teringat bagaimana ia bertahan dalam ketidakjelasan bersama Arman dan bagaimana perhatian Daniel membuatnya mengabaikan batas yang seharusnya dijaga. Ada kemiripan yang membuatnya tidak nyaman, tetapi ia belum tahu apakah pengalaman masa kecilnya menjelaskan seluruh pilihan tersebut.
 
-Ia takut tidak dipilih oleh orang lain, tetapi dalam proses mengejar pengakuan itu, Maya beberapa kali mengabaikan kebutuhan dan batas dirinya sendiri.
-
-Maya menarik napas panjang, mengembuskannya perlahan ke udara ruang kerja yang dingin.
-
-Pemahaman psikologis itu tidak seketika menghapus rasa perih atau mengubah masa lalunya. Namun, melihat pola itu secara terang benderang memberi Maya sebuah titik pijak baru. Ia tidak lagi melihat dirinya sebagai korban pasif dari ketidakadilan takdir, melainkan sebagai seorang wanita dewasa yang kini sadar akan dorongan-dorongan salah dalam batinnya dan memiliki daya untuk menghentikannya.
-
-Maya menutup buku catatan abu-abunya, memasukkannya kembali ke dalam laci meja, lalu menegakkan posisi duduknya untuk kembali menyelesaikan draf publikasi yayasan dengan pikiran yang jauh lebih jernih.
+Maya menutup buku catatan abu-abunya, memasukkannya kembali ke dalam laci meja, lalu kembali menatap draf publikasi yayasan. Ada beberapa pertanyaan yang ingin ia bawa ke konseling, terutama tentang kapan kesabaran berubah menjadi kebiasaan mengabaikan kebutuhan sendiri.
 
 # **BAB 56: Batas dengan Bima**
 
@@ -2662,7 +2656,7 @@ Minggu sore, tujuh Desember dua ribu dua puluh lima, rintik hujan gerimis menyis
 
 Maya duduk di tepi kasur busa kamarnya, memegangi cangkir keramik berisi teh melati hangat.
 
-Buku catatan kecil bersampul abu-abu yang barusan ia isi dengan coretan analisis batinnya masih tergeletak terbuka di atas meja kerja. Pemahaman psikologis yang ia kumpulkan sepanjang minggu ini telah memberinya kejernihan baru. Ia tak lagi melihat dirinya sebagai sosok penunggu yang harus memaklumi kepergian atau kebohongan pria mana pun demi mendapatkan secercah validasi.
+Buku catatan kecil bersampul abu-abu yang ia isi sepanjang minggu itu masih tergeletak terbuka di atas meja kerja. Catatan tersebut belum memberinya jawaban lengkap, tetapi cukup membuat Maya ingin mencoba berbicara kepada Bima tanpa mengabaikan batas yang ia butuhkan.
 
 Pukul lima sore lewat sepuluh menit, ponsel yang tergeletak di samping buku catatan bergetar dua kali di atas meja kayu.
 
@@ -2680,7 +2674,7 @@ Keheningan sempat menyela sejenak di seberang saluran, sebelum Bima kembali bers
 
 Mendengar ajakan yang tersusun dari harapan samar sang ayah untuk membangun kembali kedekatan keluarga, dada Maya berdesir tipis.
 
-Dahulu, dorongan alami di dalam batin Maya akan memaksanya untuk menyetujui ajakan tersebut. Dahulu, rasa takut dianggap sebagai anak yang durhaka atau ketakutan kehilangan kesempatan untuk diterima akan membuatnya mengangguk dan mengorbankan rasa tidak nyamannya sendiri. Maya akan memaksakan diri berpura-pura bahwa segalanya baik-baik saja demi menyenangkan orang lain.
+Dahulu, rasa takut dianggap sebagai anak yang durhaka mungkin akan membuat Maya langsung menyetujui ajakan itu. Ia akan mengabaikan rasa tidak nyaman sendiri demi menjaga harapan Bima.
 
 Namun sore ini, di dalam kamar Antapani yang tenang, Maya mendengarkan ajakan itu dari ruang batin yang telah berubah.
 
@@ -2718,7 +2712,7 @@ Maya berjalan melangkah ke arah jendela teras, membuka katup kayunya lebar-lebar
 
 Maya memejamkan mata sejenak, menghirup udara dingin itu dalam-dalam. Maya tidak ingin menarik kembali batas yang baru saja ia sampaikan. Meski masih ada sedih dan ragu yang belum dapat ia uraikan, ia merasa sedikit lega karena kali ini ia tidak memaksakan diri menyetujui sesuatu yang belum siap dijalaninya.
 
-Menetapkan batas ternyata tidak membunuh siapa pun. Menolak keinginan orang lain tidak membuatnya menjadi manusia yang jahat. Di bawah naungan langit Antapani yang perlahan menggelap sore itu, Maya menyadari bahwa ia baru saja mengambil langkah penting: mulai menyampaikan batas tanpa harus memaksakan diri demi diprioritaskan oleh orang lain.
+Maya kembali ke meja dan menuliskan tanggal percakapan itu di buku catatannya. Ia belum tahu bagaimana hubungan mereka akan berkembang, tetapi setidaknya kali ini ia tidak menyetujui sesuatu yang belum siap dijalaninya.
 
 # **BAB 57: Memulai Konseling**
 
@@ -3082,7 +3076,7 @@ Senin sore, sembilan belas Januari dua ribu dua puluh enam, gerimis tipis menyap
 
 Maya mendudukkan diri di meja kerjanya, merapikan tumpukan dokumen draf publikasi edukasi kesehatan masyarakat untuk kuartal pertama.
 
-Sejak percakapan terbukanya bersama Ratih Jumat lalu—saat mereka berdua sepakat menghentikan kebiasaan puluhan tahun saling menyembunyikan kesedihan—Maya merasakan sedikit kelegaan. Tidak semua ganjalan langsung hilang, tetapi ia tidak lagi harus menebak-nebak apa yang disimpan ibunya. Ia mulai menerima bahwa masa lalu yang tidak sempurna tidak harus menghalangi kehidupannya saat ini.
+Sejak percakapan terbuka dengan Ratih pada Jumat lalu, Maya merasa sedikit lega. Tidak semua ganjalan hilang, tetapi setidaknya ia tidak lagi harus menebak-nebak apa yang disimpan ibunya.
 
 Pukul lima sore lewat dua puluh menit, getaran pendek ponsel di atas meja kayu memecah keheningan kamar.
 
@@ -3104,7 +3098,7 @@ Namun sore ini, di balik meja kerja kontrakan Antapani, Maya memandang pesan itu
 
 Ia teringat salah satu sesi konselingnya bersama Mbak Melani di Jalan Ganesha. Psikolog klinis itu pernah menegaskan bahwa memaafkan bukanlah sebuah kewajiban instan yang harus ditukarkan hanya karena seseorang telah mengakui kesalahannya. Memahami alasan Bima pergi dua puluh satu tahun lalu—dan menghargai kejujuran pria itu hari ini—tidak secara otomatis mengharuskan Maya untuk berdamai atau berpura-pura bahwa luka perpisahan dua dekade telah menguap tanpa sisa.
 
-Maya tidak harus memaafkan Bima hari ini. Dan ia tidak menjadi manusia yang jahat hanya karena memilih untuk menjaga jarak yang aman bagi kedamaian jiwanya.
+Maya tidak harus memaafkan Bima hari ini. Ia membiarkan pesan itu terbaca sejenak sebelum mulai mengetik balasan yang santun dan singkat.
 
 Maya memegang ponselnya, mengetikkan balasan dengan jemari yang mantap dan tenang.
 
@@ -3118,11 +3112,7 @@ Hanya butuh waktu satu menit sebelum balasan singkat dari Bima kembali muncul di
 
 Terima kasih banyak atas balasannya, May. Bapak sangat menghargainya. Jaga diri baik-baik di Bandung.
 
-Maya menggeser layar ponselnya, meletakkan benda tersebut tertungkup di samping buku catatannya.
-
-Ia berdiri perlahan, melangkah menuju jendela kamar dan membuka katup kayunya. Angin malam kota Bandung berembus masuk membawa hawa sejuk sisa gerimis sore.
-
-Maya memejamkan mata sejenak, menghirup udara dingin itu dalam-dalam. Rasa marah dan sedih tidak sepenuhnya hilang, tetapi ia tidak lagi merasa harus menuntaskannya malam itu juga. Ia mulai memahami bahwa ia dapat menentukan batas dan kecepatan pemulihannya sendiri, tanpa terus-menerus mengukur keputusan berdasarkan keinginan orang lain.
+Maya meletakkan ponselnya tertungkup di samping buku catatan. Rasa marah dan sedih belum sepenuhnya hilang, tetapi ia tidak merasa harus menuntaskannya malam itu juga. Ia kembali ke berkas pekerjaan yang menunggu diperiksa.
 
 # **BAB 64: Hari-Hari Biasa**
 
@@ -3130,11 +3120,7 @@ Rabu pagi, dua puluh satu Januari dua ribu dua puluh enam, matahari terbit tipis
 
 Maya berdiri di dapur kecil kontrakan, menyeduh cangkir teh melati dengan gerakan yang santai dan teratur.
 
-Di atas meja kayu, ponselnya tergeletak tenang tanpa getaran. Debar cemas itu tidak lagi muncul setiap kali ia menatap layar kaca yang gelap. Ia tak lagi membalikkan ponselnya dengan gugup atau terus-menerus menunggu notifikasi dari Dokter Daniel maupun Arman. Benda persegi itu telah kembali ke fungsinya yang asli: sebuah alat komunikasi sederhana yang tidak lagi memegang kendali atas suasana hatinya.
-
-Maya menyesap teh hangatnya perlahan, membiarkan uap melati yang lembut menyapu kerongkongannya.
-
-Dahulu, pagi hari bagi Maya sering dimulai dengan memeriksa ponsel dan menebak suasana hati Arman. Pada pertengahan tahun lalu, kebiasaan menunggu pesan Daniel sempat mengambil tempat yang sama. Pagi ini ia masih ingat kebiasaan itu, tetapi tidak merasa perlu memeriksa layar berulang kali. Ia menyelesaikan tehnya, lalu membuka berkas pekerjaan yang perlu diperiksa.
+Di atas meja kayu, ponselnya tergeletak tanpa getaran. Maya masih ingat kebiasaan lama memeriksa layar untuk mencari pesan Arman atau Daniel, tetapi pagi ini ia menyelesaikan tehnya tanpa merasa perlu memeriksa ponsel berulang kali.
 
 Maya duduk di meja kerjanya yang baru, memoles draf panduan komunikasi publikasi kesehatan lansia untuk kuartal pertama. Sebagai Koordinator Utama Komunikasi dan Publikasi, tanggung jawabnya kini mencakup penyusunan strategi sebaran media di tiga wilayah Jawa Barat.
 
@@ -3306,7 +3292,7 @@ Ketika sesi lima puluh menit itu usai, Maya melangkah keluar menyusuri trotoar J
 
 Maya berjalan perlahan di bawah naungan deretan pohon mahoni tua.
 
-Masa lalu tidak bisa diubah. Ayahnya pernah pergi, Arman pernah mendua, dan ia sendiri pernah mengambil keputusan salah bersama Daniel. Siang itu, Maya mencoba melihat seluruh pengalaman tersebut tanpa menjadikannya vonis atas nilai dirinya. Ia belum selesai memahami semuanya, tetapi kini ia memiliki cara yang lebih sehat untuk membicarakan masa lalu dan menentukan langkah berikutnya.
+Maya keluar dari gedung itu dengan beberapa pertanyaan baru untuk direnungkan. Ia belum merasa selesai dengan masa lalunya, tetapi untuk pertama kalinya ia tidak menganggap ketidakselesaian itu sebagai sesuatu yang harus segera diperbaiki.
 
 # **BAB 68: Hidup yang Tidak Menunggu**
 
@@ -3328,13 +3314,7 @@ Selama lima tahun bersama Arman, seluruh rencana finansial dan karier Maya selal
 
 Bahkan ketika komunikasi dengan Dokter Daniel yang dimulai pada Juni menguat menjadi kedekatan personal pada Juli dan Agustus, pikiran Maya sempat terjebak dalam angan-angan pasif tentang kehidupan seperti apa yang bisa mereka bangun jika keadaan berpihak pada mereka.
 
-Malam ini, di bawah lampu meja Antapani yang tenang, Maya menyadari betapa banyaknya waktu yang telah ia lewatkan hanya untuk menunggu aba-aba dari orang lain.
-
-Maya mengetukkan pulpennya pelan, menyunggingkan senyum tipis yang sarat akan kesadaran baru.
-
-Hidupnya tidak perlu menunggu sampai seorang pria datang menjemputnya. Kehidupannya tidak sedang berada di dalam ruang tunggu yang membosankan sampai seseorang memilih untuk menjadikannya prioritas. Kehidupannya sedang berlangsung detik ini juga—dalam ruang kerjanya yang mandiri, dalam kesehatan tubuhnya, dan dalam kebebasannya untuk menentukan arah.
-
-Maya mulai menuliskan poin-poin rencananya dengan ketelitian yang teratur.
+Maya berhenti sejenak, memikirkan berapa banyak keputusan yang selama ini ia tunda karena menunggu kepastian dari orang lain. Ia lalu mulai menuliskan rencana-rencananya dengan lebih teratur.
 
 Poin pertama: Kemandirian Finansial dan Tabungan Masa Depan. Maya menghitung cermat alokasi kenaikan gajinya. Ia membagi anggarannya ke dalam tiga pos utama: dana darurat enam bulan untuk kesehatan Ratih, tabungan kepemilikan hunian mandiri—sebuah rumah kecil tipe tiga puluh enam di kawasan Bandung Timur yang ingin ia beli atas namanya sendiri dalam tiga tahun ke depan—serta pos investasi berkala.
 
@@ -3350,7 +3330,7 @@ Pukul sepuluh malam, Maya menutup buku agendanya. Ia berjalan melangkah menuju t
 
 Di bawah remang sinar lampu jalan Antapani yang memantul di atas permukaan jalan basah, Maya menghirup napas dalam-dalam.
 
-Dahulu, Maya mengira bahwa menjadi perempuan yang dipilih adalah puncak kebahagiaan seorang wanita. Namun malam ini, berdiri di atas pijakan kakinya sendiri, ia mulai memahami bahwa kebahagiaan juga dapat tumbuh ketika seseorang memilih untuk mencintai, menghargai, dan membangun kehidupannya sendiri.
+Maya menutup buku agenda. Rencana itu belum menjamin semuanya berjalan sesuai keinginan, tetapi setidaknya ia tahu langkah pertama yang bisa dikerjakannya sendiri.
 
 # **BAB 69: Keputusan Bima**
 
@@ -3462,7 +3442,7 @@ Ratih menyunggingkan senyum tulus yang jujur. "Ibu tahu, May. Dulu Ibu juga bers
 
 Maya mendongak menatap ibunya, menyunggingkan senyum lega yang amat jernih.
 
-Sore itu, di rumah sederhana Kiaracondong di tengah gerimis kota Bandung yang perlahan mereda, Maya merasakan perbedaan mendasar dalam kehidupannya. Rumah ini tak lagi menjadi benteng kepura-puraan tempat dua perempuan saling menyembunyikan luka demi melindungi satu sama lain. Rumah ini mulai menjadi ruang yang lebih jujur—tempat Maya bisa melepaskan sebagian zirah ketegarannya, menjadi manusia biasa yang boleh lelah, dan diterima tanpa harus berpura-pura.
+Sore itu, Maya kembali melanjutkan makan bersama Ratih. Ia masih belum terbiasa mengungkapkan kelelahan tanpa menambahkan kalimat bahwa dirinya baik-baik saja, tetapi ibunya mendengarkan tanpa mendesaknya. Percakapan sederhana itu terasa berbeda dari kebiasaan mereka sebelumnya.
 
 # **BAB 71: Perempuan yang Memilih**
 

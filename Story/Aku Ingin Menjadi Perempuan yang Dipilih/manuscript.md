@@ -2237,7 +2237,7 @@ Kehidupan ternyata tidak berhenti hanya karena sebuah keterikatan emosional tela
 
 _(Sudut Pandang: Daniel)_
 
-Angin malam kawasan Ciumbuleuit menyapu permukaan kaca jendela balkon, mengembuskan hawa dingin pegunungan pertengahan Oktober dua ribu dua puluh lima. Di ruang tengah apartemen, suara berdenting pelan dari mesin pendingin udara dan rintik gerimis yang membasahi lantai teras menjadi penanda keheningan yang menyelimuti dua penghuninya.
+Angin malam kawasan Ciumbuleuit menyapu permukaan kaca jendela balkon, mengembuskan hawa dingin pegunungan akhir Oktober dua ribu dua puluh lima. Di ruang tengah apartemen, suara berdenting pelan dari mesin pendingin udara dan rintik gerimis yang membasahi lantai teras menjadi penanda keheningan yang menyelimuti dua penghuninya.
 
 Daniel baru saja meletakkan cangkir teh kamomil hangat di atas meja kaca. Di sebelahnya, Sarah sedang memeriksa draf suntingan naskah terjemahan di layar laptop, jemarinya menari teratur di atas papan ketik.
 
@@ -3308,7 +3308,7 @@ Ruang konseling itu hening sejenak. Suara cicit burung di pepohonan luar jendela
 
 Mbak Melani membetulkan posisi duduknya, menatap Maya lurus-lurus.
 
-"Anak kecil berusia tujuh tahun memang tidak punya daya untuk memahami kompleksitas keputusan orang dewasa," jelas Mbak Melani. "Ketika Bapak memilih pergi pada Juni dua ribu empat, keputusan itu murni bersumber dari kelemahan, ketakutan, dan egoisme Bapak sendiri. Itu sama sekali tidak ada hubungannya dengan nilai diri Mbak Maya."
+"Anak kecil berusia tujuh tahun memang tidak punya daya untuk memahami kompleksitas keputusan orang dewasa," jelas Mbak Melani. "Apa pun alasan Bapak saat itu, keputusan meninggalkan keluarga adalah tanggung jawab orang dewasa. Keputusan itu bukan ukuran nilai diri Mbak Maya dan bukan sesuatu yang harus Mbak Maya tanggung sebagai kesalahan anak berusia tujuh tahun."
 
 Mbak Melani menghentikan kalimatnya sejenak, memberikan ruang bagi kata-katanya untuk meresap.
 

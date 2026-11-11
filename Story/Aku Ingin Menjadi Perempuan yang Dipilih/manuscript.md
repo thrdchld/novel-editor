@@ -2724,7 +2724,7 @@ Di seberang telepon, keheningan panjang menggantung selama beberapa detik. Maya 
 
 "Maya tidak membenci Bapak," sambung Maya, memberikan kepastian agar penolakannya tidak ditafsirkan sebagai rasa dendam. "Maya juga tidak melarang Bapak untuk sesekali menanyakan kabar. Tapi Maya butuh waktu dan ruang. Maya ingin komunikasi kita berlangsung perlahan, terbatas, dan tidak dipaksakan."
 
-Untuk pertama kalinya dalam hubungannya dengan Bima, Maya menyatakan dengan jelas seberapa jauh ia bersedia membuka ruang bagi ayahnya. Ia tidak lagi mengalah, tidak lagi takut dianggap menuntut, dan tidak lagi membiarkan orang lain mendikte kecepatan pemulihan batinnya.
+Untuk pertama kalinya dalam hubungannya dengan Bima, Maya menyatakan dengan jelas seberapa jauh ia bersedia membuka ruang bagi ayahnya. Kali ini ia tidak langsung mengalah atau menyetujui ajakan yang belum siap dijalaninya. Ia menyampaikan batas dengan jelas, meski masih harus belajar mempertahankannya dalam hubungan mereka ke depan.
 
 Di ujung saluran telepon, Bima menyapu tenggorokannya yang terasa kering. Nada suaranya saat membalas terdengar pasrah, namun dipenuhi oleh rasa hormat yang mendalam atas ketegasan putrinya.
 
@@ -2784,7 +2784,7 @@ Maya menunduk, air mata hangat menetes pelan menyusuri pipinya. Hantaman kebenar
 
 Maya mengusap air matanya dengan tisu yang disediakan di meja. "Lalu... apa yang harus saya lakukan sekarang, Mbak?"
 
-"Konseling ini bukan keajaiban instan yang bisa menghapus luka dua puluh tahun dalam satu jam, Mbak Maya," sahut Mbak Melani menyunggingkan senyum menguatkan. "Proses ini akan menuntut Mbak Maya untuk mengenali rasa takut itu setiap kali ia datang, belajar menghentikan dorongan untuk memaklumi ketidakjelasan, dan memaafkan diri sendiri atas kesalahan masa lalu. Kita akan mengerjakannya bertahap."
+"Konseling ini bukan keajaiban instan yang bisa menghapus luka dua puluh satu tahun dalam satu jam, Mbak Maya," sahut Mbak Melani menyunggingkan senyum menguatkan. "Proses ini akan menuntut Mbak Maya untuk mengenali rasa takut itu setiap kali ia datang, belajar menghentikan dorongan untuk memaklumi ketidakjelasan, dan memaafkan diri sendiri atas kesalahan masa lalu. Kita akan mengerjakannya bertahap."
 
 Ketika sesi lima puluh menit itu berakhir dan Maya melangkah keluar dari bangunan cagar budaya di Jalan Ganesha, udara siang kota Bandung terasa lebih segar menyapa paru-parunya.
 
@@ -3566,7 +3566,7 @@ Dua puluh delapan tahun perjalanan hidupnya berputar perlahan di dalam ingatan. 
 
 Dan ia mengingat bulan-bulan terlarang bersama Dokter Daniel—masa-masa di mana kehausan batinnya akan validasi membuat dirinya menutup mata dari batas pernikahan orang lain dan ikut melukai wanita seperti Sarah.
 
-Selama puluhan tahun, seluruh keputusan hidup Maya digerakkan oleh satu frasa bisu yang membakar ulu hatinya: aku ingin menjadi perempuan yang dipilih.
+Selama bertahun-tahun, banyak keputusan Maya dipengaruhi oleh satu keinginan yang sulit ia akui: ia ingin menjadi perempuan yang dipilih.
 
 Ia ingin dipilih oleh ayahnya agar merasa berharga. Ia ingin dipilih oleh Arman agar merasa kesabarannya terbayar. Dan ia ingin dipilih oleh Daniel agar merasa dirinya diinginkan di tengah kehancuran hatinya.
 

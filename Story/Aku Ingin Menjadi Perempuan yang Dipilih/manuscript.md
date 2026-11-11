@@ -196,7 +196,7 @@ Namun alih-alih meminta Dion langsung kembali ke ruang guru untuk membetulkan na
 
 "Tidak apa-apa, Yon. Santai saja. Yang penting makalahnya sudah masuk sebelum tenggat jam empat. Pak Wahyu juga tahu kok aku ikut pengerjaan kelompok."
 
-"Beneran tidak apa-apa, May? Aku merasa enak banget sama kamu."
+"Beneran tidak apa-apa, May? Aku merasa nggak enak banget sama kamu."
 
 "Beneran, tidak usah dipikirkan," balas Maya cepat.
 
@@ -2715,7 +2715,7 @@ Di seberang telepon, keheningan panjang menggantung selama beberapa detik. Bima 
 
 "Maya tidak membenci Bapak," sambung Maya, memberikan kepastian agar penolakannya tidak ditafsirkan sebagai rasa dendam. "Maya juga tidak melarang Bapak untuk sesekali menanyakan kabar. Tapi Maya butuh waktu dan ruang. Maya ingin komunikasi kita berlangsung perlahan, terbatas, dan tidak dipaksakan."
 
-Untuk pertama kalinya dalam hidupnya, Maya berdiri menegakkan batas pertamanya di hadapan seorang pria. Ia tidak lagi mengalah, tidak lagi takut dianggap menuntut, dan tidak lagi membiarkan orang lain mendikte kecepatan pemulihan batinnya.
+Untuk pertama kalinya dalam hubungannya dengan Bima, Maya menyatakan dengan jelas seberapa jauh ia bersedia membuka ruang bagi ayahnya. Ia tidak lagi mengalah, tidak lagi takut dianggap menuntut, dan tidak lagi membiarkan orang lain mendikte kecepatan pemulihan batinnya.
 
 Di ujung saluran telepon, Bima menyapu tenggorokannya yang terasa kering. Nada suaranya saat membalas terdengar pasrah, namun dipenuhi oleh rasa hormat yang mendalam atas ketegasan putrinya.
 
@@ -2763,7 +2763,7 @@ Mbak Melani menggeser posisi duduknya melipat tangan dengan lembut di atas pangk
 
 Mbak Melani menatap Maya lurus-lurus dengan binar mata empati.
 
-"Dari cerita Mbak Maya sejauh ini," lanjut Mbak Melani, "mungkin ada pola perlindungan diri yang mulai terbentuk sejak usia tujuh tahun. Ketika seorang anak mengalami penolakan atau kehilangan tanpa penjelasan yang jujur, anak tersebut sering kali menyimpulkan secara salah bahwa dirinyalah yang kurang berharga. Dan untuk mencegah kehilangan berikutnya, anak itu tumbuh menjadi orang yang selalu berusaha memaklumi, mengalah, dan menyenangkan orang lain."
+"Dari cerita Mbak Maya sejauh ini," lanjut Mbak Melani, "mungkin ada pola perlindungan diri yang mulai terbentuk sejak usia tujuh tahun. Ketika seorang anak mengalami kehilangan tanpa penjelasan yang jujur, ada kemungkinan ia menyimpulkan bahwa dirinya kurang berharga. Sebagian orang kemudian berusaha mencegah kehilangan berikutnya dengan lebih sering memaklumi, mengalah, atau menyenangkan orang lain. Namun, kita perlu melihat apakah pola itu benar-benar sesuai dengan pengalaman Mbak Maya."
 
 Kata-kata Mbak Melani meresap dalam ke dalam batin Maya.
 
@@ -3539,7 +3539,7 @@ Maya tersenyum hangat. "Kita harus menjaga kualitas kerja dan kesehatan tim, Mba
 
 Maya mendudukkan diri di kursi kerjanya, menyesap teh melati hangat di samping laptopnya.
 
-Ia memandang keluar jendela kaca, memperhatikan pendar sinar matahari pagi yang menghangatkan daun-daun mahoni. Tidak ada rasa cemas di dadanya, tidak pula ada rasa takut kehilangan posisi. Maya menyadari perubahan besar yang baru saja terjadi pada dirinya.
+Ia memandang keluar jendela kaca, memperhatikan pendar sinar matahari pagi yang menghangatkan daun-daun mahoni. Kecemasan tidak sepenuhnya hilang, tetapi Maya tidak lagi menganggap penolakan terhadap beban yang tidak realistis sebagai ancaman bagi posisinya. Ia menyadari perubahan dalam cara mengambil keputusan.
 
 Ia tak lagi menjadi perempuan pasif yang hanya menerima perlakuan atau beban dari orang lain demi disukai. Hari ini, melalui tindakan nyata di dunia kerja sehari-hari, Maya telah menjelma menjadi perempuan yang berani memilih: memilih batas dirinya, memilih profesionalisme yang sehat, dan memilih untuk menghargai nilainya sendiri.
 
@@ -3573,7 +3573,7 @@ Keinginan untuk dicintai, diinginkan, dan diperhatikan bukanlah sesuatu yang sal
 
 Seseorang tidak menjadi berharga karena dipilih oleh orang lain. Dan harga diri seorang perempuan tidak pernah ditentukan oleh siapa yang memilih untuk tinggal atau melangkah pergi.
 
-Maya menyunggingkan senyum tipis—sebuah senyum jernih yang memancarkan kedamaian utuh dari dasar dadanya.
+Maya menyunggingkan senyum tipis. Untuk pagi itu, ia merasa cukup dengan langkah-langkah yang telah berhasil ia ambil.
 
 Ia tidak mendapatkan Daniel sebagai pasangan di akhir cerita. Ia tidak kembali ke pelukan Arman. Ia belum berdamai secara instan bersama Bima. Dan ia tidak menyambut kehadiran pria baru sebagai hadiah atas pemulihan batinnya. Maya mengakhiri perjalanan panjang ini tanpa pahlawan penolong, tanpa kemenangan romantis, dan tanpa janji-janji manis masa depan.
 
@@ -3583,4 +3583,4 @@ Maya mengenakan jaket katun krem polosnya, meraih tas tangan di meja, lalu mengu
 
 Ia melangkah keluar menuju trotoar, menyusuri jalanan kota Bandung di bawah naungan langit pagi yang cerah. Angin sejuk berembus lembut menyapu kulit wajahnya, membawa aroma tanah basah dan kesegaran dedaunan mahoni.
 
-Pijakan kaki Maya terasa amat ringan, tegap, dan penuh rasa percaya diri. Ia tidak tahu apa yang akan dibawa oleh esok hari, tetapi ia tak lagi cemas. Di atas kakinya sendiri, Maya melangkah menyongsong masa depan—bukan lagi sebagai perempuan yang menunggu untuk dipilih, melainkan sebagai perempuan yang telah memilih untuk tidak pernah lagi meninggalkan dirinya sendiri.
+Pijakan kaki Maya terasa amat ringan, tegap, dan penuh rasa percaya diri. Ia tidak tahu apa yang akan dibawa esok hari. Kecemasan mungkin masih datang, tetapi kini ia punya cara untuk menghadapinya tanpa harus meninggalkan dirinya sendiri. Di atas kakinya sendiri, Maya melangkah menyongsong masa depan—bukan lagi sebagai perempuan yang menunggu untuk dipilih, melainkan sebagai perempuan yang telah memilih untuk tidak pernah lagi meninggalkan dirinya sendiri.

@@ -598,7 +598,7 @@ Maya menatap amplop cokelat tersebut. Kata kerahasiaan tercetak tebal di sudut k
 
 "Hasil evaluasi kerja kamu sangat bagus, May," lanjut Pak Rian cepat, seolah takut Maya salah mengartikan alasannya. "Laporan kampanye media sosial bulan lalu yang kamu susun bahkan dipuji manajemen puncak. Keputusan ini murni karena efisiensi anggaran divisi, bukan karena kinerja atau kesalahan pribadi kamu."
 
-Maya menarik amplop itu mendekat, memutar posisinya, lalu membukanya perlahan. Lembar kertas putih berlogo resmi perusahaan di dalamnya memuat deretan paragraf formal. Mata Maya langsung tertuju pada satu kalimat di bagian tengah: *Hari terakhir Maya wajib hadir dan menyelesaikan pekerjaan di kantor ditetapkan pada 31 Januari 2025. Hubungan kerjanya efektif berakhir pada tanggal yang sama, setelah masa pemberitahuan tujuh hari kalender.*
+Maya menarik amplop itu mendekat, memutar posisinya, lalu membukanya perlahan. Lembar kertas putih berlogo resmi perusahaan di dalamnya memuat deretan paragraf formal. Mata Maya langsung tertuju pada satu kalimat di bagian tengah: *Hari terakhir Maya wajib hadir dan menyelesaikan pekerjaan di kantor ditetapkan pada 31 Januari 2025. Mulai 1 Februari, ia dibebaskan dari kewajiban hadir selama sisa masa pemberitahuan. Hubungan kerjanya efektif berakhir pada 14 Februari 2025, setelah pemberitahuan disampaikan dengan masa 14 hari kerja.*
 
 Tujuh hari lagi.
 
@@ -606,7 +606,7 @@ Hanya berselang sembilan hari sejak ia menutup pintu rumahnya untuk Arman dan me
 
 Dada Maya terasa mengencang, tetapi wajahnya tetap tenang. Pelajaran hidup yang ia dapat dari Ratih sejak kecil kembali mengambil alih: jangan pernah menunjukkan kepanikan di hadapan orang lain.
 
-"Hak pesangon dan surat rekomendasi kerja sudah disiapkan tim HRD di lembar belakang, May," kata Pak Rian lagi, memperhatikan ekspresi Maya yang tidak bergeming. "Kalau kamu butuh izin tidak masuk beberapa hari ke depan untuk mencari peluang baru, saya siap berikan akses."
+"Rincian hak akibat PHK dan surat rekomendasi kerja sudah disiapkan tim HRD di lembar belakang, May. Pembayaran hak akhirnya akan diproses setelah tanggal efektif PHK," kata Pak Rian lagi, memperhatikan ekspresi Maya yang tidak bergeming. "Kalau kamu butuh izin tidak masuk beberapa hari ke depan untuk mencari peluang baru, saya siap berikan akses."
 
 Maya merapikan surat itu kembali ke dalam amplop cokelat, menyusunnya sejajar dengan pulpen di atas meja.
 
@@ -730,7 +730,7 @@ Rasa haru menyengat dada Maya. Di tengah kepungan ujian yang seolah tak ada habi
 
 "Terima kasih banyak, Pak Dudung. Nanti semua biaya penggantiannya langsung saya selesaikan," kata Maya tulus.
 
-Setelah Pak Dudung berpamitan pulang, Maya duduk di kursi besi dingin di samping ranjang UGD. Ia mengeluarkan dompet dari tasnya, memeriksa sisa saldo rekening tabungan yang sebagian berasal dari pembayaran hak kerja yang masuk dua hari lalu. Angka yang awalnya ia rencanakan untuk menyambung hidup selama mencari pekerjaan baru kini harus dialihkan sepenuhnya untuk perawatan Ratih.
+Setelah Pak Dudung berpamitan pulang, Maya duduk di kursi besi dingin di samping ranjang UGD. Ia mengeluarkan dompet dari tasnya, memeriksa sisa saldo rekening tabungan yang ia kumpulkan dari gaji selama bekerja. Pembayaran hak akibat PHK belum masuk karena hubungan kerjanya baru akan berakhir pada 14 Februari. Angka tabungan yang ia rencanakan untuk menyambung hidup selama mencari pekerjaan baru kini harus ia hitung ulang untuk perawatan Ratih.
 
 Seorang perawat melangkah masuk memindahkan tiang infus Ratih untuk persiapan pindah kamar.
 

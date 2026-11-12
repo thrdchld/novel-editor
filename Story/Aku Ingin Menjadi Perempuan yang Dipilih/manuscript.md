@@ -247,7 +247,11 @@ Itu kali pertama Maya melihat Arman Pratama dari dekat.
 Pria itu adalah teman dari teman setongkrongan Rendy yang baru pindah kerja ke Bandung. Sepanjang sore itu, di tengah obrolan riuh kelompok mereka tentang dunia kerja dan adaptasi pascakuliah, Arman tidak banyak memotong pembicaraan. Namun setiap kali Maya berbicara atau menanggapi lelucon Rendy, Maya menyadari pandangan Arman selalu tertuju padanya.
 
 Saat rombongan mulai bubar mendekati pukul tujuh malam, Maya masih sibuk merapikan isi tas kainnya di bangku kayu. Rintik hujan mulai turun membasahi pelataran kafe.
-"Kamu pulang naik apa, May?"Maya menoleh. Arman berdiri di samping meja, menenteng kemeja luarnya sambil memegang kunci kendaraan."Naik angkutan umum ke arah Kiaracondong," jawab Maya sambil membenahi tali tasnya. "Masih ada angkot yang lewat di depan jalan utama."
+"Kamu pulang naik apa, May?"
+
+Maya menoleh. Arman berdiri di samping meja, menenteng kemeja luarnya sambil memegang kunci kendaraan.
+
+"Naik angkutan umum ke arah Kiaracondong," jawab Maya sambil membenahi tali tasnya. "Masih ada angkot yang lewat di depan jalan utama."
 Arman tertawa kecil sambil menggelengkan kepala. "Jalan ke depan lumayan jauh kalau hujan begini. Aku searah ke daerah Buahbatu. Biar aku antar sampai depan gang rumahmu."
 
 Maya sempat ragu. Sejak kecil, ia diajarkan ibunya untuk tidak mudah merepotkan orang lain, apalagi seseorang yang baru dikenal beberapa jam lalu. "Tidak usah, Mas Arman. Nanti malah memutar jalurnya."
@@ -495,7 +499,9 @@ Suara Arman dari luar pintu kontrakan Antapani terdengar tertahan, bersaing deng
 Maya tidak langsung memutar kunci. Ia berdiri di balik pintu, merapatkan jemarinya di atas kardus cokelat berukuran sedang yang bertengger di meja ruang tamu. Di dalam kardus itu, lima tahun kenangan telah dikemas rapi: jam tangan perak yang dulu selalu dirawat Arman, jaket angin yang tertinggal di gantungan pakaian, hingga beberapa buku catatan proyek milik Arman yang tercecer di meja kerjanya.
 Maya memutar kunci, lalu menggeser daun pintu separuh.
 Arman berdiri di ambang teras dengan wajah pucat dan mata yang menyiratkan kelelahan. Kemeja kerjanya sedikit kusut di bagian lengan, tanda pria itu meluncur langsung dari kantornya di Jalan Sumatra begitu jam kerja usai.
-"May," kata Arman cepat, melangkah maju satu langkah sebelum Maya mengangkat kardus cokelat itu di antara mereka."Ambil ini, Mas," ujar Maya pelan. Suaranya tidak melengking, tidak dipenuhi amarah, tetapi dingin dan tegas.
+"May," kata Arman cepat, melangkah maju satu langkah sebelum Maya mengangkat kardus cokelat itu di antara mereka.
+
+"Ambil ini, Mas," ujar Maya pelan. Suaranya tidak melengking, tidak dipenuhi amarah, tetapi dingin dan tegas.
 Arman menatap kardus itu dengan dahi berkerut. Matanya beralih menatap wajah Maya, mencari sedikit saja celah keraguan atau ruang untuk bernegosiasi yang biasanya selalu Maya berikan selama lima tahun terakhir.
 
 "May, jangan seperti ini," Arman menolak menyentuh kardus tersebut. Tangannya terulur meraih lengan Maya, tetapi Maya dengan cekatan menarik dirinya mundur dua langkah ke dalam ruangan. "Aku sudah menjelaskan waktu kita bertemu di mobil, soal Celine itu urusan profesional dan tuntutan keluarga investor. Aku bisa selesaikan itu kalau kamu kasih aku waktu."
@@ -591,6 +597,7 @@ Pak Rian menatapnya dengan heran sekaligus segan. "Kamu yakin tidak apa-apa, May
 Maya berdiri dan membawa amplop cokelat itu kembali ke kubikelnya.
 Saat melewati deretan meja rekan kerjanya, Maya melihat Nita sedang berdiri di dekat mesin pencetak dokumen. Nita melihat amplop di tangan Maya dan ekspresi sahabatnya yang mendadak kaku. Nita segera melangkah mengikuti Maya hingga ke kubikelnya.
 "May, ada apa? Pak Rian panggil kamu soal apa tadi?" tanya Nita setengah berbisik, bersandar di sekat kayu kubikel.
+
 Maya meletakkan amplop cokelat itu di dalam laci meja kerja yang paling bawah, lalu memutarnya dengan kunci.
 "Pengurangan tenaga kerja, Nit. Efisiensi divisi," jawab Maya singkat.
 
@@ -740,19 +747,23 @@ Daniel kembali menatap Maya, menyerahkan selembar formulir pengantar rawat inap 
 "Terima kasih banyak, Dokter Daniel," kata Maya tulus.
 
 "Sama-sama, Mbak Maya. Istirahat yang cukup juga untuk penunggunya," balas Daniel singkat sebelum mengangguk hormat dan melangkah keluar menyusuri koridor UGD.
+
 Maya memperhatikan siluet dokter spesialis penyakit dalam itu hingga menghilang di balik pintu geser otomatis. Cara Daniel menyampaikan informasi medis tanpa nada menggurui atau terburu-buru meninggalkan kesan mendalam di kepala Maya. Di tengah situasi hidupnya yang porak-poranda selama sebulan terakhir, ketenangan profesional pria itu terasa seperti embun sejuk yang sangat ia butuhkan.
 # **BAB 19: Ruang Tunggu**
 
-Selasa malam, 4 Februari 2025, aroma karbol tipis dan desing pendingin udara di selasar lantai tiga Rumah Sakit Cakrawala menusuk pori-pori kulit Maya. Di tangannya, selembar kertas rincian deposit awal rawat inap berstempel kasir terlipat dua, berdampingan dengan tiga lembar kuitansi tebus obat dari apotek rumah sakit.Maya mengusap wajah yang lelah, lalu membuka aplikasi perbankan di ponselnya.
+Selasa malam, 4 Februari 2025, aroma karbol tipis dan desing pendingin udara di selasar lantai tiga Rumah Sakit Cakrawala menusuk pori-pori kulit Maya. Di tangannya, selembar kertas rincian deposit awal rawat inap berstempel kasir terlipat dua, berdampingan dengan tiga lembar kuitansi tebus obat dari apotek rumah sakit.
+
+Maya mengusap wajah yang lelah, lalu membuka aplikasi perbankan di ponselnya.
 
 Angka saldo di rekeningnya menipis dengan cepat. Dana darurat dan tabungan yang semula diniatkan sebagai penyambung hidup selama mencari pekerjaan kini sudah terpotong hampir sepertiga dalam dua hari untuk biaya jaminan rumah sakit dan obat Ratih.
+
 Ponsel di genggamannya bergetar. Nama Pak Dudung tertera di layar. Maya segera menempelkan ponsel itu ke telinga kanan.
 
 "Halo, Pak Dudung. Selamat malam," kata Maya pelan, setengah berbisik agar tidak mengganggu ketenangan selasar luar kamar rawat inap.
 
-"Malam, May. Bagaimana kondisi Bu Ratih di dalam?" suara Pak Dudung terdengar ramah dari ujung telepon. "Pak RT baru saja menanyakan ke rumah."
+"Malam, May. Bagaimana kondisi Bu Ratih di dalam?" Suara Pak Dudung terdengar ramah dari ujung telepon. "Pak RT baru saja menanyakan ke rumah."
 
-"Alhamdulillah sudah jauh lebih tenang, Pak. Tangan kanannya sudah dibidai rapi dan malam ini infusnya masih jalan," jawab Maya tulus. "Oya, Pak Dudung, uang pengganti ambulans dan konsumsi warga yang ditalangi Pak RT kemarin totalnya berapa ya? Biar malam ini langsung Maya transfer via m-banking."
+"Alhamdulillah sudah jauh lebih tenang, Pak. Tangan kanannya sudah dibidai rapi dan malam ini infusnya masih jalan," jawab Maya tulus. "Oh ya, Pak Dudung, uang pengganti ambulans dan konsumsi warga yang ditalangi Pak RT kemarin totalnya berapa ya? Biar malam ini langsung Maya transfer via m-banking."
 
 "Aduh, May, tidak usah terburu-buru begitu. Pak RT bilang itu bantuan dari kas warga untuk musibah," tanggap Pak Dudung segan. "Kamu fokus saja dulu mengurus biaya rumah sakit sama pemulihan Bu Ratih."
 

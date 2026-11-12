@@ -428,3 +428,12 @@ Putaran lanjutan memeriksa sambungan paragraf, dialog yang menempel pada narasi,
 Pemeriksaan teknis terkini: 72 heading bab terdeteksi; 3.381 baris; sekitar 49.298 kata; tidak ditemukan tanda baca ber-escape. Pemindaian otomatis atas tanda kutip dan kapitalisasi menghasilkan banyak kecocokan yang memang merupakan dialog sah dalam satu paragraf, sehingga tidak dipakai sebagai dasar untuk mengubah seluruh pola dialog. Format pesan WhatsApp dan penggunaan sapaan masih perlu pemeriksaan kontekstual lanjutan; naskah belum dinyatakan bersih atau siap terbit.
 
 **Status tetap: NOT YET READY TO PUBLISH.** Blob SHA manuskrip setelah pemeriksaan ini: `25fc115b6d13809e12661a0f4b9207426d611f00`.
+
+
+## Pemeriksaan format percakapan digital — 12 November 2026
+
+Pemeriksaan kontekstual dilanjutkan pada rangkaian Bab 25–35, khususnya bagian pesan pribadi Maya–Daniel dan pesan yang terlihat oleh Sarah. Pola penyajian pesan dalam manuskrip pada dasarnya memang berupa paragraf teks tanpa tanda kutip, sehingga pola tersebut dipertahankan dan tidak diubah secara massal. Sejumlah jeda paragraf antara isi pesan dan narasi sesudahnya diperjelas pada Bab 30 dan Bab 34 agar pergantian medium lebih mudah diikuti. Tidak ditemukan alasan editorial yang cukup kuat untuk memaksakan format visual baru pada seluruh percakapan digital.
+
+Verifikasi teknis setelah koreksi: 72 heading bab, 3.387 baris, sekitar 49.298 kata, dan tidak ada tanda baca ber-escape. Empat rangkaian baris kosong tiga kali atau lebih perlu diperiksa saat pemeriksaan render, tetapi belum tentu merupakan kesalahan karena dapat berfungsi sebagai pemisah adegan.
+
+**Status tetap: NOT YET READY TO PUBLISH.** Konsistensi sapaan dan kronologi masih perlu diperiksa dengan pembacaan adegan lintas bab; pemeriksaan format pesan belum dapat dianggap sebagai pemeriksaan final. Blob SHA manuskrip terkini: `63604c966a44966515e81945a23a131aa7fd8f0f`.

@@ -406,3 +406,14 @@ Blob SHA manuskrip setelah pass ini: `c6a0ba5c12a95a26c91eaea908eea512e6372c44`.
 
 
 Pembaruan verifikasi 12 November 2026: pemindaian ulang menggunakan potongan baris yang lebih kecil mengonfirmasi 72 heading bab berurutan (Bab 1–72), sekitar 49.433 kata, tanpa tanda baca ber-escape dan tanpa temuan pada daftar typo/konstruksi terpilih. Ini pemeriksaan teknis terarah, bukan bukti bahwa seluruh manuskrip sudah bebas typo. Proofread manusia/akhir tetap diperlukan. Blob SHA terkini: `c6a0ba5c12a95a26c91eaea908eea512e6372c44`.
+
+
+---
+
+## Proofread menyeluruh putaran pertama — 12 November 2026
+
+Naskah telah dibaca ulang berurutan dari Bab 1 sampai Bab 72 untuk putaran pertama proofread. Koreksi yang diterapkan meliputi pemisahan paragraf yang menyatu (termasuk bagian akhir Bab 7), perbaikan salah nama tokoh pada Bab 12 (Bima dikoreksi menjadi Arman), pembenahan kalimat dan tanda baca dialog, pengurangan repetisi, perapian diksi, serta penyeragaman beberapa tanggal dan istilah. Beberapa sambungan paragraf yang kehilangan jeda juga diperbaiki pada bab-bab berikutnya.
+
+Verifikasi setelah putaran ini: 72 heading bab berurutan, sekitar 49,290 kata berdasarkan pemisahan spasi, tidak ada tanda baca ber-escape, dan tidak ditemukan lagi sejumlah typo/konstruksi yang sebelumnya ditandai. Pemeriksaan ini tidak menjamin bebas seluruh salah ketik atau masalah tipografi.
+
+**Status tetap: NOT YET READY TO PUBLISH.** Masih perlu satu putaran pemeriksaan khusus untuk konsistensi tipografi dan format pesan/chat, tanda baca dialog, nama/sapaan/tempat, angka dan tanggal, serta pemeriksaan akhir hasil render naskah. Blob SHA manuskrip terkini: `207b7ac247e2fdd99d21ebff2e749ab9970e1597`.

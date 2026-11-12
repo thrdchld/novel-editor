@@ -1125,7 +1125,7 @@ Jemari Maya bergerak cepat menanggapi di dalam grup. "Baik, Dokter Daniel. Naras
 
 Sepanjang dua minggu pertama bulan Mei 2025, seluruh interaksi antara Maya dan Daniel berlangsung sepenuhnya melalui jalur kerja dan grup kegiatan resmi. Rapat koordinasi mingguan yang digelar di ruang pertemuan Yayasan Lentera Sehat di kawasan Jalan RE Martadinata selalu dihadiri oleh Suster Dewi, perawat senior dari RS Cakrawala, serta dua staf lapangan yayasan.
 
-Dalam setiap diskusi teknis, Maya mengamati ketelitian Daniel dalam mengevaluasi materi. Dokter spesialis penyakit dalam itu sangat menghargai masukan narasi dari Maya. Ketika Maya menyarankan agar istilah medis kardiomegali disederhanakan menjadi pembengkakan jantung akibat tekanan darah tinggi, Daniel mengangguk setuju dan memuji kepekaan bahasa Maya di depan anggota tim lainnya.
+Dalam setiap diskusi teknis, Maya mengamati ketelitian Daniel dalam mengevaluasi materi. Dokter spesialis penyakit dalam itu sangat menghargai masukan narasi dari Maya. Ketika Maya menyarankan agar istilah medis kardiomegali dijelaskan sebagai pembesaran jantung, yang pada sebagian pasien dapat berkaitan dengan tekanan darah tinggi, Daniel mengangguk setuju dan memuji kepekaan bahasa Maya di depan anggota tim lainnya.
 
 Sikap saling menghormati di antara mereka tumbuh secara wajar. Bagi Maya, kerja sama profesional ini menghadirkan kepuasan tersendiri. Ia dihargai atas kompetensi, kerapian kerja, dan dedikasinya di tempat kerja baru.
 

@@ -3020,7 +3020,7 @@ Mbak Dewi melintas membawa dua cangkir teh hangat, meletakkan satu di samping la
 Maya mendongak dan tersenyum hangat. "Terima kasih banyak, Mbak Dewi. Kebetulan sekali, baru selesai memeriksa bab modul Batununggal."
 
 Mbak Dewi duduk di kursi samping meja Maya. "O ya, Mbak Maya. Untuk jadwal penyuluhan hipertensi di posyandu kecamatan minggu depan, materi peraga dari tim medis RS Cakrawala sudah dikirim via surel resmi tadi pagi oleh suster kepala."
-Maya mengangguk tegap. "Sudah saya terima dan periksa pukul delapan tadi, Mbak Dewi. Semuanya lengkap dan sudah saya teruskan ke divisi cetak."
+Maya mengangguk tegap. "Sudah saya terima dan periksa pukul delapan tadi, Mbak Dewi. Semuanya lengkap dan sudah saya teruskan ke bagian percetakan."
 
 Percakapan kerja itu berlangsung singkat, profesional, dan alami. Maya merasa benar-benar hadir pada momen tersebut. Ia menikmati proses menyunting kata demi kata, mendiskusikan tata letak grafik bersama tim perancang, dan merencanakan jadwal kegiatan dengan fokus utuh. Pekerjaan ini tak lagi dijadikannya sebagai pelarian dari rasa sepi, melainkan sebagai wadah karya yang memberikan rasa bangga dan kepuasan pribadi.
 
@@ -3346,7 +3346,7 @@ Ia menatap Pak Gunawan dan Pak Frans secara bergantian tanpa raut cemas atau ras
 
 Pak Frans dan Pak Gunawan mendengarkan dengan saksama.
 
-"Pertama, kualitas penyuntingan dan validasi data medis pada modul lansia akan terganggu karena fokus tim terpecah," kata Maya tegas. "Kedua, risiko kesalahan cetak pada pamflet baru akan sangat tinggi akibat proses pemeriksaan yang terburu-buru. Kami di divisi komunikasi memegang prinsip bahwa materi edukasi masyarakat harus akurat dan berkualitas."
+"Pertama, kualitas penyuntingan dan validasi data medis pada modul lansia akan terganggu karena fokus tim terpecah," kata Maya tegas. "Kedua, risiko kesalahan cetak pada pamflet baru akan sangat tinggi akibat proses pemeriksaan yang terburu-buru. Di unit Komunikasi dan Publikasi, kami memegang prinsip bahwa materi edukasi masyarakat harus akurat dan berkualitas."
 
 Maya menyampaikan argumen itu tanpa emosi berlebihan atau pidato panjang tentang kelelahan. Batas yang ia ajukan berangkat dari kapasitas kerja tim dan tenggat yang sudah berjalan.
 

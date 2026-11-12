@@ -2522,19 +2522,19 @@ Minggu pertama Desember 2025 dibuka oleh hujan deras yang membasahi aspal Jalan 
 
 Maya duduk di meja kerjanya, menatap angka-angka anggaran publikasi kesehatan untuk kegiatan kuartal pertama tahun depan.
 
-Di layar monitor sebelah, rekap publikasi 2025 masih terbuka. Maya sedang menyandingkan tiga sumber data yang tidak bisa dicampur begitu saja: jangkauan kanal digital dari pengelola media, catatan distribusi fisik dari staf lapangan di sepuluh kecamatan, serta biaya produksi cetak dari bagian administrasi. Ia memisahkan angka jangkauan digital dari jumlah materi yang benar-benar tersalurkan agar laporan akhir tahun tidak memberi kesan bahwa keduanya merupakan ukuran yang sama.
+Di layar monitor sebelah, rekap publikasi Januari–November 2025 masih terbuka. Maya sedang menyandingkan tiga sumber data yang tidak bisa dicampur begitu saja: jangkauan kanal digital dari pengelola media, catatan distribusi fisik dari staf lapangan di sepuluh kecamatan, serta biaya produksi cetak dari bagian administrasi. Ia memisahkan angka jangkauan digital dari jumlah materi yang benar-benar tersalurkan agar rekap sementara tidak memberi kesan bahwa keduanya merupakan ukuran yang sama.
 
 Menjelang siang, Dewi berhenti di sisi mejanya. "Bagaimana rekapnya, Maya?"
 
 "Angka kanal digital sudah cocok dengan laporan bulanan, Mbak. Untuk distribusi fisik, ada dua kecamatan yang catatannya belum sama dengan berita acara kegiatan. Saya minta staf lapangan memeriksa ulang sebelum angka itu masuk laporan. Bagian biaya cetak juga sedang saya cocokkan dengan bukti pengeluaran dari administrasi."
 
-Dewi membaca sekilas tabel yang terbuka. "Jangan dipaksakan selesai kalau datanya belum cocok. Saya ingin kamu mengoordinasikan finalisasi laporan ini. Atur pembagian pemeriksaan dengan staf lapangan, perancang, dan administrasi. Saya akan meninjau hasil akhirnya dan tetap memegang keputusan untuk prioritas divisi."
+Dewi membaca sekilas tabel yang terbuka. "Jangan dipaksakan selesai kalau datanya belum cocok. Saya ingin kamu mengoordinasikan konsolidasi rekap awal ini. Atur pembagian pemeriksaan dengan staf lapangan, perancang, dan administrasi. Saya akan meninjau hasil akhirnya dan tetap memegang keputusan untuk prioritas divisi."
 
 Maya mengangguk. "Baik, Mbak. Saya buat daftar bagian yang perlu dikonfirmasi dan tenggatnya, lalu saya kirim ke masing-masing bagian."
 
 Ia kemudian menyusun daftar tindak lanjut, menetapkan waktu pengumpulan ulang, dan menghubungi rekan-rekannya satu per satu. Untuk pertama kalinya, tanggung jawabnya tidak berhenti pada menyelesaikan materi yang diberikan kepadanya. Ia harus memastikan pekerjaan beberapa fungsi bergerak dengan data yang sama, tanpa mengambil alih tugas validasi medis dari tenaga yang berwenang.
 
-Menjelang sore, konfirmasi dari staf lapangan masuk. Dua catatan yang semula berbeda ternyata menggunakan format pencatatan yang tidak sama. Setelah memastikan jumlah kegiatan dan lokasi distribusinya, Maya memperbarui tabel, lalu mengirimkan laporan kepada Dewi untuk ditinjau. Dewi mengembalikan beberapa catatan redaksional sebelum menyetujui hasil akhirnya.
+Menjelang sore, konfirmasi dari staf lapangan masuk. Dua catatan yang semula berbeda ternyata menggunakan format pencatatan yang tidak sama. Setelah memastikan jumlah kegiatan dan lokasi distribusinya, Maya memperbarui tabel, lalu mengirimkan rekap sementara kepada Dewi untuk ditinjau. Dewi mengembalikan beberapa catatan redaksional sebelum menyetujui hasil akhirnya.
 
 Namun, fokus matanya berulang kali terlepas dari layar monitor. Sejak pengakuan Ratih di Kiaracondong pada penghujung November lalu—saat ibunya akhirnya membuka kebenaran bahwa Bima pergi secara sadar demi wanita lain tanpa pernah berkirim uang—sebuah konstruksi besar di dalam batin Maya telah runtuh.
 
@@ -2890,9 +2890,9 @@ Maya membaca kembali rincian kewenangan di surat itu. "Untuk anggaran unit, apak
 
 "Kamu menyusun rencana anggaran dan mengelola alokasi setelah disetujui. Persetujuan pengeluaran tetap mengikuti prosedur keuangan yayasan," jawab Pak Frans. "Jadi kamu punya ruang untuk mengatur kebutuhan operasional, tetapi bukan kewenangan mencairkan atau menyetujui semua pengeluaran sendiri."
 
-Pak Frans berhenti sejenak sebelum melanjutkan. "Usulan ini tidak muncul hanya dari angka laporan. Dewi mengajukannya setelah melihat kamu mulai mengoordinasikan pekerjaan lintas bagian dan menjaga ketepatan data. Saya membawa evaluasi serta usulan pengembangan unit itu ke dewan pengurus. Mereka menyetujuinya setelah menilai kebutuhan program dan kesiapan tim."
+Pak Frans berhenti sejenak sebelum melanjutkan. "Setelah menerima evaluasi dari Dewi, saya membawa usulan pembentukan unit dan pengangkatanmu kepada dewan pengurus. Mereka menyetujuinya setelah menilai kebutuhan program dan kesiapan tim."
 
-Maya membaca lembar surat keputusan tersebut. Di sana tercantum nama lengkapnya: Maya Pramesti, S.I.Kom., disertai rincian penyesuaian wewenang, tanggung jawab penyusunan anggaran independen, dan kenaikan alokasi tunjangan jabatan.
+Maya membaca lembar surat keputusan tersebut. Di sana tercantum nama lengkapnya: Maya Pramesti, S.I.Kom., disertai rincian penyesuaian wewenang, tanggung jawab menyusun rencana anggaran unit dan mengelola alokasi yang telah disetujui, serta kenaikan tunjangan jabatan.
 
 Kehangatan menjalar di dada Maya.
 

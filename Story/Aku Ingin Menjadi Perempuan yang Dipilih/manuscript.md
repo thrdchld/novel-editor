@@ -587,11 +587,13 @@ Hanya berselang sembilan hari sejak ia menutup pintu rumahnya untuk Arman dan me
 Dada Maya terasa mengencang, tetapi wajahnya tetap tenang. Pelajaran hidup yang ia dapat dari Ratih sejak kecil kembali mengambil alih: jangan pernah menunjukkan kepanikan di hadapan orang lain.
 
 "Rincian hak akibat PHK dan surat rekomendasi kerja sudah disiapkan tim HRD di lembar belakang, May. Pembayaran hak akhirnya akan diproses setelah tanggal efektif PHK," kata Pak Rian lagi, memperhatikan ekspresi Maya yang tidak bergeming. "Kalau kamu butuh izin tidak masuk beberapa hari ke depan untuk mencari peluang baru, saya siap berikan akses."
+
 Maya merapikan surat itu kembali ke dalam amplop cokelat, menyusunnya sejajar dengan pulpen di atas meja.
 
 "Terima kasih atas keterusterangannya, Pak Rian," sahut Maya pelan. Suaranya terdengar stabil. "Saya akan menuntaskan semua sisa serah terima dokumen dan laporan evaluasi bulanan sebelum tanggal tiga puluh satu."
 
 Pak Rian menatapnya dengan heran sekaligus segan. "Kamu yakin tidak apa-apa, May? Kalau kamu butuh waktu istirahat sore ini..."
+
 "Saya tidak apa-apa, Pak. Saya tuntaskan pekerjaan saya dulu."
 
 Maya berdiri dan membawa amplop cokelat itu kembali ke kubikelnya.
@@ -932,7 +934,7 @@ Mbak Dewi menutup map portofolio Maya sambil mengangguk-angguk puas. "Pengalaman
 
 Empat hari kemudian, pada **10 Maret 2025**, dering telepon di meja kontrakan Antapani memutus keheningan pagi Maya.
 
-"Selamat pagi, Mbak Maya. Kami dari HRD Yayasan Lentera Sehat ingin mengonfirmasi bahwa berdasarkan hasil wawancara minggu lalu, **Mbak Maya dinyatakan diterima untuk posisi Staf Komunikasi dan Publikasi**," suara staf HRD dari ujung telepon terdengar melegakan.
+"Selamat pagi, Mbak Maya. Kami dari HRD Yayasan Lentera Sehat ingin mengonfirmasi bahwa berdasarkan hasil wawancara minggu lalu, **Mbak Maya dinyatakan diterima untuk posisi Staf Komunikasi dan Publikasi**." Suara staf HRD dari ujung telepon terdengar melegakan.
 
 Maya menahan napas sejenak, meremas pinggiran meja kayu. Rasa hangat menyeruak mengaliri dadanya. "Terima kasih banyak, Mbak. Terima kasih atas kesempatannya."
 
@@ -1746,13 +1748,17 @@ Daniel baru saja hendak beranjak menuju kamar kerja membawa laptop kerjanya keti
 "Niel, bisa duduk sebentar? Ada hal penting yang perlu kita bicarakan," kata Sarah pelan.
 Suara Sarah tidak meninggi dan tidak bergetar. Namun, ada ketegasan jernih dalam intonasinya yang membuat Daniel tak sanggup mengabaikan ajakan itu.
 
-Daniel memindahkan laptop ke tepi sofa, lalu duduk di kursi kayu seberang meja makan. Ia menatap istrinya, berusaha mempertahankan raut wajahnya yang biasa tenang. "Ada apa, Sar? Soal draf suntingan bukumu atau jadwal kontrol autoimun minggu depan?"Sarah menggeleng pelan. Ia melipat kedua telapak tangannya di atas meja, menatap mata suaminya lurus-lurus tanpa beralih.
+Daniel memindahkan laptop ke tepi sofa, lalu duduk di kursi kayu seberang meja makan. Ia menatap istrinya, berusaha mempertahankan raut wajahnya yang biasa tenang. "Ada apa, Sar? Soal draf suntingan bukumu atau jadwal kontrol autoimun minggu depan?"
+
+Sarah menggeleng pelan. Ia melipat kedua telapak tangannya di atas meja, menatap mata suaminya lurus-lurus tanpa beralih.
 "Aku mau tanya satu hal, Niel. Dan aku minta kamu menjawabnya dengan jujur," ujar Sarah. Tatapannya tenang, tetapi tegas. "Apakah kamu sedang memiliki kedekatan khusus dengan perempuan lain?"
 
 Pertanyaan itu meluncur tanpa basa-basi, menghantam dada Daniel hingga napasnya tertahan selama beberapa detik.
 Refleks pertahanan diri Daniel bekerja seketika. Pria itu memperbaiki posisi duduknya, menyusun raut wajah yang tampak terkejut sekaligus merasa dituduh secara tidak adil.
 
-"Perempuan lain? Maksudmu apa, Sar?" sahut Daniel dengan nada suara yang sengaja ditinggikan tipis, mencoba mengendalikan alur pembicaraan. "Aku tidak menjalin hubungan fisik dengan perempuan lain, Sar. Aku hanya sibuk dengan pekerjaan rumah sakit dan program mitra.""Aku tidak sedang bertanya soal hubungan fisik atau perselingkuhan di kamar hotel, Niel," sela Sarah cepat. Suaranya tetap teratur, memotong sanggahan suaminya dengan tegas. "Aku bertanya soal kedekatan emosional. Soal seseorang yang akhir-akhir ini menyita perhatianmu, tempatmu berbagi cerita saat kamu memilih diam di rumah ini."
+"Perempuan lain? Maksudmu apa, Sar?" sahut Daniel dengan nada suara yang sengaja ditinggikan tipis, mencoba mengendalikan alur pembicaraan. "Aku tidak menjalin hubungan fisik dengan perempuan lain, Sar. Aku hanya sibuk dengan pekerjaan rumah sakit dan program mitra."
+
+"Aku tidak sedang bertanya soal hubungan fisik atau perselingkuhan di kamar hotel, Niel," sela Sarah cepat. Suaranya tetap teratur, memotong sanggahan suaminya dengan tegas. "Aku bertanya soal kedekatan emosional. Soal seseorang yang akhir-akhir ini menyita perhatianmu, tempatmu berbagi cerita saat kamu memilih diam di rumah ini."
 
 Daniel mengepalkan jemarinya di bawah tepi meja. Bayangan raut wajah Maya, pesan-pesan malam di kamar Antapani, dan pengakuan pengandaian waktu di pelataran Pasteur seketika melintas cepat di kepalanya.
 

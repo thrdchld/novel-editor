@@ -689,7 +689,7 @@ Seorang dokter muda berpakaian jaga serba hijau melangkah mendekati ranjang memb
 
 "Saya putrinya, Dok. Bagaimana kondisi ibu saya?" Maya berdiri, menatap dokter itu dengan tatapan cemas.
 
-"Dari hasil pemeriksaan fisik awal dan foto rontgen di ruang radiologi, ada dua kondisi utama," jelas dokter jaga itu tenang. "Pertama, ada fraktur atau patah tulang pada pergelangan tangan kanan akibat menahan berat badan saat jatuh. Kedua, ada benturan di bagian kepala yang memicu gegar otak ringan. Ibu Ratih sempat mual dan pusing saat pertama kali sadar."
+"Dari pemeriksaan awal, kami menemukan dua hal yang perlu ditangani," jelas dokter jaga itu tenang. "Foto rontgen menunjukkan fraktur atau patah tulang pada pergelangan tangan kanan akibat menahan berat badan saat jatuh. Sementara itu, dari pemeriksaan klinis dan gejala mual serta pusing setelah benturan, kami menduga Ibu mengalami gegar otak ringan. Kondisinya akan terus kami pantau."
 
 Maya menelan ludah. "Penyebab pingsannya karena apa, Dok? Ibu tidak punya riwayat penyakit berat sebelumnya."
 
@@ -789,7 +789,7 @@ Daniel melangkah mendekati tiang infus, mengamati laju tetesan cairan bening yan
 
 Maya mengembuskan napas lega. "Berarti tidak ada indikasi bahaya di organ dalamnya ya, Dok?"
 
-Daniel menggeleng pelan, menyunggingkan senyum tipis yang memancarkan ketenangan seorang profesional berpengalaman. "Hasil laboratorium darah lengkapnya bersih. Lembar evaluasi dari tim ortopedi tadi sore juga mengonfirmasi kalau frakturnya tergolong fraktur tertutup. Tidak perlu tindakan operasi terbuka, cukup imobilisasi dengan gips selama beberapa minggu dan terapi pemulihan rutin."
+Daniel menggeleng pelan, menyunggingkan senyum tipis yang memancarkan ketenangan seorang profesional berpengalaman. "Hasil pemeriksaan darah lengkapnya tidak menunjukkan kelainan yang bermakna. Lembar evaluasi dari tim ortopedi tadi sore juga mengonfirmasi bahwa frakturnya tergolong fraktur tertutup. Berdasarkan evaluasi mereka, untuk saat ini Ibu belum memerlukan operasi. Pergelangan tangannya akan diimobilisasi dengan gips selama beberapa minggu, lalu dilanjutkan dengan terapi pemulihan sesuai perkembangan kondisinya."
 
 Cara Daniel menyampaikan informasi medis begitu tertata dan mudah dipahami, tanpa ada kesan terburu-buru atau nada menggurui. Di tengah situasi krisis yang menguras emosi dan isi tabungannya, penjelasan Daniel terasa seperti pegangan yang kokoh.
 

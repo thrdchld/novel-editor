@@ -437,3 +437,14 @@ Pemeriksaan kontekstual dilanjutkan pada rangkaian Bab 25–35, khususnya bagian
 Verifikasi teknis setelah koreksi: 72 heading bab, 3.387 baris, sekitar 49.298 kata, dan tidak ada tanda baca ber-escape. Empat rangkaian baris kosong tiga kali atau lebih perlu diperiksa saat pemeriksaan render, tetapi belum tentu merupakan kesalahan karena dapat berfungsi sebagai pemisah adegan.
 
 **Status tetap: NOT YET READY TO PUBLISH.** Konsistensi sapaan dan kronologi masih perlu diperiksa dengan pembacaan adegan lintas bab; pemeriksaan format pesan belum dapat dianggap sebagai pemeriksaan final. Blob SHA manuskrip terkini: `63604c966a44966515e81945a23a131aa7fd8f0f`.
+
+
+## Pemeriksaan konsistensi sapaan, kronologi, dan pemisahan dialog — 12 November 2026
+
+Pemeriksaan lanjutan menelusuri penggunaan sapaan antartokoh dalam konteks profesional, keluarga, dan relasi pribadi; tanggal eksplisit beserta hari dalam pekan; serta penanda durasi dan kilas balik yang berulang. Perbedaan sapaan seperti “Mbak Maya”/“May” pada Daniel, “Pak”/“Bapak” pada Bima, dan “Niel”/“Sar” di antara Daniel–Sarah dipertahankan karena perubahan konteks dan kedekatan relasi memang disengaja. Pemeriksaan tanggal eksplisit yang ditulis dengan nama hari tidak menemukan ketidaksesuaian hari-kalender. Tidak ditemukan alasan yang cukup kuat untuk mengubah kronologi utama berdasarkan pemeriksaan ini.
+
+Satu cacat pemisahan paragraf ditemukan dan diperbaiki di Bab 35: dialog Maya sebelumnya menempel pada kalimat narasi. Setelah perbaikan, pemisahan paragraf dialog dan narasi kembali jelas.
+
+SHA manuskrip setelah perbaikan: `f9ac8747fbd0e87cd965efb0a9b3c150333e8598`.
+
+Cakupan pemeriksaan ini bukan verifikasi faktual eksternal atas seluruh lokasi, institusi, profesi, atau prosedur medis; pemeriksaan tersebut tetap memerlukan tahap tersendiri. Status kesiapan publikasi tetap **BELUM SIAP** sampai pemeriksaan akhir tata letak/render dan verifikasi faktual yang relevan selesai.

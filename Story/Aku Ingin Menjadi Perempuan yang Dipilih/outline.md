@@ -619,7 +619,7 @@ Bab 55 — Pola yang Berulang
 
 Waktu: 1–7 Desember 2025
 
-Maya mulai melihat hubungan antara pengalaman masa kecil, hubungannya dengan Arman, dan kedekatannya dengan Daniel. Di kantor, ia mengoordinasikan finalisasi laporan publikasi 2025: menyandingkan data kanal digital, catatan distribusi fisik, dan biaya cetak; meminta staf lapangan memeriksa ketidaksesuaian data; serta membagi tindak lanjut dengan perancang dan administrasi. Setelah data dikonfirmasi, ia memperbarui laporan dan menyerahkannya kepada Dewi untuk ditinjau. Dewi mempercayakan koordinasi laporan kepada Maya, tetapi tetap memegang keputusan prioritas divisi. Pengalaman ini menjadi bukti awal bahwa tanggung jawab Maya berkembang dari pelaksana menjadi penanggung jawab lintas fungsi.
+Maya mulai melihat hubungan antara pengalaman masa kecil, hubungannya dengan Arman, dan kedekatannya dengan Daniel. Di kantor, ia mengoordinasikan konsolidasi awal data publikasi Januari–November 2025: menyandingkan data kanal digital, catatan distribusi fisik, dan biaya cetak; meminta staf lapangan memeriksa ketidaksesuaian data; serta membagi tindak lanjut dengan perancang dan administrasi. Setelah data dikonfirmasi, ia memperbarui rekap sementara dan menyerahkannya kepada Dewi untuk ditinjau. Dewi mempercayakan koordinasi laporan kepada Maya, tetapi tetap memegang keputusan prioritas divisi. Pengalaman ini menjadi bukti awal bahwa tanggung jawab Maya berkembang dari pelaksana menjadi penanggung jawab lintas fungsi.
 
 Bab 56 — Batas dengan Bima
 

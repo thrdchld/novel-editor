@@ -241,6 +241,14 @@ Hubungan yayasan dan rumah sakit
 
 Yayasan Lentera Sehat bekerja sama dengan RS Cakrawala dalam program edukasi kesehatan masyarakat dan kegiatan pelayanan kesehatan.
 
+Struktur kerja Yayasan Lentera Sehat
+
+Dewi tetap menjabat Kepala Divisi Komunikasi. Unit operasional Komunikasi dan Publikasi berada di bawah supervisi divisi tersebut; pembentukan unit tidak menghapus atau menggantikan posisi Dewi. Maya menjadi Koordinator Utama yang memimpin pekerjaan harian, kalender publikasi, pembagian tugas tim inti, konsolidasi laporan, serta koordinasi dengan staf lapangan, perancang, administrasi, dan mitra medis. Dewi tetap mengawasi arah dan prioritas divisi.
+
+Tim lapangan di wilayah program tetap bekerja melalui koordinator program masing-masing. Unit Maya mengoordinasikan kebutuhan materi, jadwal, distribusi informasi, dan pelaporan komunikasi; unit ini tidak mengambil alih seluruh fungsi program lapangan. Validasi isi medis tetap menjadi kewenangan tenaga medis atau mitra yang berwenang.
+
+Maya menyusun rencana anggaran unit dan mengelola alokasi yang telah disetujui. Persetujuan pengeluaran tetap mengikuti prosedur keuangan yayasan; jabatan koordinator tidak memberinya kewenangan finansial tanpa batas.
+
 Daniel telah menjadi dokter pembicara atau relawan dalam kegiatan yayasan sebelum Maya bekerja di sana.
 
 Maya diterima melalui proses rekrutmen biasa. Daniel tidak mengetahui lamaran Maya, tidak merekomendasikannya, dan tidak terlibat dalam keputusan perekrutan.
@@ -611,7 +619,7 @@ Bab 55 — Pola yang Berulang
 
 Waktu: 1–7 Desember 2025
 
-Maya mulai melihat hubungan antara pengalaman masa kecil, hubungannya dengan Arman, dan kedekatannya dengan Daniel. Ia menyadari bahwa ia sering bertahan dalam situasi yang menyakitkan karena takut tidak dipilih.
+Maya mulai melihat hubungan antara pengalaman masa kecil, hubungannya dengan Arman, dan kedekatannya dengan Daniel. Di kantor, ia mengoordinasikan finalisasi laporan publikasi 2025: menyandingkan data kanal digital, catatan distribusi fisik, dan biaya cetak; meminta staf lapangan memeriksa ketidaksesuaian data; serta membagi tindak lanjut dengan perancang dan administrasi. Dewi mempercayakan koordinasi laporan kepada Maya, tetapi tetap meninjau hasil dan memegang keputusan prioritas divisi. Pengalaman ini menjadi bukti awal bahwa tanggung jawab Maya berkembang dari pelaksana menjadi penanggung jawab lintas fungsi.
 
 Bab 56 — Batas dengan Bima
 
@@ -653,7 +661,11 @@ Bab 61 — Pekerjaan yang Menjadi Miliknya
 
 Tanggal: 14 Januari 2026
 
-Maya mendapat tanggung jawab lebih besar dan diangkat sebagai Koordinator Utama Komunikasi dan Publikasi di yayasan setelah hasil kerjanya dinilai baik. Perkembangan ini berasal dari kompetensi dan kerja kerasnya, bukan karena hubungan dengan Daniel.
+Laporan publikasi 2025 yang dikoordinasikan Maya menunjukkan biaya produksi cetak turun 18% dibanding 2024, jangkauan kanal digital hampir dua kali lipat berdasarkan rekap analitik, dan distribusi materi fisik di sepuluh kecamatan target. Dewi merekomendasikan Maya setelah melihat kemampuannya mengoordinasikan pekerjaan lintas fungsi. Direktur membawa evaluasi dan usulan pembentukan unit operasional Komunikasi dan Publikasi kepada dewan pengurus; dewan menyetujui pembentukan unit dan pengangkatan Maya sebagai Koordinator Utama.
+
+Dewi tetap menjadi Kepala Divisi Komunikasi dan mengawasi arah serta prioritas program. Unit operasional Komunikasi dan Publikasi berada di bawah supervisi divisi, tetapi memiliki alur kerja dan rencana anggaran sendiri. Maya memimpin pekerjaan harian: kalender publikasi, pembagian tugas tim inti, konsolidasi laporan, serta koordinasi dengan staf lapangan, perancang, dan mitra medis. Validasi isi kesehatan tetap menjadi kewenangan tenaga medis/mitra yang berwenang. Maya menyusun rencana anggaran dan mengelola alokasi setelah disetujui; persetujuan pengeluaran tetap mengikuti prosedur keuangan yayasan.
+
+Promosi ini berasal dari kompetensi, hasil kerja, dan kebutuhan organisasi, bukan karena hubungan Maya dengan Daniel.
 
 Bab 62 — Ibu dan Anak
 

@@ -2890,8 +2890,6 @@ Maya membaca kembali rincian kewenangan di surat itu. "Untuk anggaran unit, apak
 
 "Kamu menyusun rencana anggaran dan mengelola alokasi setelah disetujui. Persetujuan pengeluaran tetap mengikuti prosedur keuangan yayasan," jawab Pak Frans. "Jadi kamu punya ruang untuk mengatur kebutuhan operasional, tetapi bukan kewenangan mencairkan atau menyetujui semua pengeluaran sendiri."
 
-Pak Frans berhenti sejenak sebelum melanjutkan. "Setelah menerima evaluasi dari Dewi, saya membawa usulan pembentukan unit dan pengangkatanmu kepada dewan pengurus. Mereka menyetujuinya setelah menilai kebutuhan program dan kesiapan tim."
-
 Maya membaca lembar surat keputusan tersebut. Di sana tercantum nama lengkapnya: Maya Pramesti, S.I.Kom., disertai rincian penyesuaian wewenang, tanggung jawab menyusun rencana anggaran unit dan mengelola alokasi yang telah disetujui, serta kenaikan tunjangan jabatan.
 
 Kehangatan menjalar di dada Maya.

@@ -2534,6 +2534,8 @@ Maya mengangguk. "Baik, Mbak. Saya buat daftar bagian yang perlu dikonfirmasi da
 
 Ia kemudian menyusun daftar tindak lanjut, menetapkan waktu pengumpulan ulang, dan menghubungi rekan-rekannya satu per satu. Untuk pertama kalinya, tanggung jawabnya tidak berhenti pada menyelesaikan materi yang diberikan kepadanya. Ia harus memastikan pekerjaan beberapa fungsi bergerak dengan data yang sama, tanpa mengambil alih tugas validasi medis dari tenaga yang berwenang.
 
+Menjelang sore, konfirmasi dari staf lapangan masuk. Dua catatan yang semula berbeda ternyata menggunakan format pencatatan yang tidak sama. Setelah memastikan jumlah kegiatan dan lokasi distribusinya, Maya memperbarui tabel, lalu mengirimkan laporan kepada Dewi untuk ditinjau. Dewi mengembalikan beberapa catatan redaksional sebelum menyetujui hasil akhirnya.
+
 Namun, fokus matanya berulang kali terlepas dari layar monitor. Sejak pengakuan Ratih di Kiaracondong pada penghujung November lalu—saat ibunya akhirnya membuka kebenaran bahwa Bima pergi secara sadar demi wanita lain tanpa pernah berkirim uang—sebuah konstruksi besar di dalam batin Maya telah runtuh.
 
 Sepanjang minggu pertama Desember ini, dalam keheningan kamar kontrakan Antapani di malam hari maupun di tengah kesibukan kantor pada siang hari, pikiran Maya terus memutar kembali potongan-potongan perjalanan hidupnya.

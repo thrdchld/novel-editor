@@ -3394,11 +3394,9 @@ Ia ingin dipilih oleh ayahnya agar merasa berharga. Ia ingin dipilih oleh Arman 
 
 Namun pagi ini, di bawah pendar hangat matahari akhir Januari, Maya mulai melihat kembali harapan-harapan lamanya dengan lebih jernih.
 
-Melalui sesi konseling bersama Mbak Melani, percakapan jujur dengan Ratih, serta batas yang mulai ia tegaskan kepada Bima dan Arman, Maya perlahan memahami satu hal penting tentang dirinya.
+Melalui konseling, percakapan jujur dengan Ratih, dan batas yang mulai ia tegaskan kepada Bima serta Arman, Maya perlahan memahami bahwa keinginan untuk dicintai dan diperhatikan bukanlah sesuatu yang salah. Yang selama ini melukainya adalah cara ia mengejar keinginan itu: mengorbankan batas diri, memaklumi kebohongan, dan menyerahkan ukuran harga dirinya kepada orang lain.
 
-Keinginan untuk dicintai, diinginkan, dan diperhatikan bukanlah sesuatu yang salah. Itu adalah dorongan manusiawi yang wajar bagi setiap jiwa. Yang keliru selama ini adalah kebiasaannya mengorbankan batas diri, memaklumi kebohongan, dan meremehkan harga dirinya hanya demi mendapatkan pengakuan orang lain.
-
-Seseorang tidak menjadi berharga karena dipilih oleh orang lain. Dan harga diri seorang perempuan tidak pernah ditentukan oleh siapa yang memilih untuk tinggal atau melangkah pergi.
+Ia tidak menjadi lebih berharga karena seseorang memilih untuk tinggal.
 
 Maya menyunggingkan senyum tipis. Hidupnya belum sempurna: ia tidak bersama Daniel, tidak kembali kepada Arman, dan belum berdamai sepenuhnya dengan Bima. Namun, ia juga tidak lagi menunggu kehadiran seseorang untuk menentukan arah hidupnya. Untuk pagi itu, langkah-langkah kecil yang telah ia ambil terasa cukup.
 

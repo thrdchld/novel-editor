@@ -1496,7 +1496,9 @@ Maya tersenyum tipis, merapikan letak kacamatanya. "Tinggal merapikan halaman te
 Daniel meletakkan cangkir teh hangat dan kantong kertas berisi dua potong roti gandum di samping laptop Maya.
 "Saya perhatikan waktu rapat tadi jam satu siang, Mbak Maya cuma minum air putih dan tidak menyentuh kue kotak panitia sama sekali," kata Daniel halus. Nada suaranya lembut, dan perhatian itu terasa tulus bagi Maya. "Roti ini dari toko sebelah, belum manis sekali, pas buat pengganjal perut."
 
-Maya menatap gelas teh hangat dan kantong roti di mejanya. Ada kehangatan spontan yang langsung menyapu dadanya."Aduh, Dokter Daniel... kenapa jadi repot-repot begitu?" sahut Maya sungkan. "Saya benar-benar tidak apa-apa."
+Maya menatap gelas teh hangat dan kantong roti di mejanya. Ada kehangatan spontan yang langsung menyapu dadanya.
+
+"Aduh, Dokter Daniel... kenapa jadi repot-repot begitu?" sahut Maya sungkan. "Saya benar-benar tidak apa-apa."
 
 "Tidak repot," Daniel duduk di kursi kayu kosong di samping meja Maya. Ia menatap Maya dengan tenang. "Kamu itu terbiasa mengurus hal-hal kecil milik orang lain, May. Dari jadwal penyuluhan, bahan bacaan warga, sampai urusan latihan tangan Ibu Ratih di rumah. Tapi diri sendiri sering lupa diperhatikan."
 Daniel mengucapkannya tanpa nada menggurui. Maya menyadari bahwa pria itu memperhatikan kebiasaannya, sesuatu yang jarang ia alami.

@@ -448,3 +448,16 @@ Satu cacat pemisahan paragraf ditemukan dan diperbaiki di Bab 35: dialog Maya se
 SHA manuskrip setelah perbaikan: `f9ac8747fbd0e87cd965efb0a9b3c150333e8598`.
 
 Cakupan pemeriksaan ini bukan verifikasi faktual eksternal atas seluruh lokasi, institusi, profesi, atau prosedur medis; pemeriksaan tersebut tetap memerlukan tahap tersendiri. Status kesiapan publikasi tetap **BELUM SIAP** sampai pemeriksaan akhir tata letak/render dan verifikasi faktual yang relevan selesai.
+
+
+## Audit kewajaran detail medis dan alur profesional — 12 November 2026
+
+Pemeriksaan terarah pada adegan perawatan Ratih (Bab 17–19), materi edukasi kesehatan (Bab 27), serta sesi konseling Daniel–Sarah (Bab 60) menemukan tiga formulasi yang perlu dirapikan:
+
+1. Bab 17: kalimat semula menggabungkan hasil rontgen dengan diagnosis gegar otak ringan. Revisi memisahkan temuan fraktur yang ditunjukkan rontgen dari dugaan gegar otak yang didasarkan pada pemeriksaan klinis dan gejala, serta menyebut pemantauan lanjutan.
+2. Bab 19: frasa “hasil laboratorium darah lengkapnya bersih” diganti menjadi “tidak menunjukkan kelainan yang bermakna”. Pernyataan tentang operasi juga diperjelas sebagai keputusan berdasarkan evaluasi tim ortopedi saat itu, bukan kesimpulan bahwa semua fraktur tertutup pasti tidak memerlukan operasi.
+3. Bab 27: kardiomegali tidak lagi disamakan dengan “pembengkakan jantung akibat tekanan darah tinggi”. Istilah itu dijelaskan sebagai pembesaran jantung, yang pada sebagian pasien dapat berkaitan dengan tekanan darah tinggi.
+
+Tidak ada perubahan pada alur kejadian, diagnosis tokoh, atau keputusan perawatan. Pemeriksaan ini merupakan penyuntingan kewajaran internal, bukan validasi klinis menyeluruh oleh tenaga medis. Detail terapi, protokol rumah sakit, dan aturan ketenagakerjaan belum dinyatakan terverifikasi secara eksternal.
+
+SHA manuskrip setelah revisi: `1f52bda9555a2e5489c26beb866488e25622c74c`.

@@ -1240,6 +1240,7 @@ Maya tersenyum tipis tanpa sadar, lalu duduk di tepi kasur. Ia menyapukan jemari
 Sudah dari jam tujuh tadi, Dokter Daniel. Alhamdulillah sempat dapat angkutan umum sebelum hujan lebat. Dokter sendiri masih di RS Cakrawala?
 
 Baru saja selesai visit tiga pasien rawat inap di lantai empat, balasan Daniel muncul hanya dalam hitungan belasan detik. Sekarang sedang duduk sebentar di ruang dokter sebelum jalan pulang ke Ciumbuleuit.
+
 Percakapan malam itu mengalir begitu saja, sebagaimana malam-malam sebelumnya sepanjang pertengahan bulan Juni 2025.
 
 Apa yang bermula pada 2 Juni sebagai pesan koreksi teknis mengenai angka ambang batas konsumsi garam pada pamflet edukasi kini perlahan bergeser menjadi kebiasaan baru yang hadir hampir setiap hari. Pesan-pesan yang bertukar di antara mereka tak lagi melulu berisi berkas evaluasi publikasi Yayasan Lentera Sehat atau jadwal rapat panitia gabungan.
@@ -1252,6 +1253,7 @@ Sementara bagi Maya, pesan-pesan dari Daniel datang seperti embun sejuk di tenga
 Maya tersenyum, mengusap layar ponselnya hangat. Rutin sekali, Dok. Malah tadi pagi Ibu sudah mulai nekat mau memotong bahan kain tipis di Kiaracondong, tapi langsung saya tegur.
 
 Bagus kalau ditegur, jawab Daniel ditambah simbol senyum sederhana di ujung kalimatnya. Pasien seperti Bu Ratih memang butuh pengawasan ketat dari putrinya yang cekatan.
+
 Pesan-pesan mereka tetap memakai bahasa yang sopan. Tidak ada rayuan terang-terangan atau janji romantis. Maya menjadikan kesopanan itu alasan untuk menganggap komunikasi tersebut tidak bermasalah, meskipun frekuensi dan topiknya telah bergerak keluar dari urusan kerja. Ia tahu ada batas yang mulai kabur, tetapi belum ingin mengakuinya.
 
 Maya tahu betul bahwa Daniel sudah beristri. Bayangan keanggunan Sarah Putri Wicaksana dalam balutan gaun hijau sage di Hotel Papandayan dua bulan lalu masih terekam jelas di ingatannya. Namun, karena percakapan mereka hanya seputar keseharian dan kehangatan rasa saling menghormati, Maya membenarkan tindakan tersebut dalam hatinya, menganggapnya tak lebih dari hubungan pertemanan yang saling mendukung.
@@ -1458,21 +1460,25 @@ Maya mengembuskan napas pelan, lalu menyandarkan punggung di kursi kerja.
 Keinginan untuk membuka percakapan lama dengan Arman memang sempat melintas tipis. Ada dorongan naluriah untuk sekadar memeriksa foto profilnya, atau mengetikkan dua kata formal untuk memastikan bahwa ia tidak menaruh dendam. Lima tahun adalah waktu yang panjang, dan memotong ingatan tentang seseorang yang pernah menjadi pusat dunianya bukanlah hal yang bisa selesai dalam sekejap.
 
 Di suatu tempat di kota Bandung hari ini, mungkin Celine yang sedang sibuk menyiapkan kejutan ulang tahun untuk Arman, sebagaimana yang biasa Maya lakukan di masa lalu.
+
 Maya menggenggam ponselnya di atas meja, menatap layar kaca yang gelap. Ia membiarkan ingatan-ingatan masa lalu itu melintas tanpa berusaha menahannya atau membuangnya dengan paksa. Ia mengingat senyum Arman, tawa mereka di kafe Dago, dan janji-janji manis yang tak pernah terwujud.
 
 Ingatan itu masih menyisakan perih, tetapi tidak lagi mendorong Maya untuk menuntut keadilan atau meminta penjelasan ulang. Ia mulai bisa membiarkan kenangan itu lewat tanpa merasa harus melakukan sesuatu terhadap Arman.
 
 Maya meletakkan ponselnya dengan layar menghadap ke bawah, lalu kembali memusatkan perhatian pada draf naskah publikasi di laptop.
+
 Mengingat seseorang tidak berarti harus mengundangnya kembali ke dalam hidup. Maya menerima kenyataan bahwa lima tahun bersama Arman adalah bagian dari riwayat hidupnya yang telah membentuk ketahanannya hari ini. Namun, sejarah itu telah selesai, dan ia tidak perlu mengulang kesalahan yang sama demi memuaskan rasa rindu pada kenangan yang sudah mati.
 
 Pukul delapan malam di rumah kontrakan Antapani, keheningan kamar diputus oleh getaran pendek ponsel Maya.
 
 Maya yang sedang merapikan rak bukunya menghampiri meja kerja, mendapati notifikasi dari Dokter Daniel muncul di layar.
+
 May, draf penyuluhan gizi lansia untuk minggu depan sudah saya baca. Penjelasan soal pembatasan natriumnya sudah sangat pas dan mudah dimengerti, tulis Daniel dalam pesan malam itu.
 
 Maya tersenyum tipis, lalu duduk di tepi kasur. Jemarinya membalas pesan itu dengan lugas dan ramah.
 
 Terima kasih banyak, Dokter Daniel. Berarti besok pagi bisa langsung saya serahkan ke Mbak Dewi untuk dicetak.
+
 Sama-sama, May. Terima kasih juga sudah selalu teliti merapikan materi medis kami, balasan Daniel menyusul cepat, disusul pertanyaan ringan seputar kegiatannya sore tadi.
 
 Maya memeluk bantal kecilnya, membalas pesan Daniel dengan perasaan yang tenang. Malam dua belas Agustus tahun ini berlalu tanpa kue tart atau ucapan tengah malam untuk Arman. Namun, pesan Daniel yang datang menjelang tidur mengingatkan Maya bahwa meski satu bagian dari masa lalunya mulai terasa lebih jauh, kedekatan baru sedang tumbuh di ruang yang belum sepenuhnya ia pahami.

@@ -493,3 +493,14 @@ Naskah telah dibaca ulang berurutan dari Bab 1 sampai Bab 72 untuk putaran perta
 Verifikasi setelah putaran ini: 72 heading bab berurutan, sekitar 49,290 kata berdasarkan pemisahan spasi, tidak ada tanda baca ber-escape, dan tidak ditemukan lagi sejumlah typo/konstruksi yang sebelumnya ditandai. Pemeriksaan ini tidak menjamin bebas seluruh salah ketik atau masalah tipografi.
 
 **Status tetap: NOT YET READY TO PUBLISH.** Masih perlu satu putaran pemeriksaan khusus untuk konsistensi tipografi dan format pesan/chat, tanda baca dialog, nama/sapaan/tempat, angka dan tanggal, serta pemeriksaan akhir hasil render naskah. Blob SHA manuskrip terkini: `207b7ac247e2fdd99d21ebff2e749ab9970e1597`.
+
+
+---
+
+## Pemeriksaan khusus format dan dialog — 12 November 2026
+
+Putaran lanjutan memeriksa sambungan paragraf, dialog yang menempel pada narasi, serta keterbacaan alur percakapan. Koreksi terarah diterapkan pada Bab 7 (dialog dan narasi yang menempel), Bab 12 (dialog dan gerak tokoh), Bab 15 (pemisahan dialog dan paragraf setelah percakapan dengan Pak Rian), Bab 18 (pemisahan dialog Daniel dan narasi sesudahnya), Bab 19 (dua kalimat yang sebelumnya menyatu tanpa spasi/paragraf), serta Bab 45 (percakapan Daniel–Sarah yang dua giliran dialognya semula menempel). Beberapa tanda baca dan kapitalisasi awal kalimat setelah kutipan juga dirapikan.
+
+Pemeriksaan teknis terkini: 72 heading bab terdeteksi; 3.381 baris; sekitar 49.298 kata; tidak ditemukan tanda baca ber-escape. Pemindaian otomatis atas tanda kutip dan kapitalisasi menghasilkan banyak kecocokan yang memang merupakan dialog sah dalam satu paragraf, sehingga tidak dipakai sebagai dasar untuk mengubah seluruh pola dialog. Format pesan WhatsApp dan penggunaan sapaan masih perlu pemeriksaan kontekstual lanjutan; naskah belum dinyatakan bersih atau siap terbit.
+
+**Status tetap: NOT YET READY TO PUBLISH.** Blob SHA manuskrip setelah pemeriksaan ini: `25fc115b6d13809e12661a0f4b9207426d611f00`.

@@ -25,6 +25,13 @@
 - Klimaks/ending:
 - Keputusan struktural yang diperlukan:
 
+### Tabel rantai sebab-akibat
+- Jumlah konflik/kesalahpahaman yang bisa selesai dengan satu pertanyaan/pesan yang diabaikan tokoh:
+
+| peristiwa | keinginan tokoh | hambatan | pilihan | akibat yang tampak di halaman | pertanyaan "kenapa tidak X?" | jawaban di halaman |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+
 ## 3. Narrative dan scene edit
 - Orientasi waktu/tempat/POV:
 - Flashback dan transisi:

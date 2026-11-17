@@ -27,6 +27,7 @@
 
 ### Tabel rantai sebab-akibat
 - Jumlah konflik/kesalahpahaman yang bisa selesai dengan satu pertanyaan/pesan yang diabaikan tokoh:
+- Catatan wajib temuan kausalitas: setiap temuan kausalitas wajib mencantumkan **saran perbaikan** beserta **catatan konsekuensinya** (apakah membatalkan perbaikan atau titik balik lain). Dilarang menyarankan perubahan yang membatalkan keputusan editorial yang sudah dikunci tanpa menyebutkannya.
 
 | peristiwa | keinginan tokoh | hambatan | pilihan | akibat yang tampak di halaman | pertanyaan "kenapa tidak X?" | jawaban di halaman |
 |---|---|---|---|---|---|---|
@@ -62,7 +63,7 @@
 - Artefak/placeholder:
 
 ## 6. Temuan prioritas
-| ID | Severity | Release impact | Lokasi | Masalah | Dampak pembaca | Perbaikan |
+| ID | Severity | Release impact | Lokasi | Masalah | Dampak pembaca | Saran perbaikan & konsekuensi (apakah membatalkan perbaikan/titik balik/keputusan terkunci lain) |
 |---|---|---|---|---|---|---|
 
 ## 7. Perbaikan yang diterapkan

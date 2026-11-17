@@ -14,7 +14,7 @@ Untuk setiap naskah, identifikasi seluruh prosedur dunia nyata yang digunakan da
 
 ## 2. Verifikasi Eksternal dan Pencatatan Sumber
 - Setiap klaim durasi atau urutan prosedur yang memengaruhi plot (`[tahap A -> tahap B = N hari di naskah vs rentang nyata]`) **wajib diverifikasi menggunakan pencarian web** terhadap standar industri atau regulasi yang berlaku.
-- Catat sumber verifikasi (nama institusi, pedoman industri, atau URL rujukan) di dalam laporan audit.
+- **Aturan keras pencatatan sumber:** Sumber verifikasi di dalam laporan audit **wajib berupa URL penuh (`https://...`) beserta tanggal aksesnya** (misalnya: `https://contoh.id/artikel-prosedur (diakses 2026-11-17)`), **bukan hanya nama domain atau nama institusi**.
 - Sesuai `rules/11-genre-neutrality.md`, terapkan pemeriksaan ini hanya ketika cerita menggunakan prosedur dunia nyata; untuk elemen spekulatif/fantasi, uji konsistensi aturan internalnya.
 
 ## 3. Status Verifikasi dan Klasifikasi Temuan

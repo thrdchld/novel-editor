@@ -25,7 +25,11 @@ Pada setiap titik balik, ajukan pertanyaan uji: *"Kenapa tokoh tidak melakukan t
 Hitung secara eksplisit **berapa kali konflik utama atau kesalahpahaman dapat selesai hanya dengan satu pertanyaan, satu kalimat konfirmasi, atau satu pesan singkat** yang diabaikan oleh tokoh.
 
 - Setiap kali tokoh memilih tidak bertanya, menunda bicara, memotong percakapan, atau mengabaikan peluang klarifikasi, pengabaian tersebut wajib memiliki alasan situasional yang tampak di halaman.
-- Jika pengabaian terjadi berulang kali tanpa hambatan baru yang lebih kuat, tandai sebagai cacat struktural kausalitas (`HIGH` / `BLOCKER`), karena konflik bertahan semata-mata karena penulis menahan percakapan, bukan karena logika cerita.
+- **Bedakan premis genre dari cacat:** Jika pengabaian komunikasi merupakan premis genre yang diterima pembaca (misalnya tokoh pemalu/sungkan, komedi salah paham, atau romansa *slow-burn*), severity maksimal adalah **`REVIEW`** kecuali:
+  - **(a)** pengabaian tidak punya alasan yang tampak sama sekali di halaman, atau
+  - **(b)** biaya pengabaian tidak pernah meningkat sehingga konflik terasa dipertahankan secara artifisial oleh penulis.
+- Jika (a) atau (b) terjadi secara berulang tanpa hambatan baru yang lebih kuat, barulah tandai sebagai cacat struktural kausalitas (`HIGH` / `BLOCKER`).
+- **Catatan perkembangan karakter:** Kemajuan karakter yang kambuh sesaat saat menghadapi tekanan emosional lalu pulih kembali adalah wajar secara psikologis dan dramatik, serta **bukan** regresi karakter yang cacat.
 
 ## 4. Informasi yang Ditahan dan Konsistensi Motif
 
@@ -33,3 +37,8 @@ Hitung secara eksplisit **berapa kali konflik utama atau kesalahpahaman dapat se
 - Jika seorang tokoh menyembunyikan fakta penting, rencana tindakan, atau keputusan besar dari tokoh lain, motif mengapa informasi itu ditahan harus tampak masuk akal sejak informasi tersebut disembunyikan—bukan baru dikarang saat pengungkapan akhir.
 - Apabila seorang tokoh menyembunyikan informasi atau mengambil keputusan dengan alasan yang berbeda atau saling bertentangan di dua bab tanpa perkembangan pemicu yang jelas di antaranya, catat sebagai kontradiksi kausalitas dan motivasi (`HIGH`).
 - Sesuai `rules/11-genre-neutrality.md`, uji rantai sebab-akibat ini berlaku lintas genre berdasarkan logika internal cerita dan bukti di halaman tanpa memaksakan formula genre tertentu.
+
+## 5. Saran Perbaikan Kausalitas dan Analisis Konsekuensi Lintas Bab
+
+- Setiap temuan kausalitas wajib mencantumkan **"saran perbaikan"** spesifik disertai **catatan konsekuensinya** terhadap bagian lain cerita (apakah saran tersebut membatalkan perbaikan sebelumnya, mengubah alur informasi, atau membatalkan titik balik lain di bab sesudahnya).
+- **Larangan keras:** Dilarang memberikan saran perbaikan yang membatalkan keputusan editorial yang sudah dikunci (*locked*) atau merusak titik balik/perbaikan lain tanpa menyebutkan konsekuensi dan konflik tersebut secara eksplisit di dalam laporan.

@@ -74,13 +74,15 @@ Gunakan **hanya jika**:
 - delapan gerbang lulus atau memiliki author choice yang dapat diterima;
 - hasil revisi telah dibaca ulang dalam konteks.
 
-Jika salah satu dari syarat tabel sebab-akibat, verifikasi proses dunia nyata, atau pemeriksaan daftar rujukan mundur di atas tidak terpenuhi, vonis maksimal hanyalah **"perlu perbaikan lokal"** (`READY WITH MINOR FIXES`) atau **"kerangka perlu dibongkar"** (`NOT READY`) sesuai bobot temuan.
+Jika salah satu dari syarat tabel sebab-akibat, verifikasi proses dunia nyata, atau pemeriksaan daftar rujukan mundur di atas tidak terpenuhi, vonis maksimal hanyalah **"perlu perbaikan lokal"** (`READY WITH MINOR FIXES`) atau **"kerangka perlu dibongkar"** (`NOT READY`) sesuai bobot dan skala temuan:
+- **Ambang batas skala vonis:** Vonis **"kerangka perlu dibongkar"** (`NOT READY` struktural) **hanya** boleh diberikan jika perbaikan membutuhkan perubahan outline lintas **≥ 5 bab** atau **pembatalan titik balik utama**.
+- Jika semua `BLOCKER` atau temuan yang ada dapat diperbaiki dengan **edit lokal di ≤ 4 bab** tanpa merombak titik balik utama, vonis maksimal adalah **"perlu perbaikan lokal"** (`READY WITH MINOR FIXES`).
 
-### READY WITH MINOR FIXES
-Gunakan bila tidak ada BLOCKER dan tersisa beberapa perbaikan lokal yang spesifik. Daftarnya harus terbatas, tidak membutuhkan pembongkaran struktur, dan tidak mengubah keputusan kreatif utama.
+### READY WITH MINOR FIXES ("Perlu Perbaikan Lokal")
+Gunakan bila tidak ada BLOCKER struktural lintas ≥ 5 bab, atau ketika semua BLOCKER dan temuan yang tersisa dapat diperbaiki dengan edit lokal di ≤ 4 bab tanpa membongkar outline/titik balik utama. Daftarnya harus spesifik, terbatas, tidak membutuhkan pembongkaran struktur, dan tidak mengubah keputusan kreatif utama.
 
-### NOT READY
-Gunakan bila satu atau lebih BLOCKER membuat pembaca:
+### NOT READY ("Kerangka Perlu Dibongkar")
+Gunakan **hanya bila** perbaikan membutuhkan perubahan outline lintas ≥ 5 bab atau pembatalan titik balik utama karena satu atau lebih BLOCKER struktural membuat pembaca:
 - tidak memahami orientasi atau situasi adegan penting;
 - kehilangan hubungan sebab-akibat atau perkembangan konflik utama;
 - tidak memahami motivasi/perubahan karakter yang menopang plot;
@@ -88,7 +90,7 @@ Gunakan bila satu atau lebih BLOCKER membuat pembaca:
 - mengalami adegan atau transisi yang berulang kali membingungkan;
 - tidak menerima resolusi yang didukung oleh cerita sebelumnya.
 
-Sebutkan blocker minimum dan perbaikan yang diperlukan. Jangan menyarankan rewrite total bila revisi lebih terbatas cukup.
+Sebutkan blocker minimum dan perbaikan yang diperlukan. Jangan menyarankan rewrite total atau memberikan vonis "kerangka perlu dibongkar" bila revisi lokal di ≤ 4 bab sudah cukup.
 
 ### INSUFFICIENT EVIDENCE
 Gunakan bila hanya cuplikan yang tersedia, bab penting tidak ada, referensi inti hilang, atau audit keseluruhan belum dilakukan. Jangan memberi status READY berdasarkan sampel.

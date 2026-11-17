@@ -38,25 +38,25 @@ Naskah yang logis tetapi membingungkan saat dibaca belum lulus. Naskah yang kali
 
 ## Alur kerja
 
-1. Inventarisasi naskah, outline, canon, konfigurasi, dan dokumen referensi.
-2. Pahami janji cerita, konteks, genre sebagai deskripsi, POV, tense, target, dan keputusan yang dikunci.
+1. **Blind pass (tahap pertama wajib):** Baca HANYA bab naskah (`chapters/` atau `manuscript.md`) dan `outline.md`, lalu susun Tabel Rantai Sebab-Akibat (`rules/01-plot-and-causality.md`) **SEBELUM** membuka `canon.md`, `ledger.md`, `state.md`, atau laporan audit lama (`reports/`). Catat di laporan bahwa *blind pass* telah dilakukan.
+2. Setelah *blind pass* selesai, baru inventarisasi konfigurasi, canon, ledger, state, dan dokumen referensi lainnya; pahami janji cerita, konteks, genre sebagai deskripsi, POV, tense, target, dan keputusan yang dikunci.
 3. Baca naskah sebagai pembaca untuk memperoleh gambaran pengalaman aktual; jangan langsung mulai dari checklist mekanis.
 4. Lakukan story assessment dan developmental audit.
 5. Audit narasi, adegan, transisi, orientasi pembaca, dan keterbacaan bab demi bab.
-6. Bangun fact ledger dan lakukan audit lintas bab: timeline, continuity, knowledge, setup/payoff, serta aturan dunia.
+6. Bangun fact ledger, jalankan pemindai rujukan mundur (`--refs`), dan lakukan audit lintas bab: timeline, continuity, character knowledge (`05`), setup/payoff & rujukan mundur (`06`), serta aturan dunia.
 7. Lakukan line editing, copyediting, dan pemeriksaan format.
-8. Verifikasi fakta eksternal yang material bila diperlukan.
-9. Putuskan dan terapkan perbaikan; jangan berhenti pada daftar temuan.
-10. Baca ulang hasil revisi dalam konteks sebelum/sesudahnya, lalu audit dependensi.
-11. Lakukan publication gate berdasarkan pengalaman membaca keseluruhan naskah.
+8. Verifikasi proses dan prosedur dunia nyata yang material (`rules/18-real-world-procedures.md`) dengan pencarian web dan catat sumbernya (atau tandai `UNVERIFIED`).
+9. Susun laporan audit lengkap beserta daftar perbaikan spesifik (file, kalimat, saran perubahan minimal). Jika pengguna secara eksplisit meminta pengeditan naskah, terapkan perbaikan.
+10. Jika naskah diedit, baca ulang hasil revisi dalam konteks sebelum/sesudahnya, lalu audit dependensi.
+11. Lakukan publication gate berdasarkan pengalaman membaca keseluruhan naskah (`rules/09-publication-readiness.md`).
 
 ## Mode kerja
 
-- **Audit read-only:** tidak mengubah file jika pengguna hanya meminta penilaian.
-- **Workflow produksi:** jika pengguna meminta editor menjalankan atau memperbaiki naskah, audit dan perbaikan editorial adalah default. Perbaikan yang jelas dan dapat disimpulkan dilakukan tanpa meminta persetujuan satu per satu.
+- **Default adalah AUDIT (read-only):** Secara default, editor tidak mengubah file naskah. Editor menghasilkan laporan audit lengkap beserta daftar perbaikan spesifik (file, kutipan kalimat, dan saran perubahan minimal).
+- **Perbaikan atas permintaan eksplisit:** Editor hanya mengedit naskah secara langsung jika pengguna secara eksplisit meminta perbaikan/revisi. Saat diminta memperbaiki, perbaikan yang jelas dan dapat disimpulkan dilakukan lalu diverifikasi ulang.
 - **Keputusan kreatif material:** jangan mengarang perubahan premis, pasangan akhir, kematian/kehidupan tokoh, motivasi inti, atau ending yang belum diputuskan. Minta keputusan hanya jika alternatif tetap sama kuat setelah analisis.
 - **Preservasi voice:** pertahankan karakter suara penulis. Perbaiki kalimat yang tidak bekerja, bukan mengubah semua kalimat menjadi gaya seragam.
-- **Transparansi:** setiap perubahan signifikan harus punya alasan, bukti, dan status verifikasi.
+- **Transparansi:** setiap temuan dan saran perubahan signifikan harus punya alasan, bukti, dan status verifikasi.
 
 ## Severity dan dampak rilis
 

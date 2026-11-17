@@ -30,5 +30,6 @@ Hitung secara eksplisit **berapa kali konflik utama atau kesalahpahaman dapat se
 ## 4. Informasi yang Ditahan dan Konsistensi Motif
 
 - Konflik atau titik balik yang bergantung pada informasi yang sengaja ditahan oleh suatu tokoh wajib memiliki **motif penahanan informasi yang sudah ditanam sebelumnya** di halaman.
-- Jika seorang tokoh menyembunyikan rencana, pengajuan pindah, masalah keluarga, atau alasan perpisahan, motif mengapa ia menyembunyikannya harus tampak masuk akal sejak informasi itu ditahan—bukan baru dikarang saat pengungkapan akhir.
-- Apabila alasan atau motif tindakan tokoh berubah-ubah antarbab (misalnya di satu bab tindakan diklaim sebagai pengorbanan demi pasangan, tetapi di bab lain diklaim sebagai keputusan murni yang tetap akan diambil terlepas dari status hubungan), catat sebagai kontradiksi kausalitas dan motivasi (`HIGH`).
+- Jika seorang tokoh menyembunyikan fakta penting, rencana tindakan, atau keputusan besar dari tokoh lain, motif mengapa informasi itu ditahan harus tampak masuk akal sejak informasi tersebut disembunyikan—bukan baru dikarang saat pengungkapan akhir.
+- Apabila seorang tokoh menyembunyikan informasi atau mengambil keputusan dengan alasan yang berbeda atau saling bertentangan di dua bab tanpa perkembangan pemicu yang jelas di antaranya, catat sebagai kontradiksi kausalitas dan motivasi (`HIGH`).
+- Sesuai `rules/11-genre-neutrality.md`, uji rantai sebab-akibat ini berlaku lintas genre berdasarkan logika internal cerita dan bukti di halaman tanpa memaksakan formula genre tertentu.

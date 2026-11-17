@@ -11,3 +11,9 @@ Untuk setiap keputusan/reveal penting, periksa bagaimana tokoh memperoleh inform
 - Jika bab menggunakan POV alternatif yang disetujui, tandai secara jelas pada awal bab atau melalui format yang telah ditetapkan proyek.
 - Informasi tentang tokoh di luar POV harus datang melalui tindakan yang terlihat, dialog, bukti, atau sumber informasi yang masuk akal.
 - Bedakan inferensi tokoh dari fakta objektif; tokoh boleh salah menafsirkan sesuatu, tetapi narasi tidak boleh tanpa sengaja menyajikan tafsir itu sebagai fakta.
+
+## Audit pengetahuan pada keputusan dan petunjuk yang bertentangan
+
+- Untuk setiap keputusan penting atau kesimpulan tokoh, catat secara eksplisit **apa yang ia ketahui pada saat itu dan dari mana informasi tersebut diperoleh** (bab, adegan, pengamatan langsung, atau ucapan tokoh lain).
+- Apabila ada petunjuk yang sudah ditanam sebelumnya dan telah diketahui oleh tokoh POV (misalnya dokumen/tab yang terlihat, formulir yang dilaporkan teman, atau informasi dari percakapan), tetapi petunjuk itu bertentangan dengan asumsi atau kesimpulan tokoh saat mengambil keputusan, **petunjuk tersebut wajib ditanggapi di halaman**.
+- Tokoh POV harus tampak mengingat atau mempertimbangkan petunjuk itu lalu menepisnya dengan alasan yang masuk akal sesuai kondisinya. Jika tokoh mengambil kesimpulan seolah-olah petunjuk yang sudah diketahuinya tidak pernah ada, catat sebagai temuan (`CHARACTER_KNOWLEDGE` / `CAUSALITY`).

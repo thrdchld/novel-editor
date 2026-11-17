@@ -15,10 +15,53 @@ def load_config(root):
     except Exception as exc:
         return {"_warning": f"Could not parse project.yaml: {exc}"}
 
+DEFAULT_EXCLUDES = [
+    "outline.md",
+    "**/outline.md",
+    "canon.md",
+    "**/canon.md",
+    "timeline.md",
+    "**/timeline.md",
+    "ledger.md",
+    "**/ledger.md",
+    "state.md",
+    "**/state.md",
+    "EXPECTED-FINDINGS.md",
+    "**/EXPECTED-FINDINGS.md",
+    "reports/**",
+    "**/reports/**",
+]
+
+REF_REGEX = re.compile(
+    r"\b("
+    r"kemarin\s+lusa"
+    r"|kemarin"
+    r"|tadi\s+pagi"
+    r"|tadi\s+malam"
+    r"|(?:tiga|dua|empat)\s+minggu\s+(?:yang\s+)?lalu"
+    r"|minggu\s+(?:yang\s+)?lalu"
+    r"|bulan\s+(?:yang\s+)?lalu"
+    r"|pernah\s+bilang"
+    r"|waktu\s+itu"
+    r"|ceritanya"
+    r"|katanya"
+    r"|dulu"
+    r")\b",
+    re.I,
+)
+
+
 def collect_files(root, config):
     manuscript = config.get("manuscript", {})
-    includes = manuscript.get("include", ["**/*.md", "**/*.txt"])
-    excludes = manuscript.get("exclude", [])
+    if "include" in manuscript:
+        includes = manuscript["include"]
+    elif (root / "chapters").is_dir():
+        includes = ["chapters/**/*.md", "chapters/**/*.txt"]
+    elif (root / "manuscript.md").is_file():
+        includes = ["manuscript.md"]
+    else:
+        includes = ["**/*.md", "**/*.txt"]
+    excludes = manuscript.get("exclude", DEFAULT_EXCLUDES)
     found = set()
     for pattern in includes:
         for path in root.glob(pattern):
@@ -177,14 +220,105 @@ def scan(path, constraints):
             })
     return findings
 
+
+def _short_quote(line, match_span):
+    sentences = re.split(r"(?<=[.!?])\s+(?=[\"“A-Z])", line.strip())
+    if len(sentences) > 1:
+        offset = 0
+        stripped = line.strip()
+        start_idx = match_span[0] - (len(line) - len(line.lstrip()))
+        for sent in sentences:
+            pos = stripped.find(sent, offset)
+            if pos != -1 and pos <= start_idx < pos + len(sent) + 1:
+                return sent.strip()
+            if pos != -1:
+                offset = pos + len(sent)
+    return line.strip()
+
+
+def collect_refs(target, config=None):
+    config = config or {}
+    constraints = config.get("constraints", {})
+    markdown = constraints.get("markdown_format", {})
+    heading_pattern = markdown.get(
+        "chapter_heading_regex",
+        r"^\s{0,3}#{1,6}\s+\*{0,3}BAB\s+(\d+)\b",
+    )
+    target_path = Path(target).resolve()
+    if target_path.is_file():
+        files = [target_path]
+    else:
+        files = collect_files(target_path, config)
+
+    by_chapter = {}
+    for path in files:
+        source = path.read_text(encoding="utf-8", errors="replace")
+        sections, _ = chapter_sections(source, heading_pattern)
+        if not sections:
+            stem_match = re.search(r"bab[-_\s]*(\d+)", path.stem, re.I)
+            chap_num = int(stem_match.group(1)) if stem_match else 0
+            sections = [(chap_num, 1, source)]
+        for chap_num, start_line, chap_text in sections:
+            entries = by_chapter.setdefault(chap_num, [])
+            for offset, line in enumerate(chap_text.splitlines()):
+                if offset == 0 and re.search(heading_pattern, line, re.I):
+                    continue
+                matches = list(REF_REGEX.finditer(line))
+                if not matches:
+                    continue
+                line_no = start_line + offset
+                seen_quotes = set()
+                matched_terms = []
+                quotes = []
+                for m in matches:
+                    term = re.sub(r"\s+", " ", m.group(0))
+                    matched_terms.append(term)
+                    q = _short_quote(line, m.span())
+                    if q not in seen_quotes:
+                        seen_quotes.add(q)
+                        quotes.append(q)
+                entries.append({
+                    "chapter": chap_num,
+                    "file": str(path),
+                    "line": line_no,
+                    "terms": matched_terms,
+                    "quote": " | ".join(quotes),
+                })
+    return by_chapter
+
+
+def scan_refs(target, config=None):
+    by_chapter = collect_refs(target, config)
+    out = ["# Daftar Rujukan Mundur dan Waktu Relatif"]
+    for chap_num in sorted(by_chapter):
+        entries = by_chapter[chap_num]
+        if not entries:
+            continue
+        heading = f"## Bab {chap_num}" if chap_num else "## Tanpa Nomor Bab"
+        out.append("")
+        out.append(heading)
+        for item in entries:
+            terms_str = ", ".join(f"`{t}`" for t in item["terms"])
+            out.append(f"- Baris {item['line']} ({terms_str}): {item['quote']}")
+    return "\n".join(out)
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--root", default=".")
+    parser.add_argument(
+        "--refs",
+        action="store_true",
+        help="Hasilkan daftar markdown rujukan mundur dan kata waktu relatif per bab.",
+    )
     args = parser.parse_args()
     root = Path(args.root).resolve()
     config = load_config(root)
     if config.get("_warning"):
         print("WARNING:", config["_warning"])
+    if args.refs:
+        print(scan_refs(root, config))
+        return
     files = collect_files(root, config)
     print(f"Manuscript files inspected: {len(files)}")
     if not files:

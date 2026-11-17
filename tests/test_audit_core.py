@@ -117,6 +117,23 @@ class Tests(unittest.TestCase):
         self.assertIn("warung soto", bab_25_quotes)
         self.assertIn("suasana kerja di Jogja", bab_31_quotes)
 
+        # Dialogue tag "katanya" right after closing quote must not be flagged (e.g. Bab 3, Bab 9)
+        bab_03_lines = [item["line"] for item in by_chapter.get(3, [])]
+        self.assertNotIn(29, bab_03_lines)
+        bab_09_lines = [item["line"] for item in by_chapter.get(9, [])]
+        self.assertNotIn(29, bab_09_lines)
+        self.assertNotIn(65, bab_09_lines)
+
+        # "katanya" in narration (Bab 17) and inside quotes (Bab 26, 29, 31) must still be flagged
+        bab_17_quotes = " ".join(item["quote"] for item in by_chapter[17])
+        bab_26_quotes = " ".join(item["quote"] for item in by_chapter[26])
+        bab_29_quotes = " ".join(item["quote"] for item in by_chapter[29])
+        self.assertIn("martabak telur", bab_17_quotes)
+        self.assertIn("katanya nggak sabar", bab_26_quotes)
+        self.assertIn("Katanya urusan di sini", bab_29_quotes)
+        bab_31_line_75 = next(item for item in by_chapter[31] if item["line"] == 75)
+        self.assertIn("Katanya", bab_31_line_75["terms"])
+
 
 if __name__ == "__main__":
     unittest.main()

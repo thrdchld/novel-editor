@@ -50,6 +50,16 @@ REF_REGEX = re.compile(
     re.I,
 )
 
+DIALOGUE_TAG_WORDS = {"katanya", "ujarnya", "jawabnya", "kataku"}
+
+
+def _is_dialogue_tag(line, match):
+    word = re.sub(r"\s+", " ", match.group(0).strip()).lower()
+    if word not in DIALOGUE_TAG_WORDS:
+        return False
+    prefix = line[:match.start()]
+    return bool(re.search(r'\S["”\'’]\s+$', prefix))
+
 
 def collect_files(root, config):
     manuscript = config.get("manuscript", {})
@@ -263,7 +273,10 @@ def collect_refs(target, config=None):
             for offset, line in enumerate(chap_text.splitlines()):
                 if offset == 0 and re.search(heading_pattern, line, re.I):
                     continue
-                matches = list(REF_REGEX.finditer(line))
+                matches = [
+                    m for m in REF_REGEX.finditer(line)
+                    if not _is_dialogue_tag(line, m)
+                ]
                 if not matches:
                     continue
                 line_no = start_line + offset

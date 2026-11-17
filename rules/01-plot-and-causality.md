@@ -37,3 +37,8 @@ Hitung secara eksplisit **berapa kali konflik utama atau kesalahpahaman dapat se
 - Jika seorang tokoh menyembunyikan fakta penting, rencana tindakan, atau keputusan besar dari tokoh lain, motif mengapa informasi itu ditahan harus tampak masuk akal sejak informasi tersebut disembunyikan—bukan baru dikarang saat pengungkapan akhir.
 - Apabila seorang tokoh menyembunyikan informasi atau mengambil keputusan dengan alasan yang berbeda atau saling bertentangan di dua bab tanpa perkembangan pemicu yang jelas di antaranya, catat sebagai kontradiksi kausalitas dan motivasi (`HIGH`).
 - Sesuai `rules/11-genre-neutrality.md`, uji rantai sebab-akibat ini berlaku lintas genre berdasarkan logika internal cerita dan bukti di halaman tanpa memaksakan formula genre tertentu.
+
+## 5. Saran Perbaikan Kausalitas dan Analisis Konsekuensi Lintas Bab
+
+- Setiap temuan kausalitas wajib mencantumkan **"saran perbaikan"** spesifik disertai **catatan konsekuensinya** terhadap bagian lain cerita (apakah saran tersebut membatalkan perbaikan sebelumnya, mengubah alur informasi, atau membatalkan titik balik lain di bab sesudahnya).
+- **Larangan keras:** Dilarang memberikan saran perbaikan yang membatalkan keputusan editorial yang sudah dikunci (*locked*) atau merusak titik balik/perbaikan lain tanpa menyebutkan konsekuensi dan konflik tersebut secara eksplisit di dalam laporan.

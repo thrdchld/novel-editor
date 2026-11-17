@@ -33,7 +33,7 @@ DEFAULT_EXCLUDES = [
 ]
 
 REF_REGEX = re.compile(
-    r"\b("
+    r"(?<!-)\b("
     r"kemarin\s+lusa"
     r"|kemarin"
     r"|tadi\s+pagi"
@@ -42,15 +42,91 @@ REF_REGEX = re.compile(
     r"|minggu\s+(?:yang\s+)?lalu"
     r"|bulan\s+(?:yang\s+)?lalu"
     r"|pernah\s+bilang"
+    r"|kamu\s+pernah"
+    r"|kamu\s+sendiri\s+yang\s+bilang"
+    r"|kamu\s+bilang"
+    r"|yang\s+bilang"
+    r"|dia\s+bilang"
+    r"|kata\s+kamu"
     r"|waktu\s+itu"
     r"|ceritanya"
     r"|katanya"
     r"|dulu"
+    r"|di\s+kedai"
+    r"|di\s+warung"
+    r"|di\s+kafe"
     r")\b",
     re.I,
 )
 
 DIALOGUE_TAG_WORDS = {"katanya", "ujarnya", "jawabnya", "kataku"}
+
+SPEECH_REF_PHRASES = {
+    "kamu sendiri yang bilang",
+    "kamu bilang",
+    "yang bilang",
+    "dia bilang",
+    "kata kamu",
+    "kamu pernah",
+}
+
+LOCATIVE_REF_PHRASES = {"di kedai", "di warung", "di kafe"}
+
+NON_PAST_SPEECH_RE = re.compile(
+    r"\b(?:"
+    r"besok|lusa|nanti|ntar|kelak|suatu\s+saat|kapan-kapan"
+    r"|minggu\s+depan|bulan\s+depan|tahun\s+depan|sebentar\s+lagi|bentar\s+lagi"
+    r"|akan|bakal|bakalan|biar|biarkan|supaya|agar|tolong|coba|ayo|mari|silakan"
+    r"|mending|lebih\s+baik|sebaiknya|suruh|jangan|tinggal|harus|mesti|perlu|wajib|hendak|mau"
+    r")\b",
+    re.I,
+)
+
+FUTURE_ADVERB_RE = re.compile(
+    r"\b(?:besok|lusa|nanti|ntar|minggu\s+depan|bulan\s+depan|tahun\s+depan)\b",
+    re.I,
+)
+
+PAST_ANCHOR_RE = re.compile(
+    r"\b(?:"
+    r"kemarin(?:\s+lusa)?|dulu|tadi(?:\s+(?:pagi|siang|sore|malam))?|semalam|tempo\s+hari|sebelumnya|barusan"
+    r"|pernah|sempat"
+    r"|(?:(?:dua|tiga|empat|lima|enam|tujuh|delapan|sembilan|sepuluh|se|beberapa|\d+)\s+)?"
+    r"(?:hari|minggu|bulan|tahun|jam|menit|detik|malam|pagi|siang|sore|senin|selasa|rabu|kamis|jumat|sabtu)\s+"
+    r"(?:yang\s+)?lalu"
+    r"|yang\s+lalu"
+    r"|(?:waktu|saat)\s+itu"
+    r")\b",
+    re.I,
+)
+
+LOCATIVE_PAST_CUE_RE = re.compile(
+    r"\b(?:"
+    r"kemarin(?:\s+lusa)?|dulu|tadi(?:\s+(?:pagi|siang|sore|malam))?|semalam|tempo\s+hari|sebelumnya|barusan"
+    r"|pernah|sempat"
+    r"|(?:(?:dua|tiga|empat|lima|enam|tujuh|delapan|sembilan|sepuluh|se|beberapa|\d+)\s+)?"
+    r"(?:hari|minggu|bulan|tahun|jam|menit|detik|malam|pagi|siang|sore|senin|selasa|rabu|kamis|jumat|sabtu)\s+"
+    r"(?:yang\s+)?lalu"
+    r"|yang\s+lalu"
+    r"|(?:waktu|saat)\s+itu"
+    r"|(?:waktu|pas|sewaktu)\s+(?:[^,.!?]{0,30}\s+)?di\s+(?:kedai|warung|kafe)"
+    r"|ingat|teringat|mengingat|keingat|inget|lupa|kelupaan|melupakan|terngiang|membekas|berputar\s+di\s+telinga\w*"
+    r"|(?<!buku\s)cerita(?:nya)?|katanya|kata\s+(?:kamu|dia|aku|saya|mereka)|ngaku(?:nya)?|mengaku"
+    r"|(?:kamu\s+sendiri\s+yang|kamu|yang|dia|pernah|sempat|sudah|udah|ku|kau)\s*bilang"
+    r"|obrolan|percakapan|pembicaraan|pertemuan|kejadian|peristiwa|insiden|pertengkaran|perdebatan"
+    r"|omongan|ucapan|perkataan|pengakuan"
+    r")\b",
+    re.I,
+)
+
+LOCATIVE_NON_PAST_RE = re.compile(
+    r"\b(?:"
+    r"besok|lusa|nanti|ntar|akan|bakal|bakalan|daripada|tolong|coba|ayo|mari|silakan|jangan"
+    r"|biar|biarkan|supaya|agar|mending|sebaiknya|lebih\s+baik|suruh|tinggal|hendak"
+    r"|kalau\s+(?:harus|mau|ingin|perlu)|mau\s+(?:ke|mampir|makan|minum|ketemu|nongkrong|nunggu)"
+    r")\b",
+    re.I,
+)
 
 
 def _is_dialogue_tag(line, match):
@@ -59,6 +135,40 @@ def _is_dialogue_tag(line, match):
         return False
     prefix = line[:match.start()]
     return bool(re.search(r'\S["”\'’]\s+$', prefix))
+
+
+def _is_past_reference(line, match):
+    """Filter speech/locative ref candidates so future, hortative, or current-scene uses are skipped."""
+    term = re.sub(r"\s+", " ", match.group(0).strip()).lower()
+    if term not in SPEECH_REF_PHRASES and term not in LOCATIVE_REF_PHRASES:
+        return True
+
+    sentence, local_start = _sentence_context(line, match.span())
+    before = sentence[:local_start]
+    clause_before = re.split(r"[,;:—–\"“]|(?<!\w)['‘]", before)[-1]
+    quote_clause_before = re.split(r"[\"“]", before)[-1]
+
+    if term in SPEECH_REF_PHRASES:
+        if term == "kamu pernah":
+            return not re.search(r"\bjangan\s+sampai\b", clause_before, re.I)
+        if NON_PAST_SPEECH_RE.search(clause_before):
+            if PAST_ANCHOR_RE.search(clause_before):
+                return True
+            # Rhetorical "kenapa/kok ... harus bilang ..." reacts to something already said.
+            if re.match(r"^\s*(?:kenapa|mengapa|kok)\b", clause_before.strip(), re.I) and not re.search(
+                r"\b(?:besok|lusa|nanti|ntar|akan|bakal|bakalan|biar|tolong|coba|jangan)\b",
+                clause_before,
+                re.I,
+            ):
+                return True
+            return False
+        if FUTURE_ADVERB_RE.search(quote_clause_before) and not PAST_ANCHOR_RE.search(quote_clause_before):
+            return False
+        return True
+
+    if LOCATIVE_NON_PAST_RE.search(sentence) and not PAST_ANCHOR_RE.search(sentence):
+        return False
+    return bool(LOCATIVE_PAST_CUE_RE.search(sentence))
 
 
 def collect_files(root, config):
@@ -231,19 +341,25 @@ def scan(path, constraints):
     return findings
 
 
-def _short_quote(line, match_span):
-    sentences = re.split(r"(?<=[.!?])\s+(?=[\"“A-Z])", line.strip())
+def _sentence_context(line, match_span):
+    stripped = line.strip()
+    lead = len(line) - len(line.lstrip())
+    sentences = re.split(r"(?<=[.!?])\s+(?=[\"“A-Z])", stripped)
     if len(sentences) > 1:
         offset = 0
-        stripped = line.strip()
-        start_idx = match_span[0] - (len(line) - len(line.lstrip()))
+        start_idx = match_span[0] - lead
         for sent in sentences:
             pos = stripped.find(sent, offset)
             if pos != -1 and pos <= start_idx < pos + len(sent) + 1:
-                return sent.strip()
+                return sent.strip(), max(0, start_idx - pos)
             if pos != -1:
                 offset = pos + len(sent)
-    return line.strip()
+    return stripped, max(0, match_span[0] - lead)
+
+
+def _short_quote(line, match_span):
+    sentence, _ = _sentence_context(line, match_span)
+    return sentence
 
 
 def collect_refs(target, config=None):
@@ -275,7 +391,7 @@ def collect_refs(target, config=None):
                     continue
                 matches = [
                     m for m in REF_REGEX.finditer(line)
-                    if not _is_dialogue_tag(line, m)
+                    if not _is_dialogue_tag(line, m) and _is_past_reference(line, m)
                 ]
                 if not matches:
                     continue

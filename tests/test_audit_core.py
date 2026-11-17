@@ -134,6 +134,37 @@ class Tests(unittest.TestCase):
         bab_31_line_75 = next(item for item in by_chapter[31] if item["line"] == 75)
         self.assertIn("Katanya", bab_31_line_75["terms"])
 
+    def test_scan_refs_catatan_sungkan_bab_25_kedai_kopi(self):
+        fixture_root = Path(__file__).resolve().parent / "fixtures" / "catatan-sungkan-pre-fix"
+        markdown_output = scan_refs(fixture_root)
+        by_chapter = collect_refs(fixture_root)
+
+        bab_25_line_21 = next(item for item in by_chapter[25] if item["line"] == 21)
+        self.assertIn("kamu sendiri yang bilang di kedai kopi", bab_25_line_21["quote"].lower())
+        self.assertIn("Kamu sendiri yang bilang", bab_25_line_21["terms"])
+        self.assertIn("di kedai", bab_25_line_21["terms"])
+
+        bab_25_section = markdown_output.split("## Bab 25", 1)[1].split("## Bab ", 1)[0]
+        self.assertIn("Kamu sendiri yang bilang di kedai kopi", bab_25_section)
+
+        # Past speech/locative references in other chapters are included
+        bab_28_line_29 = next(item for item in by_chapter[28] if item["line"] == 29)
+        self.assertIn("dia bilang", [t.lower() for t in bab_28_line_29["terms"]])
+        bab_31_line_39 = next(item for item in by_chapter[31] if item["line"] == 39)
+        self.assertIn("kamu bilang", [t.lower() for t in bab_31_line_39["terms"]])
+        bab_13_line_11 = next(item for item in by_chapter[13] if item["line"] == 11)
+        self.assertIn("di kedai", [t.lower() for t in bab_13_line_11["terms"]])
+        bab_17_line_51 = next(item for item in by_chapter[17] if item["line"] == 51)
+        self.assertIn("di warung", [t.lower() for t in bab_17_line_51["terms"]])
+
+        # Non-past uses (future "yang bilang", general/hypothetical "di warung"/"di kafe") are excluded
+        bab_27_lines = [item["line"] for item in by_chapter.get(27, [])]
+        self.assertNotIn(51, bab_27_lines)
+        bab_09_lines = [item["line"] for item in by_chapter.get(9, [])]
+        self.assertNotIn(21, bab_09_lines)
+        bab_02_line_33 = next(item for item in by_chapter[2] if item["line"] == 33)
+        self.assertNotIn("di kafe", [t.lower() for t in bab_02_line_33["terms"]])
+
 
 if __name__ == "__main__":
     unittest.main()

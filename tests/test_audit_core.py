@@ -4,7 +4,7 @@ import unittest
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-from audit_core import collect_files, scan
+from audit_core import collect_files, collect_refs, scan, scan_refs
 
 
 class Tests(unittest.TestCase):
@@ -96,6 +96,43 @@ class Tests(unittest.TestCase):
             files = collect_files(root, config)
             paths = [path.relative_to(root).as_posix() for path in files]
             self.assertEqual(paths, ["Story/novel.md"])
+
+    def test_scan_refs_on_catatan_sungkan_fixture(self):
+        fixture_root = Path(__file__).resolve().parent / "fixtures" / "catatan-sungkan-pre-fix"
+        markdown_output = scan_refs(fixture_root)
+        by_chapter = collect_refs(fixture_root)
+
+        self.assertIn("## Bab 18", markdown_output)
+        self.assertIn("## Bab 21", markdown_output)
+        self.assertIn("## Bab 25", markdown_output)
+        self.assertIn("## Bab 31", markdown_output)
+
+        bab_18_quotes = " ".join(item["quote"] for item in by_chapter[18])
+        bab_21_quotes = " ".join(item["quote"] for item in by_chapter[21])
+        bab_25_quotes = " ".join(item["quote"] for item in by_chapter[25])
+        bab_31_quotes = " ".join(item["quote"] for item in by_chapter[31])
+
+        self.assertIn("Kemarin", bab_18_quotes)
+        self.assertIn("warung soto", bab_21_quotes)
+        self.assertIn("warung soto", bab_25_quotes)
+        self.assertIn("suasana kerja di Jogja", bab_31_quotes)
+
+        # Dialogue tag "katanya" right after closing quote must not be flagged (e.g. Bab 3, Bab 9)
+        bab_03_lines = [item["line"] for item in by_chapter.get(3, [])]
+        self.assertNotIn(29, bab_03_lines)
+        bab_09_lines = [item["line"] for item in by_chapter.get(9, [])]
+        self.assertNotIn(29, bab_09_lines)
+        self.assertNotIn(65, bab_09_lines)
+
+        # "katanya" in narration (Bab 17) and inside quotes (Bab 26, 29, 31) must still be flagged
+        bab_17_quotes = " ".join(item["quote"] for item in by_chapter[17])
+        bab_26_quotes = " ".join(item["quote"] for item in by_chapter[26])
+        bab_29_quotes = " ".join(item["quote"] for item in by_chapter[29])
+        self.assertIn("martabak telur", bab_17_quotes)
+        self.assertIn("katanya nggak sabar", bab_26_quotes)
+        self.assertIn("Katanya urusan di sini", bab_29_quotes)
+        bab_31_line_75 = next(item for item in by_chapter[31] if item["line"] == 75)
+        self.assertIn("Katanya", bab_31_line_75["terms"])
 
 
 if __name__ == "__main__":

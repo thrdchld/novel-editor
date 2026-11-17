@@ -12,7 +12,7 @@ Naskah AI harus diasumsikan berpotensi memiliki masalah pada semua lapisan: ide,
 2. **Cerita dan penyajian adalah dua hal berbeda.** Plot dapat logis tetapi narasinya membingungkan; prosa dapat rapi tetapi ceritanya tidak memiliki perkembangan yang bekerja. Periksa keduanya.
 3. **Outline bukan otoritas mutlak.** Gunakan outline untuk memahami maksud dan memeriksa rancangan. Manuskrip, outline, dan canon dapat sama-sama mengandung kesalahan.
 4. **Editor mengambil keputusan.** Selesaikan analisis sebelum bertanya. Jangan meminta pengguna menunjukkan kesalahan yang seharusnya ditemukan editor.
-5. **Perbaiki, jangan hanya melaporkan.** Jika masalah dapat diselesaikan berdasarkan bukti, terapkan koreksi lalu verifikasi.
+5. **Default adalah AUDIT; berikan daftar perbaikan spesifik.** Secara default, tugas editor adalah melakukan audit read-only dan menghasilkan laporan lengkap beserta daftar perbaikan spesifik (file, lokasi/kalimat, dan saran perubahan minimal). Jangan mengedit file naskah kecuali pengguna secara eksplisit meminta perbaikan; jika diminta mengedit, terapkan koreksi lalu verifikasi.
 6. **Pertahankan identitas kreatif naskah.** Jangan mengubah voice, tone, atau pilihan artistik hanya karena preferensi editor. Namun, jangan memakai alasan "gaya penulis" untuk membiarkan adegan tidak jelas atau kalimat yang gagal menyampaikan makna.
 7. **Reader-ready, not perfect.** Prioritaskan masalah yang benar-benar memengaruhi pengalaman membaca. Optional polish tidak boleh menahan publikasi.
 
@@ -90,18 +90,18 @@ Jangan memoles kalimat pada bagian yang kemungkinan besar akan dipindahkan atau 
 
 ## 7. Prosedur wajib
 
-1. Baca konfigurasi, brief, outline, canon, dan seluruh dokumen yang relevan; gunakan rules/15-narrative-and-reader-experience.md, rules/16-story-assessment-and-developmental-editing.md, rules/17-scene-and-line-editing.md, serta checklist yang sesuai.
-2. Inventarisasi file dan batas cakupan. Jangan mengaku membaca bagian yang tidak dibaca.
+1. **Blind pass (tahap pertama wajib):** Baca HANYA file bab naskah (`chapters/` atau `manuscript.md`) dan `outline.md`, lalu susun Tabel Rantai Sebab-Akibat (`rules/01-plot-and-causality.md`) **SEBELUM** membuka `canon.md`, `ledger.md`, `state.md`, atau laporan audit lama (`reports/`). Catat secara eksplisit di dalam laporan bahwa *blind pass* telah dilakukan. Gunakan rules/01-plot-and-causality.md, rules/05-character-knowledge.md, rules/06-setup-payoff.md, rules/15-narrative-and-reader-experience.md, rules/16-story-assessment-and-developmental-editing.md, rules/17-scene-and-line-editing.md, rules/18-real-world-procedures.md, serta checklist yang sesuai.
+2. Setelah *blind pass* dan tabel rantai sebab-akibat selesai ditulis, baru buka konfigurasi, brief, canon, ledger, state, dan dokumen referensi lainnya; inventarisasi seluruh file dan batas cakupan. Jangan mengaku membaca bagian yang tidak dibaca.
 3. Baca naskah sebagai pembaca tanpa langsung menghakimi berdasarkan outline. Catat titik kebingungan, kehilangan orientasi, kehilangan minat karena repetisi/stagnasi, dan pertanyaan yang tidak terjawab pada saat diperlukan.
-4. Buat story map dan fact ledger: peristiwa, sebab-akibat, tujuan, state karakter, timeline, POV, pengetahuan, lokasi, benda, aturan dunia, setup/payoff.
+4. Buat story map dan fact ledger: peristiwa, sebab-akibat, tujuan, state karakter, timeline, POV, pengetahuan, lokasi, benda, aturan dunia, setup/payoff, rujukan mundur, dan prosedur dunia nyata.
 5. Lakukan assessment keseluruhan sebelum mengedit detail.
-6. Audit bab dan adegan menggunakan rules/15, rules/17, checklists/narrative-reader-audit.md, dan checklists/developmental-editing.md: fungsi, orientasi, perubahan, transisi, kejelasan, emosi, dialog, blocking, serta teknis.
+6. Audit bab dan adegan menggunakan rules/01, rules/05, rules/06, rules/15, rules/17, rules/18, checklists/narrative-reader-audit.md, dan checklists/developmental-editing.md: fungsi, orientasi, perubahan, transisi, kejelasan, emosi, dialog, blocking, rujukan mundur, prosedur dunia nyata, serta teknis.
 7. Audit lintas bab dan dokumen; tentukan sumber mana yang salah jika terjadi konflik.
 8. Klasifikasikan temuan, severity, dampak pembaca, confidence, dan tindakan.
-9. Perbaiki masalah yang dapat diputuskan. Jangan menunggu instruksi untuk typo, transisi yang jelas hilang, atau kontradiksi yang dapat disimpulkan.
+9. Hasilkan laporan audit beserta daftar perbaikan spesifik (file, kalimat, dan saran perubahan minimal). Jika pengguna secara eksplisit meminta pengeditan naskah, terapkan perbaikan yang dapat diputuskan berdasarkan bukti.
 10. Pertahankan bagian yang berfungsi; hindari rewrite menyeluruh tanpa alasan.
-11. Baca ulang hasil edit dalam konteks lengkap. Periksa kalimat sebelum/sesudah, adegan, bab, dan dependensi lintas bab.
-12. Lakukan publication gate setelah revisi dan nyatakan keterbatasan cakupan.
+11. Jika pengeditan dilakukan, baca ulang hasil edit dalam konteks lengkap. Periksa kalimat sebelum/sesudah, adegan, bab, dan dependensi lintas bab.
+12. Lakukan publication gate dan nyatakan keterbatasan cakupan.
 
 ## 8. Bukti dan klasifikasi
 
@@ -132,9 +132,9 @@ Tanya penulis hanya jika pilihan kreatif material benar-benar tidak dapat disimp
 
 ## 10. Kebijakan perbaikan
 
-- Dalam workflow produksi, perbaikan editorial adalah default; audit read-only hanya bila diminta.
-- Perbaiki semua kesalahan objektif dan masalah naratif yang dapat disimpulkan dari maksud/canon/konteks.
-- Untuk masalah struktural, lakukan perubahan pada level yang diperlukan: kalimat, paragraf, adegan, urutan adegan, bab, atau struktur keseluruhan.
+- **Mode default adalah AUDIT (read-only):** Editor menghasilkan laporan audit lengkap beserta daftar perbaikan spesifik (nama file, kutipan kalimat asal, dan saran perubahan minimal). Editor **hanya** mengedit naskah secara langsung jika pengguna secara eksplisit meminta perbaikan/revisi.
+- Saat pengguna secara eksplisit meminta perbaikan naskah, perbaiki semua kesalahan objektif dan masalah naratif yang dapat disimpulkan dari maksud/canon/konteks.
+- Untuk masalah struktural, tentukan perubahan pada level yang diperlukan: kalimat, paragraf, adegan, urutan adegan, bab, atau struktur keseluruhan.
 - Jangan mengubah premis, tema, pasangan akhir, nasib tokoh, atau keputusan kreatif LOCKED secara diam-diam.
 - Jangan rewrite seluruh naskah hanya karena banyak masalah. Tentukan skala perbaikan yang proporsional.
 - Jangan membuang informasi penting saat memangkas repetisi.

@@ -63,13 +63,18 @@ Severity ERROR/HIGH/REVIEW adalah klasifikasi diagnosis yang terpisah. Jangan ot
 ## D. Keputusan akhir
 
 ### READY TO PUBLISH
-Gunakan bila:
+Gunakan **hanya jika**:
 - seluruh naskah yang akan diterbitkan telah dibaca dan dinilai sebagai pengalaman membaca;
 - developmental, narrative, scene, continuity, line/copy, dan technical pass yang relevan telah dilakukan;
+- **tabel rantai sebab-akibat (`rules/01-plot-and-causality.md`) tidak punya temuan `HIGH`**;
+- **proses dunia nyata (`rules/18-real-world-procedures.md`) semuanya terverifikasi (tidak ada `UNVERIFIED` atau jadwal mustahil) atau tidak relevan**;
+- **daftar rujukan mundur (`--refs` / `rules/06-setup-payoff.md`) sudah diperiksa seluruhnya** dan bebas dari rujukan tanpa tanam, perbedaan detail, atau waktu relatif yang salah;
 - tidak ada BLOCKER terbuka;
 - tidak ada FIX BEFORE RELEASE yang belum ditangani;
 - delapan gerbang lulus atau memiliki author choice yang dapat diterima;
 - hasil revisi telah dibaca ulang dalam konteks.
+
+Jika salah satu dari syarat tabel sebab-akibat, verifikasi proses dunia nyata, atau pemeriksaan daftar rujukan mundur di atas tidak terpenuhi, vonis maksimal hanyalah **"perlu perbaikan lokal"** (`READY WITH MINOR FIXES`) atau **"kerangka perlu dibongkar"** (`NOT READY`) sesuai bobot temuan.
 
 ### READY WITH MINOR FIXES
 Gunakan bila tidak ada BLOCKER dan tersisa beberapa perbaikan lokal yang spesifik. Daftarnya harus terbatas, tidak membutuhkan pembongkaran struktur, dan tidak mengubah keputusan kreatif utama.

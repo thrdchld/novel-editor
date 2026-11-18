@@ -73,6 +73,11 @@ Pada **G1 dan G2**, *blind pass* tetap berlaku dan editor wajib menjalankan:
 4. Pemeriksaan rujukan mundur pada outline (fakta lama yang dipakai sebelum ditanam).
 5. Khusus **G2**, pengecekan konsistensi kalender dan peta pengetahuan di `"Bukti G2"` terhadap daftar bab.
 
+Vonis **G1/G2** (selaras ambang K2 di `rules/09-publication-readiness.md`, dilaporkan memakai `templates/prapenulisan-report.md` maks 1 halaman):
+- **`LAYAK DITULIS`:** `"Bukti"` ada & terisi, 0 `HIGH` kausalitas, 0 `UNVERIFIED`/jadwal mustahil, 0 rujukan mundur belum ditanam, kalender & pengetahuan `Bukti G2` konsisten dengan daftar bab, dan 0 `BLOCKER`.
+- **`PERBAIKI DULU`:** Perbaikan dapat diselesaikan secara lokal (≤ 4 bab/bagian, atau melengkapi `"Bukti"`/`UNVERIFIED`) tanpa membongkar outline lintas ≥ 5 bab atau membatalkan titik balik utama.
+- **`PREMIS/KERANGKA DIBUANG`:** **Hanya** jika perbaikan membutuhkan perubahan outline lintas ≥ 5 bab, pembatalan titik balik utama, atau perombakan premis inti.
+
 ## Severity dan dampak rilis
 
 Severity: ERROR, HIGH, REVIEW, INFO.

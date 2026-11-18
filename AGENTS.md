@@ -168,3 +168,9 @@ Untuk proyek di repositori `novel-metropop`, editor mendukung tiga mode gerbang 
 - **Pemeriksaan prosedur dunia nyata (`rules/18-real-world-procedures.md`):** Verifikasi setiap proses dunia nyata yang tercantum di outline menggunakan pencarian web, lengkap dengan **URL penuh (`https://...`) dan tanggal akses** (atau tandai `UNVERIFIED` jika tidak dapat diverifikasi).
 - **Pemeriksaan rujukan mundur pada outline:** Periksa apakah ada fakta lama, peristiwa, atau informasi yang sudah dipakai di suatu bagian/bab outline **sebelum ditanam** di bagian/bab sebelumnya.
 - **Konsistensi kalender dan peta pengetahuan (`Bukti G2`):** Pada mode G2, periksa apakah kalender dan peta pengetahuan di dalam bagian `"Bukti G2"` konsisten dengan daftar bab pada outline.
+
+### Vonis G1 dan G2 (selaras `rules/09-publication-readiness.md` K2)
+Gunakan format ringkas maksimal 1 halaman pada `templates/prapenulisan-report.md`:
+- **`LAYAK DITULIS`:** Bagian `"Bukti"` ada dan terisi, tabel sebab-akibat bebas temuan `HIGH`, seluruh prosedur dunia nyata terverifikasi (`TERVERIFIKASI LULUS` dengan URL penuh + tanggal akses, tanpa `UNVERIFIED` atau jadwal mustahil) atau tidak relevan, tidak ada rujukan mundur belum ditanam, kalender dan peta pengetahuan di `"Bukti G2"` konsisten dengan daftar bab, dan tidak ada `BLOCKER` terbuka.
+- **`PERBAIKI DULU`:** Terdapat temuan/`BLOCKER` (termasuk `"Bukti"` tidak ada/kosong, temuan lokal di **≤ 4 bab**/bagian, prosedur `UNVERIFIED`/keliru lokal, atau rujukan mundur belum ditanam) yang dapat dibereskan tanpa mengubah premis, merombak outline lintas **≥ 5 bab**, atau membatalkan titik balik utama.
+- **`PREMIS/KERANGKA DIBUANG`:** **Hanya** boleh diberikan apabila perbaikan menuntut perubahan kerangka/outline lintas **≥ 5 bab**, **pembatalan titik balik utama**, atau kegagalan premis/rantai sebab-akibat inti yang tidak dapat ditangani lewat revisi lokal.

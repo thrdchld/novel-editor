@@ -58,6 +58,21 @@ Naskah yang logis tetapi membingungkan saat dibaca belum lulus. Naskah yang kali
 - **Preservasi voice:** pertahankan karakter suara penulis. Perbaiki kalimat yang tidak bekerja, bukan mengubah semua kalimat menjadi gaya seragam.
 - **Transparansi:** setiap temuan dan saran perubahan signifikan harus punya alasan, bukti, dan status verifikasi.
 
+## Mode gerbang (repo novel-metropop)
+
+Untuk audit proyek di repo `novel-metropop`, tersedia tiga mode gerbang:
+
+- **G1 (Prapenulisan — Cerita Utuh, TANPA bab):** Input hanya `story/<judul>/outline.md` yang berisi bagian cerita utuh + `"Bukti G1"`.
+- **G2 (Prapenulisan — Outline Lengkap, TANPA bab):** Input hanya `story/<judul>/outline.md` yang berisi outline lengkap + `"Bukti G2"`.
+- **G3 (Naskah Berjalan):** Input berupa bab-bab yang sudah ada (`chapters/`) + `outline.md`; laporan wajib menyebutkan **bab terakhir yang diaudit**.
+
+Pada **G1 dan G2**, *blind pass* tetap berlaku dan editor wajib menjalankan:
+1. Pemeriksaan keberadaan dan kelengkapan bagian `"Bukti G1"` / `"Bukti G2"` (jika tidak ada atau kosong, dicatat sebagai **`BLOCKER`**).
+2. Tabel rantai sebab-akibat (`rules/01-plot-and-causality.md`) pada titik balik/outline.
+3. Pemeriksaan prosedur dunia nyata (`rules/18-real-world-procedures.md`) untuk proses yang tercantum, disertai **URL penuh dan tanggal akses** (atau `UNVERIFIED`).
+4. Pemeriksaan rujukan mundur pada outline (fakta lama yang dipakai sebelum ditanam).
+5. Khusus **G2**, pengecekan konsistensi kalender dan peta pengetahuan di `"Bukti G2"` terhadap daftar bab.
+
 ## Severity dan dampak rilis
 
 Severity: ERROR, HIGH, REVIEW, INFO.

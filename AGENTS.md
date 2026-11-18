@@ -148,3 +148,32 @@ Lacak sesuai kebutuhan: urutan peristiwa; tanggal/durasi; state karakter; relasi
 ## 12. Publication readiness
 
 Gunakan rules/09-publication-readiness.md. READY berarti pembaca dapat mengikuti dan memahami cerita serta tidak terganggu oleh masalah material. Naskah tidak harus sempurna. Jika cakupan belum lengkap, gunakan INSUFFICIENT EVIDENCE. Jangan menyatakan READY hanya karena scanner atau checklist lulus.
+
+## 13. Mode gerbang untuk repo novel-metropop
+
+Untuk proyek di repositori `novel-metropop`, editor mendukung tiga mode gerbang audit berikut:
+
+1. **G1 (Gerbang Prapenulisan — Cerita Utuh, TANPA bab):**
+   - **Input:** Hanya `story/<judul>/outline.md` (tanpa folder/file `chapters/`), yang memuat bagian cerita utuh dan bagian `"Bukti G1"`.
+2. **G2 (Gerbang Prapenulisan — Outline Lengkap, TANPA bab):**
+   - **Input:** Hanya `story/<judul>/outline.md` (tanpa folder/file `chapters/`), yang memuat outline lengkap per bab dan bagian `"Bukti G2"`.
+3. **G3 (Gerbang Naskah Berjalan):**
+   - **Input:** Bab-bab yang sudah ditulis (`chapters/`) beserta `outline.md`.
+   - **Kewajiban cakupan:** Laporan G3 wajib menyebutkan secara eksplisit **bab terakhir yang diaudit** dan menjaga batasan cakupan (*blind pass* dan ledger dibangun dari bab yang tersedia + `outline.md`).
+
+### Prosedur wajib pada G1 dan G2
+- **Blind pass tetap berlaku:** Baca `story/<judul>/outline.md` terlebih dahulu secara *blind* dan susun tabel rantai sebab-akibat sebelum membuka dokumen referensi lain (`canon.md`, `ledger.md`, `state.md`, atau `reports/`), lalu catat secara eksplisit di laporan.
+- **Kelengkapan `"Bukti"` (`BLOCKER`):** Pada G1 wajib ada bagian `"Bukti G1"` dan pada G2 wajib ada bagian `"Bukti G2"`. Jika bagian `"Bukti"` tersebut **tidak ada atau kosong**, wajib dicatat sebagai temuan **`BLOCKER`**.
+- **Tabel rantai sebab-akibat (`rules/01-plot-and-causality.md`):** Susun tabel 7 kolom pada seluruh titik balik/perkembangan utama di outline.
+- **Pemeriksaan prosedur dunia nyata (`rules/18-real-world-procedures.md`):** Verifikasi setiap proses dunia nyata yang tercantum di outline menggunakan pencarian web, lengkap dengan **URL penuh (`https://...`) dan tanggal akses** (atau tandai `UNVERIFIED` jika tidak dapat diverifikasi).
+- **Pemeriksaan rujukan mundur pada outline:** Periksa apakah ada fakta lama, peristiwa, atau informasi yang sudah dipakai di suatu bagian/bab outline **sebelum ditanam** di bagian/bab sebelumnya.
+- **Konsistensi kalender dan peta pengetahuan (`Bukti G2`):** Pada mode G2, periksa apakah kalender dan peta pengetahuan di dalam bagian `"Bukti G2"` konsisten dengan daftar bab pada outline.
+
+### Vonis G1 dan G2 (selaras `rules/09-publication-readiness.md` K2)
+Gunakan format ringkas maksimal 1 halaman pada `templates/prapenulisan-report.md`:
+- **`LAYAK DITULIS`:** Bagian `"Bukti"` ada dan terisi, tabel sebab-akibat bebas temuan `HIGH`, seluruh prosedur dunia nyata terverifikasi (`TERVERIFIKASI LULUS` dengan URL penuh + tanggal akses, tanpa `UNVERIFIED` atau jadwal mustahil) atau tidak relevan, tidak ada rujukan mundur belum ditanam, kalender dan peta pengetahuan di `"Bukti G2"` konsisten dengan daftar bab, dan tidak ada `BLOCKER` terbuka.
+- **`PERBAIKI DULU`:** Terdapat temuan/`BLOCKER` (termasuk `"Bukti"` tidak ada/kosong, temuan lokal di **≤ 4 bab**/bagian, prosedur `UNVERIFIED`/keliru lokal, atau rujukan mundur belum ditanam) yang dapat dibereskan tanpa mengubah premis, merombak outline lintas **≥ 5 bab**, atau membatalkan titik balik utama.
+- **`PREMIS/KERANGKA DIBUANG`:** **Hanya** boleh diberikan apabila perbaikan menuntut perubahan kerangka/outline lintas **≥ 5 bab**, **pembatalan titik balik utama**, atau kegagalan premis/rantai sebab-akibat inti yang tidak dapat ditangani lewat revisi lokal.
+
+### Lokasi laporan gerbang
+- Simpan setiap laporan gerbang (`G1`, `G2`, atau `G3`) pada **branch baru** `audit/<judul-cerita>/<gerbang>` (misalnya `audit/kopi-hujan/G2`) di repositori `novel-editor` sebagai satu berkas `validation/<gerbang>.md`, dan **jangan merge ke `main`**.

@@ -165,6 +165,17 @@ class Tests(unittest.TestCase):
         bab_02_line_33 = next(item for item in by_chapter[2] if item["line"] == 33)
         self.assertNotIn("di kafe", [t.lower() for t in bab_02_line_33["terms"]])
 
+    def test_prapenulisan_report_template_has_verdict_section(self):
+        template_path = (
+            Path(__file__).resolve().parents[1] / "templates" / "prapenulisan-report.md"
+        )
+        self.assertTrue(template_path.is_file())
+        content = template_path.read_text(encoding="utf-8")
+        self.assertIn("## Vonis", content)
+        self.assertIn("LAYAK DITULIS", content)
+        self.assertIn("PERBAIKI DULU", content)
+        self.assertIn("PREMIS/KERANGKA DIBUANG", content)
+
 
 if __name__ == "__main__":
     unittest.main()

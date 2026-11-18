@@ -174,3 +174,6 @@ Gunakan format ringkas maksimal 1 halaman pada `templates/prapenulisan-report.md
 - **`LAYAK DITULIS`:** Bagian `"Bukti"` ada dan terisi, tabel sebab-akibat bebas temuan `HIGH`, seluruh prosedur dunia nyata terverifikasi (`TERVERIFIKASI LULUS` dengan URL penuh + tanggal akses, tanpa `UNVERIFIED` atau jadwal mustahil) atau tidak relevan, tidak ada rujukan mundur belum ditanam, kalender dan peta pengetahuan di `"Bukti G2"` konsisten dengan daftar bab, dan tidak ada `BLOCKER` terbuka.
 - **`PERBAIKI DULU`:** Terdapat temuan/`BLOCKER` (termasuk `"Bukti"` tidak ada/kosong, temuan lokal di **≤ 4 bab**/bagian, prosedur `UNVERIFIED`/keliru lokal, atau rujukan mundur belum ditanam) yang dapat dibereskan tanpa mengubah premis, merombak outline lintas **≥ 5 bab**, atau membatalkan titik balik utama.
 - **`PREMIS/KERANGKA DIBUANG`:** **Hanya** boleh diberikan apabila perbaikan menuntut perubahan kerangka/outline lintas **≥ 5 bab**, **pembatalan titik balik utama**, atau kegagalan premis/rantai sebab-akibat inti yang tidak dapat ditangani lewat revisi lokal.
+
+### Lokasi laporan gerbang
+- Simpan setiap laporan gerbang (`G1`, `G2`, atau `G3`) pada **branch baru** `audit/<judul-cerita>/<gerbang>` (misalnya `audit/kopi-hujan/G2`) di repositori `novel-editor` sebagai satu berkas `validation/<gerbang>.md`, dan **jangan merge ke `main`**.

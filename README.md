@@ -78,6 +78,8 @@ Vonis **G1/G2** (selaras ambang K2 di `rules/09-publication-readiness.md`, dilap
 - **`PERBAIKI DULU`:** Perbaikan dapat diselesaikan secara lokal (≤ 4 bab/bagian, atau melengkapi `"Bukti"`/`UNVERIFIED`) tanpa membongkar outline lintas ≥ 5 bab atau membatalkan titik balik utama.
 - **`PREMIS/KERANGKA DIBUANG`:** **Hanya** jika perbaikan membutuhkan perubahan outline lintas ≥ 5 bab, pembatalan titik balik utama, atau perombakan premis inti.
 
+**Lokasi laporan gerbang:** simpan di branch baru `audit/<judul-cerita>/<gerbang>` (mis. `audit/kopi-hujan/G2`) pada repo `novel-editor`, dalam satu berkas `validation/<gerbang>.md`, dan **jangan merge ke `main`**.
+
 ## Severity dan dampak rilis
 
 Severity: ERROR, HIGH, REVIEW, INFO.
